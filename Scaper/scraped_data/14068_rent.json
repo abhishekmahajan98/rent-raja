@@ -1,0 +1,3242 @@
+{
+  "listResults": [
+    {
+      "zpid": "345131975",
+      "id": "345131975",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5eqtcyy0n70se",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5eeb8afc0bee537c3d6ef7f3e57d1d94-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/getzville-ny/greens-on-dodge/C3Y2jd/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,750/mo",
+      "unformattedPrice": 1750,
+      "address": "Greens On Dodge, 440 Dodge Rd #105, Getzville, NY 14068",
+      "addressStreet": "440 Dodge Rd #105",
+      "addressCity": "Getzville",
+      "addressState": "NY",
+      "addressZipcode": "14068",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1075,
+      "latLong": {
+        "latitude": 43.024464,
+        "longitude": -78.77724
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 345131975,
+          "streetAddress": "440 Dodge Rd #105",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.024464,
+          "longitude": -78.77724,
+          "price": 1750.0,
+          "datePriceChanged": 1726383600000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1075.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 51,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1956,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Sep 15)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "priceChange": -200,
+          "timeOnZillow": 4435445000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 105",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: The Green Organization Inc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5eeb8afc0bee537c3d6ef7f3e57d1d94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7b4a204f98d1fe9d6e020e26179c6c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dfbaa937588a6fe429aaf5ebfa58173-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31009f58237c233c062d5e64ecb3d8ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da49403948d256a79e72fb68df86dfce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31ea0b032c645ae935dc0707c57a2501-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6b19e27cd166598674dd40ee397bf9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b78b20f84e4dd6b8d34f3ccb1eb02aed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c496c31ea54c897898e43c66a6035ea7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f4e0d570c4c1461b42f5ffeb77fab2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7558d7c2cf5f234bbefdd914b70d5c0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b09b0476f3f526ab162e00bbf41b829-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8d0959feae619f566204271aa4efff4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdea3198a0f97abaa2a6c874274ba1c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1be998d4860cf56336c8ed361a53628-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a57ae22e70641a70cbbe5f7ce5095f82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f1d4e76d6bc7f09b187c96f1973f69f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4538e9f40694708ac4bd6d4d56c0306-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7797c6c13fe0fa5f1b45a6b70f2ccb05-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/181246b3b70ff3bc37326d50a868db88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/956b9252af078990c4c27debce7fed12-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42913fd3dbba6eb3e47887ca3a1b4769-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77881731a0518061a0c6cdbef7782c5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16eae5693fae067d1b0f60cbc842dc3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af912b6e695c5148b5b0c329f7c01867-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4e28d687bde7b453729845a4f458930-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d00ecd5dc17fa151768a36ea1893d55a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4584ee6aa7c6169fa8aea361a19fce68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/687261cab9ac4067d079eb34dee2bba6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7589b96badf874ced6c92d8d70045a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a815932ec1f475170ef3398543700139-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c036a30883963bcc065833baa2ac4c35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0dae8ee702f83679a9e176d4fc605201-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyEnhancedPackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2079034973",
+      "id": "2079034973",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2hh680bv1mawm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2736ccef5ac3d0dfc52a84858bdaea60-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/getzville-ny/stonington-park-apartments/5Xrbyv/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,075/mo",
+      "unformattedPrice": 2075,
+      "address": "Stonington Park Apartments, 2675 Millersport Hwy #501, Getzville, NY 14068",
+      "addressStreet": "2675 Millersport Hwy #501",
+      "addressCity": "Getzville",
+      "addressState": "NY",
+      "addressZipcode": "14068",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1260,
+      "latLong": {
+        "latitude": 43.01949,
+        "longitude": -78.76443
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2079034973,
+          "streetAddress": "2675 Millersport Hwy #501",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.01949,
+          "longitude": -78.76443,
+          "price": 2075.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1260.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 49,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1920,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2075.0,
+          "timeOnZillow": 4265228000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 501",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: MJ Peterson",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2736ccef5ac3d0dfc52a84858bdaea60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e759b63501c32ac2888a05da77350b4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/264648d8a9817b3df17aecb2e596bc12-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30037fa6764b1fffb5921dde5437524b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e194255ef1628156b455c8fe80d08a33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f95381cef33c89e72cc64f075fc212ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f44ca895ed3dcee8b6f53c2fc90033f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca23aff553ed09cd6a27ec0debcdadc8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/339b822469777932bab99a97b538dfc1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e99d41aa4282beeba111da28d4d6d082-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3def0780725b5dd2fc1dcafe2d5272d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28030a03eeeade9ed6e4eec6b24367ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/075ef4f43e9dd0ce47dc55cab2682a2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbe271acaf468eaabe2c61f10a25f2c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7986cfccf732c42a3b0d79357540abe2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2060404202",
+      "id": "2060404202",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "kt7f87gmwmr6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3b90cdde69cdbc6f229eb7ed7591844c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/212-Sunshine-Dr-L-Buffalo-NY-14228/2060404202_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "212 Sunshine Dr #L, Buffalo, NY 14228",
+      "addressStreet": "212 Sunshine Dr #L",
+      "addressCity": "Buffalo",
+      "addressState": "NY",
+      "addressZipcode": "14228",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1300,
+      "latLong": {
+        "latitude": 43.029594,
+        "longitude": -78.79001
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060404202,
+          "streetAddress": "212 Sunshine Dr #L",
+          "zipcode": "14228",
+          "city": "Buffalo",
+          "state": "NY",
+          "latitude": 43.029594,
+          "longitude": -78.79001,
+          "price": 2100.0,
+          "datePriceChanged": 1729839600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2105,
+          "listing_sub_type": {},
+          "priceReduction": "$49 (Oct 25)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "priceChange": -49,
+          "timeOnZillow": 671201000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# L",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-24 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b90cdde69cdbc6f229eb7ed7591844c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f006b690ea35b2dbe6465717b406b2f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0c6dd9efa3b8f3a24fbcadff2cc7342-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8846dd8a5e7cb434af22ad2baa38e444-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5be05031cfc98ae6523424474bd00e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8581739251f198281b00c5b0d028987e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb3b581a8d657f3bc5439632c5be38cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4c6f0c1d482dcb422a21fca288a6e7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51636b51711cb4068241bf0b0deda7ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bd8b82d14be00d2405f828896e135ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a652c812b8f77cb72c9757273e55031-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c02f1e57f6ab7981039051617fd50af3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d64192a794317521448a06fd5f48d60e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8aa0d27778e061297b3305751329600-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6178733ddbd999010f129627fb5b7b86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afb582a61815fc40246d155e5ed0827e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38200d4c317dc0da414806d006e3cc1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4109357370b53ffce494714419db84ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a720e84d646be1d35eeed13d62ea4df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a19f659c147ae21ee124a7741e82eacb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f2893d0d242e233a26adcd1056f2f6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a9c809c8f6e49e6ccecdd2526f3904d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30237104",
+      "id": "30237104",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4d75cvthfdwg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0b1868fd4e4aa576763cb893d97e3fa2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/88-Brittany-Dr-Buffalo-NY-14228/30237104_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "88 Brittany Dr, Buffalo, NY 14228",
+      "addressStreet": "88 Brittany Dr",
+      "addressCity": "Buffalo",
+      "addressState": "NY",
+      "addressZipcode": "14228",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 43.032555,
+        "longitude": -78.78851
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30237104,
+          "streetAddress": "88 Brittany Dr",
+          "zipcode": "14228",
+          "city": "Buffalo",
+          "state": "NY",
+          "latitude": 43.032555,
+          "longitude": -78.78851,
+          "price": 1500.0,
+          "datePriceChanged": 1729407600000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1610,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "priceChange": -100,
+          "timeOnZillow": 2420138000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 248387.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: 716 Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b1868fd4e4aa576763cb893d97e3fa2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb4107e61908c60bf7af27fce3fb801b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b1e12bb81ae9f1681abc0e6599b4abb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28f601f94930f2b63bf0f5bf0c4d8719-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5a7124033482179a24193677c513d46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1d91674f9be747239cbbde441f3c692-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4988264540ece2eee164afea8b71d9da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1baf4d9381117dde4af0c06ae9632418-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa01706b5ae5897fc095eca07c7b8d33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd69dc120fae9bffa2f6d6fb9f8a7c04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/398ba2763cf0c1b104d82a3b6bc695bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7ca852bd16debacdec85b53a1138339-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad8b5a51839941321b4cc42678f2b25a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37f284a3d9e97d85887f35eb4e1c8017-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/966690b0e4a48ddc587a33a196d490a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71b51a7e2247db36b9faf77e23075ac9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13001070035ac96fbee80685b2a5de2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23f125a7f5e3355252718cd5ff65b6cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/411456e3d2bbab085f540b2df86766db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d2ec4e2570d3d8e9c81313696141d45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bff707f585e0f458ce9ed32e7dea4ce2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30242470",
+      "id": "30242470",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1z1xx7aq58jwr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8ce5bc9eca2d31f837dfea281e685199-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/270-Heim-Rd-Getzville-NY-14068/30242470_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,900/mo",
+      "unformattedPrice": 2900,
+      "address": "270 Heim Rd, Getzville, NY 14068",
+      "addressStreet": "270 Heim Rd",
+      "addressCity": "Getzville",
+      "addressState": "NY",
+      "addressZipcode": "14068",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 2.0,
+      "area": 2414,
+      "latLong": {
+        "latitude": 43.012875,
+        "longitude": -78.758965
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30242470,
+          "streetAddress": "270 Heim Rd",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.012875,
+          "longitude": -78.758965,
+          "price": 2900.0,
+          "bathrooms": 2.0,
+          "bedrooms": 5.0,
+          "livingArea": 2414.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 393300,
+          "rentZestimate": 2940,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2900.0,
+          "timeOnZillow": 962103000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 387097.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 393300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-21 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ce5bc9eca2d31f837dfea281e685199-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5b7173b54f364eb2fb057b50ca55d0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f04f85f530427424a4fbe1d1e83aa9aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c6c75b4cb1cb808e6c08445b5e91894-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71e13c398089906d6be9ef5e80175533-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9e3fc57e5a4d95dd2a3fc8ee8a974d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3e293b4a2121a43cd01ea7faa707f13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c9cd37f26c99769e858c02245ed16e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae05803c1dce7316f7af372c41f38a54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b472947dd5094de9b4f144bd0f4575d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af227753d031fe5a97218ceb925b9b61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfb9588ef7ad50de3aa6adb4e5be678e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04c5c5ca08621e70f6d782b1b264a34f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/007eeb1b01dd57289f729f93e8280b55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e5a47780f65190a58bfdb516cc2c9b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b690d7fc8c6fca7490a32e4c0cb3c942-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5984cccd49b8802cfc93e95a47252996-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7df9fddf255cb0de384546ab8c46b799-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/413e53407278fe24341ca5421b38a942-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a4aaa128627b9137e884d4729444eb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/624aeb5bd5ee1a563a230710f64a43ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81209577728c55470c23a0a6c7618b84-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ae86bedf4996afba0c131c7dd7632b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91fd5ed06e30fdf5abc7e0eae3ab78f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0546e77afbf4fae9b93da7a9f4a83e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/133a16a6f47f65e3a7bca5894b5e07ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/021cb3896f61a99ffc35e9663a9b3861-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/001b14bbf8efa265c2129a00233aa7b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73a194df39ddd1a65de3637642a96d9e-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440155359",
+      "id": "440155359",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "40muaq0naqahs",
+      "imgSrc": "https://photos.zillowstatic.com/fp/44cf342905aa2ed5cf4a1f75717aead7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/58-Marine-Dr-1F-Buffalo-NY-14228/440155359_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "58 Marine Dr #1F, Buffalo, NY 14228",
+      "addressStreet": "58 Marine Dr #1F",
+      "addressCity": "Buffalo",
+      "addressState": "NY",
+      "addressZipcode": "14228",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 43.028618,
+        "longitude": -78.79306
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "52 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440155359,
+          "streetAddress": "58 Marine Dr #1F",
+          "zipcode": "14228",
+          "city": "Buffalo",
+          "state": "NY",
+          "latitude": 43.028618,
+          "longitude": -78.79306,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 52,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 4577716000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1F",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-19 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/44cf342905aa2ed5cf4a1f75717aead7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54fd90b649d88f3d61f764ec5378b71a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ae4f798e8fe55e96ce7f36b5f8d57c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/576d51694b747a820b81992c652d8bbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2105f007cd15baf6731faa3f4d5222d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0773eff3c7a4324ed16fd660ddebcee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/970e4a8125fc4fada4207f1a2c4b0ba9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09302032ca9c24764dd7016a214369b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ef35b3d81ad8a197bb06234beb65bf5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/755b3c4dbd8f5f004f99b9b57ffb632f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441152845",
+      "id": "441152845",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "41tpyvf93jxj4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c3dc3f9b6b55a92426071a2d1b8a49ee-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1510-Dodge-Rd-1-East-Amherst-NY-14051/441152845_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$300/mo",
+      "unformattedPrice": 300,
+      "address": "1510 Dodge Rd #1, East Amherst, NY 14051",
+      "addressStreet": "1510 Dodge Rd #1",
+      "addressCity": "East Amherst",
+      "addressState": "NY",
+      "addressZipcode": "14051",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 625,
+      "latLong": {
+        "latitude": 43.025486,
+        "longitude": -78.737206
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441152845,
+          "streetAddress": "1510 Dodge Rd #1",
+          "zipcode": "14051",
+          "city": "East Amherst",
+          "state": "NY",
+          "latitude": 43.025486,
+          "longitude": -78.737206,
+          "price": 300.0,
+          "datePriceChanged": 1730098800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 625.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 29,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Oct 28)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 300.0,
+          "priceChange": -300,
+          "timeOnZillow": 2589097000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-02 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3dc3f9b6b55a92426071a2d1b8a49ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0eca6c567222bdcb1bd42a65a8ef5fea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5140a572b4afc0011d310a90c189dcae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4f12145ceffd92a88f615016282cce9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4728a21b7cd7e92343d07cf3ee2a263-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30237891",
+      "id": "30237891",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "363wxkj4rk4s3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0225fe8366bcbdedaffeb3de49b355c4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/60-Altair-Dr-Getzville-NY-14068/30237891_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "60 Altair Dr, Getzville, NY 14068",
+      "addressStreet": "60 Altair Dr",
+      "addressCity": "Getzville",
+      "addressState": "NY",
+      "addressZipcode": "14068",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1157,
+      "latLong": {
+        "latitude": 43.03155,
+        "longitude": -78.740005
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30237891,
+          "streetAddress": "60 Altair Dr",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.03155,
+          "longitude": -78.740005,
+          "price": 2200.0,
+          "datePriceChanged": 1729062000000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1157.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 29,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 267200,
+          "rentZestimate": 1714,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Oct 16)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "priceChange": -150,
+          "timeOnZillow": 2574670000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 229032.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 267200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-16 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0225fe8366bcbdedaffeb3de49b355c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/171feea68de029b776b222300343ec07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32ae038037072b3386b7812a7c0d4657-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/530aa2a879d97f778eaf5a15f7d0b838-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90d2d3cd99267e11afc184be18263f73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f2b0eee05f1605dc5136fe7f741c1c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ffc5e8865c0f993910281e6dcc53442-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e0e49e134493046b63b12e2e25e78c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2cd3decd41a7ddcf3de9d95eddeab11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31beb21a06235ffd9d2ceae4ba15cd79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a09fdefb555e003dd02a12edd5dfe35e-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2067984324",
+      "id": "2067984324",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2avz80191nh5h",
+      "imgSrc": "https://photos.zillowstatic.com/fp/38fc2c0856ad5b536436327afce5446b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/315-Campbell-Blvd-UNIT-102-Getzville-NY-14068/2067984324_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "315 Campbell Blvd UNIT 102, Getzville, NY 14068",
+      "addressStreet": "315 Campbell Blvd UNIT 102",
+      "addressCity": "Getzville",
+      "addressState": "NY",
+      "addressZipcode": "14068",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1250,
+      "latLong": {
+        "latitude": 43.02466,
+        "longitude": -78.76695
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2067984324,
+          "streetAddress": "315 Campbell Blvd UNIT 102",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.02466,
+          "longitude": -78.76695,
+          "price": 1800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1250.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1793,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 799205000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 102",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/38fc2c0856ad5b536436327afce5446b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4788ed0f4176695924542257bfcec98e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9f07ba2eebc6e211b6ad437579395cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cabd73ac7f1ba8ad5db1bac9eb274d6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9712646082681de2b033a29e0c80fa2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b5adc4b6c701d36cacdb50dca85d2ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d74d9b91ec007b79769ccddf485aa3a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/786678c03d3c681a4383186b4fbb4130-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/378a05de50c879250d01295a19b40bac-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2117672204",
+      "id": "2117672204",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "v78tps2gh799",
+      "imgSrc": "https://photos.zillowstatic.com/fp/74555b288ba9e2bd2d063d5da61828cd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2775-N-Forest-Rd-APT-G-Getzville-NY-14068/2117672204_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "countryCurrency": "$",
+      "price": "$1,795/mo",
+      "unformattedPrice": 1795,
+      "address": "2775 N Forest Rd APT G, Getzville, NY 14068",
+      "addressStreet": "2775 N Forest Rd APT G",
+      "addressCity": "Getzville",
+      "addressState": "NY",
+      "addressZipcode": "14068",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1240,
+      "latLong": {
+        "latitude": 43.016964,
+        "longitude": -78.78577
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2117672204,
+          "streetAddress": "2775 N Forest Rd APT G",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.016964,
+          "longitude": -78.78577,
+          "price": 1795.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1240.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1653,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1795.0,
+          "timeOnZillow": 57650000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt G",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Howard Hanna WNY Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/74555b288ba9e2bd2d063d5da61828cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1818d52c55d083f876a7629194de9a35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac38047b711c9d8605d5c07d5fa8dfd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86e03f9d483ae211ae381fbbe3822957-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3563b17c81bb788328af01c6f62d47bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82e55285fa05e8d1944c78ea9a48540f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ab5d06f6b19e62839e7f682d69204ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6a98022712c9ba1e45a308f77e39d1b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f43c9d0fd752b012d4b782b5eff12579-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c67c4b3b442d00ee2a27051ba3c6388-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40421c475326d50113fab7c1409fd651-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3db8f8f693edb9d4bf6e657b64b055e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da441a2b939090cc1e0ac832159b3cdc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a436b0ba257e11b327834c9a13a21350-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c1e2d883acdd4696c70710704b0bb6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f68ba125ab0b7b4b76a0426cdd53a8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9995db4639f1b9cde764a1bb29fe020b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/beaa2f7d1ad27dd159e92879aa5f5f1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/239a82622de60c514fd6a4adb9dd5623-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b741bf50557774e2499ec9bdf52f25c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26f9599f233464aaf0487452aa1900b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/198f1cfe3029fb64a109d9c91436c76f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cdbf57803469e114db8f5f5e966d291-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86df064014b869efcc741e18e5d0383a-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30243067",
+      "id": "30243067",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3de2d3ucqyzft",
+      "imgSrc": "https://photos.zillowstatic.com/fp/52c9e9f86b619fda92e6af36040c0e78-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/25-Robin-Rd-Amherst-NY-14228/30243067_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$1,900/mo",
+      "unformattedPrice": 1900,
+      "address": "25 Robin Rd, Amherst, NY 14228",
+      "addressStreet": "25 Robin Rd",
+      "addressCity": "Amherst",
+      "addressState": "NY",
+      "addressZipcode": "14228",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1069,
+      "latLong": {
+        "latitude": 43.01494,
+        "longitude": -78.77264
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "255 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30243067,
+          "streetAddress": "25 Robin Rd",
+          "zipcode": "14228",
+          "city": "Amherst",
+          "state": "NY",
+          "latitude": 43.01494,
+          "longitude": -78.77264,
+          "price": 1900.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1069.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 255,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 216500,
+          "rentZestimate": 1788,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "timeOnZillow": 22043392000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 164516.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 216500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/52c9e9f86b619fda92e6af36040c0e78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96d0dbbe4dfdfdf160f5b27d09ef3226-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6b85150c19708ef2ae0326fc5e5fe8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e395e554873081691c16d849df8af412-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8d8fe36633fd8ac49fa052d53072bf1-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440967504",
+      "id": "440967504",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1xwaxr7cksang",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e98c4d6aec6ca8285e1ac3376acbcff1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/11-sean-riley-ct-llc-39-01-getzville-ny-9tvrQ5/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000+/mo",
+      "unformattedPrice": 2000,
+      "address": "11 Sean Riley Ct LLC - 39-01, 39 Sean Riley Ct, Getzville, NY 14068",
+      "addressStreet": "39 Sean Riley Ct #1",
+      "addressCity": "Getzville",
+      "addressState": "NY",
+      "addressZipcode": "14068",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 43.03303,
+        "longitude": -78.75027
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440967504,
+          "streetAddress": "39 Sean Riley Ct #1",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.03303,
+          "longitude": -78.75027,
+          "price": 2000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 31,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 2733710000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Sumanika Management LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e98c4d6aec6ca8285e1ac3376acbcff1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd4d038268f1e030a79604b6860e558a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/278512216508156fe4eb7bb5056c5363-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04093f2ebd1e767d24e130b2ff4f2f9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba85f5552671c33b8963f67e41b287e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b083f44a5693d78a95f5bee4458f0b35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43815937095783b2eea1aebfa782f293-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e944c8a7429c32e79f7745b82c7c43fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc241a300deaf1cae4671dfa44ea717b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09b3243671204aa673ae168ed2a8b321-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fa913ed10c57f88be3e4c4e00ab9b85-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75663a66b64edee383993ff4a912cf8a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30241504",
+      "id": "30241504",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "21khtn3hbrdva",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bdfa10715e9f6033e5f235e78982c8bc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/133-Marine-Dr-Amherst-NY-14228/30241504_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,350/mo",
+      "unformattedPrice": 2350,
+      "address": "133 Marine Dr, Amherst, NY 14228",
+      "addressStreet": "133 Marine Dr",
+      "addressCity": "Amherst",
+      "addressState": "NY",
+      "addressZipcode": "14228",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 1600,
+      "latLong": {
+        "latitude": 43.02824,
+        "longitude": -78.79002
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "58 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30241504,
+          "streetAddress": "133 Marine Dr",
+          "zipcode": "14228",
+          "city": "Amherst",
+          "state": "NY",
+          "latitude": 43.02824,
+          "longitude": -78.79002,
+          "price": 2350.0,
+          "datePriceChanged": 1729926000000,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 1600.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 58,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 385900,
+          "rentZestimate": 2304,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Oct 26)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "priceChange": -50,
+          "timeOnZillow": 5025965000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 314516.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 385900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Red Door Real Estate WNY LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdfa10715e9f6033e5f235e78982c8bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a11446b2f00e7a20737f6c3981341c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a384f264a0cd5e808e81258310172c9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6ca2f6f87eb76363164dd93684d4c96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c50c94031aac27a352c7975d0ffa02fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d3748efb567ac1f0df8e16916b99317-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/315e1ae7e3c074b7dda23d308eaa98fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/732d6ae3709e5dec48e67b50130f77b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb8ddd5ceeb3384411d4abbc8cc2a887-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c75c9eb292f7484ff2e7868d087dcef4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eedd39b1c64c7993121b8bbe168b0387-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcf16d85be61c912f5675129a25b8380-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f6c580947c1490bdc22ad4c00c2d845-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c003736ea4b5d6edacd3439553f87e73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90f3a0bf59c06556f7c1a5a53e96f67f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c13ce1a27ca71ab5bfd6614467c94dcd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c7aeb73f63162f0ac72f2008e871e17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a13bca2d76d251d72b862c8f6ab73044-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e127c698aa1949cc835638077e2d84cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8909370a2c32db9de797dc08ba0ede2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da1dc368941dc3c3853aefe05056e146-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1befbba9241fb2a67be2d0dcd8992b4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00cca0327751171399c0e3dbcab32a0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/542317a72191d3daf2fca7758ed8107b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "352406079",
+      "id": "352406079",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1bh9w9wqxx37x",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0acea2a8b8841fdf9c7d4d038436993b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/millersport-apartments-getzville-ny-BcPvDQ/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,395/mo",
+      "unformattedPrice": 1395,
+      "address": "Millersport Apartments, 3310-3320 Millersport Hwy #C, Getzville, NY 14068",
+      "addressStreet": "3310-3320 Millersport Hwy #C",
+      "addressCity": "Getzville",
+      "addressState": "NY",
+      "addressZipcode": "14068",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 43.03348,
+        "longitude": -78.75014
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 352406079,
+          "streetAddress": "3310-3320 Millersport Hwy #C",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.03348,
+          "longitude": -78.75014,
+          "price": 1395.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 45,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1391,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1395.0,
+          "timeOnZillow": 3922688000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# C",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-10 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Castellum Management LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0acea2a8b8841fdf9c7d4d038436993b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e94cfd97e76169a2132898d827a4441-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9710d134f040555b9ea29178f5995bf7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7e96caa80fc8c32681115840fe273c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d91810c4efb210acb102370f374b4b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a51d70a8bea10586751dc21194e04bd4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c8c13eac467d511c5428937f3312bc7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1db08c9bb6851319411435a0e2897908-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "345131975",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5eeb8afc0bee537c3d6ef7f3e57d1d94-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/getzville-ny/greens-on-dodge/C3Y2jd/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,750/mo",
+      "priceLabel": "$1.8K",
+      "address": "440 Dodge Rd #105, Getzville, NY 14068",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1075,
+      "latLong": {
+        "latitude": 43.024464,
+        "longitude": -78.77724
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 345131975,
+          "streetAddress": "440 Dodge Rd #105",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.024464,
+          "longitude": -78.77724,
+          "price": 1750.0,
+          "datePriceChanged": 1726383600000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1075.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1956,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Sep 15)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "priceChange": -200,
+          "timeOnZillow": 4435445000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 105",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: The Green Organization Inc",
+      "timeOnZillow": 4435445000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyEnhancedPackage"
+      ]
+    },
+    {
+      "zpid": "2079034973",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2736ccef5ac3d0dfc52a84858bdaea60-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/getzville-ny/stonington-park-apartments/5Xrbyv/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,075/mo",
+      "priceLabel": "$2.1K",
+      "address": "2675 Millersport Hwy #501, Getzville, NY 14068",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1260,
+      "latLong": {
+        "latitude": 43.01949,
+        "longitude": -78.76443
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2079034973,
+          "streetAddress": "2675 Millersport Hwy #501",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.01949,
+          "longitude": -78.76443,
+          "price": 2075.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1260.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1920,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2075.0,
+          "timeOnZillow": 4265228000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 501",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: MJ Peterson",
+      "timeOnZillow": 4265228000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "2060404202",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3b90cdde69cdbc6f229eb7ed7591844c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/212-Sunshine-Dr-L-Buffalo-NY-14228/2060404202_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,100/mo",
+      "priceLabel": "$2.1K",
+      "address": "212 Sunshine Dr #L, Buffalo, NY 14228",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1300,
+      "latLong": {
+        "latitude": 43.029594,
+        "longitude": -78.79001
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060404202,
+          "streetAddress": "212 Sunshine Dr #L",
+          "zipcode": "14228",
+          "city": "Buffalo",
+          "state": "NY",
+          "latitude": 43.029594,
+          "longitude": -78.79001,
+          "price": 2100.0,
+          "datePriceChanged": 1729839600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2105,
+          "listing_sub_type": {},
+          "priceReduction": "$49 (Oct 25)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "priceChange": -49,
+          "timeOnZillow": 671201000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# L",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-24 00:00:00",
+      "visited": false,
+      "timeOnZillow": 671201000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30237104",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0b1868fd4e4aa576763cb893d97e3fa2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/88-Brittany-Dr-Buffalo-NY-14228/30237104_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "88 Brittany Dr, Buffalo, NY 14228",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 43.032555,
+        "longitude": -78.78851
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30237104,
+          "streetAddress": "88 Brittany Dr",
+          "zipcode": "14228",
+          "city": "Buffalo",
+          "state": "NY",
+          "latitude": 43.032555,
+          "longitude": -78.78851,
+          "price": 1500.0,
+          "datePriceChanged": 1729407600000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1610,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "priceChange": -100,
+          "timeOnZillow": 2420138000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 248387.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: 716 Property Management",
+      "timeOnZillow": 2420138000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ]
+    },
+    {
+      "zpid": "30242470",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8ce5bc9eca2d31f837dfea281e685199-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/270-Heim-Rd-Getzville-NY-14068/30242470_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,900/mo",
+      "priceLabel": "$2.9K",
+      "address": "270 Heim Rd, Getzville, NY 14068",
+      "isNewYorkState": true,
+      "beds": 5,
+      "baths": 2.0,
+      "area": 2414,
+      "latLong": {
+        "latitude": 43.012875,
+        "longitude": -78.758965
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30242470,
+          "streetAddress": "270 Heim Rd",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.012875,
+          "longitude": -78.758965,
+          "price": 2900.0,
+          "bathrooms": 2.0,
+          "bedrooms": 5.0,
+          "livingArea": 2414.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 393300,
+          "rentZestimate": 2940,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2900.0,
+          "timeOnZillow": 962103000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 387097.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-21 00:00:00",
+      "visited": false,
+      "timeOnZillow": 962103000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "440155359",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/44cf342905aa2ed5cf4a1f75717aead7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/58-Marine-Dr-1F-Buffalo-NY-14228/440155359_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,800/mo",
+      "priceLabel": "$1.8K",
+      "address": "58 Marine Dr #1F, Buffalo, NY 14228",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 43.028618,
+        "longitude": -78.79306
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "52 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440155359,
+          "streetAddress": "58 Marine Dr #1F",
+          "zipcode": "14228",
+          "city": "Buffalo",
+          "state": "NY",
+          "latitude": 43.028618,
+          "longitude": -78.79306,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 4577716000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1F",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-19 00:00:00",
+      "visited": false,
+      "timeOnZillow": 4577716000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441152845",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c3dc3f9b6b55a92426071a2d1b8a49ee-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1510-Dodge-Rd-1-East-Amherst-NY-14051/441152845_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$300/mo",
+      "priceLabel": "$300",
+      "address": "1510 Dodge Rd #1, East Amherst, NY 14051",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 625,
+      "latLong": {
+        "latitude": 43.025486,
+        "longitude": -78.737206
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441152845,
+          "streetAddress": "1510 Dodge Rd #1",
+          "zipcode": "14051",
+          "city": "East Amherst",
+          "state": "NY",
+          "latitude": 43.025486,
+          "longitude": -78.737206,
+          "price": 300.0,
+          "datePriceChanged": 1730098800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 625.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Oct 28)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 300.0,
+          "priceChange": -300,
+          "timeOnZillow": 2589097000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-02 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2589097000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30237891",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0225fe8366bcbdedaffeb3de49b355c4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/60-Altair-Dr-Getzville-NY-14068/30237891_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,200/mo",
+      "priceLabel": "$2.2K",
+      "address": "60 Altair Dr, Getzville, NY 14068",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1157,
+      "latLong": {
+        "latitude": 43.03155,
+        "longitude": -78.740005
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30237891,
+          "streetAddress": "60 Altair Dr",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.03155,
+          "longitude": -78.740005,
+          "price": 2200.0,
+          "datePriceChanged": 1729062000000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1157.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 267200,
+          "rentZestimate": 1714,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Oct 16)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "priceChange": -150,
+          "timeOnZillow": 2574670000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 229032.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-16 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2574670000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2067984324",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/38fc2c0856ad5b536436327afce5446b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/315-Campbell-Blvd-UNIT-102-Getzville-NY-14068/2067984324_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,800/mo",
+      "priceLabel": "$1.8K",
+      "address": "315 Campbell Blvd UNIT 102, Getzville, NY 14068",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1250,
+      "latLong": {
+        "latitude": 43.02466,
+        "longitude": -78.76695
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2067984324,
+          "streetAddress": "315 Campbell Blvd UNIT 102",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.02466,
+          "longitude": -78.76695,
+          "price": 1800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1250.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1793,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 799205000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 102",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 799205000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2117672204",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/74555b288ba9e2bd2d063d5da61828cd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2775-N-Forest-Rd-APT-G-Getzville-NY-14068/2117672204_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "price": "$1,795/mo",
+      "priceLabel": "$1.8K",
+      "address": "2775 N Forest Rd APT G, Getzville, NY 14068",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1240,
+      "latLong": {
+        "latitude": 43.016964,
+        "longitude": -78.78577
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2117672204,
+          "streetAddress": "2775 N Forest Rd APT G",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.016964,
+          "longitude": -78.78577,
+          "price": 1795.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1240.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1653,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1795.0,
+          "timeOnZillow": 57650000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt G",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-15 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Howard Hanna WNY Inc.",
+      "timeOnZillow": 57650000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "30243067",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/52c9e9f86b619fda92e6af36040c0e78-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/25-Robin-Rd-Amherst-NY-14228/30243067_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$1,900/mo",
+      "priceLabel": "$1.9K",
+      "address": "25 Robin Rd, Amherst, NY 14228",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1069,
+      "latLong": {
+        "latitude": 43.01494,
+        "longitude": -78.77264
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "255 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30243067,
+          "streetAddress": "25 Robin Rd",
+          "zipcode": "14228",
+          "city": "Amherst",
+          "state": "NY",
+          "latitude": 43.01494,
+          "longitude": -78.77264,
+          "price": 1900.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1069.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 216500,
+          "rentZestimate": 1788,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "timeOnZillow": 22043392000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 164516.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 22043392000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "440967504",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e98c4d6aec6ca8285e1ac3376acbcff1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/11-sean-riley-ct-llc-39-01-getzville-ny-9tvrQ5/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,000+/mo",
+      "priceLabel": "$2.0K",
+      "address": "39 Sean Riley Ct, Getzville, NY 14068",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 43.03303,
+        "longitude": -78.75027
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440967504,
+          "streetAddress": "39 Sean Riley Ct #1",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.03303,
+          "longitude": -78.75027,
+          "price": 2000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 2733710000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Sumanika Management LLC",
+      "timeOnZillow": 2733710000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "zpid": "30241504",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bdfa10715e9f6033e5f235e78982c8bc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/133-Marine-Dr-Amherst-NY-14228/30241504_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,350/mo",
+      "priceLabel": "$2.4K",
+      "address": "133 Marine Dr, Amherst, NY 14228",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 1600,
+      "latLong": {
+        "latitude": 43.02824,
+        "longitude": -78.79002
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "58 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30241504,
+          "streetAddress": "133 Marine Dr",
+          "zipcode": "14228",
+          "city": "Amherst",
+          "state": "NY",
+          "latitude": 43.02824,
+          "longitude": -78.79002,
+          "price": 2350.0,
+          "datePriceChanged": 1729926000000,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 1600.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 385900,
+          "rentZestimate": 2304,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Oct 26)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "priceChange": -50,
+          "timeOnZillow": 5025965000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 314516.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Red Door Real Estate WNY LLC",
+      "timeOnZillow": 5025965000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "352406079",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0acea2a8b8841fdf9c7d4d038436993b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/millersport-apartments-getzville-ny-BcPvDQ/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,395/mo",
+      "priceLabel": "$1.4K",
+      "address": "3310-3320 Millersport Hwy #C, Getzville, NY 14068",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 43.03348,
+        "longitude": -78.75014
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 352406079,
+          "streetAddress": "3310-3320 Millersport Hwy #C",
+          "zipcode": "14068",
+          "city": "Getzville",
+          "state": "NY",
+          "latitude": 43.03348,
+          "longitude": -78.75014,
+          "price": 1395.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1391,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1395.0,
+          "timeOnZillow": 3922688000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# C",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-10 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Castellum Management LLC",
+      "timeOnZillow": 3922688000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "131c0406",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

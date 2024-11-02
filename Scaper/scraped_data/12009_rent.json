@@ -1,0 +1,2940 @@
+{
+  "listResults": [
+    {
+      "zpid": "2053477066",
+      "id": "2053477066",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "347fv8pujujvm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b9fac31e6b511262d14454a6fee752df-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/altamont-ny/mill-hollow-apartments/9n8nsF/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,150+/mo",
+      "unformattedPrice": 2150,
+      "address": "Mill Hollow Apartments, 48 Bavarian Way, Altamont, NY 12009",
+      "addressStreet": "48 Bavarian Way #0F10A9338",
+      "addressCity": "Altamont",
+      "addressState": "NY",
+      "addressZipcode": "12009",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.719227,
+        "longitude": -73.9454
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053477066,
+          "streetAddress": "48 Bavarian Way #0F10A9338",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.719227,
+          "longitude": -73.9454,
+          "price": 2150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 301,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2085,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2150.0,
+          "timeOnZillow": 26011594000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 0f10a9338",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9fac31e6b511262d14454a6fee752df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1090ad096d982127ab2eb2cf8a7d99b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a8f77d3f9319f4fecab93d6fd65ff18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/855df44b611c0af4faa5997f35d1ccfb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f9f24a742f4f2fcfb26a3a471d631c6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2062931778",
+      "id": "2062931778",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "51m6pu45gh7ry",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2744a8937b99f75426fc3b746c7f5e2e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/17-Marian-Ct-B-Altamont-NY-12009/2062931778_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,775/mo",
+      "unformattedPrice": 1775,
+      "address": "17 Marian Ct #B, Altamont, NY 12009",
+      "addressStreet": "17 Marian Ct #B",
+      "addressCity": "Altamont",
+      "addressState": "NY",
+      "addressZipcode": "12009",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 42.705,
+        "longitude": -74.02615
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062931778,
+          "streetAddress": "17 Marian Ct #B",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.705,
+          "longitude": -74.02615,
+          "price": 1775.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2225,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1775.0,
+          "timeOnZillow": 70340000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2744a8937b99f75426fc3b746c7f5e2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/355aa8073b4a99cc17b53541b57c1835-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/985785f62912f28a6544032df0b30340-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f03d6054e24a8bc450d2e743ac9fda4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d289f02365d39facb2c1b2eabed4a0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e017840ebb430fb652d2010af5e7c54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7201a2115c88fe850e7a9177cbdef1bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e32223bc686839d0a2efbe3fe1ddb7c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34c31497f630aa10096e5a48dc411ea6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21397d13f2603ad4c3303c5f49d77de1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a00e2afbda3ab775c619298dd7c65b0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6ec7b7585eed74eb2827f531c459b30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56d45413d44202ba28babb3d2da322cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0560510a0c284d9053c4103f49e06a26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81f0226b9ab6a6cb2b65cd5f8c3e140e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f73751530115ab2abbdc88565968a5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ae602a93734361d8ba9a5589bcf8d90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a7bdd954a0cc23e6fc1583412e59ad7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e43880fd72e276289ab87e0e9d763a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41fac579a4dc88f3a734511af4766f0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/043eb75508624430a69ae06d7563dbf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3560572a594c6677be907f2163c7688e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e05305dae86697765176a57db674e2f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e73ae08ed5ae5cd7db1a82eb1e57a09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d5112057ec34054b4d7f2377a1aa67e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1552b777a77d082021c5262418803d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f89dccdc74234aa740812215d101315-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18ecdc65d83ed223f0af595704dc7d92-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07674342783ff3743453e9e1a22808a8-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2061605999",
+      "id": "2061605999",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3wk4hxbjnfh7r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/677c6150c17e978cfd6046e96f8f572e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/415-State-Route-146-FLOOR-2-Altamont-NY-12009/2061605999_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "415 State Route 146 FLOOR 2, Altamont, NY 12009",
+      "addressStreet": "415 State Route 146 FLOOR 2",
+      "addressCity": "Altamont",
+      "addressState": "NY",
+      "addressZipcode": "12009",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 42.702744,
+        "longitude": -73.96056
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061605999,
+          "streetAddress": "415 State Route 146 FLOOR 2",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.702744,
+          "longitude": -73.96056,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 37,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1732,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 3264009000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/677c6150c17e978cfd6046e96f8f572e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e7537d899965a8973cb4b89f8884f5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11416877d9c651c3416e443588e66121-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98fa76b61eb5516cb40710dcda44cbb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/961e16075e4541d9b173f48e57052d6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8aca280996713d8ce0b68ec1ef762c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cf484b4f93e1d6b7ce88f99c4830078-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/932920b15563693bb9c341d7acff4608-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/058859c76a07689800f04a88662d4929-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2aa01be7b3176c9483c439cec764df79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95ca6aa8fda9e0cc001220ebe93604dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1264d10072b88cc2e9fe9e39b9a0e0ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/323539395d5ab5b030d84401725e2e53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1d01065e565b2ad939af4a11e78b5fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/403cc01473af190da4207a24848e6386-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2fb829342ae4cdf9d97769f6545dbd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61aa0f886cb6423de0be0d25c73131fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd2149148fdc8e50bcee030d137db5e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59dc578ab7e65e4573a159f5f762ede7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/753b9aba7e568bb4ab1fc9f4e368ad00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/771d2733f9eb8e12393815f42cdd1338-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/deaeb77536f58d9adf13af8bb604ebc1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f88bd4668cefd89d01695ee53a53126b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65dfd117c76edb0b721a616ee1d7c1c2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.74889--74.04914",
+      "id": "42.74889--74.04914",
+      "providerListingId": "1rruaz5vfuygh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cf4eeb50e21bbc758c2458e1971767b8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/42.74889,-74.04914_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "916 W Creek Ln, Altamont, NY",
+      "addressStreet": "916 W  Creek Ln ",
+      "addressCity": "Altamont",
+      "addressState": "NY",
+      "addressZipcode": "12009",
+      "units": [
+        {
+          "price": "$1,950+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,295+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "latLong": {
+        "latitude": 42.74889,
+        "longitude": -74.04914
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf4eeb50e21bbc758c2458e1971767b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85bc43037cb2e25ea595a8202544322d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63976d78f9a81d0fc9fc6c714bfa8ef5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/974240d4c3a11e77b4d33f2b4a9a8e26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a1dd72d7f99fad782477e374c351b4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ecb1f587db6a3078ec8533875e92ca8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ba9e1a105c1755be8d8fd62fd76fa53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cda79850af6095093b797bec4fe4a83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64358d7f39da8a4341dd08992cb1bd08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eeca8a4f12c5dc11c0ab147e81d187ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/191adaf1fdb9e601e32cc96691dd6d44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/029d53e1164d24bf056954efdc6e593d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df3c5fee1f45d0656d860121ff84b907-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/660b49f9e750610a7ca5e841260cebfc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1aeb58db5bf2f9003925c31e24ad3417-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc891348a80d432f6aca3267e3081836-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f59daa943cd613f0c27ac932f809b591-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea054e09cbe1038bd4b7f86c24c653b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eab1d449e4ea4ab1018f2ac55f3124b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5fd32e1aee9e1ffc64cbf7b8bd3cbe3-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "2068432174",
+      "id": "2068432174",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3d26thmf3m5jb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a5ea05395f8f89f026353674ff6a8c9b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/131-Helderberg-Ave-B-Altamont-NY-12009/2068432174_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$1,950/mo",
+      "unformattedPrice": 1950,
+      "address": "131 Helderberg Ave #B, Altamont, NY 12009",
+      "addressStreet": "131 Helderberg Ave #B",
+      "addressCity": "Altamont",
+      "addressState": "NY",
+      "addressZipcode": "12009",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1600,
+      "latLong": {
+        "latitude": 42.699455,
+        "longitude": -74.03743
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2068432174,
+          "streetAddress": "131 Helderberg Ave #B",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.699455,
+          "longitude": -74.03743,
+          "price": 1950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1600.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 35,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 282000,
+          "rentZestimate": 2268,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 3036331000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 282000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": true,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5ea05395f8f89f026353674ff6a8c9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/adb804419d36f3ab17f5889b58a94073-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34808d8639ce9be925fc45ccc8bb333e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d60c30134330c122c83eb9d4a4b3c3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43c0474c593fe5c2460fcf4cc93d746d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d1e72f799d753939cd3c1b1f17854dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f81cc861554e1810d027dc47aa88d465-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56b6ccb0c2f7715082a274cc8b7f308a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2419fbf28c4f6fa10231f0609cc9fb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d3da84d7a8445a2e895341a1233b654-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ef9e3de0825f4ee24737b0531169409-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e6eb377905a4571a4efb6d225a3996f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1a0bce961651bb4beac1c736b462bf3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ccea278f87245f995d8367a9c9bc75c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4b02d8e01de286e2d0dec5ce5f1b12d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27ec964fd00760e267c4f750919113b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c27e9dccacdda718362439f0f24f786-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d7f92d9e6111e3650ccd0ec7fbeac73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23c863b8a73927101c98ef526761625b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f77b2b66c4051327ddaa73461e54a32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/926256ab7ce3da7484a0bca1a90401b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14b115eafb2420038c8b73b63328fe54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3acbb533636751c85fbae31a1e47d61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b50198e83695b0d24ebf400b7df10eda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/650d454bf184d0b5ceea474a2d3ceaac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aba9067612adda976e5dc96cbd17d808-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb4347e5da7f7841de0161c9b5e93d9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af45d1af82f56764f2dc509073b2ff4b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.725563--73.93862",
+      "id": "42.725563--73.93862",
+      "providerListingId": "13491q0q33j0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fa4cd8066f264481e849b37f94f774c1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/2965-w-old-state-rd-schenectady-ny-BhVgMh/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "2965 W Old State Rd, Schenectady, NY",
+      "addressStreet": "2965 W  Old State Rd   # 203",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12303",
+      "units": [
+        {
+          "price": "$1,775+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2458708902,
+      "latLong": {
+        "latitude": 42.725563,
+        "longitude": -73.93862
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa4cd8066f264481e849b37f94f774c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9659686c755a817b786b70905a540f5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f9f03dca2fd2346e41c17b5aa450f0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19d701ef8c4193e760c4ce1313d715b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63651364a89cb8a25afc98005a12ef51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/228f69bb82236420232167f5677451f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fc8163db7a911f4db1d3d28597ec397-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32d9d38a31bee3b666b589b86cf16172-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/644571665a858ff48eac989f78a2914f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce6a77e15373b7f17103f58cb30524ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c10f88a2577a5921b141e91ad76e1cf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/186f10594f8e71beb23ad1d7278c3dbf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa576428b2c121837328bdc25804e533-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05820746f636ca12e0f8f4e6e21e1cca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de66b9bc9690793563e9e7b1cc8b2c54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ac6b8f99935a7a385248cd42cb89e20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e191d7c8de94b3516d5f7ec3a346376f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e93ca19275d3fe814a0171f5bba47741-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd7acba99f2fa540ad0baf4a7d7ff732-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5e2a1a12971d0e12207484a2c95a67c-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "29705060",
+      "id": "29705060",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3xt011ee2nr5d",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fd2f847aeccddf36c064a3471697b82f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/633-Salvia-Ln-Schenectady-NY-12303/29705060_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,600/mo",
+      "unformattedPrice": 3600,
+      "address": "633 Salvia Ln, Schenectady, NY 12303",
+      "addressStreet": "633 Salvia Ln",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12303",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2676,
+      "latLong": {
+        "latitude": 42.738346,
+        "longitude": -73.93214
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29705060,
+          "streetAddress": "633 Salvia Ln",
+          "zipcode": "12303",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.738346,
+          "longitude": -73.93214,
+          "price": 3600.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2676.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 548100,
+          "rentZestimate": 3391,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "timeOnZillow": 1561693000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 494118.0,
+          "lotAreaValue": 0.33999999999999997,
+          "lotAreaUnit": "acres",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 548100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: RE/MAX Platinum",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd2f847aeccddf36c064a3471697b82f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1670ee845fbce3761f434b91f096bf85-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b297c89b82085178c54ce195e58f1ab0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d1b5821a8ca10203a875fafca7f366f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/acb9914a849174dc88fefba2dd849922-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb74b0ceb4a75f14b882e89b6e42f9cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1ae2b67e211d40b9212df2d33d0a1df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8da8b0efc54e3f07b73e1ad8edff756f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a0b6a62023f8b142bc7528d9413527f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/367ccaef6d074475518f83aed8c617eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfca8dbc79b92babdaa79f401845511d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa362186b407ed04cbd234ea56db4789-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/137bc322a4d1d71fd435f8012b12d29c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3102bfc12fc1d9e5664f73af848fddd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ee66a9774f4f1779a7e57ca66427766-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c01b6defaaa76ef6d35cfce4c1f91238-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62bede2c9144913be2af85f0976b1a70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff1a72224a0e9ae88d1b834e7283ace9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07fb56e9a2e63f2acda3e65559dc046f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35333cb855639d9be09e8e0b1afac463-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29702804",
+      "id": "29702804",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "17ct8r0tutgj3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/89f58b60a97d7f1c2523d4ed52bb2b99-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/105-Sand-St-Altamont-NY-12009/29702804_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "105 Sand St, Altamont, NY 12009",
+      "addressStreet": "105 Sand St",
+      "addressCity": "Altamont",
+      "addressState": "NY",
+      "addressZipcode": "12009",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 42.701332,
+        "longitude": -74.0271
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29702804,
+          "streetAddress": "105 Sand St",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.701332,
+          "longitude": -74.0271,
+          "price": 2400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 318300,
+          "rentZestimate": 2528,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 937545000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 234118.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 318300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/89f58b60a97d7f1c2523d4ed52bb2b99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b858943ce3d097977017cfefb01a393-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba905c6cf264a52918a2233e435846d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/459b7ca0cffe5e100202102cb20660ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ff8f26d08817857b87179d011207901-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/382a614280282003b4de6e9d99bff49e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cd65d19043d908e7165ccc98cbe1839-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0826afaa81b1718b9d948ed8a8ddcb59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0aeac3ff9b6f444f9863404dd56f051a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c7fcf0372b2f9fc5053fb685e696ba9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b7b3ab9ea5ffd9ae41e93af49c60d2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7bbdd42dd44406bb9a25eb8c6bad6aff-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2110831046",
+      "id": "2110831046",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2gkmqaxwh5nbq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/24841e2b3cffa70c00296f7d8105e49c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/6514-Vosburgh-Rd-Altamont-NY-12009/2110831046_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,550/mo",
+      "unformattedPrice": 1550,
+      "address": "6514 Vosburgh Rd, Altamont, NY 12009",
+      "addressStreet": "6514 Vosburgh Rd",
+      "addressCity": "Altamont",
+      "addressState": "NY",
+      "addressZipcode": "12009",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 720,
+      "latLong": {
+        "latitude": 42.714176,
+        "longitude": -73.934006
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2110831046,
+          "streetAddress": "6514 Vosburgh Rd",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.714176,
+          "longitude": -73.934006,
+          "price": 1550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 720.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 207400,
+          "rentZestimate": 1781,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 101618000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 207400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/24841e2b3cffa70c00296f7d8105e49c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfdee2e18d3a032bcc9d6cff5d12f8c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a2cc565687f678bc048162d5f813915-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fdbf747343ecef4f50cecec0590105c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f606ffdbd2bc94a6d4c9633e34541c06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2de04db7768fcc2d815ba35516e31d92-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4505af5fbe22863f2307b48f9254148-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a41b1a780270725fb9c8c6a1281f4261-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72b37f1c0fb94fe1492b8000f5654cc7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64822a4dd0a0f8ed978e5b78901d589d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2062512496",
+      "id": "2062512496",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1mej6h8u6mxum",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6a740354f50310102bf3618799cfd1e7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/109-Stone-Ridge-Ct-Altamont-NY-12009/2062512496_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "109 Stone Ridge Ct, Altamont, NY 12009",
+      "addressStreet": "109 Stone Ridge Ct",
+      "addressCity": "Altamont",
+      "addressState": "NY",
+      "addressZipcode": "12009",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1150,
+      "latLong": {
+        "latitude": 42.711956,
+        "longitude": -73.93007
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062512496,
+          "streetAddress": "109 Stone Ridge Ct",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.711956,
+          "longitude": -73.93007,
+          "price": 2800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1150.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 266000,
+          "rentZestimate": 2446,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "timeOnZillow": 1279957000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 266000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Blake, REALTORS",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a740354f50310102bf3618799cfd1e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a38b06dd0c6c93bb64007a23d6cceaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f711621175e25a8694d3019ae2e583e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c066ff408cc2c13a6800368e6361cea7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c0862614ebcab64fbdf33c65218b1b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/059dcd4151d42f46b402bd34638feba0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/079613dd6a59564a0ff6121f0ea44141-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20185976ee0c5cc4bc8115832b1e12e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fd45e4271a751602db29c8aeef1563b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/862bad35ebe0d79d10530341995b76e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36244b1d4cfefcf9a46cc8ae7736f01b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/175ff67c5af79f03d239ed6e25ca4827-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/178921fe1002e64d0de2bf1a4097edfd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40b0d5a13defdd1ea69d1273c06ca01f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8aa4bd5b98bb177a7463baf2f84e869-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19a880baba67ef1a6013bd79bd326b87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/412dc168637dcfb83e06da697287593d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/625e678a019b49623f5b30017ac6bf18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77ccfc9875e532a7720364daa286ab97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/039b11459bad299704da58db3f869a94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9931f65016ab36068bfecfdaeb7566bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8c410de2f8f9ad95df3d1e88126a1f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65f8f3233a88cffdea83ab97d4b9a7d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e50c767c27e21993306a7cb8194761df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08678277cf2aaed7bf7d0559bb8138b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb10b511a70cd18919bbab7e43efc1b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b31fba9d45564667168f281231feb4cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/397f13220965e1834dac01d0f92e5bc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28008b6e60dffe9181699e2e0162d08c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47184ffb6975e79b97e00e7c163275ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4158f80ebe1acdfd8fd6974f5a061fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8eecce8b1b241e31bd0efa2cf5d1fee3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89c734feb81895a5fd11211af4c12272-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5028d55a9374a3437a02203acb2aafb6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5465b748e28a77bf6964fff33e74cf8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26e42829c6aec9f4cbbc079066475543-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19e17cd3f4cefbefe55cf61a0ab5cc31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/934948576c58b01f7a8a65158afae9db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7aad29c8e273284dd2548ad61a779520-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77b6d41dcb23df37fb78fc7f9cab328f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/156d5ea02c385cd0c0cc609b016f7aeb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13525fe0a0f23334d823ce8043adc791-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad5aafb0b6ca893b9580d713b0dfbd11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb94b1744edddff0a04a19054a065bfc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfd9b159d08c10b0e172a69c3f7e6445-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1a3734909d2e0cd864397fd380f4a88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91376608c41482e913de2cc93dde5302-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09dda3c08a3a7a57b8498d4fbeb2a17c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/393f361fba54dfbb3d91921a71fe0cf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdaa7c85518f6bf70735c217591c5c18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/045c724ed29ca8e2949546af9f554f11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7986ca7a2981c51412b6511aa0b01027-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6a29e8327a6041507a046622d229fde-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2056522610",
+      "id": "2056522610",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4y9a1ypf1utu6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/90b378a7d9ee480095485aba11cd04f3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3151-E-Old-State-Rd-A-Schenectady-NY-12303/2056522610_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "3151 E Old State Rd #A, Schenectady, NY 12303",
+      "addressStreet": "3151 E Old State Rd #A",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12303",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.724083,
+        "longitude": -73.92169
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056522610,
+          "streetAddress": "3151 E Old State Rd #A",
+          "zipcode": "12303",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.724083,
+          "longitude": -73.92169,
+          "price": 1800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 24,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 350300,
+          "rentZestimate": 1727,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 2085086000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 350300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Blake, REALTORS",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/90b378a7d9ee480095485aba11cd04f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85b356a77761e6925a512e691cf8bf69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb0f8942dac4f4005dc946b8388421fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41a2c967f4e5df5b6f140631877c3723-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91d5856e87e55ce97cea80ba20e17f4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6732a423871a27d6dc79f9da4ea84d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/102239d5778a1bc60714fd38a018780a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34759f828b76c9c022c162983b8b5c70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d70e84b49cb16d0b293bcf45a2b89ee2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5baad6ce6ae267a7c56a51a8e107b43a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7bab55afc9240794f138861ec1b8e9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2da63c8de60fbf95f3a869cc9344ecaa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6290a83f85905b9afb18724d57701af2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9f529791bd3c0f6c9b0e33a97d2ec58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1c7ca3e7530c3edb118eb7ee6d826f8-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.702705--73.96531",
+      "id": "42.702705--73.96531",
+      "providerListingId": "1cuc2n0ar06dg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6f6ef96d8b538cc68dcecf8ac0553b23-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/guilderland-center-ny/park-guilderland-apartment-homes/97tCXS/",
+      "statusType": "FOR_RENT",
+      "statusText": "Park Guilderland Apartment Homes",
+      "address": "457 State Route 146, Guilderland Center, NY",
+      "addressStreet": "457 State Route 146 # 4-321",
+      "addressCity": "Guilderland Center",
+      "addressState": "NY",
+      "addressZipcode": "12085",
+      "units": [
+        {
+          "price": "$1,135+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,430+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2011232560,
+      "latLong": {
+        "latitude": 42.702705,
+        "longitude": -73.96531
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "SPECIAL_OFFER",
+        "text": "Special Offer"
+      },
+      "isSaved": false,
+      "buildingName": "Park Guilderland Apartment Homes",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f6ef96d8b538cc68dcecf8ac0553b23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf5cf83f288fd54f7886f1fd6be4e6a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5e391627a7a5cf81b69b2ff3c1fc8f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/262841df7e6fb07b7d05d80864bb2d20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1621230cd292edd78c2b426f06b24439-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f10bbb3811a689434ce2637a15c29dbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebdfe652057202fa1c24dbb9aaf6f0bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27a632dce50c4e0809b68576908a38da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06a01743ae9cc815fe7121a281dc3399-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05af7804300ddc82d47cacbc5a316b90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/763c68b490903fe062be8f4d818fe485-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d251e989b24d86685cd5079ed839b593-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea7c382264b4066d77fe53ab088b3d1b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d189bf01e62590148072e09c80c4676-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec9c918ec5850c6a635178e8b4dbe561-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06bc3a2072375e7da55e287f289bd25e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5b7be988ebc7449217017b8fc282440-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24ea4e4283725a704dfa63d8197cef63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ac8de62e0eca8867f0ccaedbca1ad25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c781cee39fc0b30d70580eb4bcc6ec2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1594a9c78208b09fb64eee96c1ac8a4-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 6,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "442141751",
+      "id": "442141751",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "421mxu7w7xmgj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/857232bdad43b986e85b3ddeaa4a218f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/303-Creek-Ln-Altamont-NY-12009/442141751_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,950/mo",
+      "unformattedPrice": 1950,
+      "address": "303 Creek Ln, Altamont, NY 12009",
+      "addressStreet": "303 Creek Ln",
+      "addressCity": "Altamont",
+      "addressState": "NY",
+      "addressZipcode": "12009",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.71435,
+        "longitude": -73.93545
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442141751,
+          "streetAddress": "303 Creek Ln",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.71435,
+          "longitude": -73.93545,
+          "price": 1950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 291781000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Lette Management Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/857232bdad43b986e85b3ddeaa4a218f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f28cb7d6c01e4c1ae0f0286002254f5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef489fc613981b2048db644c10520d68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64358d7f39da8a4341dd08992cb1bd08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ba9e1a105c1755be8d8fd62fd76fa53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/780b380ea98dc18f3e2745184c7ce8c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eeca8a4f12c5dc11c0ab147e81d187ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85bc43037cb2e25ea595a8202544322d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cda79850af6095093b797bec4fe4a83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21e5615646f28a4af423dd58ea505c37-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eab1d449e4ea4ab1018f2ac55f3124b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5fd32e1aee9e1ffc64cbf7b8bd3cbe3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72647d87e72b758a83699761fee22613-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63976d78f9a81d0fc9fc6c714bfa8ef5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea054e09cbe1038bd4b7f86c24c653b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/660b49f9e750610a7ca5e841260cebfc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df3c5fee1f45d0656d860121ff84b907-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64f442c7cc3b33f90d582f8b361dd179-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd8ff3df8baa4fb0b9ca27f065a9f943-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/029d53e1164d24bf056954efdc6e593d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f59daa943cd613f0c27ac932f809b591-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3839695fb1f4961eaad284d2ee554613-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1aeb58db5bf2f9003925c31e24ad3417-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc891348a80d432f6aca3267e3081836-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2053477066",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b9fac31e6b511262d14454a6fee752df-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/altamont-ny/mill-hollow-apartments/9n8nsF/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,150+/mo",
+      "priceLabel": "$2.2K",
+      "address": "48 Bavarian Way, Altamont, NY 12009",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.719227,
+        "longitude": -73.9454
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053477066,
+          "streetAddress": "48 Bavarian Way #0F10A9338",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.719227,
+          "longitude": -73.9454,
+          "price": 2150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2085,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2150.0,
+          "timeOnZillow": 26011594000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 0f10a9338",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 26011594000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "2062931778",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2744a8937b99f75426fc3b746c7f5e2e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/17-Marian-Ct-B-Altamont-NY-12009/2062931778_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,775/mo",
+      "priceLabel": "$1.8K",
+      "address": "17 Marian Ct #B, Altamont, NY 12009",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 42.705,
+        "longitude": -74.02615
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062931778,
+          "streetAddress": "17 Marian Ct #B",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.705,
+          "longitude": -74.02615,
+          "price": 1775.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2225,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1775.0,
+          "timeOnZillow": 70340000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 70340000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2061605999",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/677c6150c17e978cfd6046e96f8f572e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/415-State-Route-146-FLOOR-2-Altamont-NY-12009/2061605999_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "415 State Route 146 FLOOR 2, Altamont, NY 12009",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 42.702744,
+        "longitude": -73.96056
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061605999,
+          "streetAddress": "415 State Route 146 FLOOR 2",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.702744,
+          "longitude": -73.96056,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1732,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 3264009000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 3264009000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "1rruaz5vfuygh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cf4eeb50e21bbc758c2458e1971767b8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/42.74889,-74.04914_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$1,950+/mo",
+      "address": "916 W Creek Ln, Altamont, NY",
+      "minBeds": 2,
+      "minBaths": 2.0,
+      "minArea": 1200,
+      "latLong": {
+        "latitude": 42.74889,
+        "longitude": -74.04914
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "buildingId": "42.74889--74.04914",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 291498000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ]
+    },
+    {
+      "zpid": "2068432174",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a5ea05395f8f89f026353674ff6a8c9b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/131-Helderberg-Ave-B-Altamont-NY-12009/2068432174_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$1,950/mo",
+      "priceLabel": "$2.0K",
+      "address": "131 Helderberg Ave #B, Altamont, NY 12009",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1600,
+      "latLong": {
+        "latitude": 42.699455,
+        "longitude": -74.03743
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2068432174,
+          "streetAddress": "131 Helderberg Ave #B",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.699455,
+          "longitude": -74.03743,
+          "price": 1950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1600.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 282000,
+          "rentZestimate": 2268,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 3036331000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": true,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 3036331000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "13491q0q33j0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fa4cd8066f264481e849b37f94f774c1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/2965-w-old-state-rd-schenectady-ny-BhVgMh/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$1,775+/mo",
+      "address": "2965 W Old State Rd, Schenectady, NY",
+      "minBeds": 2,
+      "minBaths": 1.0,
+      "minArea": 1020,
+      "lotId": 2458708902,
+      "latLong": {
+        "latitude": 42.725563,
+        "longitude": -73.93862
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "42.725563--73.93862",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 2423771000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "29705060",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fd2f847aeccddf36c064a3471697b82f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/633-Salvia-Ln-Schenectady-NY-12303/29705060_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,600/mo",
+      "priceLabel": "$3.6K",
+      "address": "633 Salvia Ln, Schenectady, NY 12303",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2676,
+      "latLong": {
+        "latitude": 42.738346,
+        "longitude": -73.93214
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29705060,
+          "streetAddress": "633 Salvia Ln",
+          "zipcode": "12303",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.738346,
+          "longitude": -73.93214,
+          "price": 3600.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2676.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 548100,
+          "rentZestimate": 3391,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "timeOnZillow": 1561693000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 494118.0,
+          "lotAreaValue": 0.33999999999999997,
+          "lotAreaUnit": "acres",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: RE/MAX Platinum",
+      "timeOnZillow": 1561693000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "29702804",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/89f58b60a97d7f1c2523d4ed52bb2b99-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/105-Sand-St-Altamont-NY-12009/29702804_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,400/mo",
+      "priceLabel": "$2.4K",
+      "address": "105 Sand St, Altamont, NY 12009",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 42.701332,
+        "longitude": -74.0271
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29702804,
+          "streetAddress": "105 Sand St",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.701332,
+          "longitude": -74.0271,
+          "price": 2400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 318300,
+          "rentZestimate": 2528,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 937545000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 234118.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 937545000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2110831046",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/24841e2b3cffa70c00296f7d8105e49c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/6514-Vosburgh-Rd-Altamont-NY-12009/2110831046_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,550/mo",
+      "priceLabel": "$1.6K",
+      "address": "6514 Vosburgh Rd, Altamont, NY 12009",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 720,
+      "latLong": {
+        "latitude": 42.714176,
+        "longitude": -73.934006
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2110831046,
+          "streetAddress": "6514 Vosburgh Rd",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.714176,
+          "longitude": -73.934006,
+          "price": 1550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 720.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 207400,
+          "rentZestimate": 1781,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 101618000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 101618000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2062512496",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6a740354f50310102bf3618799cfd1e7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/109-Stone-Ridge-Ct-Altamont-NY-12009/2062512496_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$2,800/mo",
+      "priceLabel": "$2.8K",
+      "address": "109 Stone Ridge Ct, Altamont, NY 12009",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1150,
+      "latLong": {
+        "latitude": 42.711956,
+        "longitude": -73.93007
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062512496,
+          "streetAddress": "109 Stone Ridge Ct",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.711956,
+          "longitude": -73.93007,
+          "price": 2800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1150.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 266000,
+          "rentZestimate": 2446,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "timeOnZillow": 1279957000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Blake, REALTORS",
+      "timeOnZillow": 1279957000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2056522610",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/90b378a7d9ee480095485aba11cd04f3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3151-E-Old-State-Rd-A-Schenectady-NY-12303/2056522610_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,800/mo",
+      "priceLabel": "$1.8K",
+      "address": "3151 E Old State Rd #A, Schenectady, NY 12303",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.724083,
+        "longitude": -73.92169
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056522610,
+          "streetAddress": "3151 E Old State Rd #A",
+          "zipcode": "12303",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.724083,
+          "longitude": -73.92169,
+          "price": 1800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 350300,
+          "rentZestimate": 1727,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 2085086000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Blake, REALTORS",
+      "timeOnZillow": 2085086000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "plid": "1cuc2n0ar06dg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6f6ef96d8b538cc68dcecf8ac0553b23-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/guilderland-center-ny/park-guilderland-apartment-homes/97tCXS/",
+      "statusType": "FOR_RENT",
+      "statusText": "Park Guilderland Apartment Homes",
+      "price": "$1,135+/mo",
+      "address": "457 State Route 146, Guilderland Center, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 550,
+      "lotId": 2011232560,
+      "latLong": {
+        "latitude": 42.702705,
+        "longitude": -73.96531
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "SPECIAL_OFFER",
+        "text": "Special Offer"
+      },
+      "buildingName": "Park Guilderland Apartment Homes",
+      "buildingId": "42.702705--73.96531",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": true,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 805013000,
+      "unitCount": 6,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily"
+      ]
+    },
+    {
+      "zpid": "442141751",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/857232bdad43b986e85b3ddeaa4a218f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/303-Creek-Ln-Altamont-NY-12009/442141751_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,950/mo",
+      "priceLabel": "$2.0K",
+      "address": "303 Creek Ln, Altamont, NY 12009",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.71435,
+        "longitude": -73.93545
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442141751,
+          "streetAddress": "303 Creek Ln",
+          "zipcode": "12009",
+          "city": "Altamont",
+          "state": "NY",
+          "latitude": 42.71435,
+          "longitude": -73.93545,
+          "price": 1950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 291781000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Lette Management Group",
+      "timeOnZillow": 291781000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "79933226",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

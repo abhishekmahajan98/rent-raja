@@ -1,0 +1,128 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "2058635248",
+      "id": "2058635248",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "rv8mvdfzw360",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e2dba82929046e59cacee1d97e1002a6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Orchard-Park-NY-14127/2058635248_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,950/mo",
+      "unformattedPrice": 2950,
+      "address": "(undisclosed Address), Orchard Park, NY 14127",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Orchard Park",
+      "addressState": "NY",
+      "addressZipcode": "14127",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 2000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2058635248,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "14127",
+          "city": "Orchard Park",
+          "state": "NY",
+          "price": 2950.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 2000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 424600,
+          "rentZestimate": 3024,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2950.0,
+          "timeOnZillow": 1395762000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 424600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2dba82929046e59cacee1d97e1002a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18a4b60f5687834a11d45e604011a0de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b9e3b2e30c778228a0190f4975f6e44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be8c437924f7313e5e353b980e658eae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fce27339496ae5016b5a902870634cdf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2cb206dba36631e0f3ae548c8463c1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21ea1f8e035d7c84e575bd1f96541eee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b793c65ef266bfe370bf3f5b8faebc7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6aca8f434d6405fdafaf3f2372a35704-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "9ca9d22"
+}

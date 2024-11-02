@@ -1,0 +1,1451 @@
+{
+  "listResults": [
+    {
+      "zpid": "29999711",
+      "id": "29999711",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2zvbq8efueu9r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c9efe5d529061788ae5c8d0c538c9710-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/221-Stever-Hill-Rd-Chatham-NY-12037/29999711_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "221 Stever Hill Rd, Chatham, NY 12037",
+      "addressStreet": "221 Stever Hill Rd",
+      "addressCity": "Chatham",
+      "addressState": "NY",
+      "addressZipcode": "12037",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1440,
+      "latLong": {
+        "latitude": 42.32477,
+        "longitude": -73.5703
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29999711,
+          "streetAddress": "221 Stever Hill Rd",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.32477,
+          "longitude": -73.5703,
+          "price": 3500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1440.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 412400,
+          "rentZestimate": 2729,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 11880000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 313380.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 412400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9efe5d529061788ae5c8d0c538c9710-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85e2bca9732875592960b037ca3965a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7db1039c5f962d45de862dd94f4e10f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7b3c8169d4e9af2556908181660df77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0aeebd567db07e05e95d97329c02c1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a65281483b039fd938b25e87fce6be0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62cc2cbf6acb5593a41cf1a21d548edf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46b81257b2a044dc9b1be0cf3909a9aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2409b12f89f49ac81232efe30e453980-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bfac8df65dc69a2fd641d75ee1e5355-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c67de23b21ce09d62a16595c53745137-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441568921",
+      "id": "441568921",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4c9dyucvypx5a",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a2353de4904815139b051271f58383d3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Chatham-NY-12037/441568921_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "(undisclosed Address), Chatham, NY 12037",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Chatham",
+      "addressState": "NY",
+      "addressZipcode": "12037",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441568921,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "price": 2200.0,
+          "datePriceChanged": 1729753200000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 365400,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Oct 24)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "priceChange": -300,
+          "timeOnZillow": 2233280000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 365400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2353de4904815139b051271f58383d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d299d42cba04a7cbb7e1cff46715dc5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/320b035a65bb56b6bb7d853d0e1783c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f3c4464b6a2c18d9c4f3e044769c793-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0363388b80282ace35fbaf11afbdc424-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23e4638cc96fa7a11246e8042658dd5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f0c121552002e50019ec7b55cc0da29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e51cbd2e079f4baefae5feb4dc06838f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab3dad3ed8dbfab8ff79e669a50718c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd121eaeeaa22fd709ce4c3710edf498-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d69808e26791f2345f633fb50d29a31b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3882db76ef63f7c16a57fa1844a65f5-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2061604072",
+      "id": "2061604072",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1supd2r24443x",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f6d2cdc4a7839d787a85ed8d293a4589-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2-Mellenville-Sq-2-Hudson-NY-12534/2061604072_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "2 Mellenville Sq #2, Hudson, NY 12534",
+      "addressStreet": "2 Mellenville Sq #2",
+      "addressCity": "Hudson",
+      "addressState": "NY",
+      "addressZipcode": "12534",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 42.25342,
+        "longitude": -73.66828
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061604072,
+          "streetAddress": "2 Mellenville Sq #2",
+          "zipcode": "12534",
+          "city": "Hudson",
+          "state": "NY",
+          "latitude": 42.25342,
+          "longitude": -73.66828,
+          "price": 2200.0,
+          "datePriceChanged": 1730444400000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1955,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 1)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "priceChange": -200,
+          "timeOnZillow": 913055000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6d2cdc4a7839d787a85ed8d293a4589-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37cdf0c43de20684e4de2b78af2a9241-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10f30a662fe1c7b80e965a810f67fcda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d422ce2090eed180635d123b172df5ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de1bc549dd97814565b98257959cdb77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e54de2028972ec95a591e902edf56691-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e596542a5ec3fbd6651378ae7fb7e547-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed5fe744e5f98478bf172ea8b60a4d9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3ae240e92b15d77958dd0008dd36223-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96c233076a640fdb89a16ce5cc5753f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71cb15fc7f26a290248ae59f93b3684c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a18883aa577b6590e17b56fbd665970b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c78ad4c663f32cc0d63a337062a461d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a75f8b43e843e42109730524502232ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c8e5488def6223282a23467c278f6a5-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441763870",
+      "id": "441763870",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ckp039690bc4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fec5ffa32d176d118d85245433433b1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1903-State-Route-203-LOT-78-Chatham-NY-12037/441763870_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "1903 State Route 203 LOT 78, Chatham, NY 12037",
+      "addressStreet": "1903 State Route 203 LOT 78",
+      "addressCity": "Chatham",
+      "addressState": "NY",
+      "addressZipcode": "12037",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 840,
+      "latLong": {
+        "latitude": 42.35541,
+        "longitude": -73.612946
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441763870,
+          "streetAddress": "1903 State Route 203 LOT 78",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.35541,
+          "longitude": -73.612946,
+          "price": 1600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 840.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 20,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 1738208000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Lot 78",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-12 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fec5ffa32d176d118d85245433433b1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/468d2e311d7e7b594f241d6b6f064cb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ee1865be497b101503fef30ebcb4204-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e95fea7eadd1038b1c2b8f67778ece6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/525a556c6c09340b2997b49f5cf9afa9-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2077365853",
+      "id": "2077365853",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "sm0cv3a1nne",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1ba605fc9c883d127e5387df9a5d6ea2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/30-High-St-Chatham-NY-12037/2077365853_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "30 High St, Chatham, NY 12037",
+      "addressStreet": "30 High St",
+      "addressCity": "Chatham",
+      "addressState": "NY",
+      "addressZipcode": "12037",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 42.362152,
+        "longitude": -73.59324
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "130 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2077365853,
+          "streetAddress": "30 High St",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.362152,
+          "longitude": -73.59324,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 900.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 130,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 279300,
+          "rentZestimate": 1349,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 11238653000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 279300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: eric valdina / personal real estate services",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ba605fc9c883d127e5387df9a5d6ea2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/525fb0d14d2e36411596c27e2cfd86ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10b9d415e7a78c5ba97b1fa1f2fdcc76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a30807930e4b80a68207b2b8fdea40a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e42fa8f82cdadce2fc17f264e4f6ed2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c417db6a2b3a54ed90381f584ff0f09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6169bb953487cfa63c02e8f92c63f78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c33b435f80a910c24e6e3f3588198e89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57af02a5a4da40bca30ca43b302f1665-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f4728b34d409f611e5838e5526e3be7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b28dfb8b294732b14979882180e67eee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb969bb5b8480cb26822581f99f7f578-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2543f9d2e8feb8274ce3b20924648490-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/345d3aec39d7b4e21a7266c867d4a2e7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30008784",
+      "id": "30008784",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "mj75q2h7zfwj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d23fa42781016b6e68b07a9e1cf277c5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1982-State-Route-203-Chatham-NY-12037/30008784_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "1982 State Route 203, Chatham, NY 12037",
+      "addressStreet": "1982 State Route 203",
+      "addressCity": "Chatham",
+      "addressState": "NY",
+      "addressZipcode": "12037",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.36281,
+        "longitude": -73.61376
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30008784,
+          "streetAddress": "1982 State Route 203",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.36281,
+          "longitude": -73.61376,
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 337800,
+          "rentZestimate": 2038,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 2603940000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 236105.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 337800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-23 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Beach & Bartolo Realtors",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d23fa42781016b6e68b07a9e1cf277c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04de97cda9d6f0c14c59948e303ed4d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5526e7f0771a74151e7850e8058528cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1e6ad03fca73c5dbd9a5c6f4b75cb10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/836eb951b91b41098ca4b4e97ea8e323-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f17a4bb4f46c71df8c19ccfd1dfaa51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56c2f0c5bff562bcf485ffe3cd430404-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/394ca920d6d0f69c02a425b615c22701-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84732505e7978fa40df1f8ce9b34a4c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37ad61d1ef4dbba284c2d101a847c966-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af8d7445c70c049016f4cb4776c9a6a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d243581aeaef449c2b7cbf2fc41f753-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e5a62ff7b8dd4856cf71a5c82fe426d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1902ca6abade3bf287c15410f88faff5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d27564f423443686ebab1bf6a877c71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfd52784675fc39eb2e32eda4d76e906-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "215401336",
+      "id": "215401336",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4ddvpcmx74kgd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6396a51c7a7c1fe294e48055855c6e7d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/422-County-Route-9-Ghent-NY-12075/215401336_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,800/mo",
+      "unformattedPrice": 4800,
+      "address": "422 County Route 9, Ghent, NY 12075",
+      "addressStreet": "422 County Route 9",
+      "addressCity": "Ghent",
+      "addressState": "NY",
+      "addressZipcode": "12075",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2100,
+      "latLong": {
+        "latitude": 42.279522,
+        "longitude": -73.65866
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215401336,
+          "streetAddress": "422 County Route 9",
+          "zipcode": "12075",
+          "city": "Ghent",
+          "state": "NY",
+          "latitude": 42.279522,
+          "longitude": -73.65866,
+          "price": 4800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 645300,
+          "rentZestimate": 4254,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4800.0,
+          "timeOnZillow": 1718004000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 491053.0,
+          "lotAreaValue": 1.4,
+          "lotAreaUnit": "acres",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 645300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Hudson Brokerage",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6396a51c7a7c1fe294e48055855c6e7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be129e87d0ab82b91e95e60b525bc0e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3591f31e12f52b871e1108011365adb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61da666e816caa297fcaf385763ebe24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78692d168dfba533fcc6f70967ed0c29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5042ff475848afd85d256c4a81839aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22d9a196343c131ed33fdfa8d9189880-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73b1f45cdeee6269adaf4a58b5f7b26f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f994e28c77d050fb0a2d2ff987643cfd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/442d7cd2390f84136594f11e23cbd3fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b732257f17a75b9169cd9914f36d47a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07e22bbca9cc91ba1b770a01c1a74e2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d10c5e7e838691e4865d4b850c53e584-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "29999711",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c9efe5d529061788ae5c8d0c538c9710-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/221-Stever-Hill-Rd-Chatham-NY-12037/29999711_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,500/mo",
+      "priceLabel": "$3.5K",
+      "address": "221 Stever Hill Rd, Chatham, NY 12037",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1440,
+      "latLong": {
+        "latitude": 42.32477,
+        "longitude": -73.5703
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29999711,
+          "streetAddress": "221 Stever Hill Rd",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.32477,
+          "longitude": -73.5703,
+          "price": 3500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1440.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 412400,
+          "rentZestimate": 2729,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 11880000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 313380.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "visited": false,
+      "timeOnZillow": 11880000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2061604072",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f6d2cdc4a7839d787a85ed8d293a4589-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2-Mellenville-Sq-2-Hudson-NY-12534/2061604072_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,200/mo",
+      "priceLabel": "$2.2K",
+      "address": "2 Mellenville Sq #2, Hudson, NY 12534",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 42.25342,
+        "longitude": -73.66828
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061604072,
+          "streetAddress": "2 Mellenville Sq #2",
+          "zipcode": "12534",
+          "city": "Hudson",
+          "state": "NY",
+          "latitude": 42.25342,
+          "longitude": -73.66828,
+          "price": 2200.0,
+          "datePriceChanged": 1730444400000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1955,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 1)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "priceChange": -200,
+          "timeOnZillow": 913055000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 913055000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441763870",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fec5ffa32d176d118d85245433433b1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1903-State-Route-203-LOT-78-Chatham-NY-12037/441763870_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,600/mo",
+      "priceLabel": "$1.6K",
+      "address": "1903 State Route 203 LOT 78, Chatham, NY 12037",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 840,
+      "latLong": {
+        "latitude": 42.35541,
+        "longitude": -73.612946
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441763870,
+          "streetAddress": "1903 State Route 203 LOT 78",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.35541,
+          "longitude": -73.612946,
+          "price": 1600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 840.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 1738208000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Lot 78",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-12 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "timeOnZillow": 1738208000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2077365853",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1ba605fc9c883d127e5387df9a5d6ea2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/30-High-St-Chatham-NY-12037/2077365853_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,400/mo",
+      "priceLabel": "$2.4K",
+      "address": "30 High St, Chatham, NY 12037",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 42.362152,
+        "longitude": -73.59324
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "130 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2077365853,
+          "streetAddress": "30 High St",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.362152,
+          "longitude": -73.59324,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 900.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 279300,
+          "rentZestimate": 1349,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 11238653000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: eric valdina / personal real estate services",
+      "timeOnZillow": 11238653000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30008784",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d23fa42781016b6e68b07a9e1cf277c5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1982-State-Route-203-Chatham-NY-12037/30008784_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,200/mo",
+      "priceLabel": "$2.2K",
+      "address": "1982 State Route 203, Chatham, NY 12037",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.36281,
+        "longitude": -73.61376
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30008784,
+          "streetAddress": "1982 State Route 203",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.36281,
+          "longitude": -73.61376,
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 337800,
+          "rentZestimate": 2038,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 2603940000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 236105.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-23 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Beach & Bartolo Realtors",
+      "timeOnZillow": 2603940000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "215401336",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6396a51c7a7c1fe294e48055855c6e7d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/422-County-Route-9-Ghent-NY-12075/215401336_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,800/mo",
+      "priceLabel": "$4.8K",
+      "address": "422 County Route 9, Ghent, NY 12075",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2100,
+      "latLong": {
+        "latitude": 42.279522,
+        "longitude": -73.65866
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215401336,
+          "streetAddress": "422 County Route 9",
+          "zipcode": "12075",
+          "city": "Ghent",
+          "state": "NY",
+          "latitude": 42.279522,
+          "longitude": -73.65866,
+          "price": 4800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 645300,
+          "rentZestimate": 4254,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4800.0,
+          "timeOnZillow": 1718004000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 491053.0,
+          "lotAreaValue": 1.4,
+          "lotAreaUnit": "acres",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Hudson Brokerage",
+      "timeOnZillow": 1718004000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "7461d0ef",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

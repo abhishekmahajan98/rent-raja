@@ -1,0 +1,202 @@
+{
+  "listResults": [
+    {
+      "zpid": "346925417",
+      "id": "346925417",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2up4v0qx6bc5n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2009d3dd38763b49954d569352c3aeb4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/roderick-rock-senior-housing-morrisonville-ny-BbzcJ7/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$690+/mo",
+      "unformattedPrice": 690,
+      "address": "Roderick Rock Senior Housing, 2025 Route 22b, Morrisonville, NY 12962",
+      "addressStreet": "2025 Route 22b #7626",
+      "addressCity": "Morrisonville",
+      "addressState": "NY",
+      "addressZipcode": "12962",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 44.697227,
+        "longitude": -73.55455
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 346925417,
+          "streetAddress": "2025 Route 22b #7626",
+          "zipcode": "12962",
+          "city": "Morrisonville",
+          "state": "NY",
+          "latitude": 44.697227,
+          "longitude": -73.55455,
+          "price": 690.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 214,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 736,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 690.0,
+          "timeOnZillow": 18498360000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 7626",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: RentalHousingDeals.com",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2009d3dd38763b49954d569352c3aeb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce3662f5d2e45184ae8f059bbd437b77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/666f22e95b949fbb751480a550982697-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "346925417",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2009d3dd38763b49954d569352c3aeb4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/roderick-rock-senior-housing-morrisonville-ny-BbzcJ7/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$690+/mo",
+      "priceLabel": "$690",
+      "address": "2025 Route 22b, Morrisonville, NY 12962",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 44.697227,
+        "longitude": -73.55455
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 346925417,
+          "streetAddress": "2025 Route 22b #7626",
+          "zipcode": "12962",
+          "city": "Morrisonville",
+          "state": "NY",
+          "latitude": 44.697227,
+          "longitude": -73.55455,
+          "price": 690.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 736,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 690.0,
+          "timeOnZillow": 18498360000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 7626",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: RentalHousingDeals.com",
+      "timeOnZillow": 18498360000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "300d6df2",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

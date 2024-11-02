@@ -1,0 +1,356 @@
+{
+  "listResults": [
+    {
+      "zpid": "30022439",
+      "id": "30022439",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1mbwkdn08889t",
+      "imgSrc": "https://photos.zillowstatic.com/fp/df8afc61ca8462734a5e1db58f12ca1c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/57-W-Academy-St-Mc-Graw-NY-13101/30022439_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,300/mo",
+      "unformattedPrice": 2300,
+      "address": "57 W Academy St, Mc Graw, NY 13101",
+      "addressStreet": "57 W Academy St",
+      "addressCity": "Mc Graw",
+      "addressState": "NY",
+      "addressZipcode": "13101",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1850,
+      "latLong": {
+        "latitude": 42.59189,
+        "longitude": -76.1013
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30022439,
+          "streetAddress": "57 W Academy St",
+          "zipcode": "13101",
+          "city": "Mc Graw",
+          "state": "NY",
+          "latitude": 42.59189,
+          "longitude": -76.1013,
+          "price": 2300.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1850.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 27,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2329,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "timeOnZillow": 2407782000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 73714.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/df8afc61ca8462734a5e1db58f12ca1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a9d9fd4747e3a6ef600df48d37c2db7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65df1d7e24ff5209e90644ccbf4e6b02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/775a7d8c94d86e6291ad92c7e735e99f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83e8ebe585903efa1a3288c08fc377f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8a32536cee0fd161ad44317ce94df32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57a662e2b81697911b28cafbb7c915fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c3fcfc0e47ea8dc54e4569f15ca8d4b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "30022439",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/df8afc61ca8462734a5e1db58f12ca1c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/57-W-Academy-St-Mc-Graw-NY-13101/30022439_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,300/mo",
+      "priceLabel": "$2.3K",
+      "address": "57 W Academy St, Mc Graw, NY 13101",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1850,
+      "latLong": {
+        "latitude": 42.59189,
+        "longitude": -76.1013
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30022439,
+          "streetAddress": "57 W Academy St",
+          "zipcode": "13101",
+          "city": "Mc Graw",
+          "state": "NY",
+          "latitude": 42.59189,
+          "longitude": -76.1013,
+          "price": 2300.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1850.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2329,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "timeOnZillow": 2407782000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 73714.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 2407782000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "124764305",
+      "id": "124764305",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2250w06htarp5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0699017f6f6710ba8be663b139547821-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5533-E-Homer-Baltimore-Rd-Homer-NY-13077/124764305_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,600/mo",
+      "unformattedPrice": 2600,
+      "address": "5533 E Homer Baltimore Rd, Homer, NY 13077",
+      "addressStreet": "5533 E Homer Baltimore Rd",
+      "addressCity": "Homer",
+      "addressState": "NY",
+      "addressZipcode": "13077",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2000,
+      "latLong": {
+        "latitude": 42.674046,
+        "longitude": -76.11344
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 124764305,
+          "streetAddress": "5533 E Homer Baltimore Rd",
+          "zipcode": "13077",
+          "city": "Homer",
+          "state": "NY",
+          "latitude": 42.674046,
+          "longitude": -76.11344,
+          "price": 2600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 362200,
+          "rentZestimate": 2482,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 2419424000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 273913.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 362200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-14 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0699017f6f6710ba8be663b139547821-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3ff6edb294eb389b439ecbb28a77fe3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a062053a92fba8f6b983479505b5902-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9c837dce39f4892edb9318c4f711a10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e3840592dc81a994a96a65697b5e600-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc69d5e4c53e1f78586342574089e8ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee69c160f187cd7a536b9a9a0621b85b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c4ebc32fef9e8c67000e056dba829b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f79287a98bdccfd1904afc67ae95ec4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28bc6c66f0516cc846e1f84db5a735a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ead302e6177cad5e58cf93072fa0bb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/240b4c25436e5b23e1da8f326f65d6b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/794f48131ba90f626d1da3d4a017daae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a51dcfa86ecb8b6cefa3d4298297922-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "e383a1a",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "353c0bcb"
+}

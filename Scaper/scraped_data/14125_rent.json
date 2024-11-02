@@ -1,0 +1,209 @@
+{
+  "listResults": [
+    {
+      "zpid": "440040956",
+      "id": "440040956",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3swqf3gjc93nb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e6fd4750169cf88f46f3dfd84ddf452c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/26-south-pearl-street-3-oakfield-ny-9PQM38/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850+/mo",
+      "unformattedPrice": 850,
+      "address": "26 South Pearl Street - 3, 26 S Pearl St APT 3, Oakfield, NY 14125",
+      "addressStreet": "26 S Pearl St APT 3",
+      "addressCity": "Oakfield",
+      "addressState": "NY",
+      "addressZipcode": "14125",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.063328,
+        "longitude": -78.27028
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440040956,
+          "streetAddress": "26 S Pearl St APT 3",
+          "zipcode": "14125",
+          "city": "Oakfield",
+          "state": "NY",
+          "latitude": 43.063328,
+          "longitude": -78.27028,
+          "price": 850.0,
+          "datePriceChanged": 1729494000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 56,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$40 (Oct 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "priceChange": -40,
+          "timeOnZillow": 4849489000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: S-Rock Properties Inc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6fd4750169cf88f46f3dfd84ddf452c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e5b71f65ae8ea0718fcce948048e25f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cdd7afb865aec5909d6c30a594c5b22-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2fa28f2d1c729c3b65251373600df9a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b69d28acedafbfe35559ef6339c2916b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd3750ae66ed328ed3d0afdd208000ae-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "440040956",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e6fd4750169cf88f46f3dfd84ddf452c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/26-south-pearl-street-3-oakfield-ny-9PQM38/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$850+/mo",
+      "priceLabel": "$850",
+      "address": "26 S Pearl St APT 3, Oakfield, NY 14125",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.063328,
+        "longitude": -78.27028
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440040956,
+          "streetAddress": "26 S Pearl St APT 3",
+          "zipcode": "14125",
+          "city": "Oakfield",
+          "state": "NY",
+          "latitude": 43.063328,
+          "longitude": -78.27028,
+          "price": 850.0,
+          "datePriceChanged": 1729494000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$40 (Oct 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "priceChange": -40,
+          "timeOnZillow": 4849489000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: S-Rock Properties Inc",
+      "timeOnZillow": 4849489000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "77aad83d",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

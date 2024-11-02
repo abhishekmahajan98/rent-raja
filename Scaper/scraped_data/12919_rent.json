@@ -1,0 +1,369 @@
+{
+  "listResults": [
+    {
+      "zpid": "2061641207",
+      "id": "2061641207",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2kf80pdagw9jn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8b13bfc13f41ccafcdfb10c1e91c7b67-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Champlain-NY-12919/2061641207_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,000/mo",
+      "unformattedPrice": 1000,
+      "address": "(undisclosed Address), Champlain, NY 12919",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Champlain",
+      "addressState": "NY",
+      "addressZipcode": "12919",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061641207,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12919",
+          "city": "Champlain",
+          "state": "NY",
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 971,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 1112831000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Defreest and Associates Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b13bfc13f41ccafcdfb10c1e91c7b67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/302efad070489bc9a85ed2cc93c620a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8fbf36f4f0dd86b058492c44314f868-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/131d4b1ab87de5c4811d660fa7d881a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91c7a98467d61183b280687786b9ad08-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "347495752",
+      "id": "347495752",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "35mc2nyt4zb9u",
+      "imgSrc": "https://photos.zillowstatic.com/fp/21e51b249d5185a67b92ba34fc4564ac-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1197-Main-St-2-Champlain-NY-12919/347495752_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "1197 Main St #2, Champlain, NY 12919",
+      "addressStreet": "1197 Main St #2",
+      "addressCity": "Champlain",
+      "addressState": "NY",
+      "addressZipcode": "12919",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 0.0,
+      "latLong": {
+        "latitude": 44.98694,
+        "longitude": -73.44994
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 347495752,
+          "streetAddress": "1197 Main St #2",
+          "zipcode": "12919",
+          "city": "Champlain",
+          "state": "NY",
+          "latitude": 44.98694,
+          "longitude": -73.44994,
+          "price": 1350.0,
+          "bathrooms": 0.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1097,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 1475160000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Rene P LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/21e51b249d5185a67b92ba34fc4564ac-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "44.984177--73.43601",
+      "id": "44.984177--73.43601",
+      "providerListingId": "3jz7qwbmbzbye",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=44.98417663574219,-73.4360122680664&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=IFcx_IH3h5JHEmfl8Qqiz4rzzsc=",
+      "detailUrl": "/b/93-elm-street-6-plex-champlain-ny-5XsPns/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "93 Elm St, Champlain, NY",
+      "addressStreet": "93 Elm St   # 5",
+      "addressCity": "Champlain",
+      "addressState": "NY",
+      "addressZipcode": "12919",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=44.98417663574219,-73.4360122680664&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=pBBoVWCMq_ix-ZoT81qx7aLarDs=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=44.98417663574219,-73.4360122680664&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=tkhJuV-5XZudPIpNCbBr7zwwBJs=",
+      "units": [
+        {
+          "price": "$550+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1002299354,
+      "latLong": {
+        "latitude": 44.984177,
+        "longitude": -73.43601
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "34 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "availabilityCount": 2,
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "347495752",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/21e51b249d5185a67b92ba34fc4564ac-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1197-Main-St-2-Champlain-NY-12919/347495752_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,350/mo",
+      "priceLabel": "$1.4K",
+      "address": "1197 Main St #2, Champlain, NY 12919",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 0.0,
+      "latLong": {
+        "latitude": 44.98694,
+        "longitude": -73.44994
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 347495752,
+          "streetAddress": "1197 Main St #2",
+          "zipcode": "12919",
+          "city": "Champlain",
+          "state": "NY",
+          "latitude": 44.98694,
+          "longitude": -73.44994,
+          "price": 1350.0,
+          "bathrooms": 0.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1097,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 1475160000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Rene P LLC",
+      "timeOnZillow": 1475160000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "plid": "3jz7qwbmbzbye",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=44.98417663574219,-73.4360122680664&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=IFcx_IH3h5JHEmfl8Qqiz4rzzsc=",
+      "detailUrl": "/b/93-elm-street-6-plex-champlain-ny-5XsPns/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$550+/mo",
+      "address": "93 Elm St, Champlain, NY",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=44.98417663574219,-73.4360122680664&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=pBBoVWCMq_ix-ZoT81qx7aLarDs=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=44.98417663574219,-73.4360122680664&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=tkhJuV-5XZudPIpNCbBr7zwwBJs=",
+      "minBeds": 2,
+      "minBaths": 1.0,
+      "lotId": 1002299354,
+      "latLong": {
+        "latitude": 44.984177,
+        "longitude": -73.43601
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "34 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "44.984177--73.43601",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 3023073000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "1d8c9ac",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

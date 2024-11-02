@@ -1,0 +1,993 @@
+{
+  "listResults": [
+    {
+      "zpid": "441579066",
+      "id": "441579066",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "46wtz22nwed56",
+      "imgSrc": "https://photos.zillowstatic.com/fp/730ed26982720ddacf3b8145d8cea445-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/624-State-Highway-22-Rte-1-Croton-Falls-NY-10519/441579066_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,850/mo",
+      "unformattedPrice": 3850,
+      "address": "624 State Highway 22 Rte #1, Croton Falls, NY 10519",
+      "addressStreet": "624 State Highway 22 Rte #1",
+      "addressCity": "Croton Falls",
+      "addressState": "NY",
+      "addressZipcode": "10519",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 2200,
+      "latLong": {
+        "latitude": 41.348618,
+        "longitude": -73.66153
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441579066,
+          "streetAddress": "624 State Highway 22 Rte #1",
+          "zipcode": "10519",
+          "city": "Croton Falls",
+          "state": "NY",
+          "latitude": 41.348618,
+          "longitude": -73.66153,
+          "price": 3850.0,
+          "datePriceChanged": 1729148400000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 2200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$400 (Oct 17)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3850.0,
+          "priceChange": -400,
+          "timeOnZillow": 2189094000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-07 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Ginnel Real Estate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/730ed26982720ddacf3b8145d8cea445-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/813a91e573981607febdca3649ddea1b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/664fec3caf4c73ffe27d79729917ddf2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58b8727c7775cbc36d384bbdfe813984-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2327ed2c6c57c0451e92a048397d8339-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a690e16a28961ebe45a095d208ab15a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a0ff990a844f62714624076ca78dda3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d0a4531878c5c48f92b4ca4585b09e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8e008c1791505b962d65ad12d207e26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0181dc48dba99ea0f7425e9189ad090-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e93dad52f621654c2e1ce53e4bf487ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/808c2bb9364a8384f1d3e02427e329ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd61c24cbeddbda9edd2d90105444252-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb9b6b61c73f35f8ec9d64234e1f9b0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d60107d0c3d62c013969ba0fa26a78ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93600ccc9e9cda5cb1a1b8b08494edc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/490312edb459f99d79bacb08dd56a295-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2069389837",
+      "id": "2069389837",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2a5g8hdb2dm9u",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a1f8f2ab6475dbc06b0e395008a79066-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/63-Crosby-Rd-A-North-Salem-NY-10560/2069389837_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$4,000/mo",
+      "unformattedPrice": 4000,
+      "address": "63 Crosby Rd #A, North Salem, NY 10560",
+      "addressStreet": "63 Crosby Rd #A",
+      "addressCity": "North Salem",
+      "addressState": "NY",
+      "addressZipcode": "10560",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1434,
+      "latLong": {
+        "latitude": 41.339813,
+        "longitude": -73.646355
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2069389837,
+          "streetAddress": "63 Crosby Rd #A",
+          "zipcode": "10560",
+          "city": "North Salem",
+          "state": "NY",
+          "latitude": 41.339813,
+          "longitude": -73.646355,
+          "price": 4000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1434.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2875,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 168398000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1f8f2ab6475dbc06b0e395008a79066-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d18f17e416e55477e63cea6672c5207a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd26b9cc66ccffa5701d53ee7442aa7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/670452b56ed367cadc90282505770d76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d755e36a9243adc6375ce24752bef4bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97c8059bb281a4a058119af238ab045d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/960dde90928dbe0f52738001900cec4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c040df8710f4bd306bf98ea349ca1e4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e0e092f71aaaaea5e05ffee5ff21a3f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5690464492ae1694e4366f9039ab7572-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "441579066",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/730ed26982720ddacf3b8145d8cea445-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/624-State-Highway-22-Rte-1-Croton-Falls-NY-10519/441579066_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,850/mo",
+      "priceLabel": "$3.9K",
+      "address": "624 State Highway 22 Rte #1, Croton Falls, NY 10519",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 2200,
+      "latLong": {
+        "latitude": 41.348618,
+        "longitude": -73.66153
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441579066,
+          "streetAddress": "624 State Highway 22 Rte #1",
+          "zipcode": "10519",
+          "city": "Croton Falls",
+          "state": "NY",
+          "latitude": 41.348618,
+          "longitude": -73.66153,
+          "price": 3850.0,
+          "datePriceChanged": 1729148400000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 2200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$400 (Oct 17)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3850.0,
+          "priceChange": -400,
+          "timeOnZillow": 2189094000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-07 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Ginnel Real Estate",
+      "timeOnZillow": 2189094000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ]
+    },
+    {
+      "zpid": "2069389837",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a1f8f2ab6475dbc06b0e395008a79066-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/63-Crosby-Rd-A-North-Salem-NY-10560/2069389837_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$4,000/mo",
+      "priceLabel": "$4.0K",
+      "address": "63 Crosby Rd #A, North Salem, NY 10560",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1434,
+      "latLong": {
+        "latitude": 41.339813,
+        "longitude": -73.646355
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2069389837,
+          "streetAddress": "63 Crosby Rd #A",
+          "zipcode": "10560",
+          "city": "North Salem",
+          "state": "NY",
+          "latitude": 41.339813,
+          "longitude": -73.646355,
+          "price": 4000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1434.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2875,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 168398000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams",
+      "timeOnZillow": 168398000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "33072112",
+      "id": "33072112",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1t7b2sfexxcv5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/076d533ec8dc8d039336d5339c636681-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2-McMorrow-Ln-North-Salem-NY-10560/33072112_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,000/mo",
+      "unformattedPrice": 4000,
+      "address": "2 McMorrow Ln, North Salem, NY 10560",
+      "addressStreet": "2 McMorrow Ln",
+      "addressCity": "North Salem",
+      "addressState": "NY",
+      "addressZipcode": "10560",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 41.34764,
+        "longitude": -73.623215
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 33072112,
+          "streetAddress": "2 McMorrow Ln",
+          "zipcode": "10560",
+          "city": "North Salem",
+          "state": "NY",
+          "latitude": 41.34764,
+          "longitude": -73.623215,
+          "price": 4000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 812200,
+          "rentZestimate": 3441,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 2594330000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 696600.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 812200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-03 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Ginnel Real Estate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/076d533ec8dc8d039336d5339c636681-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b801119100c1f620dcd7cf6cc6d35cc1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad495b3fadc8d2db45093bace8e61f39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddec55e063b884dd4e12a512938fe701-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1660def3f804b799e051d9cb8708193-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d16662bbaa1ba5ebec0cb698c991e024-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f66ab639100fe2c8350bea4f3e0d4b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42d58854838abc34f14932b760b71b3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb21b2a7f325b3af1a89dff111e21632-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f1873a6af5bf0351d56d2bd8c02cadf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2519325ddd0fe838dbc27a9e9fced2c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dea8c91e1130027138cde9f92e8a76af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5cbfb8098fee61996ce3c5a642bcc47f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84c33e906ca6334a0358777d01cd1159-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4768b4a4b758515cebb090a0b2fec69-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "33072495",
+      "id": "33072495",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "18sajnb3nm9kg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7028d23dfc6b60fa3cc981f72c5f97f2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/16-Wheeler-Rd-North-Salem-NY-10560/33072495_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$50,000/mo",
+      "unformattedPrice": 50000,
+      "address": "16 Wheeler Rd, North Salem, NY 10560",
+      "addressStreet": "16 Wheeler Rd",
+      "addressCity": "North Salem",
+      "addressState": "NY",
+      "addressZipcode": "10560",
+      "isUndisclosedAddress": false,
+      "beds": 6,
+      "baths": 7.0,
+      "area": 10187,
+      "latLong": {
+        "latitude": 41.326782,
+        "longitude": -73.62672
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "69 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 33072495,
+          "streetAddress": "16 Wheeler Rd",
+          "zipcode": "10560",
+          "city": "North Salem",
+          "state": "NY",
+          "latitude": 41.326782,
+          "longitude": -73.62672,
+          "price": 50000.0,
+          "bathrooms": 7.0,
+          "bedrooms": 6.0,
+          "livingArea": 10187.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 69,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 4512600,
+          "rentZestimate": 25265,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 50000.0,
+          "timeOnZillow": 5983424000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 4280000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 4512600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: River 2 River Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7028d23dfc6b60fa3cc981f72c5f97f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e12d0c11b5ea323c85bf73818c116975-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91845edd0d565748571b339dcd31b2a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5224fed976653fc7ac595f00e6ba877-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1940d2cff708eef74f0bcb286ec9ccf8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4a254068a8a75eaabd57c008fcfc0b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecb4af26dabd299293a926c01da10f68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c499f6709dc04a38766743417097e4e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfc60a20d6dbdfb1fa1d43bf73fddbea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fab7577a9705d4033750cd8f66234671-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ccc722a6e18f791032ede5e49c91b6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bb853f744be43949beb10b88aa7e906-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ac6284b14ab1157f2e9b1f7c0bc0036-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b6651bbbff4d8c9a8e7a13196795fe3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ecbebab42c61235cf9bfb3ecd664789-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1cd30a723a529bceffcb258fc74aa0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c8d8b1660252b7a70bdddcc1b2b51a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9925da89a90fc61fdb0c599e85ad2c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/597434385a402af95204fc774e8efcc7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e448ce116f82a6a306d26fcfd839eab2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/661b977c3e25a76807beba6b9049c13c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df0829b0b14c881f9550b7bd26d7af5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cb41b123fdfeacbeb663afbe70febc9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f78dec953718c9228c7574f099a8982f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a7c15e4cf3e3c330514377020ac9349-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a88af756f1b908a0164195a29253d627-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fa37dabcd9d7a2320b49da5f0d087cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/521fecdbfddede2a40e61ad2406f3bde-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28872d9c48b782d5e404b98783dadc64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95b24e94480703fb9c5a0270455ac00f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da5c7bbea64f93b47c4d0a8de3df4a97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b00a21a9505956f2e4519b9e4351039a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2089755c3159ae75e5447c2bb082c8a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0afa33511b9c48790427560e6f73214d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ed75450a46a5c35e83f39f6cf9b38bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45a5b474715f0225be72bc862fd82762-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2a0928f626fb2214d08af2ff17453b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4f02778c2ff5b743934a46efd44f75a-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440268639",
+      "id": "440268639",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "13xmxc9626za0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6f93953af19f8df571bc2caeab1d8c8f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/177-Heritage-Hls-UNIT-177C-Somers-NY-10589/440268639_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "177 Heritage Hls UNIT 177C, Somers, NY 10589",
+      "addressStreet": "177 Heritage Hls UNIT 177C",
+      "addressCity": "Somers",
+      "addressState": "NY",
+      "addressZipcode": "10589",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1205,
+      "latLong": {
+        "latitude": 41.343204,
+        "longitude": -73.686646
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "50 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440268639,
+          "streetAddress": "177 Heritage Hls UNIT 177C",
+          "zipcode": "10589",
+          "city": "Somers",
+          "state": "NY",
+          "latitude": 41.343204,
+          "longitude": -73.686646,
+          "price": 3500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1205.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 50,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 469800,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 4322039000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 177C",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 469800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Mancini Realty Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f93953af19f8df571bc2caeab1d8c8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9772e078947a87b41b3b35a9c85c7453-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/710067f02f62ad17b38788a2bc6a6127-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18c7f009ef3a568fde4b784a3c6cf9c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4756c07ebdec654a1637676839414752-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbf72d98165be110d18bb47bb9e52730-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66d745b275a4da0b7526645b712ad030-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04ace20bc7b88f6103d311fc69997a44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f01dc27f828ff66e1d96e84deda1ca09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59e638cae52bfbaa714274822a39549e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38c4da538265dbdccc32c9d282f29815-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62e9862ad0de8992ae09987fdd5564da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/568e49be84f86bba50221d142267fb0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00e68ea6f148f690182feab326b1afec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f804e74ab3943fe238e2d3d64faf8cfa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66fd3ab272b3c668a106dfd810a75da7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0b9bc836e70284728e02231c483cde6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d62645b3619ea8bc4bea70fd3afdcbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21e5ba3c7234a188898d0d38ed1741cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4aa10d63b8e5b05dbe37cfa47240b1ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6f8e61cbe306e0c4505b1f1ca47c045-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97dc8236ec2e9a5f3e684c0564670260-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b9616c1c8ffd770114be8deadaea58b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/703aafedeb0df371f1b4e19d073c3599-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9dcbacd7da62e194e635449eed4a3550-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a212112378a273f6ce1ddaa740d7ae70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d93ec1a74ffabc3ab574da5a53b40107-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c44bde77b049bf4c57e2f56a5c358ea8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be7c09b69d56612ae3881531fae61535-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "7e2f9340",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "66a02ad9"
+}

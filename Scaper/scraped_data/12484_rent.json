@@ -1,0 +1,858 @@
+{
+  "listResults": [
+    {
+      "zpid": "2076874251",
+      "id": "2076874251",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "kcyss51busbp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2a86f72be2b96e90412fdcd66adf9d1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/107-Main-St-1-High-Falls-NY-12440/2076874251_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "107 Main St #1, High Falls, NY 12440",
+      "addressStreet": "107 Main St #1",
+      "addressCity": "High Falls",
+      "addressState": "NY",
+      "addressZipcode": "12440",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.82701,
+        "longitude": -74.12821
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2076874251,
+          "streetAddress": "107 Main St #1",
+          "zipcode": "12440",
+          "city": "High Falls",
+          "state": "NY",
+          "latitude": 41.82701,
+          "longitude": -74.12821,
+          "price": 2800.0,
+          "datePriceChanged": 1728284400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 70,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2036,
+          "listing_sub_type": {},
+          "priceReduction": "$450 (Oct 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -450,
+          "timeOnZillow": 6062634000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-07 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a86f72be2b96e90412fdcd66adf9d1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c99d1c78d132ed30f6f885056075b94b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc80c550518b0bdc7b2b478b63f01ee3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0511da4837552d716ff1a3fbdd4da0a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/933d7d62acca40dc89038b5cdb7d427f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82ddc9bf23c3f27bbe023a7c5e9d4a49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56a910f4426254b3305cd5154f9690e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a1fd4808589f2920b3d735b0f4681ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c15c3e48d8675eb7e0144ece554a211-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a43f35d1e2d51821fe496ba7b8f175c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35751c550d57e618a2c8f2c51a1ceebb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/126eff59dc95658ba457eec0057a7ac0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df911749bcb6d12e4fac79bac977abb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5b88c8e1e4613c19f2b57c25e861ac9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f21408d6259a8dd69e241122b36ad58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2540ac33bad94943cdc988effe28f20d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc17749905b375b86903f13e3e191062-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77cb72813a202dc9a1b4b882283d7156-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d84e6f134a5c81d3e15e625ce61598f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/130c49cc51b2774b14133746c13e5144-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed3eb15dd0fbf9296b5c221c1ec6bdd0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ead97f49c50afd1e003dfe3d69890cb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2c73f5cf5a3c24e43c826ce01a33410-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eff593833e39df2045a192391413deb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05cc1ad6994d937c1496a981f1ccf680-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20fab25bdeeb32c3cef9e337aec554c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f59a3f60c716f9c627ad1b3b74819c62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbd965f9a7a0ceef140804156b773f3a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32850231",
+      "id": "32850231",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "p8zprag9jrt5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/32e4429a4eb81c7db6b5a9cfa6e2e835-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Accord-NY-12404/32850231_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,650/mo",
+      "unformattedPrice": 2650,
+      "address": "(undisclosed Address), Accord, NY 12404",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Accord",
+      "addressState": "NY",
+      "addressZipcode": "12404",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 954,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32850231,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12404",
+          "city": "Accord",
+          "state": "NY",
+          "price": 2650.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 954.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 325700,
+          "rentZestimate": 2474,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2650.0,
+          "timeOnZillow": 959373000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 325700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-02 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/32e4429a4eb81c7db6b5a9cfa6e2e835-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/192d99ab8ee9516a6f17a276d00530cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68690f44350ebdc71dde6c0e1b4866ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4a64412461cd3201a4121e8d7d84058-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/265b3385b110441e478695ed199a6aa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61d2c3c27fcc26a8031a8ac3b949daac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f9c8d21dec6c5b14b893679f958a5d3-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2055705864",
+      "id": "2055705864",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "ykew8d2e7u61",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5bc3ca9381da485f0f94686a7a6ac842-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Stone-Ridge-NY-12484/2055705864_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,850/mo",
+      "unformattedPrice": 1850,
+      "address": "(undisclosed Address), Stone Ridge, NY 12484",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Stone Ridge",
+      "addressState": "NY",
+      "addressZipcode": "12484",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "113 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055705864,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12484",
+          "city": "Stone Ridge",
+          "state": "NY",
+          "price": 1850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 113,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 268800,
+          "rentZestimate": 1670,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1850.0,
+          "timeOnZillow": 9789730000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 268800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-11 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bc3ca9381da485f0f94686a7a6ac842-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441998103",
+      "id": "441998103",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3jhxva0bjmyea",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5a7a9be252606849d319edf8f9d63219-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/128-bruceville-high-falls-ny-97wNZJ/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "128 Bruceville, 128 Bruceville Rd APT 1, High Falls, NY 12440",
+      "addressStreet": "128 Bruceville Rd APT 1",
+      "addressCity": "High Falls",
+      "addressState": "NY",
+      "addressZipcode": "12440",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 884,
+      "latLong": {
+        "latitude": 41.832382,
+        "longitude": -74.11979
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441998103,
+          "streetAddress": "128 Bruceville Rd APT 1",
+          "zipcode": "12440",
+          "city": "High Falls",
+          "state": "NY",
+          "latitude": 41.832382,
+          "longitude": -74.11979,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 884.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 67,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 5874929000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: First Capital Property Management Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a7a9be252606849d319edf8f9d63219-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/690dc88f8e5503128fd1351a7b0d5a11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e0b3a957309dde0f83a7821f95e5245-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbeed2d3210525848b1ced2c08593455-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7873b8748f78807fc1300972e56d5e3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69e3dc77907a5c02f1675bae9f172ae3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86703302a1ec6db27e91aec7039b4e23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cb7e5edebda3bef37168e571dd0cfa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb88b56cd8da852deaaa53d0cf7997b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/519116ffad072415b65268a0fc4decb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ab42a93e96f4b829b0c43bb129f9a81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12bef48fd504b2121cdda91bed6d02cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1920492c0180a7dd66962056c25888e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ef1da5e91a6b1599dafb82a0bcedd67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab06fb4f240f763d444ab789ae4e18cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75df6bbdf22d1a625a7cc97a59fff3f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62ebed43004f56e0442c7121f7762ecd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a469f29dade6b4d645062a8a40a99c93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1972dc954044be8ac40ac2b0e60809d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "41.869457--74.12531",
+      "id": "41.869457--74.12531",
+      "providerListingId": "1dgmsmayv2p1r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/155e08be1e6a4cac541ed98107682b93-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/kingston-ny/woodland-country-apartments/9kZkKN/",
+      "statusType": "FOR_RENT",
+      "statusText": "Woodland Country Apartments",
+      "address": "3140 Route 209, Kingston, NY",
+      "addressStreet": "3140 Route 209 # 3C",
+      "addressCity": "Kingston",
+      "addressState": "NY",
+      "addressZipcode": "12401",
+      "units": [
+        {
+          "price": "$1,650+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,800+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,500+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2188240940,
+      "latLong": {
+        "latitude": 41.869457,
+        "longitude": -74.12531
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Woodland Country Apartments",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/155e08be1e6a4cac541ed98107682b93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4e7a1c07b79bbb0aa05a1d227aab0bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3d97c3e79c069437e6475b41b379dc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ebf7372b471a3ae94cfb3a29566f8e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce4e7b03e30b074b0e951b467f5230b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4669e534d632004a5368299eb16fe4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6199c545856cfe3b25ac5cc3763d4b96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3309a84173a0524d798060b562634f6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1091e547fa634f610287b85a8a7140f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da80f0005bc73255ecce32bfca7e62cc-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2076874251",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2a86f72be2b96e90412fdcd66adf9d1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/107-Main-St-1-High-Falls-NY-12440/2076874251_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,800/mo",
+      "priceLabel": "$2.8K",
+      "address": "107 Main St #1, High Falls, NY 12440",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.82701,
+        "longitude": -74.12821
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2076874251,
+          "streetAddress": "107 Main St #1",
+          "zipcode": "12440",
+          "city": "High Falls",
+          "state": "NY",
+          "latitude": 41.82701,
+          "longitude": -74.12821,
+          "price": 2800.0,
+          "datePriceChanged": 1728284400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2036,
+          "listing_sub_type": {},
+          "priceReduction": "$450 (Oct 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -450,
+          "timeOnZillow": 6062634000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-07 00:00:00",
+      "visited": false,
+      "timeOnZillow": 6062634000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441998103",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5a7a9be252606849d319edf8f9d63219-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/128-bruceville-high-falls-ny-97wNZJ/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,400/mo",
+      "priceLabel": "$1.4K",
+      "address": "128 Bruceville Rd APT 1, High Falls, NY 12440",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 884,
+      "latLong": {
+        "latitude": 41.832382,
+        "longitude": -74.11979
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441998103,
+          "streetAddress": "128 Bruceville Rd APT 1",
+          "zipcode": "12440",
+          "city": "High Falls",
+          "state": "NY",
+          "latitude": 41.832382,
+          "longitude": -74.11979,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 884.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 5874929000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: First Capital Property Management Group",
+      "timeOnZillow": 5874929000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "plid": "1dgmsmayv2p1r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/155e08be1e6a4cac541ed98107682b93-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/kingston-ny/woodland-country-apartments/9kZkKN/",
+      "statusType": "FOR_RENT",
+      "statusText": "Woodland Country Apartments",
+      "price": "$1,650+/mo",
+      "address": "3140 Route 209, Kingston, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 627,
+      "lotId": 2188240940,
+      "latLong": {
+        "latitude": 41.869457,
+        "longitude": -74.12531
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "Woodland Country Apartments",
+      "buildingId": "41.869457--74.12531",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 9185688000,
+      "unitCount": 3,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "73403c4f",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

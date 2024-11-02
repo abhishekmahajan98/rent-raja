@@ -1,0 +1,650 @@
+{
+  "listResults": [
+    {
+      "zpid": "2079667788",
+      "id": "2079667788",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "46je54g6gxg1d",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=41.7544059753418,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=za18-rKIVKwU9wJGXf8O9BrZFG8=",
+      "detailUrl": "https://www.zillow.com/homedetails/31-Westbourne-Dr-42-Woodbourne-NY-12788/2079667788_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "31 Westbourne Dr #42, Woodbourne, NY 12788",
+      "addressStreet": "31 Westbourne Dr #42",
+      "addressCity": "Woodbourne",
+      "addressState": "NY",
+      "addressZipcode": "12788",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=41.7544059753418,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=SIUHC-RT1FkLD0gc43Hhbl6-hOw=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=41.7544059753418,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=7vpcqhVhpG1XfK7niBV0no__s58=",
+      "beds": 2,
+      "baths": 1.0,
+      "area": 860,
+      "latLong": {
+        "latitude": 41.754406,
+        "longitude": -74.609474
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "144 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2079667788,
+          "streetAddress": "31 Westbourne Dr #42",
+          "zipcode": "12788",
+          "city": "Woodbourne",
+          "state": "NY",
+          "latitude": 41.754406,
+          "longitude": -74.609474,
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 860.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 144,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1301,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 12461566000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 42",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Westbourne Gardens",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2080444131",
+      "id": "2080444131",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5gmtsh3nvaam3",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=41.75441360473633,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=c13vhtesJn3F0PsGUzYMTNrEnJg=",
+      "detailUrl": "https://www.zillow.com/homedetails/31-Westbourne-Dr-30-Woodbourne-NY-12788/2080444131_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "31 Westbourne Dr #30, Woodbourne, NY 12788",
+      "addressStreet": "31 Westbourne Dr #30",
+      "addressCity": "Woodbourne",
+      "addressState": "NY",
+      "addressZipcode": "12788",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=41.75441360473633,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=vkcKCnERNbXRH_hv0nsYZVhYOKk=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=41.75441360473633,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=C_wcDwEMAbnlunllTiLInlHPs-s=",
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 41.754414,
+        "longitude": -74.609474
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "144 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2080444131,
+          "streetAddress": "31 Westbourne Dr #30",
+          "zipcode": "12788",
+          "city": "Woodbourne",
+          "state": "NY",
+          "latitude": 41.754414,
+          "longitude": -74.609474,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 144,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1079,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 12461515000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 30",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Westbourne Gardens",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2079667788",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=41.7544059753418,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=za18-rKIVKwU9wJGXf8O9BrZFG8=",
+      "detailUrl": "/homedetails/31-Westbourne-Dr-42-Woodbourne-NY-12788/2079667788_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,350/mo",
+      "priceLabel": "$1.4K",
+      "address": "31 Westbourne Dr #42, Woodbourne, NY 12788",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=41.7544059753418,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=SIUHC-RT1FkLD0gc43Hhbl6-hOw=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=41.7544059753418,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=7vpcqhVhpG1XfK7niBV0no__s58=",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 860,
+      "latLong": {
+        "latitude": 41.754406,
+        "longitude": -74.609474
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "144 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2079667788,
+          "streetAddress": "31 Westbourne Dr #42",
+          "zipcode": "12788",
+          "city": "Woodbourne",
+          "state": "NY",
+          "latitude": 41.754406,
+          "longitude": -74.609474,
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 860.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1301,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 12461566000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 42",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Westbourne Gardens",
+      "timeOnZillow": 12461566000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2080444131",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=41.75441360473633,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=c13vhtesJn3F0PsGUzYMTNrEnJg=",
+      "detailUrl": "/homedetails/31-Westbourne-Dr-30-Woodbourne-NY-12788/2080444131_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,150/mo",
+      "priceLabel": "$1.2K",
+      "address": "31 Westbourne Dr #30, Woodbourne, NY 12788",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=41.75441360473633,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=vkcKCnERNbXRH_hv0nsYZVhYOKk=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=41.75441360473633,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=C_wcDwEMAbnlunllTiLInlHPs-s=",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 41.754414,
+        "longitude": -74.609474
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "144 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2080444131,
+          "streetAddress": "31 Westbourne Dr #30",
+          "zipcode": "12788",
+          "city": "Woodbourne",
+          "state": "NY",
+          "latitude": 41.754414,
+          "longitude": -74.609474,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1079,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 12461515000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 30",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Westbourne Gardens",
+      "timeOnZillow": 12461515000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2055314860",
+      "id": "2055314860",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3pg9g61yyav79",
+      "imgSrc": "https://photos.zillowstatic.com/fp/93fa80cac165a8b28a2b3b3d81d77707-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-Maple-Ave-N-2-Loch-Sheldrake-NY-12759/2055314860_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "10 Maple Ave N #2, Loch Sheldrake, NY 12759",
+      "addressStreet": "10 Maple Ave N #2",
+      "addressCity": "Loch Sheldrake",
+      "addressState": "NY",
+      "addressZipcode": "12759",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 41.770985,
+        "longitude": -74.65169
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055314860,
+          "streetAddress": "10 Maple Ave N #2",
+          "zipcode": "12759",
+          "city": "Loch Sheldrake",
+          "state": "NY",
+          "latitude": 41.770985,
+          "longitude": -74.65169,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1046,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 1400042000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-16 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/93fa80cac165a8b28a2b3b3d81d77707-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9209390681f9648b159c26f050194e91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f54d5a1596b621f87f3d9375a68dc2d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/858bde1b92cc9b27f0d43d891f9dbe82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77e83ebeb779306dd520f7beb25168d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bd38ded07cdb6d111f43088da756db3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/284741d85021aee85d47becf34e36768-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2bec2a2dc906fd7032024f2312cdb4ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ca81db3f08b5aac12ea965602ce2272-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "67914866",
+      "id": "67914866",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1jqu69x54wxnq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/28510acfbcb74d7eb1bb883d823c93cb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/40-Houghtaling-Rd-Hurleyville-NY-12747/67914866_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "40 Houghtaling Rd, Hurleyville, NY 12747",
+      "addressStreet": "40 Houghtaling Rd",
+      "addressCity": "Hurleyville",
+      "addressState": "NY",
+      "addressZipcode": "12747",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 41.76484,
+        "longitude": -74.625656
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "60 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 67914866,
+          "streetAddress": "40 Houghtaling Rd",
+          "zipcode": "12747",
+          "city": "Hurleyville",
+          "state": "NY",
+          "latitude": 41.76484,
+          "longitude": -74.625656,
+          "price": 2800.0,
+          "datePriceChanged": 1729494000000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 60,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 258700,
+          "rentZestimate": 3077,
+          "listing_sub_type": {},
+          "priceReduction": "$400 (Oct 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -400,
+          "timeOnZillow": 5204885000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 193103.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 258700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: CATSKILL COUNTRY HOMES",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/28510acfbcb74d7eb1bb883d823c93cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a210def01313c41e38f93a3dfb39d8f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9c938e4bfc8c92182fc6a3c29a3eaa0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4ebbe825cceeeee1f338e16f9111499-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90128c4ad75b1f3fee9025c1a46f66f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22f0f5d2c827dc25c785bfe056f9ad45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ffc89868619a6ba8fef3663485d168d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cdd73052544eb8cc83c592684d6020be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6b9231520ec3f1848921fd47561269f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0612b82a4bc8dd6a1308dc86617f1e8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f2e4a14bf3ecda517e7fa4c277c0b58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a3e24a8d7fe59b113135807c222b116-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/434b1d881ad86efc97faaecf7facd224-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c12a2b376d0bb336c7878bcd7381a7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26cb736216ac7fd471bfec74a2b145d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6cbe946711a43e695967ffbb454aa380-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25a227dae6916ac2ed5774b2d31cbf21-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a417a1ad9ccd0e4b43bf21e5ac5a1693-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/770fda68877367e3fbf97c4108be2b6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7104ff234bc8262e127ccb60cd1efb9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/749031b83901207364c5a8f5e5d2878a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/484e2f5d8b1e7c6ca373d0c3e3cc1ad3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/401214b4c6ed8854c8142b8aab78a3c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3b91673637f9c1e1d80f88c2bef4295-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1696f12e",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "5e4ede1c"
+}

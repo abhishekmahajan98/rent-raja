@@ -1,0 +1,1817 @@
+{
+  "listResults": [
+    {
+      "zpid": "442184839",
+      "id": "442184839",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1p2e7y72gwg0t",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=JW2XsHj_mcCUWh23Jq2GDgzC2kk=",
+      "detailUrl": "https://www.zillow.com/homedetails/3033-3035-Main-St-4-Valatie-NY-12184/442184839_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$800/mo",
+      "unformattedPrice": 800,
+      "address": "3033-3035 Main St #4, Valatie, NY 12184",
+      "addressStreet": "3033-3035 Main St #4",
+      "addressCity": "Valatie",
+      "addressState": "NY",
+      "addressZipcode": "12184",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=0jutCr0rUkCLKk-9OGy32mUcTTg=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=akygkZqPJrDWeuD5HRrj31JYmBs=",
+      "beds": 0,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.41343,
+        "longitude": -73.67545
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442184839,
+          "streetAddress": "3033-3035 Main St #4",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.41343,
+          "longitude": -73.67545,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 191389000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-30 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2060849751",
+      "id": "2060849751",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2z9gs80zv3933",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bf4c906542c623ba460dcd66916498cb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2949-Route-66-1-Chatham-NY-12037/2060849751_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,300/mo",
+      "unformattedPrice": 2300,
+      "address": "2949 Route 66 #1, Chatham, NY 12037",
+      "addressStreet": "2949 Route 66 #1",
+      "addressCity": "Chatham",
+      "addressState": "NY",
+      "addressZipcode": "12037",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.37296,
+        "longitude": -73.59932
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060849751,
+          "streetAddress": "2949 Route 66 #1",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.37296,
+          "longitude": -73.59932,
+          "price": 2300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2074,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "timeOnZillow": 436359000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf4c906542c623ba460dcd66916498cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac54d1c0fb0e69d0371d1799f3260fe0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e81c450e414048aaf02eef302da60600-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1685eeba21c92603a417963583fb64c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/539d60463c73f2cc13c41b9dece1067b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f43b056a4cf8a3afe1fe88a5cc3188d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93ffc9db3cecb7db1bab900880c25eb6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0ed490aaa4cd536474c723dffc71d31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec08ea2bf55560b8d5cbf93f1dae0cc8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9b03d5592a84ab02b703aab2137b9fe-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442112163",
+      "id": "442112163",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "b5j5g6taksaa",
+      "imgSrc": "https://photos.zillowstatic.com/fp/851d6905f33174b43afecda19646d33f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3011-Main-St-3-Valatie-NY-12184/442112163_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,700/mo",
+      "unformattedPrice": 1700,
+      "address": "3011 Main St #3, Valatie, NY 12184",
+      "addressStreet": "3011 Main St #3",
+      "addressCity": "Valatie",
+      "addressState": "NY",
+      "addressZipcode": "12184",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1050,
+      "latLong": {
+        "latitude": 42.413612,
+        "longitude": -73.678116
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442112163,
+          "streetAddress": "3011 Main St #3",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.413612,
+          "longitude": -73.678116,
+          "price": 1700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1050.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 432040000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/851d6905f33174b43afecda19646d33f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfaca6e16f495cb9c9eab090db09b836-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bef91d576e9925afc7221fd00522de02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d55149f572d8568ad47332d1b8d704f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85b97eb55eb6211fc9445b8462ce3565-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d31550f61c9810b9bbac12a8874f8fcd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f4a4ac0def746b347e44fd40847c70c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d362c958abe55619a49e6bd0b5c4e52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed6219e84386711119f1aa24f7ae8966-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e68fddb5fe39212067ab254da600be8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/258336d1416edbd081626e1589f1f51c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dd8fb652f425db1961fa4cacffe57b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84568a5db4c398c7b696f8d0fc7a70f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/911932e6fa68d44dca0b9e2b893efe34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ac65c328a79bc2ff1dbedc7cd6435b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7677cd99ea342bbd45cf7470a8dcee0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fb55cdb410c0373722cf5d9bffb7d99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d07976d94d4b67d9f0ec5e0c60d5e1c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2099adbd1a42bdb80203dc7366be533c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54e9f7c3d33eec04f6117db258c2fc10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d65ce65179f8ce6a4b43b98b007e3839-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4e19b134cb7eccd91d60a3d3de82d1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d81fe36651fcea26a3d88ad48b4e5562-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88bfbbee53e9b27383acad72f01fa1d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ff388a2917fd39ae57a8dd9b70d83b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/640c7a007cede5166d68ae5f793bf1e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d90fec06c2683fa205c67a8a03a539c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a26371d6137e170985cc76489b1048d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69c6e3f7b910d6ba137277b534441661-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78b2db20b06da4b47e6c35b64618d1a6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30002036",
+      "id": "30002036",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1e1j9as62jr08",
+      "imgSrc": "https://photos.zillowstatic.com/fp/31d98618047ce6e969cf0e404ca739a6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1501-County-Route-28-Valatie-NY-12184/30002036_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,950/mo",
+      "unformattedPrice": 3950,
+      "address": "1501 County Route 28, Valatie, NY 12184",
+      "addressStreet": "1501 County Route 28",
+      "addressCity": "Valatie",
+      "addressState": "NY",
+      "addressZipcode": "12184",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 4.0,
+      "area": 2200,
+      "latLong": {
+        "latitude": 42.418514,
+        "longitude": -73.61979
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "47 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30002036,
+          "streetAddress": "1501 County Route 28",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.418514,
+          "longitude": -73.61979,
+          "price": 3950.0,
+          "datePriceChanged": 1727679600000,
+          "bathrooms": 4.0,
+          "bedrooms": 4.0,
+          "livingArea": 2200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 47,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 475000,
+          "rentZestimate": 3984,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Sep 30)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3950.0,
+          "priceChange": -300,
+          "timeOnZillow": 4140574000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 344086.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 475000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/31d98618047ce6e969cf0e404ca739a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a8040dd8c29efdab80718ada14d0054-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02ea9714af98055bdbc32ce3ceef957a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/680333d4c7ccddf9f9e97102460d87fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af91e4169bb79600eca8437ecd9259f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11297aa521a22fcb0ff1e4fc3a3b3f80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a0c22775199539a60ea79d49436050b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b27f9a1bab6e5a7422a8eda3807b1d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/351d538b3048b8389334f0593bc2e819-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41e90d796471c5a2e10a7dc872ec7157-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d8721b0440c281e5a4a8ae9caa3869c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59855d79aeacaafdb63b879c25208194-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d881bfef4c5d35d91a7651da9f94b80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28c0ec27f1a2499d3e327ff4af3c79f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e1275de297e0f2ade6ba624c36e2dd4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39f0954b7430777f12bee992931a6404-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1bfc3b7969fc5ab8587a801025ae0f67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/833d4622bc844324d354544b7f73256d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c6ec477d8e96ae3c99f7105b8637eba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb91b2ef6d55397ccf1d0f4a267f284a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed837964567bb688e2f5f6f6403764a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bca982a59e920a61222b8f1fa31bdca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe480520796d409c853ec656d3b80279-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29efbc55697c31c312aeb61babda5d6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0b2062e06bb78d94bf7fd1a150572a8-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441763870",
+      "id": "441763870",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ckp039690bc4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fec5ffa32d176d118d85245433433b1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1903-State-Route-203-LOT-78-Chatham-NY-12037/441763870_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "1903 State Route 203 LOT 78, Chatham, NY 12037",
+      "addressStreet": "1903 State Route 203 LOT 78",
+      "addressCity": "Chatham",
+      "addressState": "NY",
+      "addressZipcode": "12037",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 840,
+      "latLong": {
+        "latitude": 42.35541,
+        "longitude": -73.612946
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441763870,
+          "streetAddress": "1903 State Route 203 LOT 78",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.35541,
+          "longitude": -73.612946,
+          "price": 1600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 840.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 20,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 1738736000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Lot 78",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-12 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fec5ffa32d176d118d85245433433b1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/468d2e311d7e7b594f241d6b6f064cb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ee1865be497b101503fef30ebcb4204-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e95fea7eadd1038b1c2b8f67778ece6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/525a556c6c09340b2997b49f5cf9afa9-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "215415916",
+      "id": "215415916",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "hc33kfy4f2hb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e8f2af3ba9a103620caaf3bf618c550d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/84-Ottoville-Rd-Valatie-NY-12184/215415916_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,900/mo",
+      "unformattedPrice": 1900,
+      "address": "84 Ottoville Rd, Valatie, NY 12184",
+      "addressStreet": "84 Ottoville Rd",
+      "addressCity": "Valatie",
+      "addressState": "NY",
+      "addressZipcode": "12184",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.45609,
+        "longitude": -73.65878
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "43 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215415916,
+          "streetAddress": "84 Ottoville Rd",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.45609,
+          "longitude": -73.65878,
+          "price": 1900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 43,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 370700,
+          "rentZestimate": 1986,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "timeOnZillow": 3788211000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 268657.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 370700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8f2af3ba9a103620caaf3bf618c550d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d321bf8286572df0422b7d8e478780e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5dc7cd4e75f8d79a4dde5c4f18cef612-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/998ee1945041d78b81505d927a4d5a06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09e1aeff9d8b776c2527af8756b446b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c8d25e108105eb5cd6d07dfb40090f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53cb7939316819630d66d345849b5ecd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3abcaae90ad60d0e7dd6fc5b83f1ff2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3179ef7d6c15ae14fbb56ba8b7c7d8b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/843eb6c7f9f95d145c94680400c7df8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af44c4e44eb0cc7628e4cfe36baebd00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5dcb973983603e452b1bacde72da92d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e816daf184f31bebaa851123b2f4d768-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b73c8027ff329df0bcbf0259149fb803-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f46d7753b5a7fbb9a7feef4567bc6662-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d69d01b00941d77ccea6d61a53ecca43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27b9d5117624ef795a4c777003dbcb5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2420468d49a42ad1121cfae43003f5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a83d6aad0327a1532804a6ed1ae7422-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9af24ef22ca2c556588d26c05eaa8faf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af650feb65036b6479eae79d26240922-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2077365853",
+      "id": "2077365853",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "sm0cv3a1nne",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1ba605fc9c883d127e5387df9a5d6ea2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/30-High-St-Chatham-NY-12037/2077365853_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "30 High St, Chatham, NY 12037",
+      "addressStreet": "30 High St",
+      "addressCity": "Chatham",
+      "addressState": "NY",
+      "addressZipcode": "12037",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 42.362152,
+        "longitude": -73.59324
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "130 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2077365853,
+          "streetAddress": "30 High St",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.362152,
+          "longitude": -73.59324,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 900.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 130,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 279300,
+          "rentZestimate": 1349,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 11239181000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 279300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: eric valdina / personal real estate services",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ba605fc9c883d127e5387df9a5d6ea2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/525fb0d14d2e36411596c27e2cfd86ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10b9d415e7a78c5ba97b1fa1f2fdcc76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a30807930e4b80a68207b2b8fdea40a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e42fa8f82cdadce2fc17f264e4f6ed2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c417db6a2b3a54ed90381f584ff0f09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6169bb953487cfa63c02e8f92c63f78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c33b435f80a910c24e6e3f3588198e89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57af02a5a4da40bca30ca43b302f1665-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f4728b34d409f611e5838e5526e3be7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b28dfb8b294732b14979882180e67eee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb969bb5b8480cb26822581f99f7f578-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2543f9d2e8feb8274ce3b20924648490-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/345d3aec39d7b4e21a7266c867d4a2e7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30008784",
+      "id": "30008784",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "mj75q2h7zfwj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d23fa42781016b6e68b07a9e1cf277c5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1982-State-Route-203-Chatham-NY-12037/30008784_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "1982 State Route 203, Chatham, NY 12037",
+      "addressStreet": "1982 State Route 203",
+      "addressCity": "Chatham",
+      "addressState": "NY",
+      "addressZipcode": "12037",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.36281,
+        "longitude": -73.61376
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30008784,
+          "streetAddress": "1982 State Route 203",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.36281,
+          "longitude": -73.61376,
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 337800,
+          "rentZestimate": 2038,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 2604468000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 236105.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 337800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-23 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Beach & Bartolo Realtors",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d23fa42781016b6e68b07a9e1cf277c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04de97cda9d6f0c14c59948e303ed4d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5526e7f0771a74151e7850e8058528cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1e6ad03fca73c5dbd9a5c6f4b75cb10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/836eb951b91b41098ca4b4e97ea8e323-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f17a4bb4f46c71df8c19ccfd1dfaa51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56c2f0c5bff562bcf485ffe3cd430404-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/394ca920d6d0f69c02a425b615c22701-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84732505e7978fa40df1f8ce9b34a4c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37ad61d1ef4dbba284c2d101a847c966-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af8d7445c70c049016f4cb4776c9a6a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d243581aeaef449c2b7cbf2fc41f753-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e5a62ff7b8dd4856cf71a5c82fe426d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1902ca6abade3bf287c15410f88faff5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d27564f423443686ebab1bf6a877c71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfd52784675fc39eb2e32eda4d76e906-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442184839",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=JW2XsHj_mcCUWh23Jq2GDgzC2kk=",
+      "detailUrl": "/homedetails/3033-3035-Main-St-4-Valatie-NY-12184/442184839_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$800/mo",
+      "priceLabel": "$800",
+      "address": "3033-3035 Main St #4, Valatie, NY 12184",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=0jutCr0rUkCLKk-9OGy32mUcTTg=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=akygkZqPJrDWeuD5HRrj31JYmBs=",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.41343,
+        "longitude": -73.67545
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442184839,
+          "streetAddress": "3033-3035 Main St #4",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.41343,
+          "longitude": -73.67545,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 191389000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-30 00:00:00",
+      "visited": false,
+      "timeOnZillow": 191389000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2060849751",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bf4c906542c623ba460dcd66916498cb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2949-Route-66-1-Chatham-NY-12037/2060849751_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,300/mo",
+      "priceLabel": "$2.3K",
+      "address": "2949 Route 66 #1, Chatham, NY 12037",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.37296,
+        "longitude": -73.59932
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060849751,
+          "streetAddress": "2949 Route 66 #1",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.37296,
+          "longitude": -73.59932,
+          "price": 2300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2074,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "timeOnZillow": 436359000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 436359000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442112163",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/851d6905f33174b43afecda19646d33f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3011-Main-St-3-Valatie-NY-12184/442112163_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,700/mo",
+      "priceLabel": "$1.7K",
+      "address": "3011 Main St #3, Valatie, NY 12184",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1050,
+      "latLong": {
+        "latitude": 42.413612,
+        "longitude": -73.678116
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442112163,
+          "streetAddress": "3011 Main St #3",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.413612,
+          "longitude": -73.678116,
+          "price": 1700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1050.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 432040000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 432040000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30002036",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/31d98618047ce6e969cf0e404ca739a6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1501-County-Route-28-Valatie-NY-12184/30002036_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,950/mo",
+      "priceLabel": "$4.0K",
+      "address": "1501 County Route 28, Valatie, NY 12184",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 4.0,
+      "area": 2200,
+      "latLong": {
+        "latitude": 42.418514,
+        "longitude": -73.61979
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "47 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30002036,
+          "streetAddress": "1501 County Route 28",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.418514,
+          "longitude": -73.61979,
+          "price": 3950.0,
+          "datePriceChanged": 1727679600000,
+          "bathrooms": 4.0,
+          "bedrooms": 4.0,
+          "livingArea": 2200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 475000,
+          "rentZestimate": 3984,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Sep 30)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3950.0,
+          "priceChange": -300,
+          "timeOnZillow": 4140574000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 344086.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 4140574000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441763870",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fec5ffa32d176d118d85245433433b1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1903-State-Route-203-LOT-78-Chatham-NY-12037/441763870_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,600/mo",
+      "priceLabel": "$1.6K",
+      "address": "1903 State Route 203 LOT 78, Chatham, NY 12037",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 840,
+      "latLong": {
+        "latitude": 42.35541,
+        "longitude": -73.612946
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441763870,
+          "streetAddress": "1903 State Route 203 LOT 78",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.35541,
+          "longitude": -73.612946,
+          "price": 1600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 840.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 1738736000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Lot 78",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-12 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "timeOnZillow": 1738736000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "215415916",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e8f2af3ba9a103620caaf3bf618c550d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/84-Ottoville-Rd-Valatie-NY-12184/215415916_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,900/mo",
+      "priceLabel": "$1.9K",
+      "address": "84 Ottoville Rd, Valatie, NY 12184",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.45609,
+        "longitude": -73.65878
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "43 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215415916,
+          "streetAddress": "84 Ottoville Rd",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.45609,
+          "longitude": -73.65878,
+          "price": 1900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 370700,
+          "rentZestimate": 1986,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "timeOnZillow": 3788211000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 268657.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 3788211000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2077365853",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1ba605fc9c883d127e5387df9a5d6ea2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/30-High-St-Chatham-NY-12037/2077365853_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,400/mo",
+      "priceLabel": "$2.4K",
+      "address": "30 High St, Chatham, NY 12037",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 42.362152,
+        "longitude": -73.59324
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "130 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2077365853,
+          "streetAddress": "30 High St",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.362152,
+          "longitude": -73.59324,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 900.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 279300,
+          "rentZestimate": 1349,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 11239181000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: eric valdina / personal real estate services",
+      "timeOnZillow": 11239181000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30008784",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d23fa42781016b6e68b07a9e1cf277c5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1982-State-Route-203-Chatham-NY-12037/30008784_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,200/mo",
+      "priceLabel": "$2.2K",
+      "address": "1982 State Route 203, Chatham, NY 12037",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.36281,
+        "longitude": -73.61376
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30008784,
+          "streetAddress": "1982 State Route 203",
+          "zipcode": "12037",
+          "city": "Chatham",
+          "state": "NY",
+          "latitude": 42.36281,
+          "longitude": -73.61376,
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 337800,
+          "rentZestimate": 2038,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 2604468000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 236105.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-23 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Beach & Bartolo Realtors",
+      "timeOnZillow": 2604468000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "24be4b60",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

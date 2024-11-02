@@ -1,0 +1,1188 @@
+{
+  "listResults": [
+    {
+      "zpid": "442025286",
+      "id": "442025286",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1w1jgjwjasa8n",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.51508712768555,-73.7112045288086&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=rahxOpCA7bbGj1iQFv4yxpeQgn8=",
+      "detailUrl": "https://www.zillow.com/homedetails/1251-Van-Hoesen-Rd-A-Castleton-On-Hudson-NY-12033/442025286_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,150/mo",
+      "unformattedPrice": 2150,
+      "address": "1251 Van Hoesen Rd #A, Castleton On Hudson, NY 12033",
+      "addressStreet": "1251 Van Hoesen Rd #A",
+      "addressCity": "Castleton On Hudson",
+      "addressState": "NY",
+      "addressZipcode": "12033",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.51508712768555,-73.7112045288086&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=bEEM2XWLKiDkg0hJvH_rRGaSZZw=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.51508712768555,-73.7112045288086&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=LvObFfdKy0naQ7qjlexruugYsj4=",
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2200,
+      "latLong": {
+        "latitude": 42.515087,
+        "longitude": -73.711205
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442025286,
+          "streetAddress": "1251 Van Hoesen Rd #A",
+          "zipcode": "12033",
+          "city": "Castleton On Hudson",
+          "state": "NY",
+          "latitude": 42.515087,
+          "longitude": -73.711205,
+          "price": 2150.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2150.0,
+          "timeOnZillow": 709203000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442025286",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.51508712768555,-73.7112045288086&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=rahxOpCA7bbGj1iQFv4yxpeQgn8=",
+      "detailUrl": "/homedetails/1251-Van-Hoesen-Rd-A-Castleton-On-Hudson-NY-12033/442025286_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,150/mo",
+      "priceLabel": "$2.2K",
+      "address": "1251 Van Hoesen Rd #A, Castleton On Hudson, NY 12033",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.51508712768555,-73.7112045288086&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=bEEM2XWLKiDkg0hJvH_rRGaSZZw=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.51508712768555,-73.7112045288086&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=LvObFfdKy0naQ7qjlexruugYsj4=",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2200,
+      "latLong": {
+        "latitude": 42.515087,
+        "longitude": -73.711205
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442025286,
+          "streetAddress": "1251 Van Hoesen Rd #A",
+          "zipcode": "12033",
+          "city": "Castleton On Hudson",
+          "state": "NY",
+          "latitude": 42.515087,
+          "longitude": -73.711205,
+          "price": 2150.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2150.0,
+          "timeOnZillow": 709203000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 709203000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "441952043",
+      "id": "441952043",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "34ej05sdtb0r8",
+      "imgSrc": "https://photos.zillowstatic.com/fp/15febc1f21c75948894f052743f10fab-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/17-Willis-Ave-B-Ravena-NY-12143/441952043_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "17 Willis Ave #B, Ravena, NY 12143",
+      "addressStreet": "17 Willis Ave #B",
+      "addressCity": "Ravena",
+      "addressState": "NY",
+      "addressZipcode": "12143",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 999,
+      "latLong": {
+        "latitude": 42.474037,
+        "longitude": -73.805504
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441952043,
+          "streetAddress": "17 Willis Ave #B",
+          "zipcode": "12143",
+          "city": "Ravena",
+          "state": "NY",
+          "latitude": 42.474037,
+          "longitude": -73.805504,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 999.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 949424000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-21 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Blue Island Homes",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/15febc1f21c75948894f052743f10fab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02cd67f57dad9e84159165d160a6dc69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee0df6f9de6ecb9eb79cd90ab8fd2cea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7d51abe81ad3aadcc22fcf7807263cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81902957ff948d8c31ea56e6475d17c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/245cc3774af3bf6c1272bfd66e85ca23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c98a0b5c04c1616d0edd4972c315a84-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9164c8d349141bbbdc55f08d6ab897a-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442143684",
+      "id": "442143684",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "59wkjb3ydnc9x",
+      "imgSrc": "https://photos.zillowstatic.com/fp/27ca505a50f25c23cddc5f025cb6cb11-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/96-S-Main-St-2A-Castleton-On-Hudson-NY-12033/442143684_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,050/mo",
+      "unformattedPrice": 1050,
+      "address": "96 S Main St #2A, Castleton On Hudson, NY 12033",
+      "addressStreet": "96 S Main St #2A",
+      "addressCity": "Castleton On Hudson",
+      "addressState": "NY",
+      "addressZipcode": "12033",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.527172,
+        "longitude": -73.75769
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442143684,
+          "streetAddress": "96 S Main St #2A",
+          "zipcode": "12033",
+          "city": "Castleton On Hudson",
+          "state": "NY",
+          "latitude": 42.527172,
+          "longitude": -73.75769,
+          "price": 1050.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1050.0,
+          "timeOnZillow": 281644000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-29 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Miranda Real Estate Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/27ca505a50f25c23cddc5f025cb6cb11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/927b0f0120ca624bf1c6a1b8a8b45911-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2716db3a8af115f8c4fd952e88b7c44f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8916793c22d1986d8f6d743d1ecff3ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/505e2c0426aedf8df5d4041493b77b50-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cce4b6dacb97ac2172b84a1fd372e18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7f9fa4a31969f6f75c45fc61829f1c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa70641844656bff7da6845e7f94bb56-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/494cec8f61aa31e280d0b5e70538708b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2082894184",
+      "id": "2082894184",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "433h3ujva3w03",
+      "imgSrc": "https://photos.zillowstatic.com/fp/166fdcc33edd48e87b0ac73bcebe22d5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1615-Maple-Hill-Rd-2-Castleton-On-Hudson-NY-12033/2082894184_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "1615 Maple Hill Rd #2, Castleton On Hudson, NY 12033",
+      "addressStreet": "1615 Maple Hill Rd #2",
+      "addressCity": "Castleton On Hudson",
+      "addressState": "NY",
+      "addressZipcode": "12033",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.525307,
+        "longitude": -73.68512
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082894184,
+          "streetAddress": "1615 Maple Hill Rd #2",
+          "zipcode": "12033",
+          "city": "Castleton On Hudson",
+          "state": "NY",
+          "latitude": 42.525307,
+          "longitude": -73.68512,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1465,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 518474000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/166fdcc33edd48e87b0ac73bcebe22d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f0e7039551abe41fa64c081cc5dad63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23e37a1afbc579a293fda39f174c6421-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8c1afc062ced1564b1d06914f59b977-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a5056e0cbdcdfa556cb05c11273920b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1bb7013c8085c4f11836859ef53339cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b42ed6c4a7b57b96c295d984b866bdce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84c50364062b5fd367ecfd8ab5eec394-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ca7693948fa3ab37a5e1b6f606517c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/000207135b2083933c1d351703ec1c0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/806e28e0ac354f3848ce0410cd5934da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1922d6582024c498f44e3fd044891918-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26667d52db0fcc0cbc975e2cab6dfa3c-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442184839",
+      "id": "442184839",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1p2e7y72gwg0t",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=JW2XsHj_mcCUWh23Jq2GDgzC2kk=",
+      "detailUrl": "https://www.zillow.com/homedetails/3033-3035-Main-St-4-Valatie-NY-12184/442184839_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$800/mo",
+      "unformattedPrice": 800,
+      "address": "3033-3035 Main St #4, Valatie, NY 12184",
+      "addressStreet": "3033-3035 Main St #4",
+      "addressCity": "Valatie",
+      "addressState": "NY",
+      "addressZipcode": "12184",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=0jutCr0rUkCLKk-9OGy32mUcTTg=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=akygkZqPJrDWeuD5HRrj31JYmBs=",
+      "beds": 0,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.41343,
+        "longitude": -73.67545
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442184839,
+          "streetAddress": "3033-3035 Main St #4",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.41343,
+          "longitude": -73.67545,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 191401000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-30 00:00:00",
+      "relaxed": true,
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442112163",
+      "id": "442112163",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "b5j5g6taksaa",
+      "imgSrc": "https://photos.zillowstatic.com/fp/851d6905f33174b43afecda19646d33f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3011-Main-St-3-Valatie-NY-12184/442112163_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,700/mo",
+      "unformattedPrice": 1700,
+      "address": "3011 Main St #3, Valatie, NY 12184",
+      "addressStreet": "3011 Main St #3",
+      "addressCity": "Valatie",
+      "addressState": "NY",
+      "addressZipcode": "12184",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1050,
+      "latLong": {
+        "latitude": 42.413612,
+        "longitude": -73.678116
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442112163,
+          "streetAddress": "3011 Main St #3",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.413612,
+          "longitude": -73.678116,
+          "price": 1700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1050.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 432052000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/851d6905f33174b43afecda19646d33f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfaca6e16f495cb9c9eab090db09b836-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bef91d576e9925afc7221fd00522de02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d55149f572d8568ad47332d1b8d704f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85b97eb55eb6211fc9445b8462ce3565-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d31550f61c9810b9bbac12a8874f8fcd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f4a4ac0def746b347e44fd40847c70c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d362c958abe55619a49e6bd0b5c4e52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed6219e84386711119f1aa24f7ae8966-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e68fddb5fe39212067ab254da600be8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/258336d1416edbd081626e1589f1f51c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dd8fb652f425db1961fa4cacffe57b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84568a5db4c398c7b696f8d0fc7a70f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/911932e6fa68d44dca0b9e2b893efe34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ac65c328a79bc2ff1dbedc7cd6435b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7677cd99ea342bbd45cf7470a8dcee0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fb55cdb410c0373722cf5d9bffb7d99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d07976d94d4b67d9f0ec5e0c60d5e1c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2099adbd1a42bdb80203dc7366be533c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54e9f7c3d33eec04f6117db258c2fc10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d65ce65179f8ce6a4b43b98b007e3839-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4e19b134cb7eccd91d60a3d3de82d1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d81fe36651fcea26a3d88ad48b4e5562-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88bfbbee53e9b27383acad72f01fa1d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ff388a2917fd39ae57a8dd9b70d83b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/640c7a007cede5166d68ae5f793bf1e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d90fec06c2683fa205c67a8a03a539c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a26371d6137e170985cc76489b1048d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69c6e3f7b910d6ba137277b534441661-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78b2db20b06da4b47e6c35b64618d1a6-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "421330924",
+      "id": "421330924",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1f3pj30z9jdjw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/deddd35fa0c2ac96a5df8d516cbccc03-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/975-State-Route-144-New-Baltimore-NY-12124/421330924_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,950/mo",
+      "unformattedPrice": 2950,
+      "address": "975 State Route 144, New Baltimore, NY 12124",
+      "addressStreet": "975 State Route 144",
+      "addressCity": "New Baltimore",
+      "addressState": "NY",
+      "addressZipcode": "12124",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 1992,
+      "latLong": {
+        "latitude": 42.450768,
+        "longitude": -73.78915
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 421330924,
+          "streetAddress": "975 State Route 144",
+          "zipcode": "12124",
+          "city": "New Baltimore",
+          "state": "NY",
+          "latitude": 42.450768,
+          "longitude": -73.78915,
+          "price": 2950.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 1992.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 329600,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2950.0,
+          "timeOnZillow": 1038074000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 329600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/deddd35fa0c2ac96a5df8d516cbccc03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb18a9b0ff4d6d8bc661415aec4144c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c1a78f56ed08d59a1a7309eaebb635a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97bcb856992834be0796a8bdedeef3c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b534072213ada69cf52a3736dbd7e3a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2361e0af282c03f1be852e7242fe5b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ef74eeecb1901d847a329c7f07d8b2c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4f7885d13e257027247331d6dd20363-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7e750f30b0b7aa35f232a125cf8cd7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70b935240ae9b480c3f0fa0f2a20f2e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a790074adfd4bb53d32596f18622b8b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7ce4458da2b801648f153d794574b48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6aacccad0eeb12b0c44ba3c204c3c922-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecec3e7b64a6c010fb8903ed3c2b4ac3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3060cf78bfe340a96debc6e64563aa7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f71040732fe64e174945f83cf95421f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/393925dfda152b8ac892142aabd043b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d413461903d16d1040c954b46b1c2288-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9f054ba372b10b27fc023e01e0aebdb-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.473663--73.79084",
+      "id": "42.473663--73.79084",
+      "providerListingId": "21mf8vdsq1qek",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4e19ab34957aef9475af2ec02f96056a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/14-dock-street-coeymans-ny-5Y6Ykf/",
+      "statusType": "FOR_RENT",
+      "statusText": "2 bed, 1.0 bath, 785 sqft, $1,600",
+      "address": "14 Dock St, Coeymans, NY",
+      "addressStreet": "14 Dock St # 2W",
+      "addressCity": "Coeymans",
+      "addressState": "NY",
+      "addressZipcode": "12045",
+      "units": [
+        {
+          "price": "$1,450+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,600+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1003612593,
+      "latLong": {
+        "latitude": 42.473663,
+        "longitude": -73.79084
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "2 bed, 1.0 bath, 785 sqft, $1,600",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e19ab34957aef9475af2ec02f96056a-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 5,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "2089064811",
+      "id": "2089064811",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "q8ynpcfhg3ft",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cfc6150082befdd951e54304c874d726-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/86-main-st.-coeymans-ny-97sfNC/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "86 Main St., 86 Main St #2, Coeymans, NY 12045",
+      "addressStreet": "86 Main St #2",
+      "addressCity": "Coeymans",
+      "addressState": "NY",
+      "addressZipcode": "12045",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.473698,
+        "longitude": -73.792114
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2089064811,
+          "streetAddress": "86 Main St #2",
+          "zipcode": "12045",
+          "city": "Coeymans",
+          "state": "NY",
+          "latitude": 42.473698,
+          "longitude": -73.792114,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 35,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1278,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 3087566000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Blue House Companies LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfc6150082befdd951e54304c874d726-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/330a4a774e38d765cfca81ba0d3ea226-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac9f72d7e8ecc82451bcd6fa0303764a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a76fcd781d5692b4e638f46e41a07ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31db523e60a551956e82bfe64ddee0fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56ebddd63c357dd89051ecf356d82a0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5693130d765878c1aec3b94e86269365-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/758fb94d88c4f9973b8872ee49cd5922-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b94e40b86bdc68a1db499abab88a401f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5dcaec1ea29ec2ea538c18712ebd762a-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1ea2b452",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "173aa0d6"
+}

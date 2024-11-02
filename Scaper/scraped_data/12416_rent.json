@@ -1,0 +1,433 @@
+{
+  "listResults": [
+    {
+      "zpid": "2053089071",
+      "id": "2053089071",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1haxfgnwgkwng",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2b94b28665498d31c320d3732134d469-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/49-Main-St-2-Phoenicia-NY-12464/2053089071_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,050/mo",
+      "unformattedPrice": 2050,
+      "address": "49 Main St #2, Phoenicia, NY 12464",
+      "addressStreet": "49 Main St #2",
+      "addressCity": "Phoenicia",
+      "addressState": "NY",
+      "addressZipcode": "12464",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.08346,
+        "longitude": -74.31489
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "31 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053089071,
+          "streetAddress": "49 Main St #2",
+          "zipcode": "12464",
+          "city": "Phoenicia",
+          "state": "NY",
+          "latitude": 42.08346,
+          "longitude": -74.31489,
+          "price": 2050.0,
+          "datePriceChanged": 1728543600000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 31,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 304900,
+          "rentZestimate": 2260,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Oct 10)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2050.0,
+          "priceChange": -150,
+          "timeOnZillow": 2759231000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 304900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices Hudson Valley Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b94b28665498d31c320d3732134d469-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7980a0e6a18f0b444749a2020cd8de41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d9b0c7e5b5a79eeef4e833730a2ad93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03ea0da12068ceb0451a6eeaad5f96fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a40e61b06a5a0aeb3d5a461ff898dae4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc8bb5da7013b3be19f05d1679b67aec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea521c0060161b61d7e813917be1c131-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62464f26665554dda1d17f51defbd732-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d51d3fedb71cdd4836bc455269b2a7fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b86d2322389893344a23a87b6a902621-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbda456986513372c5e7a6032cfa3f1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bad48247aaa348ba5f8e84583cab9293-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f1cc35349902c3e8f05914311dfbb33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0262de2fb5b5f5d90dc9561b79f3c459-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d14ee91f5056a61d2339e626e54dab3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d4fd047e82cb42dadebde6c0c4a6139-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ae7d95cfaf75b43b074f654420b8970-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f874efa40f214c5efebf25ba167585b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f2e3497853f4e8d2a2beee99892e827-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41464a21752771a09cf714fa06db0d4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8a54da16857d678dc785a10cc510da0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9394f095a357392c487bf19704b313c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4ef97bae286f448b6f1bef1fd0578e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7351b2384caeafcf8ac5e350ef059012-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4aa804c8c4c0e488965545995112567-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bbb70c14f20695d0960001d7182fd7b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2053089071",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2b94b28665498d31c320d3732134d469-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/49-Main-St-2-Phoenicia-NY-12464/2053089071_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,050/mo",
+      "priceLabel": "$2.1K",
+      "address": "49 Main St #2, Phoenicia, NY 12464",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.08346,
+        "longitude": -74.31489
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "31 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053089071,
+          "streetAddress": "49 Main St #2",
+          "zipcode": "12464",
+          "city": "Phoenicia",
+          "state": "NY",
+          "latitude": 42.08346,
+          "longitude": -74.31489,
+          "price": 2050.0,
+          "datePriceChanged": 1728543600000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 304900,
+          "rentZestimate": 2260,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Oct 10)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2050.0,
+          "priceChange": -150,
+          "timeOnZillow": 2759231000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices Hudson Valley Properties",
+      "timeOnZillow": 2759231000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "32872638",
+      "id": "32872638",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "hvwz4amd2d2f",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9ba762ae5041a96a8d1e53b7d16d0a48-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/683-Woodland-Valley-Rd-Phoenicia-NY-12464/32872638_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,950/mo",
+      "unformattedPrice": 3950,
+      "address": "683 Woodland Valley Rd, Phoenicia, NY 12464",
+      "addressStreet": "683 Woodland Valley Rd",
+      "addressCity": "Phoenicia",
+      "addressState": "NY",
+      "addressZipcode": "12464",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1450,
+      "latLong": {
+        "latitude": 42.058804,
+        "longitude": -74.332634
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32872638,
+          "streetAddress": "683 Woodland Valley Rd",
+          "zipcode": "12464",
+          "city": "Phoenicia",
+          "state": "NY",
+          "latitude": 42.058804,
+          "longitude": -74.332634,
+          "price": 3950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1450.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 539900,
+          "rentZestimate": 3432,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3950.0,
+          "timeOnZillow": 2662930000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 308664.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 539900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices Hudson Valley Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ba762ae5041a96a8d1e53b7d16d0a48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51b025973ef89097675fd626225473ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3145549c63ecd63e2c63a5948e362e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f66aff810f232f8bb2c25ea46ad5eb41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc062f9d4d343bc3a1b02e802aa9b9ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10225d83c0bd19c3cc18bd729ac11cd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a75ee0a5733e32e9371a317efe90f3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a431b96aa95fd560ac0918ff31729ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51d028d7602a04e43b0d403e097416c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8a75dadf4d577b94816194b9bd30adf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85552a6b0b492cf068cf2aa5084aaa2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1da30bc4119b04482b3c99f98ca6dd16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a07af95cff5d27e6e7ea5abd476fbc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9cd97d28ccfd7c0d2e46f79148e9200-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7e7dd57a2e5999df8db515b366b9abe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3b94c5857f1090d51611eca9d4a7a31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1691eac0982e667e5ac2d29cd4efdd91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5884fdc20b00fb7b3d8826cce319e62c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4354f9d924e222786c54911e14891cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/776b7cbb643c909e420b9e458c5d15bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20684a210e1930d38b1fb405ad5abd64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc36281dd4d627b1410a8fd93d90eae3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10c430c2a1def692b29a997efd179b94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8455b999fabfa8edabbbc17f18af1ee8-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1c3e994c",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "69817e66"
+}

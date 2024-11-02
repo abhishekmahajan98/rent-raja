@@ -1,0 +1,135 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "440016280",
+      "id": "440016280",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "52dddndnx87zx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ab72982a1f77f2f8708616cadf99527e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8-Valk-Rd-1-Saugerties-NY-12477/440016280_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "8 Valk Rd #1, Saugerties, NY 12477",
+      "addressStreet": "8 Valk Rd #1",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 42.161976,
+        "longitude": -74.00905
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440016280,
+          "streetAddress": "8 Valk Rd #1",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.161976,
+          "longitude": -74.00905,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 755496000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab72982a1f77f2f8708616cadf99527e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1eb85439d7bbb4338fd0cbb1d0711d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d6c04aefa46b02221dc5252064e488e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d52a648aa2bca065879eca5fe3e65ae0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d787e64c2bf79d9b61d690f1d3890b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2dd3193476808fbdabea2133fec43cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2d99d5c13b3404ad6d1ad2458c2f989-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1e1414a97420b366034504b70a4b405-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a82e2069cc91d8ddb529c716fa1023e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6551f1ee0b5425ba76666a027bb0d4de-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "77833204"
+}

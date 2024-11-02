@@ -1,0 +1,546 @@
+{
+  "listResults": [
+    {
+      "zpid": "2082569109",
+      "id": "2082569109",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ap7d708rcpha",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8c7d18b4e0a050c50acece22604b2462-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/13-Suzanne-Way-Willseyville-NY-13864/2082569109_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "13 Suzanne Way, Willseyville, NY 13864",
+      "addressStreet": "13 Suzanne Way",
+      "addressCity": "Willseyville",
+      "addressState": "NY",
+      "addressZipcode": "13864",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 896,
+      "latLong": {
+        "latitude": 42.329178,
+        "longitude": -76.443695
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082569109,
+          "streetAddress": "13 Suzanne Way",
+          "zipcode": "13864",
+          "city": "Willseyville",
+          "state": "NY",
+          "latitude": 42.329178,
+          "longitude": -76.443695,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 896.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 84000,
+          "rentZestimate": 1644,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 363587000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 84000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-28 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Re/Max In Motion",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c7d18b4e0a050c50acece22604b2462-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6091b3e30911dd7b19032d84fe4f5ec8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ed38913dc458eb3104348f49ff9f1c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7cc26e351f860aa8a589a1e8ac6c5ac4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e7d06e919140739c50d7498fec9858a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52a0c0e6fc04985c7d0c73d34c3eecf0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f140b6115f3236242e6e25dc4ecec45c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75e0eed660cdf0f16ee026686d412de7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21672ef352e0a038462586dfde57e079-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "439738636",
+      "id": "439738636",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "cueac1fbtsa5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/56bf8deded8b13b708ddc49baa7a4457-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/91-Main-St-1-Candor-NY-13743/439738636_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850/mo",
+      "unformattedPrice": 850,
+      "address": "91 Main St #1, Candor, NY 13743",
+      "addressStreet": "91 Main St #1",
+      "addressCity": "Candor",
+      "addressState": "NY",
+      "addressZipcode": "13743",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 42.229336,
+        "longitude": -76.339806
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439738636,
+          "streetAddress": "91 Main St #1",
+          "zipcode": "13743",
+          "city": "Candor",
+          "state": "NY",
+          "latitude": 42.229336,
+          "longitude": -76.339806,
+          "price": 850.0,
+          "datePriceChanged": 1728457200000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Oct 9)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "priceChange": -50,
+          "timeOnZillow": 1984792000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/56bf8deded8b13b708ddc49baa7a4457-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9293318c872dcf54aaec979cfe9ccb6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6caa4f27603c4353b3fac4d1a92db712-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1245ea0909ac92248d5fb701bd36363a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/450f6318aeab0108fe8157e21dfda1b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c117772525fda8289d71cc08b8022d97-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2082569109",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8c7d18b4e0a050c50acece22604b2462-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/13-Suzanne-Way-Willseyville-NY-13864/2082569109_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "13 Suzanne Way, Willseyville, NY 13864",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 896,
+      "latLong": {
+        "latitude": 42.329178,
+        "longitude": -76.443695
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082569109,
+          "streetAddress": "13 Suzanne Way",
+          "zipcode": "13864",
+          "city": "Willseyville",
+          "state": "NY",
+          "latitude": 42.329178,
+          "longitude": -76.443695,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 896.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 84000,
+          "rentZestimate": 1644,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 363587000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-28 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Re/Max In Motion",
+      "timeOnZillow": 363587000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "439738636",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/56bf8deded8b13b708ddc49baa7a4457-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/91-Main-St-1-Candor-NY-13743/439738636_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$850/mo",
+      "priceLabel": "$850",
+      "address": "91 Main St #1, Candor, NY 13743",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 42.229336,
+        "longitude": -76.339806
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439738636,
+          "streetAddress": "91 Main St #1",
+          "zipcode": "13743",
+          "city": "Candor",
+          "state": "NY",
+          "latitude": 42.229336,
+          "longitude": -76.339806,
+          "price": 850.0,
+          "datePriceChanged": 1728457200000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Oct 9)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "priceChange": -50,
+          "timeOnZillow": 1984792000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 1984792000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "442110876",
+      "id": "442110876",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "qqazs09yd34u",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2134e5bf67fe578987d3e004e9e1f48e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/301-Owego-Rd-3-Candor-NY-13743/442110876_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850/mo",
+      "unformattedPrice": 850,
+      "address": "301 Owego Rd #3, Candor, NY 13743",
+      "addressStreet": "301 Owego Rd #3",
+      "addressCity": "Candor",
+      "addressState": "NY",
+      "addressZipcode": "13743",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 42.218876,
+        "longitude": -76.329384
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442110876,
+          "streetAddress": "301 Owego Rd #3",
+          "zipcode": "13743",
+          "city": "Candor",
+          "state": "NY",
+          "latitude": 42.218876,
+          "longitude": -76.329384,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 448239000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2134e5bf67fe578987d3e004e9e1f48e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/336ee9f2c190f41b2f739a6fe27a9655-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d846b08f721f60637bc603953b9b88af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2080f107d98e0a276cebb486cf30e833-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/117e85bd61bd1d8dba0c7379cebf55bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aad8eee468ded59d81f59614aaaf5ce3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f4c5753e1eba6af8532e2f9151bb145-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4171758f91a1ed0766aff01842862108-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0daee30ce281b67c1e04f1c00eaf4fb2-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "19c97122",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1cfe22a8"
+}

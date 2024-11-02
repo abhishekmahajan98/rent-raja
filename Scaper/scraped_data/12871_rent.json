@@ -1,0 +1,1730 @@
+{
+  "listResults": [
+    {
+      "zpid": "2094952654",
+      "id": "2094952654",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "35ftrqe116msx",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=43.099510192871094,-73.58251190185547&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=6AwVTo89d_2Mj2dXi1ANm_KzP-c=",
+      "detailUrl": "https://www.zillow.com/homedetails/22-Church-St-APT-04-Schuylerville-NY-12871/2094952654_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "22 Church St APT 04, Schuylerville, NY 12871",
+      "addressStreet": "22 Church St APT 04",
+      "addressCity": "Schuylerville",
+      "addressState": "NY",
+      "addressZipcode": "12871",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=43.099510192871094,-73.58251190185547&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=8iSA3vovp0m62FdHDLM7TNJvwyU=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=43.099510192871094,-73.58251190185547&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=WsNQXa4G1QIAceU-DHOpEsTk3ZY=",
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 43.09951,
+        "longitude": -73.58251
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2094952654,
+          "streetAddress": "22 Church St APT 04",
+          "zipcode": "12871",
+          "city": "Schuylerville",
+          "state": "NY",
+          "latitude": 43.09951,
+          "longitude": -73.58251,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1503,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 882096000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 04",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-22 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "62645301",
+      "id": "62645301",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5a0cnky39cjz7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a8ac3c0bad63663158e5dca326fa7726-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/35-Morgans-Run-Schuylerville-NY-12871/62645301_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "35 Morgans Run, Schuylerville, NY 12871",
+      "addressStreet": "35 Morgans Run",
+      "addressCity": "Schuylerville",
+      "addressState": "NY",
+      "addressZipcode": "12871",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1380,
+      "latLong": {
+        "latitude": 43.102764,
+        "longitude": -73.589424
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 62645301,
+          "streetAddress": "35 Morgans Run",
+          "zipcode": "12871",
+          "city": "Schuylerville",
+          "state": "NY",
+          "latitude": 43.102764,
+          "longitude": -73.589424,
+          "price": 2400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1380.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 24,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 284700,
+          "rentZestimate": 2295,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 2080262000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 230219.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 284700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-08 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Realty ONE Group Key",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8ac3c0bad63663158e5dca326fa7726-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d6af9aa2f11f0eae88efe99cf434f78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61f028d8961233c4f401bcb0f287f871-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0e1a4ae73dbc9d76f2e7fcda3d1ed9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34127983ae020c45d2a47f1f1f49b98d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4fb38c21d4fb7ff59313c4822f84b876-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b65cac82544b246302339442f192dbd8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82b33b059c4bd6417944012cd85a08fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e6ed537b519da39464c384855c62122-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ffc53610fa293dd0da4e268ca5d6129-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc76f976a785c705a8006967f839595f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ac4d80930710eedbb52aa5e131a30aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7f0c27b4f8b590b9d98240e6fa40637-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0cdb84df8bfd3c7bde75c69169250bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c28585442d05d05b43ac2b48e832228-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67710e4d3a50e3e4cd6c8d911c73f348-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c738d9809c5e857e0071f2c8814d862-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80b0278fbc7cde0fef47fd8beaa9978a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf1127c6c9c10f4b6c84d73145e30841-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afc0926b7af7ab0175d8a1d1b7ea31c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52f25ba05195fdc3ae3aef34f8f06019-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2073928954",
+      "id": "2073928954",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "35guafqp6m4x8",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cbf06069ee39d91b5016944815e7a2fe-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/55-Church-St-2-Schuylerville-NY-12871/2073928954_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "55 Church St #2, Schuylerville, NY 12871",
+      "addressStreet": "55 Church St #2",
+      "addressCity": "Schuylerville",
+      "addressState": "NY",
+      "addressZipcode": "12871",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 43.101414,
+        "longitude": -73.58248
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "65 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2073928954,
+          "streetAddress": "55 Church St #2",
+          "zipcode": "12871",
+          "city": "Schuylerville",
+          "state": "NY",
+          "latitude": 43.101414,
+          "longitude": -73.58248,
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 65,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1383,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 5675380000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Veno Properties LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbf06069ee39d91b5016944815e7a2fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd335c00c29baf0aa3abe1b86db7da07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/141bc502fd6400987cf2850acd4b18e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c36edce932926fbbfe19afb6101bb563-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17614fb59b486e10c920bc88586668f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6cf216b96a99e0ce9093a59da6a2b9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd5ca5daefdf7c2f7d884fb0e18255a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29a2718dd699bd12bf5834e08e730c74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0577feda9bbf3750617ad97ae36cde1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba57a76e2c56db886df6e86409764a5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f351d6dc7dd97e9de2107f6b85758d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/964ac118b967b26038f25e4615542093-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec8f0946f51a38ddbcbd8e3a80b6c84c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8d12522a92fcdf5316ffd05ff25386d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/059ab375f6756568f3fd734b007ca160-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c65982dc326f61eb52b85c27f94feb25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/173dcd62a728f205828da7ce0607011a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7893dbf20a0f7370cb02fc3ff0f97cd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a42a203c33678cc3045643649a480d11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af83bcfa20df17f0153f219868f588cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3dd0d19cbd27b83a17466b33d3b224bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58f7449843daa8286b92a29db54c04be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75d4ea080dd710eecdc569fd97c427c4-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2094952654",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=43.099510192871094,-73.58251190185547&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=6AwVTo89d_2Mj2dXi1ANm_KzP-c=",
+      "detailUrl": "/homedetails/22-Church-St-APT-04-Schuylerville-NY-12871/2094952654_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "22 Church St APT 04, Schuylerville, NY 12871",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=43.099510192871094,-73.58251190185547&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=8iSA3vovp0m62FdHDLM7TNJvwyU=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=43.099510192871094,-73.58251190185547&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=WsNQXa4G1QIAceU-DHOpEsTk3ZY=",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 43.09951,
+        "longitude": -73.58251
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2094952654,
+          "streetAddress": "22 Church St APT 04",
+          "zipcode": "12871",
+          "city": "Schuylerville",
+          "state": "NY",
+          "latitude": 43.09951,
+          "longitude": -73.58251,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1503,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 882096000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 04",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-22 00:00:00",
+      "visited": false,
+      "timeOnZillow": 882096000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "62645301",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a8ac3c0bad63663158e5dca326fa7726-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/35-Morgans-Run-Schuylerville-NY-12871/62645301_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,400/mo",
+      "priceLabel": "$2.4K",
+      "address": "35 Morgans Run, Schuylerville, NY 12871",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1380,
+      "latLong": {
+        "latitude": 43.102764,
+        "longitude": -73.589424
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 62645301,
+          "streetAddress": "35 Morgans Run",
+          "zipcode": "12871",
+          "city": "Schuylerville",
+          "state": "NY",
+          "latitude": 43.102764,
+          "longitude": -73.589424,
+          "price": 2400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1380.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 284700,
+          "rentZestimate": 2295,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 2080262000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 230219.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-08 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Realty ONE Group Key",
+      "timeOnZillow": 2080262000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2073928954",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cbf06069ee39d91b5016944815e7a2fe-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/55-Church-St-2-Schuylerville-NY-12871/2073928954_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,350/mo",
+      "priceLabel": "$1.4K",
+      "address": "55 Church St #2, Schuylerville, NY 12871",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 43.101414,
+        "longitude": -73.58248
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "65 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2073928954,
+          "streetAddress": "55 Church St #2",
+          "zipcode": "12871",
+          "city": "Schuylerville",
+          "state": "NY",
+          "latitude": 43.101414,
+          "longitude": -73.58248,
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1383,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 5675380000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Veno Properties LLC",
+      "timeOnZillow": 5675380000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "32460676",
+      "id": "32460676",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "54r39pn33tamn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c8c3192a3d804273e1780734af41e879-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/101-King-Rd-Saratoga-Springs-NY-12866/32460676_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,995/mo",
+      "unformattedPrice": 2995,
+      "address": "101 King Rd, Saratoga Springs, NY 12866",
+      "addressStreet": "101 King Rd",
+      "addressCity": "Saratoga Springs",
+      "addressState": "NY",
+      "addressZipcode": "12866",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1600,
+      "latLong": {
+        "latitude": 43.135975,
+        "longitude": -73.67386
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32460676,
+          "streetAddress": "101 King Rd",
+          "zipcode": "12866",
+          "city": "Saratoga Springs",
+          "state": "NY",
+          "latitude": 43.135975,
+          "longitude": -73.67386,
+          "price": 2995.0,
+          "datePriceChanged": 1730271600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 37,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3061,
+          "listing_sub_type": {},
+          "priceReduction": "$255 (Oct 30)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2995.0,
+          "priceChange": -255,
+          "timeOnZillow": 3201005000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 311100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Green Springs Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8c3192a3d804273e1780734af41e879-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7bb025c7d70e1136ecc2987b95d6894d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b9924749e9d4cf08ae9d58d3518db69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3829e98aac7da62700e0de4c6d34f2d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6076e9b4344bddba4e23ab8d8ba560de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97e2bd6ff899ec70ff751f1f494c3831-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5215a950f87487ed21232471200113e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/418c7bcec3a30e91a80ac7e2243d397f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0a4c019b7aa8a3a5c0f965b0401f358-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/487cfe4d2070f31ad98cf1803a5a33cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64ea1336aa07b3d2396cad053bdb1b74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50f9028f3805269d2b80587fbbc41ca3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e67416b440b22ce90a58401de913aaed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/007d954b0454723a5eff63eeeaf24252-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a657fb5f54c7509b72d2a1c9d75293cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3eaa150644303bdea295c63b22e149d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f58aef76226fa77239abeb1a11d9d43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75eacaa150b7b68c2d36003a254a5968-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/593c783ff7ed197620874666d3451105-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53ecdedc14a8986c9b38540ba8686be3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74f09ef0c341f4cab93c10a5032a7e1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87238f5d914b5c97984e0cca41e04417-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a074604a3c156400dab2a381694cd0e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02c20cf7c537c28bf8147101e0743b89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98b3bd6642ff4f88c587d2818c2e337d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/770f979ccf927034dfe5c47f2604d77f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76720c44ea96a3cb1521e191239af7ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dd4ff424110d75f1b55a2384364cf3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d84ce5f6da98b76f8ecaa1fac7fb323-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/544db64a8e829ee1328754d50a673b2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de49a8bc6c1664187fd6f19669dfce2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/587f539be488ec7ff48273b8c458d88c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89702042f4fe5a3285745b0ba3a6b41d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78cf33c023940c837ee8eed801f1a301-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1abb69fbf955d756589767c07631d33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4625bad0e874da7c782eaeb41b061698-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dade63c6d21d5472e378a0f0ee6373b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b92af6b19afd133122e61862cb8abc0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa9d9cac009bedf00685180549c2254a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/499f49459b9438b2d2b20f5ff8a1b3f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/073b8cd8eb566c9617bf30a35fbae00a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0bf265e6318f5e10700d6c41be60de6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e76219f06b1d1cd7a9afdd6e154bd561-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e854b5d97100c39d272bf2ed67f6119-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f14242fa911c61f896bf9c1b32c78f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ae9d6f79abe90ea7587e34c69e8927c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ae004f77c0d8b03cbe8b2dd0687c30c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99f9e8766ddbc3317105c67bbdd55f4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33f2a105f33353c62fffc0decca8b847-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5caf1779ae456362464dd536cb6fffb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd5a936e4a79e34a0c6878ef31454d38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3e39bd27b595692d75679492f1bd762-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8488c387532633d9df90a425334baaf0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c728d8d80975ad93dec82965d4179173-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e341d51a7c2d85ea1dc4a9fc6c7dd1b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fed91dcc05653c508f9b56845476cba7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2f0b4d6780678a3c0d467cfdbda7480-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb610723ffeb7b5cef96e911adab260d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/264478ae7962e622ac0905429fcbbff6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00c7345fc5d9e16c2e2921f4f437a3bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00d4c7ee7fed076f1b64dce23a39a36c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae4d85c508d12a2e3b0a16e5be633065-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b7ec732cffd88d070d832ec7b076fa5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbf76f04252282d9949fc370b1032f6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98fabb2ad96cc19cee22f661644914d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf8c04ab3882a1b7070748fc316eeee2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/979e6b206e13df670209a51ceb96d4de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbaa5e97cf13d25981f4a03a7e601cab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd806b898a7a567b21001d670782685c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3ee63b6b5a375c7e0d82ac651121ae5-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440251540",
+      "id": "440251540",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "36y3nvb7rgg92",
+      "imgSrc": "https://photos.zillowstatic.com/fp/96412bbb35de6501c7b073c47388337f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/101-King-Rd-UNIT-B-Saratoga-Springs-NY-12866/440251540_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,395/mo",
+      "unformattedPrice": 1395,
+      "address": "101 King Rd UNIT B, Saratoga Springs, NY 12866",
+      "addressStreet": "101 King Rd UNIT B",
+      "addressCity": "Saratoga Springs",
+      "addressState": "NY",
+      "addressZipcode": "12866",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 43.13598,
+        "longitude": -73.67386
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440251540,
+          "streetAddress": "101 King Rd UNIT B",
+          "zipcode": "12866",
+          "city": "Saratoga Springs",
+          "state": "NY",
+          "latitude": 43.13598,
+          "longitude": -73.67386,
+          "price": 1395.0,
+          "datePriceChanged": 1728975600000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 50,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 15)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1395.0,
+          "priceChange": -100,
+          "timeOnZillow": 4378574000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Green Springs Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/96412bbb35de6501c7b073c47388337f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/038f6ec09c94b2f95e770bb07bf4178e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb559bc93cee07c1572a4456216e69f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4bcf060bcc0687c89ba825452c9d199-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4215e587c33e0f33811eaf6c25dfffaa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b647ecf6b6cce31b6f2bccb0965c758-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71027fd9c3c475c9e49601af7d027330-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27bc031f2936713a93219d2b14af6839-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f749568b6a32b7c311c62a2440f6e8e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed9fd0241b49a8e7e68fe438f91b2682-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b92c61936b1599bc4b8867999cbc0bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75d28d0ef8ac9d73412df026ad78131d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd3f622c2cc5cbcb39c279e477c8cce9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e5c765e5b702a26c736cce06906677a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bb4685a58e1df95606f0af3a16f121d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d55cb7223f14f0c3d13e9bd04c2348ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2beb7cd1d7096f7cb9cf6e07f6e391eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ffff4d9790e7a70b9ff63aabfd5b177-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24db74e429aff448ab892da071211998-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c2b2b1f5daa627abac62896ba4bf0e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/906ed046b6b9f36b070d260184f85849-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b63b72d5012f4bd98e4495cd346f0084-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/952c65c1bc2c335d5871beacdf4122f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/239e44211a690ad5354b4b10490c8c45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4910d9faf7a82c6cd61c23290cc75f61-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32449749",
+      "id": "32449749",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2b0m5xn9y79kw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/64a7d0c54126eb1b143223ece06b15d4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/20-22-Cardinal-Ln-Gansevoort-NY-12831/32449749_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "20-22 Cardinal Ln, Gansevoort, NY 12831",
+      "addressStreet": "20-22 Cardinal Ln",
+      "addressCity": "Gansevoort",
+      "addressState": "NY",
+      "addressZipcode": "12831",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1022,
+      "latLong": {
+        "latitude": 43.18012,
+        "longitude": -73.65505
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32449749,
+          "streetAddress": "20-22 Cardinal Ln",
+          "zipcode": "12831",
+          "city": "Gansevoort",
+          "state": "NY",
+          "latitude": 43.18012,
+          "longitude": -73.65505,
+          "price": 2000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1022.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 396200,
+          "rentZestimate": 1928,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 190839000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 335714.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 396200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/64a7d0c54126eb1b143223ece06b15d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56fabcf414130bd2f0eaa47284f615c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4970e021393fb3cd55c5968b3030927d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b2cdf3d27f2d1d5febb51d1a7fe135c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/212e53b6f850b00b71b4ae9ac9a805cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df9a48301e7571eb0788fe3542df8f64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8495d3525d4d717b988df8567ada4038-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ee1a2adc6c3291d491d46abbec4cfe3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbcef0fc021273811680595ff19b81aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51f3b65ce5f0242c9da5974a80b47bb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/059f33cbf14c1f4b82687f8e4de1afbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56293b6b3b17f3284855dc7cfdd4c05f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a154e5ab9e963c85ad38e73b8b4dfe4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89e5f9a2a487e5c586524870015c2496-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b358718629356b5f5e4724682cb005ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad6d71d3c90788c6e100b2adae0f87e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a231efcf7df3dc5c09863e6ae6d9fa0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c629340d1d07bc0637b7324c944a6c67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8f7c33e17315f2ad6bd3bf3971c31ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de2b1486361b2c2e2526b1a6a661e90f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bffbb7b8f0f672f428977b5f9a3e2aaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/269485d15f79b5165e9139527d6ac4af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5829d2e974243ab443eb960d007a7682-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3a7a10504f725ec1bebc1ce2ea848b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/180df6901698fecf15656ebb998a5c40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3da0b06242dd214a20baa0432d9d1565-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/492141bdc43404d87f447f67d7a933ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cb89fb93c22cef0cf2b0b557d251b53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c15fb44591e97958bda056de75eebf51-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442112889",
+      "id": "442112889",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "468f3s35pc4fa",
+      "imgSrc": "https://photos.zillowstatic.com/fp/aab8a91c19b20bd47e3dc7ec6636cc3d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/11-James-Ct-2-Gansevoort-NY-12831/442112889_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "11 James Ct #2, Gansevoort, NY 12831",
+      "addressStreet": "11 James Ct #2",
+      "addressCity": "Gansevoort",
+      "addressState": "NY",
+      "addressZipcode": "12831",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {
+        "latitude": 43.15929,
+        "longitude": -73.66833
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442112889,
+          "streetAddress": "11 James Ct #2",
+          "zipcode": "12831",
+          "city": "Gansevoort",
+          "state": "NY",
+          "latitude": 43.15929,
+          "longitude": -73.66833,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 424182000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/aab8a91c19b20bd47e3dc7ec6636cc3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f47b48a800090f54de08e30551491e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/172e262b1be2bd38802a529256e05266-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9437c301e2c9bae50a28630791f0952-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a2f94368b396186fa532f7b687327eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a03ed24d012d4957cfc0a97871aa97bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/178ea36ac7b4c9e30d95c5c10f6e05cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a90e24692c8eaa3e977081370d39f5c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7fe9a312f30bfa9d4d400a4c44ed80a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/feb4391f6cb16d099101ce136e0b0955-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8d3f6b3974597bd96ea3b76c7ed447a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1bbf3e6d57871edc243285d634a061f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ff29c52f531632905d49726ee9e8259-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce3c60eb34e4ef231410477f155d69ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2170928c936c214566c1d64c48b64943-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e262b1f7fa66fccb90f1ed5e494d80b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01c4f8aefc19f5cf951d82bb184e83ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfbaf0191f78b9c87841e8637c2c0386-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/197d96815acb1e3349cf64aa32e07d2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98e5a2946f5d5054a7ebb6a8eb0a0545-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f025c72bc5c94c28f93855d84fdc673-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f494f084813ab6ee2543b66068dfb008-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2703677f47fa003c24151d1513dda5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2daa3320976ec69453a1a21640781f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f47b5c60c1d4dd9d050cd7ec45bb0350-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "80208099",
+      "id": "80208099",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4gu43xvuashu1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2dd67309c9ffbed422db9221825ed22a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/22-Kendrick-Hill-Rd-Saratoga-Springs-NY-12866/80208099_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "22 Kendrick Hill Rd, Saratoga Springs, NY 12866",
+      "addressStreet": "22 Kendrick Hill Rd",
+      "addressCity": "Saratoga Springs",
+      "addressState": "NY",
+      "addressZipcode": "12866",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 4.0,
+      "area": 3000,
+      "latLong": {
+        "latitude": 43.11542,
+        "longitude": -73.67561
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "82 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 80208099,
+          "streetAddress": "22 Kendrick Hill Rd",
+          "zipcode": "12866",
+          "city": "Saratoga Springs",
+          "state": "NY",
+          "latitude": 43.11542,
+          "longitude": -73.67561,
+          "price": 4500.0,
+          "datePriceChanged": 1728025200000,
+          "bathrooms": 4.0,
+          "bedrooms": 3.0,
+          "livingArea": 3000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 82,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1000200,
+          "rentZestimate": 4763,
+          "listing_sub_type": {},
+          "priceReduction": "$250 (Oct 4)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "priceChange": -250,
+          "timeOnZillow": 7156807000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 686100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1000200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Blake, REALTORS",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dd67309c9ffbed422db9221825ed22a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9857af82cc53d79a0c1ab7ca88c6c216-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf81bd37aa5c88d3f4eac9691cc2db2c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9eafc0489ed41df88b76e023b8d15f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/598bd7a67f6b7b40a09599a8e52f8b28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/844be1efe27be8af5cfcd53dcb815542-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0720e9776fc4ad6471e4e219624eef9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1480c93f9e10b3dd08316ae93ca5acd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/777ee705641b13359021a6752f578f24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24d1ed1e94d7d7e971fd8c16b883d585-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9688ddd6de27833c27a62704ab803fe0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96fc2a6f44aac8a44d2cf7952b2fbc65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1248c785cfec203fa6d2d5985e6ddbbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14c486706182b9dc30e12ad0d4b85849-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1660717e6f956a244fe4feccf1edfba9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62dd96ebc4f04c20dd8513b58563c156-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b8e7f8a53b695767c814c8f50a91c7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/439a0ea4abc2920cab2e75cb48a977bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9571d348dd0a55652cf3d1e35307e30e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afd42f4a1755d3cdaa3ae82730f27165-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/140065410563a7691bcac74a59bf0d9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4408ac03cefc1c36cbb5fa08de5a393d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47497487ae9312d42645418afb30c616-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ebbe211cff9bd7164878a5f40e0cb2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e87c5aa26bf14cd1e2cbf83562ba0fc8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b310a847d6617cd06d02fc7ad962066e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec17b51f8d2827e0e187b362980ebcf2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f15028b1b9fb77b47b9176fde0faa3ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7e44a4737890e925c144d21be849f5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/107b14f279beb0687fd4228e267d855c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c3d43d7759900d9ae6ddfec3a1b97b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa894fbea03faa7a0110afad7d006d7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d398607446c67d3f0e1a4ee7d8e659fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6474eb77f8e308ae88874fde5e0425c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79e09ec3e81849e7e21152800562a681-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf3387b53a88858fa859690b07e31118-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb9c7f78efe4af9e919fe51e0d5a9388-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c87af0ae5bea9eee0166266c493f713a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76f07775f5ce7a3e62cf18d41814e382-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1318402ddba146a3135e4873975a6f3-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "324a5511",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "6f324f49"
+}

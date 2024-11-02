@@ -1,0 +1,1395 @@
+{
+  "listResults": [
+    {
+      "zpid": "32396042",
+      "id": "32396042",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5hdxzfnszxdzn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/861541d64609275109ab1c51fc520f3c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Tappan-NY-10983/32396042_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "(undisclosed Address), Tappan, NY 10983",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Tappan",
+      "addressState": "NY",
+      "addressZipcode": "10983",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32396042,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10983",
+          "city": "Tappan",
+          "state": "NY",
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1682,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 3432525000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/861541d64609275109ab1c51fc520f3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b940d40e23383d8a713c03bf8eb5c58a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67265e56386e787a7441a87ee203bb40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5d7193e8812a6674c770e5c51e82e30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a830df8497354820003fc259bfce0f91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b14c6f71a9fdfa2fa4804d5779b533b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22b70253d3f4eee561a12c1413149b9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31736b69e3e359b8d87e2a84b06cc346-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a9e7a6fd9d6a3f31529be5145df368d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95b54cf41c2895e6b1a6a4264d2e2cbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64e749622f41c0817886dcbe1a19a60e-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "41.015785--73.98206",
+      "id": "41.015785--73.98206",
+      "providerListingId": "2d407ravy9ewh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3ae5d1ab875cdfcef9ecfe5608170586-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/old-tappan-nj/park-and-arbor/CfvPfV/",
+      "statusType": "FOR_RENT",
+      "statusText": "Park & Arbor",
+      "address": "18 Park Ave, Westwood, NJ",
+      "addressStreet": "18 Park Ave # PKA-1318",
+      "addressCity": "Westwood",
+      "addressState": "NJ",
+      "addressZipcode": "07675",
+      "units": [
+        {
+          "price": "$3,200+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$3,600+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$6,200+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2731974640,
+      "latLong": {
+        "latitude": 41.015785,
+        "longitude": -73.98206
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "SPECIAL_OFFER",
+        "text": "Special Offer"
+      },
+      "isSaved": false,
+      "buildingName": "Park & Arbor",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ae5d1ab875cdfcef9ecfe5608170586-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab5b8745970987064e0280a7d0b9fff4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00bbf287c4cc17e699a975bbf9a44266-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e8e861dfd9e62b37c80afaa8eb559c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cbcb55a1cc4cc80fd45c9104b5725e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e81f471d2cbb8a7541f9acfaf422db4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c8ae9419cd310f6072e5d4af1a2041c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d01bc851a5b902e79dbd3146039c4558-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e29c5e118b70c61fe5fc8627a9db8a07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f7c7d4e739c1b769cde129d8235288c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9afebaba6a50bf03ec509c7d312792b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7286fc342c59d6d63514c406468a8ba5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a21fe4ea6eefad7509ba211f793392c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/830b4a20b9a043a72974c9466f6e5c8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d56434463c1bb2af9614c49c142d56d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60dd441a656305b75188cb995ec7814a-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 23,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyPremiumPlusPackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "41.011627--73.97781",
+      "id": "41.011627--73.97781",
+      "providerListingId": "52mrcnvwj5g9t",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8f3a1b610683b7cea3d0794b1132b74a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/old-tappan-nj/aida-old-tappan/CcTZVh/",
+      "statusType": "FOR_RENT",
+      "statusText": "AIDA OLD TAPPAN",
+      "address": "147-155 Central Ave, Westwood, NJ",
+      "addressStreet": "147-155 Central Ave # 09b147611",
+      "addressCity": "Westwood",
+      "addressState": "NJ",
+      "addressZipcode": "07675",
+      "units": [
+        {
+          "price": "$8,300+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2717995636,
+      "latLong": {
+        "latitude": 41.011627,
+        "longitude": -73.97781
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "AIDA OLD TAPPAN",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f3a1b610683b7cea3d0794b1132b74a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f2e7bfa432c741a843957442a1f5fa8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2432d8417ad73aea1b70ffc605bd7d6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7684434a96ef676b040e634447a00d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e87e6dab91de6a154297c266d1e94fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e82a8ca1653a762d10853b964e9797e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/747062010f4824d22c00350bca48a357-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/320d91b496c42cbce48f2c8a10988efd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/daba5c578736228999fc14c232140a31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3e159b3e686d954fecef2dcd4682264-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35ebe2dc8cb459ee039a9c250e1b0162-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36ec936259ab6a2d87c7b051e0db063b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/833cb7df1302603f3b424bf7f9d404ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cc9f7b16c3b47d21dc5b5fd43802730-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b61c616cd80d5a74970a50bd5cd0b5d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2c07214c994d5854a3d2ae50310991c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c1292a835880596e3f41f15454f32d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2620f02bb1b0a2ecfeb5ad3fb2d0eaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/697b93a8c4bb47b0781161a3f6d4806d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d21365a8145f28d25586bff2d18686e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/791d94e296f0e79a91591737319887bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a98d5f08b3c8c374c7c41d904f72298e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/025d270e1d1d176400f514c1bb4fab9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3e1cd9df106cbb5953dda0bb59273de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6b0e0345855509dca1f061745b0e499-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c41144f051d2585d65a82db79f889b65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/373ec549cda15cec4df69f239a15639a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa7f8aed619030a2a17835b8bfc759f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcfe95535509b4396f38947f1e6bcef2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d998d95571c57d82004549c19be5ba01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/696c1b5839e756d62dc6fb61e1a0e678-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83cd343168e8e57874018d37cde448ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a532bd9ab45cc0175ff273c34aa4360-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5104f3f0d320a61ce1960a727327f02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40ae51f62d5911296c34b40331d8437a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06a11852475274737b953b67730b9b95-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ae2a2cd2d40a9cd3d0ca47967172c79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/781e1de3d8c8dd09c4052fae67dd6965-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10bb03052dd728779792ba0de90d18d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e607ff2988b9780bbf178a1397bd044b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/428ab7b8610b76e3a80a46c0357899f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc4d932fb0d34b35d17fd1a03794d78e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ca15a6e81800a78086a0715ef317c95-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84a89fcf901b9607f320d040c8f32de9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9647edef638f204a5917d72e1b9519f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fe748a7740ad48fa6d1f162760a1420-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c4e00cbd329112b2fa0ab112a009d4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d491118ee3be6fc7d12ec7ce6be222d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fd34a93c114c1cadc20b64b7865325e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f651fafeba2de31e88dbedf1bfe4c25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d74c57bccbbb1366e873f9cbddc7bdb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c485177c022d2f894a379f0fcda50b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e255734da88b792a85f15faff9ba8355-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/faa8012316d3fff6c3317f7238488bdf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4f681352643e85f875f16aedc7c62e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b9a988745086400409c2af4da61be11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be260815d51d546b8134e1bec98c6674-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1aa0c4ee84f0d32d00d343ebc853757-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19af76cb7e1c3979f03a101f2797d6e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85be3afe6be66162ad0b2de5b3646682-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0a8539929350dfafcd38a1c47e60708-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b54ffe590626caae4a408c03d58bb64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f875bb74cc1d9b7df8f81f4f34a11f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/803c8c8915e826c99e62dd0eaceb0aaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b1f4ac5917a7bd83fb1ede1186098c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/998fe1af833a6732ed0339f250bdf1ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c142d3661b3ccd5a4b354cb753571443-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea1f458255a959c4872a2d2b71aa2031-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd13857637cb4037418b1e778f94157b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea9eb1668a486de099536e665f902402-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/435ba451124abfb6f3ee896729d3a12d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83570ac0801f83f1356488291ad0cd54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2f0e1cb005cca758f1685cbf65b8fc1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dc91b5ec156dc0396424e93bb947e8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b463e1340e9a91e207755e8303fcb42-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "442016927",
+      "id": "442016927",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1eqm7r8r7d020",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ca87cb1f9f0ca5fc7958ab39d9eaa298-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/641-Main-St-APT-5-Sparkill-NY-10976/442016927_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,950/mo",
+      "unformattedPrice": 1950,
+      "address": "641 Main St APT 5, Sparkill, NY 10976",
+      "addressStreet": "641 Main St APT 5",
+      "addressCity": "Sparkill",
+      "addressState": "NY",
+      "addressZipcode": "10976",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 920,
+      "latLong": {
+        "latitude": 41.029797,
+        "longitude": -73.92811
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442016927,
+          "streetAddress": "641 Main St APT 5",
+          "zipcode": "10976",
+          "city": "Sparkill",
+          "state": "NY",
+          "latitude": 41.029797,
+          "longitude": -73.92811,
+          "price": 1950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 920.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 760281000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 5",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-23 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: R2M Realty, Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca87cb1f9f0ca5fc7958ab39d9eaa298-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc50f3731a2aeda566c01762595b4ad4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32ca7d512c243ccc62ba7adb2eefe1d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b97970860b62a64317b4996cfb062372-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8d2f9ce59d734ac2165220511ef4b90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/811e016e59ce664de120c67935d4723f-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "37983309",
+      "id": "37983309",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "18uawenks6bhp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4f42e0fc745a8dd93ab9faad5b956953-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/91-Haring-Dr-Old-Tappan-NJ-07675/37983309_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,950/mo",
+      "unformattedPrice": 4950,
+      "address": "91 Haring Dr, Old Tappan, NJ 07675",
+      "addressStreet": "91 Haring Dr",
+      "addressCity": "Old Tappan",
+      "addressState": "NJ",
+      "addressZipcode": "07675",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 41.01281,
+        "longitude": -73.97827
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 37983309,
+          "streetAddress": "91 Haring Dr",
+          "zipcode": "07675",
+          "city": "Old Tappan",
+          "state": "NJ",
+          "latitude": 41.01281,
+          "longitude": -73.97827,
+          "price": 4950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 872400,
+          "rentZestimate": 6715,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4950.0,
+          "timeOnZillow": 3444416000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 488600.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 872400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f42e0fc745a8dd93ab9faad5b956953-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e41d78306aa58938c2fe24fdec3bff06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d27b0f1a14b672733f7b3c6ad388379-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/995d12d729e5389fdfab212900832f27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09646ed0d3db5858994c5dd1d8196869-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd0cc9386a6f78e0d66a23377427171d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4cbc8e880e81cedfeb8c501bc3c5c71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18911f0432f504bc4a8281f479f4bef9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/098aba4cb587d2d90ca3cf09bc9c5a16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b1926f09cb45fa19b6fc1a752323bcb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a7ba2b1e9929d7624978a2b5b1c5bd5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02bcf1db4aaccdc7e79892a2c6d02b60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51c2f8116d32451548c47c9ca264817e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c21f8cb379a5bff0773eafcfbb52c5b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e4f2b524ed761f3534c1e99e0e44bff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/877c65ffee324a865132b3b47f542a7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0dc48fd43e9089d8995db426b4d11cbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21539b4a43af52619139dc52ffa758df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b5ad2ccfff13a70cf34d5c2e83c6203-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73bee9025998620c836e4d2438b5e600-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1c3fdd674548bddf0ec232d7b88fcd9-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32385608",
+      "id": "32385608",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4pxx2yev6d8g5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/eeb45508417171d612f74c2f12445a80-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/829-Piermont-Ave-Piermont-NY-10968/32385608_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$6,500/mo",
+      "unformattedPrice": 6500,
+      "address": "829 Piermont Ave, Piermont, NY 10968",
+      "addressStreet": "829 Piermont Ave",
+      "addressCity": "Piermont",
+      "addressState": "NY",
+      "addressZipcode": "10968",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 2200,
+      "latLong": {
+        "latitude": 41.049683,
+        "longitude": -73.918884
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32385608,
+          "streetAddress": "829 Piermont Ave",
+          "zipcode": "10968",
+          "city": "Piermont",
+          "state": "NY",
+          "latitude": 41.049683,
+          "longitude": -73.918884,
+          "price": 6500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 2200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1030900,
+          "rentZestimate": 5808,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 6500.0,
+          "timeOnZillow": 3380622000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 796800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1030900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Roundhouse Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/eeb45508417171d612f74c2f12445a80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f282ff81cf2bfb8ecc8a5b3b6419a66a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/401746118557e7c325ae8bac629dd8c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbe068a6c800b1473e7e0856172f2c8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0458d6e1d673da5af30c51e1648c7832-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f608c5807ea3cbca6a2d161c8b81c5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/355ca16281acf47381c344eedd378c33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42ec384c2e01ac25b504b636f608297c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52ed7979adc4dab7ca6f5d0d705ab51a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6123d11f1bda0835dc18410ac6c021af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0cb55332a00b8779469c12e99c309ba-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "349581028",
+      "id": "349581028",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "17pkr97rtgwzy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e3bc540eb80f46b7461e54845539d9e0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/112-Paris-Ave-APT-D-Northvale-NJ-07647/349581028_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "112 Paris Ave APT D, Northvale, NJ 07647",
+      "addressStreet": "112 Paris Ave APT D",
+      "addressCity": "Northvale",
+      "addressState": "NJ",
+      "addressZipcode": "07647",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 41.007732,
+        "longitude": -73.95261
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "81 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 349581028,
+          "streetAddress": "112 Paris Ave APT D",
+          "zipcode": "07647",
+          "city": "Northvale",
+          "state": "NJ",
+          "latitude": 41.007732,
+          "longitude": -73.95261,
+          "price": 3000.0,
+          "datePriceChanged": 1726642800000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 81,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3129,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Sep 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "priceChange": -100,
+          "timeOnZillow": 7019257000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt D",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3bc540eb80f46b7461e54845539d9e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00999542fb183fdc15a4e72ef99f412f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d3f3f55bbb92fe942ceea70b6868d7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b43a6bfcd87ec2dcab899570ef4a0c4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a146d4660d274f0011cfb958f637a628-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbe8da103024d0dbcf0903ca5c0615c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50f90c3480b57cad7f4a34fbf71f7afe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ead38206ec42e6a7ac7d260d80addef6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b68bbeac12907716cf07619f8d94c28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3eb2d3d07dd84eb8e472ba5e723731ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcaf2027d47407d6d2678bc5ed6215fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5affc3d5152744431e4cb3877f58395-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4dd9f956ca558ad85f4c5e452cbda72f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91e4554cde24f932d1bfe2f8762810d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8b2c63be172bbcd1540ca22b73057cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9bdf4ebe5a9f8bd56e728e5f9a1a842-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e82af37ce998011a4ea82305cb7b95c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4556906b07998fbe4460b20538144ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ee5f12eb8c2f6ab6746215e8b1a51d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b0ef7ec1e0b6e71bc53e0e6cfeb2609-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7016d7945deebe0401112ab22f4e7e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09f6be59b1e9dd56ef322fd1b74c4f59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/560587628dd6ce0ce67554ce2f7bd140-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441953214",
+      "id": "441953214",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "40z47f0j45re4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e8a2ac0134d8bcd8a56f67336f6691e3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/0-Roundtree-Cir-1-Piermont-NY-10968/441953214_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "0 Roundtree Cir #1, Piermont, NY 10968",
+      "addressStreet": "0 Roundtree Cir #1",
+      "addressCity": "Piermont",
+      "addressState": "NY",
+      "addressZipcode": "10968",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 41.03409,
+        "longitude": -73.92486
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441953214,
+          "streetAddress": "0 Roundtree Cir #1",
+          "zipcode": "10968",
+          "city": "Piermont",
+          "state": "NY",
+          "latitude": 41.03409,
+          "longitude": -73.92486,
+          "price": 2100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 949940000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-21 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: More & More Real Estate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8a2ac0134d8bcd8a56f67336f6691e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa651310ff1d806696f6a5a718c9a6e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d542b905587bae22ef5fc430d951200c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfbd1a7df76dd5c56deb694f05e12719-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b2d841069648096356ec7bd9d84d365-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c259b7cb0094980050815afe64664b8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ee419f04d93798b9c23efca8b268495-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3d6b31e17bacf7718f3dd9f889b44f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74b9aa2e8b0d6aa25269c51dc71404e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84589ac71b9b70ff40a9adc03c5b5d0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f9422fd73db67d541f5de38fdf2d939-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec6763fe9b9879e01b4f84f5d7074ec8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5eaa00097a06d6ca040658cca3b4094-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c09af9e4dcf480c55b4aa71e1dcd252e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ee2705c679f9084fa3760826edf5e55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/656b161d95ef8192ccfe909d636216b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d2bb8dee86cf78b0bccf674c361113b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/511b1881fdd07cf4b1f4666b9bd3b11d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e916cde26cec91d117e4c8fb2fb72051-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a21f93fe51a9adaacb7e3de08528816f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3411883db17c6a5833da50b38b4ca4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ac18894e7c8528df0224fff95c56727-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2100095328",
+      "id": "2100095328",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "19b5g57038hpq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c6b29899f008c729a465ece429855433-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/40-Russell-Ave-APT-104-Old-Tappan-NJ-07675/2100095328_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$4,400/mo",
+      "unformattedPrice": 4400,
+      "address": "40 Russell Ave APT 104, Old Tappan, NJ 07675",
+      "addressStreet": "40 Russell Ave APT 104",
+      "addressCity": "Old Tappan",
+      "addressState": "NJ",
+      "addressZipcode": "07675",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 41.01086,
+        "longitude": -73.98219
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "38 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2100095328,
+          "streetAddress": "40 Russell Ave APT 104",
+          "zipcode": "07675",
+          "city": "Old Tappan",
+          "state": "NJ",
+          "latitude": 41.01086,
+          "longitude": -73.98219,
+          "price": 4400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 38,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 4605,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4400.0,
+          "timeOnZillow": 3283888000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 104",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-08 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6b29899f008c729a465ece429855433-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a30dafc203909847ebd41ac41a6105b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8f4c3cb55569ade2d41c4f1496242af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e0e8e2a63deb4631430d49cedb242a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbecbd828b6249f2e6f776f09c91f6b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d4aac1605447195aba8fe4f483fb556-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c767b4698d9843ea187852f3d5b6aec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13892f59b9dd668e4e39900808d93eac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8811791380b4fd52a9f8865304cf5b4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9948e7c3036e71e041924e55101d3644-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac06b70be93adb958bc9693acfc3271e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/174f9b3a3be884b0775678b00e0bc1ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13e696e6b1ca4f9a20fc1468fbc6e903-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1145d782fa327ce3ab19e693a640681-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/389d6821c48cb516d71d140731ba8b8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/860e0c9ee80061c0a61e331bf6918d8e-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "61172d5c",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "6e74e166"
+}

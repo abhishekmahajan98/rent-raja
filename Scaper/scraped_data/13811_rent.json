@@ -1,0 +1,212 @@
+{
+  "listResults": [
+    {
+      "zpid": "2143376821",
+      "id": "2143376821",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1v6edw0r02bzd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/73ca3bb865cbfc445de77569c13ae60b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/38-S-Main-St-Newark-Valley-NY-13811/2143376821_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850/mo",
+      "unformattedPrice": 850,
+      "address": "38 S Main St, Newark Valley, NY 13811",
+      "addressStreet": "38 S Main St",
+      "addressCity": "Newark Valley",
+      "addressState": "NY",
+      "addressZipcode": "13811",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.226048,
+        "longitude": -76.18233
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2143376821,
+          "streetAddress": "38 S Main St",
+          "zipcode": "13811",
+          "city": "Newark Valley",
+          "state": "NY",
+          "latitude": 42.226048,
+          "longitude": -76.18233,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 881,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 869976000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-22 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/73ca3bb865cbfc445de77569c13ae60b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc358fb9fe7fc6ee2eb3b54b1299f717-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c113b00e006ddfb43768bc7308c770c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6df1741db627692becbb66232b32eea5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8311992f9472cbe372f5e070b14977ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45151412cb4b005b7bc9bbe65cda10fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afd2f9bf18b3b0267f965ca1c0c13df6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fda6cd07eaa7f75a26d32ebf90ba5a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43d6b26fef73c5d7d1feaa0f6c1c4820-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2143376821",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/73ca3bb865cbfc445de77569c13ae60b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/38-S-Main-St-Newark-Valley-NY-13811/2143376821_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$850/mo",
+      "priceLabel": "$850",
+      "address": "38 S Main St, Newark Valley, NY 13811",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.226048,
+        "longitude": -76.18233
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2143376821,
+          "streetAddress": "38 S Main St",
+          "zipcode": "13811",
+          "city": "Newark Valley",
+          "state": "NY",
+          "latitude": 42.226048,
+          "longitude": -76.18233,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 881,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 869976000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-22 00:00:00",
+      "visited": false,
+      "timeOnZillow": 869976000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "1533db82",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

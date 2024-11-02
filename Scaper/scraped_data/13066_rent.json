@@ -1,0 +1,3099 @@
+{
+  "listResults": [
+    {
+      "zpid": "442119835",
+      "id": "442119835",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1w73e9x2rer4c",
+      "imgSrc": "https://photos.zillowstatic.com/fp/44ecf050fa565d09a17292bebf256c6e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/manlius-ny/suburban-park-apartments/Cgs3RM/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,795/mo",
+      "unformattedPrice": 1795,
+      "address": "Suburban Park Apartments, 100 Suburban Park Dr #110-2, Manlius, NY 13104",
+      "addressStreet": "100 Suburban Park Dr #110-2",
+      "addressCity": "Manlius",
+      "addressState": "NY",
+      "addressZipcode": "13104",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 42.995388,
+        "longitude": -75.96269
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442119835,
+          "streetAddress": "100 Suburban Park Dr #110-2",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 42.995388,
+          "longitude": -75.96269,
+          "price": 1795.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 51,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1795.0,
+          "timeOnZillow": 4423497000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 110-2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/44ecf050fa565d09a17292bebf256c6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5da064a218194995c15045e1f9008385-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f73101ed78c54de55f3f6a55264dd680-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e181d610e54f981e2fdd84f833101031-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cf608d6762e64eecdb11f5317148f55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2882d6def37d95ae56d04f2a723eb171-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4dd1a3414e916fd67b9f4f7de52d4fc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/359d20ae95708d231b09ed7b148fc18b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b28be6a966fe48627c54b03181a8aba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fd63f4bd9706d3c783a878dac81c38d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d10b9d2a184bae35c5d6c116563240c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c906fcbcf53e729e64b727645669d8cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70016b01af815793e1b79edb761f0fd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4d840bb3e92bd2f954f0f7a29af4796-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a00b60b8363f54307f00b20e4b1030b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3027fd7fa095377b998e97bbab815128-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3797f66b932340e5a5749e10fbdc526c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbaf4a54a29a06503ffde0f4f7f126bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c16aabcafc8ba4c635595cc1b5f9624d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyEnhancedPackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2066759312",
+      "id": "2066759312",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5746641x2yq92",
+      "imgSrc": "https://photos.zillowstatic.com/fp/223b20fbbefd22f064402802aa643604-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/128-W-Pleasant-St-E0ED90A6D-Manlius-NY-13104/2066759312_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$987+/mo",
+      "unformattedPrice": 987,
+      "address": "Townhouse East, 128 W Pleasant St, Manlius, NY 13104",
+      "addressStreet": "128 W Pleasant St #E0ED90A6D",
+      "addressCity": "Manlius",
+      "addressState": "NY",
+      "addressZipcode": "13104",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 43.00062,
+        "longitude": -75.9832
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2066759312,
+          "streetAddress": "128 W Pleasant St #E0ED90A6D",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.00062,
+          "longitude": -75.9832,
+          "price": 987.0,
+          "datePriceChanged": 1681110000000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 49,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1475,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 987.0,
+          "priceChange": 35,
+          "timeOnZillow": 4246041000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# e0ed90a6d",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/223b20fbbefd22f064402802aa643604-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77b2efc7a09c232d2347a620595ab61c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cab8a63e0f8a0cfe7ce52beea14c5c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f6a032d7be63fe5b4078a8a545cc328-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/081a01fe41706500cb03c620a238b2e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03a196ed3f7a6e19f35a36c5092cf16d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a40c0518ae528011225c098dc9e1a99e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d09ef0753971af94f567f34a766884a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2bcad4b534b01abb5080a31fa045237-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61a255bd62ac5719251807004e229c69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a79f3b98bbdb710287722c6f4fca206b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31755279",
+      "id": "31755279",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4qa8z3cg38y2t",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1db15032034b1b4efe268962fabf378d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8372-Turnberry-Dr-Manlius-NY-13104/31755279_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,300/mo",
+      "unformattedPrice": 4300,
+      "address": "8372 Turnberry Dr, Manlius, NY 13104",
+      "addressStreet": "8372 Turnberry Dr",
+      "addressCity": "Manlius",
+      "addressState": "NY",
+      "addressZipcode": "13104",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 4.0,
+      "area": 3197,
+      "latLong": {
+        "latitude": 43.00031,
+        "longitude": -75.9475
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31755279,
+          "streetAddress": "8372 Turnberry Dr",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.00031,
+          "longitude": -75.9475,
+          "price": 4300.0,
+          "bathrooms": 4.0,
+          "bedrooms": 4.0,
+          "livingArea": 3197.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 565100,
+          "rentZestimate": 4343,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4300.0,
+          "timeOnZillow": 134909000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 443700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 565100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Property Management Alliance",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1db15032034b1b4efe268962fabf378d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441560667",
+      "id": "441560667",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "naa7g6s93jek",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e9a6df94d150ed81f9ec0a736e782d2f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/%22the-library%22-manlius-ny-CfgmYv/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,250+/mo",
+      "unformattedPrice": 2250,
+      "address": "\"The Library\", 209-217 E Seneca St, Manlius, NY 13104",
+      "addressStreet": "209-217 E Seneca St #215",
+      "addressCity": "Manlius",
+      "addressState": "NY",
+      "addressZipcode": "13104",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1470,
+      "latLong": {
+        "latitude": 43.002106,
+        "longitude": -75.97576
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441560667,
+          "streetAddress": "209-217 E Seneca St #215",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.002106,
+          "longitude": -75.97576,
+          "price": 2250.0,
+          "datePriceChanged": 1729234800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1470.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 26,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$250 (Oct 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2250.0,
+          "priceChange": -250,
+          "timeOnZillow": 2307454000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 215",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Property Management Alliance",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9a6df94d150ed81f9ec0a736e782d2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee69e622973229d4f5539a521d42bedc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ae6debb5f84493b783f88dbba787b91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa4692442abc4e81d044f60530d0d268-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/700eeb009a00d8637c756835799ce2ea-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440160215",
+      "id": "440160215",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2a32aqrs5gu0t",
+      "imgSrc": "https://photos.zillowstatic.com/fp/68fb0861fc0dc7f3f9fa44b2919779db-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/132-E-Genesee-St-1A-Fayetteville-NY-13066/440160215_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,600/mo",
+      "unformattedPrice": 2600,
+      "address": "132 E Genesee St #1A, Fayetteville, NY 13066",
+      "addressStreet": "132 E Genesee St #1A",
+      "addressCity": "Fayetteville",
+      "addressState": "NY",
+      "addressZipcode": "13066",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1150,
+      "latLong": {
+        "latitude": 43.02898,
+        "longitude": -76.00958
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440160215,
+          "streetAddress": "132 E Genesee St #1A",
+          "zipcode": "13066",
+          "city": "Fayetteville",
+          "state": "NY",
+          "latitude": 43.02898,
+          "longitude": -76.00958,
+          "price": 2600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1150.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 1314756000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/68fb0861fc0dc7f3f9fa44b2919779db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad1d5e11d796b76f3437a4e16a1ca0f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82b75e60070e5ca556ea351db1c49a97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41039354a9ca2bab2a642698427e88fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e5c24db31fd7fd79834447f9de9dbcc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00c677d33c82bc7b3ece54beaa1304b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88ba9853fd9c504a5f9978da6fb7c864-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c573355ad2b42ecedecf6d43ce37c932-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/749f6a7867b09e4c9a4a1b43faf0ab19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d4ceb4879172fb83f5956f6a0541573-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f1c5052fe1bff2ae04c0bb559d5e901-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25e06cec151dc46f783e027e228e7bf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0478a1b0203dfeeba6a69c5fadd47628-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83840380856f34bb99e7e1178554ceb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec4ae82bae8b20651bb73e4a6db5f621-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/654dcfd16fc6319da215e79807affdad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01f6564c3573848a6f6eb58ff07b88ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/271c6f7b269769691e817fa2fab144bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a62290dc424f7ba6ce0594d8acfbc6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d71b383abb26c2ee58a9af83f2f95586-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442261188",
+      "id": "442261188",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "rfxtdyt26q3c",
+      "imgSrc": "https://photos.zillowstatic.com/fp/07b3f8e53b7c56e2273d4860915082fa-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8394-Salt-Springs-Rd-A-Manlius-NY-13104/442261188_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,200/mo",
+      "unformattedPrice": 3200,
+      "address": "8394 Salt Springs Rd #A, Manlius, NY 13104",
+      "addressStreet": "8394 Salt Springs Rd #A",
+      "addressCity": "Manlius",
+      "addressState": "NY",
+      "addressZipcode": "13104",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 2200,
+      "latLong": {
+        "latitude": 43.029446,
+        "longitude": -75.945
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442261188,
+          "streetAddress": "8394 Salt Springs Rd #A",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.029446,
+          "longitude": -75.945,
+          "price": 3200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 2200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 71625000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/07b3f8e53b7c56e2273d4860915082fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ca4f9c4dc652656f4721f45a23acffe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1426e31df38acdde0a549c7ac59bfd7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b8743ac6aa260824a17458d791cb0eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2973c094a9213b27dc41b4ec426fb82d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e846f3424f137e8f33c499cb629cc8cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/283a20342f918e88e957ac9d770913e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7086de43c482fb113b3032b127333600-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/120a1c7b9a7b482e1a0f1ec350a525c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75bb944ad3e33d564367e0fa5c3c28be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/562f2abddcb1749ca5efab3f1bd17c6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/daef764a3e03227995eeed6ff40ed6e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb25e8a2aaf03dcc70f00dfe4f346b87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01768f86a45597bbfd0bdf252ffe69a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c901ae85d2d32ad89e620e2cd195d904-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31746029",
+      "id": "31746029",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1mmz4eyu0bm1r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4f0ee7512581f2e4895ceda0fd74a785-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/206-E-Genesee-St-Fayetteville-NY-13066/31746029_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,900/mo",
+      "unformattedPrice": 2900,
+      "address": "206 E Genesee St, Fayetteville, NY 13066",
+      "addressStreet": "206 E Genesee St",
+      "addressCity": "Fayetteville",
+      "addressState": "NY",
+      "addressZipcode": "13066",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2500,
+      "latLong": {
+        "latitude": 43.028873,
+        "longitude": -76.00863
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31746029,
+          "streetAddress": "206 E Genesee St",
+          "zipcode": "13066",
+          "city": "Fayetteville",
+          "state": "NY",
+          "latitude": 43.028873,
+          "longitude": -76.00863,
+          "price": 2900.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 406000,
+          "rentZestimate": 2673,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2900.0,
+          "timeOnZillow": 72714000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 290700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 406000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f0ee7512581f2e4895ceda0fd74a785-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57ab14ee723aacbc592fcc223565f6a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/212bd6c0ba6f1d55ea552c024dc9c034-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/adc740db9514f999a4f2a4b1b2f98d35-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31750067",
+      "id": "31750067",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "11cdcu9cfxn7k",
+      "imgSrc": "https://photos.zillowstatic.com/fp/429f7b81609250dca6bc3e3bbb9aabf4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/101-Hadden-Ln-East-Syracuse-NY-13057/31750067_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,300/mo",
+      "unformattedPrice": 2300,
+      "address": "101 Hadden Ln, East Syracuse, NY 13057",
+      "addressStreet": "101 Hadden Ln",
+      "addressCity": "East Syracuse",
+      "addressState": "NY",
+      "addressZipcode": "13057",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1368,
+      "latLong": {
+        "latitude": 43.060482,
+        "longitude": -76.021164
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31750067,
+          "streetAddress": "101 Hadden Ln",
+          "zipcode": "13057",
+          "city": "East Syracuse",
+          "state": "NY",
+          "latitude": 43.060482,
+          "longitude": -76.021164,
+          "price": 2300.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1368.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 225000,
+          "rentZestimate": 2377,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "timeOnZillow": 422646000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 151000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 225000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/429f7b81609250dca6bc3e3bbb9aabf4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecc5c786e113191b3413eb3561e39014-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d99e311b92db8d92aec7ea3ba6b283f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6af8230632f4d47a634e44624d10f16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae332ff7d06dd0d757a65218aac0faa3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a002d757277dde9f1d21dfabb3cf17e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f67300016936b62162369b9675084e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89e26af6dcf2d61f21ef6ca604b07066-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c836cc74afd5296bd01923822bf9088-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3dfd31e364ec08bc147cadc228581e9c-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31753397",
+      "id": "31753397",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "456quyz89nqbu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/df4ee71812d88a4775417c20387d2e3a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Manlius-NY-13104/31753397_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "(undisclosed Address), Manlius, NY 13104",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Manlius",
+      "addressState": "NY",
+      "addressZipcode": "13104",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 3.0,
+      "area": 1517,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "40 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31753397,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "price": 2500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 2.0,
+          "livingArea": 1517.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 40,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 290100,
+          "rentZestimate": 2465,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 3479095000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 290100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/df4ee71812d88a4775417c20387d2e3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f4a82db4ea7982073d89c6b050dad11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66015eaadefaf6693e2d36f8aa3685c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f38eb82b9c69890ba3f7760a8423bdec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23ec8627af92e8fc9968786fa3a0ef09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e753e060e85842cef193403614a423fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a23e7c5dd339d576ec64fc36f4a26c29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5061271e27604c0f47b77ba2992aa44a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2054447435",
+      "id": "2054447435",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4b6m8f2pgn55n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/12643b7c150ac21dcb909d14110656e1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/121-Park-Dr-APT-1-Manlius-NY-13104/2054447435_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,275/mo",
+      "unformattedPrice": 2275,
+      "address": "121 Park Dr APT 1, Manlius, NY 13104",
+      "addressStreet": "121 Park Dr APT 1",
+      "addressCity": "Manlius",
+      "addressState": "NY",
+      "addressZipcode": "13104",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2000,
+      "latLong": {
+        "latitude": 43.00646,
+        "longitude": -75.98301
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054447435,
+          "streetAddress": "121 Park Dr APT 1",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.00646,
+          "longitude": -75.98301,
+          "price": 2275.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2253,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2275.0,
+          "timeOnZillow": 2161840000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-07 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/12643b7c150ac21dcb909d14110656e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa08e7bc331f9a8e77d62e9c60b83177-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13169e08e82dd2f65a9d2ca3e7c7e0f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6ff57214fdfb61b319e26446311bf8b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5af5940c42596cfcf5ef4960e7ad5e82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2abce176e8284ad601c1f60cd9618fb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f21c3b697954aaff25c067e5531e9ab9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9c9634b02e1e7da2573317f25b25d1b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5fdc9cdfe4ecc4336ecd4b0b34763cf7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b33e1cefc5f3ea625dbc552c77b707f3-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31753208",
+      "id": "31753208",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4vsxrt1acxvmr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8397e5757ed00ee427cb9f62fc405d64-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4956-Tinderbox-Cir-Manlius-NY-13104/31753208_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,250/mo",
+      "unformattedPrice": 3250,
+      "address": "4956 Tinderbox Cir, Manlius, NY 13104",
+      "addressStreet": "4956 Tinderbox Cir",
+      "addressCity": "Manlius",
+      "addressState": "NY",
+      "addressZipcode": "13104",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2132,
+      "latLong": {
+        "latitude": 43.014324,
+        "longitude": -75.9571
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "55 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31753208,
+          "streetAddress": "4956 Tinderbox Cir",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.014324,
+          "longitude": -75.9571,
+          "price": 3250.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2132.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 55,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 420900,
+          "rentZestimate": 3251,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3250.0,
+          "timeOnZillow": 4767991000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 340700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 420900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8397e5757ed00ee427cb9f62fc405d64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cadc1e0030b96f629f386e5985bfe001-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3056ee6e9bc63a209f050845a9c02e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/052cceb00216d68661255a6bfe58c780-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/799511f183471e09ab52134955ef5f58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a8a8b0d20d48508fa81c2ff6e27f469-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90c3c138fe4da0359b0a7f820c162275-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78e2071ef719a9f73235735e1eeaaecf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb5063d26f25822979e9ce0276303792-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c290af35d97c61c17d24ad00fd62294c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca646a82c4f756802514c9e2866bfa9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/accb99f244737d40c384369f7e7a0424-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/310dc2ad082cc10fbbee6eb913b2328e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7a4d14941e31cec28158bd527a6f909-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/659ee16bfc3f88ac0cd360fa690ca677-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ee0463a97a37d8811df3eb23001b73c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2aee938c293ff1d6398d432acb7c28c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1dc7f5dfbc58eabb249fe4ede131e937-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf289b2fc087e5da1479f46a982733fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a17d087acb8f44474a43e3ec23a3ea40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c86a3d825f067c14d660ac062e87764-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3878341a76a5ca04ef6812f24e8e191-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2089961573",
+      "id": "2089961573",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4udtbeqc3n4e0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f1f574b29233ecff83260cb0a5db709c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/East-Syracuse-NY-13057/2089961573_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,800/mo",
+      "unformattedPrice": 4800,
+      "address": "(undisclosed Address), East Syracuse, NY 13057",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "East Syracuse",
+      "addressState": "NY",
+      "addressZipcode": "13057",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "32 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2089961573,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13057",
+          "city": "East Syracuse",
+          "state": "NY",
+          "price": 4800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 32,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 280100,
+          "rentZestimate": 2141,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4800.0,
+          "timeOnZillow": 2782903000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 280100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1f574b29233ecff83260cb0a5db709c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce548f53a0c7a91c79088d4ae0beb4eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33538ad64c5484a16664dd5486e79c9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87e7a25290d94cc11abcbf3d45414a03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6e3eae11d9fcb4d43754b3122078dc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f52df225b5a15f70848e3b51b98d214-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23eea8db66e652d61f37c3c2e18b5b3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc843493fa40a0c85b186aca1b3e02ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9810b0e1f54c9d938d6ce3dc8064e8a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59d8e9beb55d8d024e35bf13c11619cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8021d399ab7d05d74b837344694eb411-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed58b69515c798bfdedd52d196385e57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcb517467e19b481ca4e48839bc3fcb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9830599a285eb2e4a8339a6a435bea11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7886db6ade0521ce0fc69313b3a798fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8c449be68088a870bbc3c77f48bf2ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7670128a9a1783b5e22d6a39771ea1bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e216ca651530943cbcb94219c2fa5222-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2305592d016247c0afb96e0f084c392-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44ce4795adedb14e2a1eeef40110fa34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4b021051ce997a5d88323aa726b8c06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9cb5b9f8b108f6985ee28a6737343da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/628b181d20df491172e69c572b074848-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08183ce45617318f81794360254b726c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddf5fcc9a342527a20f0f8a581ad047d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35c5635aef747e478517fe501a357a88-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31754651",
+      "id": "31754651",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2uqgxqszycyyr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/746ac57db692602896a53a758a8a9cd4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8168-Verbeck-Dr-Manlius-NY-13104/31754651_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "8168 Verbeck Dr, Manlius, NY 13104",
+      "addressStreet": "8168 Verbeck Dr",
+      "addressCity": "Manlius",
+      "addressState": "NY",
+      "addressZipcode": "13104",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.99683,
+        "longitude": -75.961555
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31754651,
+          "streetAddress": "8168 Verbeck Dr",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 42.99683,
+          "longitude": -75.961555,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 282100,
+          "rentZestimate": 2582,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 133651000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 194800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 282100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: TJMG Properties, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/746ac57db692602896a53a758a8a9cd4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58f02f37191b8568ad6f8825138075c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d8191ebe8a170fdf38949739b50cb19-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31751134",
+      "id": "31751134",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1v23s3s55ch82",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ee560c3fc4e56279150ba0a2ae58d1c0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/359-Summerhaven-Dr-N-East-Syracuse-NY-13057/31751134_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$3,150/mo",
+      "unformattedPrice": 3150,
+      "address": "359 Summerhaven Dr N, East Syracuse, NY 13057",
+      "addressStreet": "359 Summerhaven Dr N",
+      "addressCity": "East Syracuse",
+      "addressState": "NY",
+      "addressZipcode": "13057",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1545,
+      "latLong": {
+        "latitude": 43.050198,
+        "longitude": -76.01553
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31751134,
+          "streetAddress": "359 Summerhaven Dr N",
+          "zipcode": "13057",
+          "city": "East Syracuse",
+          "state": "NY",
+          "latitude": 43.050198,
+          "longitude": -76.01553,
+          "price": 3150.0,
+          "datePriceChanged": 1730012400000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1545.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 231900,
+          "rentZestimate": 2693,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 27)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3150.0,
+          "priceChange": -100,
+          "timeOnZillow": 1497817000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 200900.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 231900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: CNY Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee560c3fc4e56279150ba0a2ae58d1c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aafa72e098c34fee9b84cd45a73b80b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51ceb3ba30d6673e9f80ed6a2eaeda0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/273cc90d56accb93a687a596fb470dbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83adad2650f7e1d7e7089136dcda9842-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f5bc30a6cc33abe416e12de543226bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d94995cf5bf5a635b1738afb6b3cdb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89646905a872eb34d0b914a35dec0977-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4330b2ed473ce47ec41b1048764dc25f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16e5ed53b5e24a76fd69f482e97e5a28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41c3759d8ce3410649e6fd17ccff51a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbc27ddc33265b8f055e790870cb652a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e9102fb235774769a9634dc7e33b009-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7511b1e470cc45adf85fd020947c0a69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5da04a407417f21923f22bc531e4543b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9c7aaecc3341041e9cad3b0f1f954b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c756a70ebaa80fbd1791df3a72d4b1db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d79773510e7f88bcab11c48fecbcee4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d1ca93a5ebaa733d7a501ff3724a4f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3669621f7a7cff17f42642fe18274fa8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/836ca083345e241eb947f46a125ca882-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b493b58ec40663973b66450deabf9086-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe3e9502f55f79479c35e812f0f3ce58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7cb2a14c939cb1715d2ee38958608a39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c161d38f81a43e2fad5ec17e50e3132b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/835ad97d92bfb79052508003fbb17178-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90c557c8220a1588c7723ea001c2008e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd2600c6aa1b65243e946539ae0d901d-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440623970",
+      "id": "440623970",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1waxh0vc0eg1f",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ee62bcda93d6e115e29ca3e1795ce0c7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/121-park-manlius-llc-manlius-ny-CgzRwj/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,275+/mo",
+      "unformattedPrice": 2275,
+      "address": "121 Park Manlius LLC, 121 Park Dr, Manlius, NY 13104",
+      "addressStreet": "121 Park Dr #4B-1B",
+      "addressCity": "Manlius",
+      "addressState": "NY",
+      "addressZipcode": "13104",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.006466,
+        "longitude": -75.98301
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440623970,
+          "streetAddress": "121 Park Dr #4B-1B",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.006466,
+          "longitude": -75.98301,
+          "price": 2275.0,
+          "bathrooms": 1.0,
+          "bedrooms": 4.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 41,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2275.0,
+          "timeOnZillow": 3626482000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4B-1B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: 301 Central ROC LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee62bcda93d6e115e29ca3e1795ce0c7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442119835",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/44ecf050fa565d09a17292bebf256c6e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/manlius-ny/suburban-park-apartments/Cgs3RM/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,795/mo",
+      "priceLabel": "$1.8K",
+      "address": "100 Suburban Park Dr #110-2, Manlius, NY 13104",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 42.995388,
+        "longitude": -75.96269
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442119835,
+          "streetAddress": "100 Suburban Park Dr #110-2",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 42.995388,
+          "longitude": -75.96269,
+          "price": 1795.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1795.0,
+          "timeOnZillow": 4423497000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 110-2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 4423497000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyEnhancedPackage"
+      ]
+    },
+    {
+      "zpid": "2066759312",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/223b20fbbefd22f064402802aa643604-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/128-W-Pleasant-St-E0ED90A6D-Manlius-NY-13104/2066759312_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$987+/mo",
+      "priceLabel": "$987",
+      "address": "128 W Pleasant St, Manlius, NY 13104",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 43.00062,
+        "longitude": -75.9832
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2066759312,
+          "streetAddress": "128 W Pleasant St #E0ED90A6D",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.00062,
+          "longitude": -75.9832,
+          "price": 987.0,
+          "datePriceChanged": 1681110000000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1475,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 987.0,
+          "priceChange": 35,
+          "timeOnZillow": 4246041000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# e0ed90a6d",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 4246041000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "31755279",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1db15032034b1b4efe268962fabf378d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/8372-Turnberry-Dr-Manlius-NY-13104/31755279_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,300/mo",
+      "priceLabel": "$4.3K",
+      "address": "8372 Turnberry Dr, Manlius, NY 13104",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 4.0,
+      "area": 3197,
+      "latLong": {
+        "latitude": 43.00031,
+        "longitude": -75.9475
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31755279,
+          "streetAddress": "8372 Turnberry Dr",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.00031,
+          "longitude": -75.9475,
+          "price": 4300.0,
+          "bathrooms": 4.0,
+          "bedrooms": 4.0,
+          "livingArea": 3197.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 565100,
+          "rentZestimate": 4343,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4300.0,
+          "timeOnZillow": 134909000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 443700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Property Management Alliance",
+      "timeOnZillow": 134909000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    },
+    {
+      "zpid": "441560667",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e9a6df94d150ed81f9ec0a736e782d2f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/%22the-library%22-manlius-ny-CfgmYv/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,250+/mo",
+      "priceLabel": "$2.3K",
+      "address": "209-217 E Seneca St, Manlius, NY 13104",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1470,
+      "latLong": {
+        "latitude": 43.002106,
+        "longitude": -75.97576
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441560667,
+          "streetAddress": "209-217 E Seneca St #215",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.002106,
+          "longitude": -75.97576,
+          "price": 2250.0,
+          "datePriceChanged": 1729234800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1470.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$250 (Oct 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2250.0,
+          "priceChange": -250,
+          "timeOnZillow": 2307454000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 215",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Property Management Alliance",
+      "timeOnZillow": 2307454000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    },
+    {
+      "zpid": "440160215",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/68fb0861fc0dc7f3f9fa44b2919779db-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/132-E-Genesee-St-1A-Fayetteville-NY-13066/440160215_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,600/mo",
+      "priceLabel": "$2.6K",
+      "address": "132 E Genesee St #1A, Fayetteville, NY 13066",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1150,
+      "latLong": {
+        "latitude": 43.02898,
+        "longitude": -76.00958
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440160215,
+          "streetAddress": "132 E Genesee St #1A",
+          "zipcode": "13066",
+          "city": "Fayetteville",
+          "state": "NY",
+          "latitude": 43.02898,
+          "longitude": -76.00958,
+          "price": 2600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1150.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 1314756000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 1314756000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamily"
+      ]
+    },
+    {
+      "zpid": "442261188",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/07b3f8e53b7c56e2273d4860915082fa-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/8394-Salt-Springs-Rd-A-Manlius-NY-13104/442261188_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,200/mo",
+      "priceLabel": "$3.2K",
+      "address": "8394 Salt Springs Rd #A, Manlius, NY 13104",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 2200,
+      "latLong": {
+        "latitude": 43.029446,
+        "longitude": -75.945
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442261188,
+          "streetAddress": "8394 Salt Springs Rd #A",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.029446,
+          "longitude": -75.945,
+          "price": 3200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 2200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 71625000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 71625000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31746029",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4f0ee7512581f2e4895ceda0fd74a785-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/206-E-Genesee-St-Fayetteville-NY-13066/31746029_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,900/mo",
+      "priceLabel": "$2.9K",
+      "address": "206 E Genesee St, Fayetteville, NY 13066",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2500,
+      "latLong": {
+        "latitude": 43.028873,
+        "longitude": -76.00863
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31746029,
+          "streetAddress": "206 E Genesee St",
+          "zipcode": "13066",
+          "city": "Fayetteville",
+          "state": "NY",
+          "latitude": 43.028873,
+          "longitude": -76.00863,
+          "price": 2900.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 406000,
+          "rentZestimate": 2673,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2900.0,
+          "timeOnZillow": 72714000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 290700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 72714000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31750067",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/429f7b81609250dca6bc3e3bbb9aabf4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/101-Hadden-Ln-East-Syracuse-NY-13057/31750067_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,300/mo",
+      "priceLabel": "$2.3K",
+      "address": "101 Hadden Ln, East Syracuse, NY 13057",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1368,
+      "latLong": {
+        "latitude": 43.060482,
+        "longitude": -76.021164
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31750067,
+          "streetAddress": "101 Hadden Ln",
+          "zipcode": "13057",
+          "city": "East Syracuse",
+          "state": "NY",
+          "latitude": 43.060482,
+          "longitude": -76.021164,
+          "price": 2300.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1368.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 225000,
+          "rentZestimate": 2377,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "timeOnZillow": 422646000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 151000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "visited": false,
+      "timeOnZillow": 422646000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2054447435",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/12643b7c150ac21dcb909d14110656e1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/121-Park-Dr-APT-1-Manlius-NY-13104/2054447435_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,275/mo",
+      "priceLabel": "$2.3K",
+      "address": "121 Park Dr APT 1, Manlius, NY 13104",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2000,
+      "latLong": {
+        "latitude": 43.00646,
+        "longitude": -75.98301
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054447435,
+          "streetAddress": "121 Park Dr APT 1",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.00646,
+          "longitude": -75.98301,
+          "price": 2275.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2253,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2275.0,
+          "timeOnZillow": 2161840000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-07 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2161840000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31753208",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8397e5757ed00ee427cb9f62fc405d64-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/4956-Tinderbox-Cir-Manlius-NY-13104/31753208_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,250/mo",
+      "priceLabel": "$3.3K",
+      "address": "4956 Tinderbox Cir, Manlius, NY 13104",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2132,
+      "latLong": {
+        "latitude": 43.014324,
+        "longitude": -75.9571
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "55 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31753208,
+          "streetAddress": "4956 Tinderbox Cir",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.014324,
+          "longitude": -75.9571,
+          "price": 3250.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2132.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 420900,
+          "rentZestimate": 3251,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3250.0,
+          "timeOnZillow": 4767991000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 340700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 4767991000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31754651",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/746ac57db692602896a53a758a8a9cd4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/8168-Verbeck-Dr-Manlius-NY-13104/31754651_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "8168 Verbeck Dr, Manlius, NY 13104",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.99683,
+        "longitude": -75.961555
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31754651,
+          "streetAddress": "8168 Verbeck Dr",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 42.99683,
+          "longitude": -75.961555,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 282100,
+          "rentZestimate": 2582,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 133651000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 194800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: TJMG Properties, LLC",
+      "timeOnZillow": 133651000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "31751134",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ee560c3fc4e56279150ba0a2ae58d1c0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/359-Summerhaven-Dr-N-East-Syracuse-NY-13057/31751134_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$3,150/mo",
+      "priceLabel": "$3.2K",
+      "address": "359 Summerhaven Dr N, East Syracuse, NY 13057",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1545,
+      "latLong": {
+        "latitude": 43.050198,
+        "longitude": -76.01553
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31751134,
+          "streetAddress": "359 Summerhaven Dr N",
+          "zipcode": "13057",
+          "city": "East Syracuse",
+          "state": "NY",
+          "latitude": 43.050198,
+          "longitude": -76.01553,
+          "price": 3150.0,
+          "datePriceChanged": 1730012400000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1545.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 231900,
+          "rentZestimate": 2693,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 27)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3150.0,
+          "priceChange": -100,
+          "timeOnZillow": 1497817000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 200900.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: CNY Realty",
+      "timeOnZillow": 1497817000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "440623970",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ee62bcda93d6e115e29ca3e1795ce0c7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/121-park-manlius-llc-manlius-ny-CgzRwj/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,275+/mo",
+      "priceLabel": "$2.3K",
+      "address": "121 Park Dr, Manlius, NY 13104",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.006466,
+        "longitude": -75.98301
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440623970,
+          "streetAddress": "121 Park Dr #4B-1B",
+          "zipcode": "13104",
+          "city": "Manlius",
+          "state": "NY",
+          "latitude": 43.006466,
+          "longitude": -75.98301,
+          "price": 2275.0,
+          "bathrooms": 1.0,
+          "bedrooms": 4.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2275.0,
+          "timeOnZillow": 3626482000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4B-1B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: 301 Central ROC LLC",
+      "timeOnZillow": 3626482000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "76baf8ce",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

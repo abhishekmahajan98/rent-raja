@@ -1,0 +1,502 @@
+{
+  "listResults": [
+    {
+      "zpid": "442103108",
+      "id": "442103108",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "15y74dgkqw4pw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bdaa9f35f1812978b2767fbe54d35ba8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/376-State-Route-43-B-Stephentown-NY-12168/442103108_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,650/mo",
+      "unformattedPrice": 1650,
+      "address": "376 State Route 43 #B, Stephentown, NY 12168",
+      "addressStreet": "376 State Route 43 #B",
+      "addressCity": "Stephentown",
+      "addressState": "NY",
+      "addressZipcode": "12168",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.54882,
+        "longitude": -73.372574
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442103108,
+          "streetAddress": "376 State Route 43 #B",
+          "zipcode": "12168",
+          "city": "Stephentown",
+          "state": "NY",
+          "latitude": 42.54882,
+          "longitude": -73.372574,
+          "price": 1650.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "timeOnZillow": 516377000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-11 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdaa9f35f1812978b2767fbe54d35ba8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da3b68ad34d074208d622a83a91cccf0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e9c4b6bc0878e96550d84f46e8aa51f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/725f9febe14e226e9c21ab03d6162acf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83c76a706169800eda814ecd2a71801c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0c6184db08f90a615468b86513a95da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1198d949bf9fabfe59491eaf63697ed6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbefe2c8ac72e5196944c4f2c0ae7503-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51662647ebe349bcaa8c65f7342939c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a00080d277cd892fcdc564384c023754-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7afe34c27f9c4b6ac3b26f236654d57e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d2d2e7ec54f45cdc6e60911d5b11995-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53ad521eceb55add96666873f7abc5e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d49800bb80b062b9ad081291f6451839-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ef5cbf3d647624b3c7b96afc042e3e6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442103108",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bdaa9f35f1812978b2767fbe54d35ba8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/376-State-Route-43-B-Stephentown-NY-12168/442103108_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,650/mo",
+      "priceLabel": "$1.7K",
+      "address": "376 State Route 43 #B, Stephentown, NY 12168",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.54882,
+        "longitude": -73.372574
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442103108,
+          "streetAddress": "376 State Route 43 #B",
+          "zipcode": "12168",
+          "city": "Stephentown",
+          "state": "NY",
+          "latitude": 42.54882,
+          "longitude": -73.372574,
+          "price": 1650.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "timeOnZillow": 516377000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-11 00:00:00",
+      "visited": false,
+      "timeOnZillow": 516377000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "32269652",
+      "id": "32269652",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5fv295tyhqx58",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5edcc3353a599796dee559afffc8398c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/231-Greenman-Hill-Rd-Averill-Park-NY-12018/32269652_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "231 Greenman Hill Rd, Averill Park, NY 12018",
+      "addressStreet": "231 Greenman Hill Rd",
+      "addressCity": "Averill Park",
+      "addressState": "NY",
+      "addressZipcode": "12018",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.559914,
+        "longitude": -73.474525
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32269652,
+          "streetAddress": "231 Greenman Hill Rd",
+          "zipcode": "12018",
+          "city": "Averill Park",
+          "state": "NY",
+          "latitude": 42.559914,
+          "longitude": -73.474525,
+          "price": 1350.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 20,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 150700,
+          "rentZestimate": 2114,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 1730661000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 79070.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 150700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5edcc3353a599796dee559afffc8398c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed1217cd7a17880fc2e1234cb2eba15f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ebe0f4371f3798fe193185f216999ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5392f731a570598ba1a3c67aadaa801-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9012c28e4b171cebfb63eb18d466aa1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db999272409bcdeaaa5a7ec46d05cb50-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa47b61503e47396ab9a6a56c12e156e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e546ad5c45abc67b7bd5043e0fc59e7c-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "439494906",
+      "id": "439494906",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5fuf5qmjemx07",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c598abc8ffacaf970c0f9c0d93de7062-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/70-Winslow-Rd-20-East-Nassau-NY-12062/439494906_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,325/mo",
+      "unformattedPrice": 1325,
+      "address": "70 Winslow Rd #20, East Nassau, NY 12062",
+      "addressStreet": "70 Winslow Rd #20",
+      "addressCity": "East Nassau",
+      "addressState": "NY",
+      "addressZipcode": "12062",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 924,
+      "latLong": {
+        "latitude": 42.499023,
+        "longitude": -73.449615
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "69 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439494906,
+          "streetAddress": "70 Winslow Rd #20",
+          "zipcode": "12062",
+          "city": "East Nassau",
+          "state": "NY",
+          "latitude": 42.499023,
+          "longitude": -73.449615,
+          "price": 1325.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 924.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 69,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1325.0,
+          "timeOnZillow": 6044976000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 20",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c598abc8ffacaf970c0f9c0d93de7062-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cd5692d28e9db30fd77313cce43ac9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c33111d4f04eaaad07f31fa0a23ec1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4709a13ea24cae3dd0bf893ee838faa1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20ed1b0a5d931cc3d271026f0d7ea175-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/850bcf5c4f4dee3f984604849623461c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/483c9a34e5c757ed0acf976dff7340b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82c6a3860b18fadbc145d87720a677c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87c134e3521e3783c4a79e71c04def8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5d034552c4422d57eec2db8fc2fa0db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/adb2b734d6a0ece15a95a61b536152ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18a02b595e942580583a24488ae03ad9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e99b97eb23e1b0014e4ce01f283f267-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f56b460bc23091b8f150e938bc293657-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/649fbad27a2e9c026eac9e45cec7b058-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c761042b31f3d342e81fc9382e947d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59aa530b534fedf70954af065c7684e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b7672e2079ce7dbd59a2b55be1c934b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1d0af82a",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "7af426ee"
+}

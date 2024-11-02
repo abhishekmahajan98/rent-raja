@@ -1,0 +1,223 @@
+{
+  "listResults": [
+    {
+      "zpid": "2078047598",
+      "id": "2078047598",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "451gwvhv3wjnw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1f036744ac4d42c2ee3d68f86b32eb31-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5525-Summit-Ave-4-Bemus-Pt-NY-14712/2078047598_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$549/mo",
+      "unformattedPrice": 549,
+      "address": "5525 Summit Ave #4, Bemus Pt, NY 14712",
+      "addressStreet": "5525 Summit Ave #4",
+      "addressCity": "Bemus Pt",
+      "addressState": "NY",
+      "addressZipcode": "14712",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.195045,
+        "longitude": -79.418236
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2078047598,
+          "streetAddress": "5525 Summit Ave #4",
+          "zipcode": "14712",
+          "city": "Bemus Pt",
+          "state": "NY",
+          "latitude": 42.195045,
+          "longitude": -79.418236,
+          "price": 549.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 24,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1118,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 549.0,
+          "timeOnZillow": 2089083000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f036744ac4d42c2ee3d68f86b32eb31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31d35fc9370b00345f12d92e2169aeb0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cc193e5728f81a6cfbe10627a685a0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04da2f6201c149dd7a3695b8d9f075eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/226fb68220d5186e4d45039f97eb0877-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea83c5a3d2d438d77b5d22c9c0027f98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36bd344b0fc2f6838f87ffaa4547064c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8f0420250cc022f7e3a1bb74919c048-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c202423ba2aa6638f43c7ef1d7e9929-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81633d547ae2a4ebc8cb373d53db82d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c9c07c28d2208ee01dee5c3044fa820-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/999a6e3d488126a3cb6eb9f12a588a07-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2078047598",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1f036744ac4d42c2ee3d68f86b32eb31-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/5525-Summit-Ave-4-Bemus-Pt-NY-14712/2078047598_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$549/mo",
+      "priceLabel": "$549",
+      "address": "5525 Summit Ave #4, Bemus Pt, NY 14712",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.195045,
+        "longitude": -79.418236
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2078047598,
+          "streetAddress": "5525 Summit Ave #4",
+          "zipcode": "14712",
+          "city": "Bemus Pt",
+          "state": "NY",
+          "latitude": 42.195045,
+          "longitude": -79.418236,
+          "price": 549.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1118,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 549.0,
+          "timeOnZillow": 2089083000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2089083000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "44364b01",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

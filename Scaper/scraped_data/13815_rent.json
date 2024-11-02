@@ -1,0 +1,826 @@
+{
+  "listResults": [
+    {
+      "zpid": "441817720",
+      "id": "441817720",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "16t18u5zs26bp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a7fac1e358e0c9703d12ac57ba4910b6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/91-E-Main-St-2-Norwich-NY-13815/441817720_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$920/mo",
+      "unformattedPrice": 920,
+      "address": "91 E Main St #2, Norwich, NY 13815",
+      "addressStreet": "91 E Main St #2",
+      "addressCity": "Norwich",
+      "addressState": "NY",
+      "addressZipcode": "13815",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.53226,
+        "longitude": -75.516266
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441817720,
+          "streetAddress": "91 E Main St #2",
+          "zipcode": "13815",
+          "city": "Norwich",
+          "state": "NY",
+          "latitude": 42.53226,
+          "longitude": -75.516266,
+          "price": 920.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 920.0,
+          "timeOnZillow": 1443419000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7fac1e358e0c9703d12ac57ba4910b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/546be696010df16dc226d3001417624f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cf769c03fdee13e492856494c9e54be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f5bb8c7affeeb3c8c433ae042445e3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58884e9d87913fb674b31fe8042e43a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/258dda58ae5282ad80f008cd45d56d34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb5ca770b59d703d926f93027803c9d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85215a160ce29a6130235d7e2a4629a6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29980963",
+      "id": "29980963",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1mhkvkh45b9m1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b26fd1a48cf66baa911894622fa0d11b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/9-State-St-Norwich-NY-13815/29980963_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "9 State St, Norwich, NY 13815",
+      "addressStreet": "9 State St",
+      "addressCity": "Norwich",
+      "addressState": "NY",
+      "addressZipcode": "13815",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.53501,
+        "longitude": -75.52049
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29980963,
+          "streetAddress": "9 State St",
+          "zipcode": "13815",
+          "city": "Norwich",
+          "state": "NY",
+          "latitude": 42.53501,
+          "longitude": -75.52049,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1309,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 1652912000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 20588.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-13 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b26fd1a48cf66baa911894622fa0d11b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbdca02bd53a09485e827fadf7a2b93a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28b7364653a92888e3f27de890616e11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/877267b0ae137d81bb8d5f5a1c681492-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4b52d835b809b919150dcc1fdc2a2e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3e72b02a6a7e75a960a1ef65ccd533b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91a7b71cd6b45f01186773ac5b225060-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.530724--75.525475",
+      "id": "42.530724--75.525475",
+      "providerListingId": "5ezn0ppmr5ptv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a9a28918bf0fb1dc9a2fc26a4947e460-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/norwich-ny/norwich-senior-housing/5ZbLqN/",
+      "statusType": "FOR_RENT",
+      "statusText": "Norwich Senior Housing",
+      "address": "17 W Main St, Norwich, NY",
+      "addressStreet": "17 W  Main St # 879",
+      "addressCity": "Norwich",
+      "addressState": "NY",
+      "addressZipcode": "13815",
+      "units": [
+        {
+          "price": "$523+",
+          "beds": "0",
+          "roomForRent": false
+        },
+        {
+          "price": "$587+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$699+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1012292390,
+      "latLong": {
+        "latitude": 42.530724,
+        "longitude": -75.525475
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Norwich Senior Housing",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9a28918bf0fb1dc9a2fc26a4947e460-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f020f957411f8a17d080123da9c68d5e-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "351489112",
+      "id": "351489112",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4yc05r2uv0uxc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/902f361e77fe638d8788c07c67a27696-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/28-Fair-St-APT-203-Norwich-NY-13815/351489112_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$700/mo",
+      "unformattedPrice": 700,
+      "address": "28 Fair St APT 203, Norwich, NY 13815",
+      "addressStreet": "28 Fair St APT 203",
+      "addressCity": "Norwich",
+      "addressState": "NY",
+      "addressZipcode": "13815",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 300,
+      "latLong": {
+        "latitude": 42.53267,
+        "longitude": -75.52645
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 351489112,
+          "streetAddress": "28 Fair St APT 203",
+          "zipcode": "13815",
+          "city": "Norwich",
+          "state": "NY",
+          "latitude": 42.53267,
+          "longitude": -75.52645,
+          "price": 700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 615,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 700.0,
+          "timeOnZillow": 898397000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 203",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Green Top Apartments, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/902f361e77fe638d8788c07c67a27696-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8214a448858df3ddee114f7373726590-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1e93f17e5f3481fbd9c695ba6231dd8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95e4eb793d3b90efdea300de08994e60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d89e0c6efdde9d693ec246be404a75b3-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "441817720",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a7fac1e358e0c9703d12ac57ba4910b6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/91-E-Main-St-2-Norwich-NY-13815/441817720_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$920/mo",
+      "priceLabel": "$920",
+      "address": "91 E Main St #2, Norwich, NY 13815",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.53226,
+        "longitude": -75.516266
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441817720,
+          "streetAddress": "91 E Main St #2",
+          "zipcode": "13815",
+          "city": "Norwich",
+          "state": "NY",
+          "latitude": 42.53226,
+          "longitude": -75.516266,
+          "price": 920.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 920.0,
+          "timeOnZillow": 1443419000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-15 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1443419000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "29980963",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b26fd1a48cf66baa911894622fa0d11b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/9-State-St-Norwich-NY-13815/29980963_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,300/mo",
+      "priceLabel": "$1.3K",
+      "address": "9 State St, Norwich, NY 13815",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.53501,
+        "longitude": -75.52049
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29980963,
+          "streetAddress": "9 State St",
+          "zipcode": "13815",
+          "city": "Norwich",
+          "state": "NY",
+          "latitude": 42.53501,
+          "longitude": -75.52049,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1309,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 1652912000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 20588.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-13 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1652912000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "5ezn0ppmr5ptv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a9a28918bf0fb1dc9a2fc26a4947e460-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/norwich-ny/norwich-senior-housing/5ZbLqN/",
+      "statusType": "FOR_RENT",
+      "statusText": "Norwich Senior Housing",
+      "price": "$523+/mo",
+      "address": "17 W Main St, Norwich, NY",
+      "minBeds": 0,
+      "minBaths": 1.0,
+      "minArea": 338,
+      "lotId": 1012292390,
+      "latLong": {
+        "latitude": 42.530724,
+        "longitude": -75.525475
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "Norwich Senior Housing",
+      "buildingId": "42.530724--75.525475",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 17634470000,
+      "unitCount": 3,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    },
+    {
+      "zpid": "351489112",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/902f361e77fe638d8788c07c67a27696-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/28-Fair-St-APT-203-Norwich-NY-13815/351489112_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$700/mo",
+      "priceLabel": "$700",
+      "address": "28 Fair St APT 203, Norwich, NY 13815",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 300,
+      "latLong": {
+        "latitude": 42.53267,
+        "longitude": -75.52645
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 351489112,
+          "streetAddress": "28 Fair St APT 203",
+          "zipcode": "13815",
+          "city": "Norwich",
+          "state": "NY",
+          "latitude": 42.53267,
+          "longitude": -75.52645,
+          "price": 700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 615,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 700.0,
+          "timeOnZillow": 898397000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 203",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Green Top Apartments, LLC",
+      "timeOnZillow": 898397000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "441772926",
+      "id": "441772926",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2b14djzp77kzr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/acf860bd774356b6ca7d46c2e1856972-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Oxford-NY-13830/441772926_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$980/mo",
+      "unformattedPrice": 980,
+      "address": "(undisclosed Address), Oxford, NY 13830",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Oxford",
+      "addressState": "NY",
+      "addressZipcode": "13830",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441772926,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13830",
+          "city": "Oxford",
+          "state": "NY",
+          "price": 980.0,
+          "datePriceChanged": 1729234800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 980.0,
+          "priceChange": 130,
+          "timeOnZillow": 1665286000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-18 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/acf860bd774356b6ca7d46c2e1856972-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6565f01cc8508edd928e46101f18c1db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f26a94b92e68cdb2f883addcdc8bd3e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e5a53bfe743917b553ab3d5a630667e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e0c0c3845c60eefbd1bccf26cafe826-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/627033a6c99ac08baf8bd627a3d8ef1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e26a55bdc684e4c3e0459dbae507b912-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "42efddbe",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "4751d145"
+}

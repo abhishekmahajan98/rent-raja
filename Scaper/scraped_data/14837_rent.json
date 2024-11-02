@@ -1,0 +1,707 @@
+{
+  "listResults": [
+    {
+      "zpid": "2097700641",
+      "id": "2097700641",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "199kuas7qxr3p",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5179859fafd40719632e102794fe1091-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/70-millard-st-dundee-ny-5j93tp/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$800/mo",
+      "unformattedPrice": 800,
+      "address": "70 Millard St, 70 Millard St APT 5, Dundee, NY 14837",
+      "addressStreet": "70 Millard St APT 5",
+      "addressCity": "Dundee",
+      "addressState": "NY",
+      "addressZipcode": "14837",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.525204,
+        "longitude": -76.99078
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2097700641,
+          "streetAddress": "70 Millard St APT 5",
+          "zipcode": "14837",
+          "city": "Dundee",
+          "state": "NY",
+          "latitude": 42.525204,
+          "longitude": -76.99078,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 877,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 1413831000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 5",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Rest Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5179859fafd40719632e102794fe1091-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/459c83277b8929cf0c3b87a5075467d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1867462d99306ebbbbd59ede9c4a144-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5132820aa2613cebcfa067311b36699-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82b91e447735f8d8a54db9a45901100e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb3f6e851d446e73380f300ffe6460d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1e44e637145087a514f5be37c922a7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d54c5c6c4b3987634612783c7418909-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32795238",
+      "id": "32795238",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "223n55f8kgd2s",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f03dcd8319e4eaef2c18723887905516-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3509-Jerry-Ln-Bradford-NY-14815/32795238_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,000/mo",
+      "unformattedPrice": 4000,
+      "address": "3509 Jerry Ln, Bradford, NY 14815",
+      "addressStreet": "3509 Jerry Ln",
+      "addressCity": "Bradford",
+      "addressState": "NY",
+      "addressZipcode": "14815",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 3.0,
+      "area": 3465,
+      "latLong": {
+        "latitude": 42.403,
+        "longitude": -77.07159
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32795238,
+          "streetAddress": "3509 Jerry Ln",
+          "zipcode": "14815",
+          "city": "Bradford",
+          "state": "NY",
+          "latitude": 42.403,
+          "longitude": -77.07159,
+          "price": 4000.0,
+          "bathrooms": 3.0,
+          "bedrooms": 2.0,
+          "livingArea": 3465.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 44,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 773100,
+          "rentZestimate": 3632,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 3872766000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 456322.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 773100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f03dcd8319e4eaef2c18723887905516-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac9d39177f6aeba43fc601a6c6d737b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bd2a2b383fb1d3d3f37c1b0d44efcde-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44e72704bd6d5da1f06c1c6b7cca79cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d6bc05472e6dde24d80a96b61d583a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b2774118a2cfc92ca305984d2182022-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06db5c6fe4499778938c8df9e51ae6c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/752bf3b56b5c1c3f61ad3707cce37622-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/baf9c346275e9fb9ac9723ee45b694a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/590036c814a4ba6d4f21910199d9e8da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82e9bf290057dbeca4335bd3b3b1d18e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d7fd8242235f52bda48769d003945f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d494f2c20b07c8bad32de61a133fb93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8a7e47d4691f29ddf8205246f8e420d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e89d3856b9e33b84c603aa3605ccc9b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41a136b6ccada1de21aa18c4530040e9-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32795236",
+      "id": "32795236",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4cahyea8zgd4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9694d29ba0b4585a40b04bd0ed38ca6f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3505-Jerry-Ln-Bradford-NY-14815/32795236_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "3505 Jerry Ln, Bradford, NY 14815",
+      "addressStreet": "3505 Jerry Ln",
+      "addressCity": "Bradford",
+      "addressState": "NY",
+      "addressZipcode": "14815",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2080,
+      "latLong": {
+        "latitude": 42.402775,
+        "longitude": -77.07167
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32795236,
+          "streetAddress": "3505 Jerry Ln",
+          "zipcode": "14815",
+          "city": "Bradford",
+          "state": "NY",
+          "latitude": 42.402775,
+          "longitude": -77.07167,
+          "price": 1800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2080.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 44,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 529600,
+          "rentZestimate": 2500,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 3872704000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 329885.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 529600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9694d29ba0b4585a40b04bd0ed38ca6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a30df7db0011275638be0a0e1b8437a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a4299d0f3eccd7620762ba68017ca72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ea823486f0f0fd3fc64c36e33b52401-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f8e5daccc99155ea50b63d2fae23d35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db84e8f5d77ced3af333673efae4b105-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6e506ffdd9f34e055431d550217bf17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b9f379f8235914c48ed904959ca4f82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9e48bc441b6de6de94e6d34784eda37-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/efafbf46f96e9f4836d9f1982864d998-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbcc6ee7c1e4a1c861bfdec55f47d67d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90747791fe7670a23be2065b90631058-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0e3fb7c4cddeb853ec3740f62de3465-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f33fb0cee2eb000792dd893adb3a89aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fd310052fed741e35fe792fb6e1d703-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97f1e61d0c110d1e68b172cae496fad2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2bd97b0e1522dbe5d2288e3ed6078df8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a969a5045ea99efb8d7cfaf1c92c6f75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7727e71cffea236645c7e00260db17f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/587c0b3e21382be9a9f2f873319fffc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/250ec1c2255dad11027cf3ea7680c985-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31ff7a4800a53fca74bf70a7916e14cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e819ca746407a22a89c23148d6c4481-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/232b8cce2f16d847f6871126574931ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/658ab069e8f5cee27636de4d8b3ac12e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb9e1c9440323431b8d7c6acd65a2182-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2097700641",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5179859fafd40719632e102794fe1091-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/70-millard-st-dundee-ny-5j93tp/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$800/mo",
+      "priceLabel": "$800",
+      "address": "70 Millard St APT 5, Dundee, NY 14837",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.525204,
+        "longitude": -76.99078
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2097700641,
+          "streetAddress": "70 Millard St APT 5",
+          "zipcode": "14837",
+          "city": "Dundee",
+          "state": "NY",
+          "latitude": 42.525204,
+          "longitude": -76.99078,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 877,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 1413831000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 5",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Rest Property Management",
+      "timeOnZillow": 1413831000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    },
+    {
+      "zpid": "32795238",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f03dcd8319e4eaef2c18723887905516-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3509-Jerry-Ln-Bradford-NY-14815/32795238_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,000/mo",
+      "priceLabel": "$4.0K",
+      "address": "3509 Jerry Ln, Bradford, NY 14815",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 3.0,
+      "area": 3465,
+      "latLong": {
+        "latitude": 42.403,
+        "longitude": -77.07159
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32795238,
+          "streetAddress": "3509 Jerry Ln",
+          "zipcode": "14815",
+          "city": "Bradford",
+          "state": "NY",
+          "latitude": 42.403,
+          "longitude": -77.07159,
+          "price": 4000.0,
+          "bathrooms": 3.0,
+          "bedrooms": 2.0,
+          "livingArea": 3465.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 773100,
+          "rentZestimate": 3632,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 3872766000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 456322.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 3872766000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32795236",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9694d29ba0b4585a40b04bd0ed38ca6f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3505-Jerry-Ln-Bradford-NY-14815/32795236_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,800/mo",
+      "priceLabel": "$1.8K",
+      "address": "3505 Jerry Ln, Bradford, NY 14815",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2080,
+      "latLong": {
+        "latitude": 42.402775,
+        "longitude": -77.07167
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32795236,
+          "streetAddress": "3505 Jerry Ln",
+          "zipcode": "14815",
+          "city": "Bradford",
+          "state": "NY",
+          "latitude": 42.402775,
+          "longitude": -77.07167,
+          "price": 1800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2080.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 529600,
+          "rentZestimate": 2500,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 3872704000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 329885.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 3872704000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "396c54f5",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

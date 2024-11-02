@@ -1,0 +1,685 @@
+{
+  "listResults": [
+    {
+      "zpid": "442184839",
+      "id": "442184839",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1p2e7y72gwg0t",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=JW2XsHj_mcCUWh23Jq2GDgzC2kk=",
+      "detailUrl": "https://www.zillow.com/homedetails/3033-3035-Main-St-4-Valatie-NY-12184/442184839_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$800/mo",
+      "unformattedPrice": 800,
+      "address": "3033-3035 Main St #4, Valatie, NY 12184",
+      "addressStreet": "3033-3035 Main St #4",
+      "addressCity": "Valatie",
+      "addressState": "NY",
+      "addressZipcode": "12184",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=0jutCr0rUkCLKk-9OGy32mUcTTg=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=akygkZqPJrDWeuD5HRrj31JYmBs=",
+      "beds": 0,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.41343,
+        "longitude": -73.67545
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442184839,
+          "streetAddress": "3033-3035 Main St #4",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.41343,
+          "longitude": -73.67545,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 192946000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-30 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442112163",
+      "id": "442112163",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "b5j5g6taksaa",
+      "imgSrc": "https://photos.zillowstatic.com/fp/851d6905f33174b43afecda19646d33f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3011-Main-St-3-Valatie-NY-12184/442112163_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,700/mo",
+      "unformattedPrice": 1700,
+      "address": "3011 Main St #3, Valatie, NY 12184",
+      "addressStreet": "3011 Main St #3",
+      "addressCity": "Valatie",
+      "addressState": "NY",
+      "addressZipcode": "12184",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1050,
+      "latLong": {
+        "latitude": 42.413612,
+        "longitude": -73.678116
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442112163,
+          "streetAddress": "3011 Main St #3",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.413612,
+          "longitude": -73.678116,
+          "price": 1700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1050.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 433597000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/851d6905f33174b43afecda19646d33f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfaca6e16f495cb9c9eab090db09b836-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bef91d576e9925afc7221fd00522de02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d55149f572d8568ad47332d1b8d704f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85b97eb55eb6211fc9445b8462ce3565-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d31550f61c9810b9bbac12a8874f8fcd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f4a4ac0def746b347e44fd40847c70c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d362c958abe55619a49e6bd0b5c4e52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed6219e84386711119f1aa24f7ae8966-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e68fddb5fe39212067ab254da600be8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/258336d1416edbd081626e1589f1f51c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dd8fb652f425db1961fa4cacffe57b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84568a5db4c398c7b696f8d0fc7a70f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/911932e6fa68d44dca0b9e2b893efe34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ac65c328a79bc2ff1dbedc7cd6435b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7677cd99ea342bbd45cf7470a8dcee0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fb55cdb410c0373722cf5d9bffb7d99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d07976d94d4b67d9f0ec5e0c60d5e1c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2099adbd1a42bdb80203dc7366be533c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54e9f7c3d33eec04f6117db258c2fc10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d65ce65179f8ce6a4b43b98b007e3839-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4e19b134cb7eccd91d60a3d3de82d1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d81fe36651fcea26a3d88ad48b4e5562-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88bfbbee53e9b27383acad72f01fa1d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ff388a2917fd39ae57a8dd9b70d83b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/640c7a007cede5166d68ae5f793bf1e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d90fec06c2683fa205c67a8a03a539c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a26371d6137e170985cc76489b1048d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69c6e3f7b910d6ba137277b534441661-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78b2db20b06da4b47e6c35b64618d1a6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442035012",
+      "id": "442035012",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2pj5fykbq2h62",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8d90bebf1767511ed4e759a0d02f2780-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/387-Eichybush-Rd-APT-3-Kinderhook-NY-12106/442035012_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,875/mo",
+      "unformattedPrice": 1875,
+      "address": "387 Eichybush Rd APT 3, Kinderhook, NY 12106",
+      "addressStreet": "387 Eichybush Rd APT 3",
+      "addressCity": "Kinderhook",
+      "addressState": "NY",
+      "addressZipcode": "12106",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.40192,
+        "longitude": -73.73628
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442035012,
+          "streetAddress": "387 Eichybush Rd APT 3",
+          "zipcode": "12106",
+          "city": "Kinderhook",
+          "state": "NY",
+          "latitude": 42.40192,
+          "longitude": -73.73628,
+          "price": 1875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1875.0,
+          "timeOnZillow": 680741000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d90bebf1767511ed4e759a0d02f2780-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb3cc168962a6f5ae65729ee603369de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ee4a92a6cd82b55d8dbd0a1f7b0458d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1636b1457e37b8f6b9694425e641bbb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ca4b58c79e84aa0852df2c195510985-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6937bbed19983f6ff9e4f05206933cbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ee4e61fffbaada70507435d48991076-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/503033f14d42f36dfab954b07b549f52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db99e41ba3ebd00b1aa8c98578314980-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d5e6b6aafb88665584f40dde720a282-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1bf4cb63b4c25511bcca25ea5d21995-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/577a4629812b3d89efcb6e272a713262-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e57732271e35391600320cadb9bf858e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd2f2551460828830105041efc1d9a8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f13e9ede686ac63f6211be8bf56d09f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/496d1cbe9a62e0303377bbed9a113d26-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442184839",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=JW2XsHj_mcCUWh23Jq2GDgzC2kk=",
+      "detailUrl": "/homedetails/3033-3035-Main-St-4-Valatie-NY-12184/442184839_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$800/mo",
+      "priceLabel": "$800",
+      "address": "3033-3035 Main St #4, Valatie, NY 12184",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=0jutCr0rUkCLKk-9OGy32mUcTTg=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.413429260253906,-73.67545318603516&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=akygkZqPJrDWeuD5HRrj31JYmBs=",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.41343,
+        "longitude": -73.67545
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442184839,
+          "streetAddress": "3033-3035 Main St #4",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.41343,
+          "longitude": -73.67545,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 192946000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-30 00:00:00",
+      "visited": false,
+      "timeOnZillow": 192946000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442112163",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/851d6905f33174b43afecda19646d33f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3011-Main-St-3-Valatie-NY-12184/442112163_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,700/mo",
+      "priceLabel": "$1.7K",
+      "address": "3011 Main St #3, Valatie, NY 12184",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1050,
+      "latLong": {
+        "latitude": 42.413612,
+        "longitude": -73.678116
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442112163,
+          "streetAddress": "3011 Main St #3",
+          "zipcode": "12184",
+          "city": "Valatie",
+          "state": "NY",
+          "latitude": 42.413612,
+          "longitude": -73.678116,
+          "price": 1700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1050.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 433597000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 433597000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442035012",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8d90bebf1767511ed4e759a0d02f2780-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/387-Eichybush-Rd-APT-3-Kinderhook-NY-12106/442035012_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,875/mo",
+      "priceLabel": "$1.9K",
+      "address": "387 Eichybush Rd APT 3, Kinderhook, NY 12106",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.40192,
+        "longitude": -73.73628
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442035012,
+          "streetAddress": "387 Eichybush Rd APT 3",
+          "zipcode": "12106",
+          "city": "Kinderhook",
+          "state": "NY",
+          "latitude": 42.40192,
+          "longitude": -73.73628,
+          "price": 1875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1875.0,
+          "timeOnZillow": 680741000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 680741000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "1db4345",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

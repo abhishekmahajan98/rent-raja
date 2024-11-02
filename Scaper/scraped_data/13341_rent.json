@@ -1,0 +1,136 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "70910169",
+      "id": "70910169",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "h07th1e4f0fp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/01d8a79e7521ed2e2764341cb91c47ff-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Clinton-NY-13323/70910169_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "(undisclosed Address), Clinton, NY 13323",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Clinton",
+      "addressState": "NY",
+      "addressZipcode": "13323",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 70910169,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13323",
+          "city": "Clinton",
+          "state": "NY",
+          "price": 2200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 294300,
+          "rentZestimate": 2377,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 334879000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 294300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: The Apartment Connection",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/01d8a79e7521ed2e2764341cb91c47ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc091a54ec5a9dee8fd0f42214121c92-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2a180cbd700a3f2581fc2cefe3979c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15a61b2c4a82edb0046ad92eb79fdc0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7156c32b611fea24bdb7c57bdd09b15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfd82a4a1fdd86e668aa8d8ca9ee50c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82f82abcfecbfa940ae7f742be91a514-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/efb5ab14f421d1e228d51fb75068afab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/851df806ef34920294d2180ce722bc70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c69277edb7e221511a6cd73e51d97194-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4709b760c1dd9954cca9fa767e00642a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8f9a2b207a6abafb1fbd7989fdf575a-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "5f66f42c"
+}

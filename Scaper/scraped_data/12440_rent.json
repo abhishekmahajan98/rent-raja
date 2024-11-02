@@ -1,0 +1,2374 @@
+{
+  "listResults": [
+    {
+      "zpid": "2076874251",
+      "id": "2076874251",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "kcyss51busbp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2a86f72be2b96e90412fdcd66adf9d1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/107-Main-St-1-High-Falls-NY-12440/2076874251_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "107 Main St #1, High Falls, NY 12440",
+      "addressStreet": "107 Main St #1",
+      "addressCity": "High Falls",
+      "addressState": "NY",
+      "addressZipcode": "12440",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.82701,
+        "longitude": -74.12821
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2076874251,
+          "streetAddress": "107 Main St #1",
+          "zipcode": "12440",
+          "city": "High Falls",
+          "state": "NY",
+          "latitude": 41.82701,
+          "longitude": -74.12821,
+          "price": 2800.0,
+          "datePriceChanged": 1728284400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 70,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2036,
+          "listing_sub_type": {},
+          "priceReduction": "$450 (Oct 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -450,
+          "timeOnZillow": 6062629000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-07 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a86f72be2b96e90412fdcd66adf9d1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c99d1c78d132ed30f6f885056075b94b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc80c550518b0bdc7b2b478b63f01ee3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0511da4837552d716ff1a3fbdd4da0a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/933d7d62acca40dc89038b5cdb7d427f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82ddc9bf23c3f27bbe023a7c5e9d4a49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56a910f4426254b3305cd5154f9690e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a1fd4808589f2920b3d735b0f4681ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c15c3e48d8675eb7e0144ece554a211-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a43f35d1e2d51821fe496ba7b8f175c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35751c550d57e618a2c8f2c51a1ceebb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/126eff59dc95658ba457eec0057a7ac0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df911749bcb6d12e4fac79bac977abb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5b88c8e1e4613c19f2b57c25e861ac9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f21408d6259a8dd69e241122b36ad58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2540ac33bad94943cdc988effe28f20d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc17749905b375b86903f13e3e191062-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77cb72813a202dc9a1b4b882283d7156-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d84e6f134a5c81d3e15e625ce61598f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/130c49cc51b2774b14133746c13e5144-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed3eb15dd0fbf9296b5c221c1ec6bdd0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ead97f49c50afd1e003dfe3d69890cb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2c73f5cf5a3c24e43c826ce01a33410-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eff593833e39df2045a192391413deb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05cc1ad6994d937c1496a981f1ccf680-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20fab25bdeeb32c3cef9e337aec554c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f59a3f60c716f9c627ad1b3b74819c62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbd965f9a7a0ceef140804156b773f3a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32854210",
+      "id": "32854210",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "41znghbgnkygk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5cfbf1441488aa2b8952ffb08b1d125e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/6-High-Ridge-Rd-New-Paltz-NY-12561/32854210_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "6 High Ridge Rd, New Paltz, NY 12561",
+      "addressStreet": "6 High Ridge Rd",
+      "addressCity": "New Paltz",
+      "addressState": "NY",
+      "addressZipcode": "12561",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 1920,
+      "latLong": {
+        "latitude": 41.764587,
+        "longitude": -74.09956
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32854210,
+          "streetAddress": "6 High Ridge Rd",
+          "zipcode": "12561",
+          "city": "New Paltz",
+          "state": "NY",
+          "latitude": 41.764587,
+          "longitude": -74.09956,
+          "price": 4500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 1920.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 675600,
+          "rentZestimate": 3800,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 167196000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 569697.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 675600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-30 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Start Home Smart, Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5cfbf1441488aa2b8952ffb08b1d125e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7a14cb89992647910b28d3a8894e117-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c7ff38167db426b2c1b083d6f69ac63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/904e55ac665d38ecb5f1f0d1a7b48a23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77b3be3525188fb16f301f3ebc197852-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4429ece62f33c7e0578c2ad8f8cd853-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3f887f9e3c762896362d383b6538a26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/658975df36ed0ee8ffaf76b352c5f200-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd37903041a27e5f1f1fb1e9fba844ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0098eb86c43ade794d1c45a859df9c5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53d6462dc9b48c29607a269acce4284e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca0fd2bb1a78b82b16c1face10e1124d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0183bfa960ebf40ed9e921c1f016861d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40fbd7e20033245e30d0afe9a841dac4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01b76dbf7811f0108a70373bf828cd47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4e7268f465d153b66fc22f2f34295c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70d93b3bcce98ed3edf0b2f95dd8eb28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11c9037081c61ce96fd533575a264978-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0ace3b4a27d76779640dfa6c6c053d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/334fe2853a31c6cd47bcfabcf360ed0e-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32855063",
+      "id": "32855063",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2c83zfsvx2e5n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d7ac80e487db9f5bd41108f9c7f9f9f0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/33-Outlook-Farm-Dr-New-Paltz-NY-12561/32855063_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,000/mo",
+      "unformattedPrice": 5000,
+      "address": "33 Outlook Farm Dr, New Paltz, NY 12561",
+      "addressStreet": "33 Outlook Farm Dr",
+      "addressCity": "New Paltz",
+      "addressState": "NY",
+      "addressZipcode": "12561",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2580,
+      "latLong": {
+        "latitude": 41.73414,
+        "longitude": -74.13763
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32855063,
+          "streetAddress": "33 Outlook Farm Dr",
+          "zipcode": "12561",
+          "city": "New Paltz",
+          "state": "NY",
+          "latitude": 41.73414,
+          "longitude": -74.13763,
+          "price": 5000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2580.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 44,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 846100,
+          "rentZestimate": 4380,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5000.0,
+          "timeOnZillow": 3807176000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 587424.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 846100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7ac80e487db9f5bd41108f9c7f9f9f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c1311fd3c658b83f1e4f7665b82adb5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4d17887679230d6afa69648da88dc33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4087ff5c59feb61de2d09bcbae2fbc87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b459acd79944d74c85ae0ef8996344d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5dc2c060b5dfb2216dc6692be45cc66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c1c9fd7ac3f8c7493fb4f65f0d931c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06ebbd76527fd26fe21fb1dad0c3f7ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ab471b7c9fb69c0fdeebaec198af7c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/efd577adc5194b30db0daa65ef5ea6ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9910e0d8521285cddc5cdbfd73f9bdcf-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32855483",
+      "id": "32855483",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "39ugwtm6hhtrm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4e45571e15de99f9638beb75dcd6dcb1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/123-Plains-Rd-New-Paltz-NY-12561/32855483_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "123 Plains Rd, New Paltz, NY 12561",
+      "addressStreet": "123 Plains Rd",
+      "addressCity": "New Paltz",
+      "addressState": "NY",
+      "addressZipcode": "12561",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1887,
+      "latLong": {
+        "latitude": 41.73478,
+        "longitude": -74.102974
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32855483,
+          "streetAddress": "123 Plains Rd",
+          "zipcode": "12561",
+          "city": "New Paltz",
+          "state": "NY",
+          "latitude": 41.73478,
+          "longitude": -74.102974,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1887.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 13,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 474000,
+          "rentZestimate": 3214,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 1154474000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 357424.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 474000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-09 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Stevens Real Estate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e45571e15de99f9638beb75dcd6dcb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d328618ef1cfa3f956b6e72f00202af8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86aedc80ebe2b54b033628623e06e88f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e4190590e3bc05d09e7da4a40991734-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e80a728f98c1d465a93a94b022e1f39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/634e5414d5972a095757955a68712978-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d71aea0945b9f805814e17a7096e1a1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4731f6cc8a978f14782150d932bfd17f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9aa04c4c1cbd169b4f5ff18f77b430ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a6f05cef06316e0c40aa2b998984b8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60533ac365e03fe5d27dd8224d50e86e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de01228591af1c7f8b63b447277462bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3bc34db41c573890defbedea496f345-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea1d057ee2b9892e3864d5608500857f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c4333b84f07a29cbfc2fb49a1c43c97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b28b3cc4f6db1bf8cb9661b640a9bed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a84b5e9eecdc2b4f5cdfc1db8f9261cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e8c6c4694fdc883eb2c4414d24288f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4a67ba685eed82b7980b3b23dfafafa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35360cc052e3b94cfcb2a561c0eb4f81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58102425b3e6c54c12120e476fbad67b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cec22dbd9c3ae1a951c71cf3886769a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/567bb0345a450f326eb8c9c852f25c2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18f512e91a7cc33af99d4fc88854fd50-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd3b0d2f7feabffc88adc26f5ff3c11a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/583ea79202be381db00b8be7fa368beb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e01c7109540821e61ba61e5eb29d1648-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cb140137aa3a2a4d7e3b6d142329a11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8144120b6ac4ed250fadf685a6dccbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42c8c80a54142000070317aedd43412b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0ff3b301793a4ded9fd5e0707176c97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1066e0a5b6b44bdb960b57491647adb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af621aac708a218f14209a44cc1bac96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98eabd3b8bc00e1f3c8a8290d1e71bb6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89094e89bc334f7cf1ef757308a06eab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58ed4460e4102bb46c10009fdfd7e857-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/700915c9386ff31ca00ddb5708a08bf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3786a0636b010cf13b79f120641d7cde-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa2e741609122460f8a5c8405cac5a05-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91bff57a22c126df7e60f3f3b535d594-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a9530667b5b0784161fc1d2709143f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73c49d84422f6589c33e92a1a6cdf2a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83e267c82e5650be48946f0d159a572c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d3806bb40c278db8917f23c15121f68-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32854931",
+      "id": "32854931",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3g11pfua0kzmv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cfc4b61b12ee200764ab9ca80e06d7b9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/7-Wood-Lot-Rd-New-Paltz-NY-12561/32854931_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,900/mo",
+      "unformattedPrice": 5900,
+      "address": "7 Wood Lot Rd, New Paltz, NY 12561",
+      "addressStreet": "7 Wood Lot Rd",
+      "addressCity": "New Paltz",
+      "addressState": "NY",
+      "addressZipcode": "12561",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 4.0,
+      "area": 3250,
+      "latLong": {
+        "latitude": 41.74851,
+        "longitude": -74.11917
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "53 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32854931,
+          "streetAddress": "7 Wood Lot Rd",
+          "zipcode": "12561",
+          "city": "New Paltz",
+          "state": "NY",
+          "latitude": 41.74851,
+          "longitude": -74.11917,
+          "price": 5900.0,
+          "bathrooms": 4.0,
+          "bedrooms": 5.0,
+          "livingArea": 3250.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 53,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1421100,
+          "rentZestimate": 5710,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5900.0,
+          "timeOnZillow": 4587491000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1192727.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1421100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Laura Rose",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfc4b61b12ee200764ab9ca80e06d7b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/302b341548661853bbb107bbcafa8195-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b20dbbedd01119134a884c578461bde-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7629a4ae2a1d52d3aca836880bc70bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6711eae6038e748f240fcec758776fcc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/312f218133b83c035fbf3926d8df0a86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60ae4e22f8cecc26dc83b953f4b2db7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26d3ade59389c81206b5ecbf6e2237f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ba4634415c6963576776a1fefda7aa6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ab64a802107ab8a03d933c2fc643ec7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0525424c50b613754a71ef794a75ec2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b2d68d114a5ad38bb17041df600c106-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/727a51fd64ce83adf8752cf99e5b3046-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1b2043f6fe216a12b0162805856536e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a6682d9dc31d78c86854720bd22bc79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1075c94eabeac0d87bab78f918c81e8b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/075f970854f648d2143b52e4f47a92e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9dbcfaf48c382dd7c9ca6a035dd25b91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f418a23ffd60f800a6bbe54aaf452787-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76ec3b3e37a14e8f7ae9b0e8fda26a8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5dbb3e4c7eaeaaffb0ad9aba60b4a366-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c034a0f39fbf3d4184f70a95a7aa8983-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ee56945a1a9624397f1ebfe203b2e1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47357ca370bc796d6ca10d5413f8811d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36189e27b52b1cdb8af5980343f4e563-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4181fd7eed7f4e09f5dfc1f042e91f75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/543ba964f848ee0a9acab0fa5b8ff6b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d35af052a03106c5a261dbbec63819d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9da6733bb0fdb4767299432643e91212-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31201fd460c752ada4418a6ef171bd30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64389ca97ae43e41f4bebb86cb04f0e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ff41d586f72519550f04e504f904ec4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e43f6ce78825d326840b70f75053b8ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95488fed3c69b5d20023da3620e4782a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd53c63d7ffed190b662b39bd07d1525-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f1184cfc4260f46096e32d318575768-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/089eadcbe2f9d11fe3e224aabf138c69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/48d46093b157c998883c5305c289a8c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5f71ebb7b9fe598b9424152d4318742-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4455a71e233e2a9f23ad4dca68fd5f73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2771265039f1011d8ad43a4728a107a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5f10a95eb938e231b799d224213c7d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21e0bd17e3ccb42d0fc32e3b294b1705-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d82b098828fc17f73fb43f5c831a6b7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ace2c4aea7b23f56dd17e8ca21a445dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64ba063d53844ec867f917de4909d174-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b9aa8d1fbfec807517488869576ac5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7652d371de69203d8657069bb8eec3be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a09b2e03410346c8b44b807944ca701-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73249d07741ae8e77b408e343f900ca5-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32850739",
+      "id": "32850739",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3b4sg8gu6a16z",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0fe2befad389b6030e9d3453a3450a89-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/60-Lower-27-Knolls-Rd-High-Falls-NY-12440/32850739_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,000/mo",
+      "unformattedPrice": 5000,
+      "address": "60 Lower 27 Knolls Rd, High Falls, NY 12440",
+      "addressStreet": "60 Lower 27 Knolls Rd",
+      "addressCity": "High Falls",
+      "addressState": "NY",
+      "addressZipcode": "12440",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 2800,
+      "latLong": {
+        "latitude": 41.802017,
+        "longitude": -74.126236
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32850739,
+          "streetAddress": "60 Lower 27 Knolls Rd",
+          "zipcode": "12440",
+          "city": "High Falls",
+          "state": "NY",
+          "latitude": 41.802017,
+          "longitude": -74.126236,
+          "price": 5000.0,
+          "datePriceChanged": 1726642800000,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 2800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1714900,
+          "rentZestimate": 4934,
+          "listing_sub_type": {},
+          "priceReduction": "$700 (Sep 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5000.0,
+          "priceChange": -700,
+          "timeOnZillow": 2422230000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1198033.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1714900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Mary Collins Real Estate, Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0fe2befad389b6030e9d3453a3450a89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c7a937de3deb7468f82cc9e37bf17fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/775603f0c53e92b4ca0230e81de73e11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/792f5162a7fd2c2ae2a51a0a246e2810-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b1717e68e3eded9bfd1964347647729-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58c531b8956c8481c5c077486b914341-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/863ad18af6efae221d4db03492f07635-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1e20f9079ca4f525cbce092c7609800-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06a9f071397818a9e5308acb7746f150-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d013cad7e02611472b84b29502448da5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22282e1ac13f6999cf8faa523f668cc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c743dc5ed4f6e68dcfdf9d841fc5476e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8de2fb5f8c362a03ebab1d552eb4b91c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14cb63b12a927707b29d8ea89c26070d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecf07b1b0f3a2962b2b38353e046dc7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e2848cdbb38ab17694b8b8633fe5721-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6748438bb887e1bcc2c2dca37d87c9eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06caf6f80834b2062e50e588277ac1ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cc054c70cb780057f7fa116a4b224d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c65a6dc64ee3a467bde018f0fcb1db02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1aac152f635f75a6b2b280b40625688-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aefaa9154393dab5c4b911095e4dfb59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93be7ddceb16e53a23196ff551c20ad1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e9f5a784684a17f8f44d7401ffbecfd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2eb335553e98e64f71ca5053797db85-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f6c13091e5609b5617795d976bb4c81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e9c28f79ad68ab5603accd6ed0ed98a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32861405",
+      "id": "32861405",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "u8z5u1g668hd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/143d8aba2be7cf0df2a85a945f45904e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/90-Upper-Whitfield-Rd-Accord-NY-12404/32861405_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "90 Upper Whitfield Rd, Accord, NY 12404",
+      "addressStreet": "90 Upper Whitfield Rd",
+      "addressCity": "Accord",
+      "addressState": "NY",
+      "addressZipcode": "12404",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 2090,
+      "latLong": {
+        "latitude": 41.82547,
+        "longitude": -74.23907
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "56 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32861405,
+          "streetAddress": "90 Upper Whitfield Rd",
+          "zipcode": "12404",
+          "city": "Accord",
+          "state": "NY",
+          "latitude": 41.82547,
+          "longitude": -74.23907,
+          "price": 4500.0,
+          "datePriceChanged": 1727766000000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 2090.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 56,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 4180,
+          "listing_sub_type": {},
+          "priceReduction": "$750 (Oct 1)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "priceChange": -750,
+          "timeOnZillow": 4902919000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices Hudson Valley Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/143d8aba2be7cf0df2a85a945f45904e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7354ed2482d7ae632b6125679e7b5a7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/241b192063acc8f5284c030df5b4a602-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73646acc7da214f7bfbe4846e57bc256-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b84a40822342e5811b266c203c830da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/143b1f1a892577accd24dd98bdbd26bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6290b66a87c208d14f7415da638c26b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67e9e64ead54b2f1d3b2cfd85a9af1c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/012e70bc2b8cb5f2ffb12560d6d14fdc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/235df8bb4d9a796f9121fa7ae16de824-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c72b5f75f2f34ca11ca38fcefc2f36d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7665356d7e038b0d31c12c0c5b485de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29e2716a634f14ec6a57191889987e0c-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32862821",
+      "id": "32862821",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "ezvpcb91zq4s",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0014e60c436664b845f2b4a4864eab0e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/37-Tow-Path-Rd-Accord-NY-12404/32862821_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,500/mo",
+      "unformattedPrice": 5500,
+      "address": "37 Tow Path Rd, Accord, NY 12404",
+      "addressStreet": "37 Tow Path Rd",
+      "addressCity": "Accord",
+      "addressState": "NY",
+      "addressZipcode": "12404",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1480,
+      "latLong": {
+        "latitude": 41.7835,
+        "longitude": -74.22584
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "113 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32862821,
+          "streetAddress": "37 Tow Path Rd",
+          "zipcode": "12404",
+          "city": "Accord",
+          "state": "NY",
+          "latitude": 41.7835,
+          "longitude": -74.22584,
+          "price": 5500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1480.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 113,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 4644,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5500.0,
+          "timeOnZillow": 9837444000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 85000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices Hudson Valley Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0014e60c436664b845f2b4a4864eab0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42cbccf697490d0aec2fefb6e8a3ebf3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c7bbc596988c781084beb2a4da868be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/562679b91850844a30b381f596fe5a33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70e462c076fcbc4bf3fa4c27817e2327-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de20135ae3852112cd2b379c79eff18a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bfe9cbc9120201a57b977873a3e7ab0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ae770609b11ee7ebb8dc7ae0c6577b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb19b6868e8b22e495428bd4c1f7f249-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c72cdc96e2811222eb8533db0362ff97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ea450576e6faba84e3de75218ad4b94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9264eed416e6a31483f68324b698860a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/479aa0d4cca50413763801d3de33bfae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1dc8128ac4b897c86bd4e8dd38fdf7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecd92460301e57b67321e1c37d152440-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4eba2f625d1d7088b89788087dbd5871-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15074c572e5a37828904edbb3ef351de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a95dd6b6be3ab3fa9153d3144d0b269-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/efb07a69d809a85059ea378c3a23da66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46fe2419c6a197951c486e0f1c90ca83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c85a46591196bbd0b4c4c46ce80e0b09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b670f4a29f42ed8bdf44c469e477eca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd480944d5fef4ebbecc25563de4d0e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc7280da2a811072aabb9e058608cec3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd712c6ce9a490c5e5352e173ef0f1dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c87343b3f8f41b3e3d2bd8c83769923-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db67b70041943a62525b66adf5a67aee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8cabdb7cc67dd1c0d33ae9c1bf41d06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bf8cfe1f9474c773d86436af37f9b35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed13253cac957e3f501c3ad5ee1183bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec6824bb9a3cff33fbd40153bcc009f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ed8f44843719fdf00233d50816be2ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b77ad307edd0519b4d7dec48acabba4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/954875e357f96d22bb3c8544ce0d93e6-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441998103",
+      "id": "441998103",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3jhxva0bjmyea",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5a7a9be252606849d319edf8f9d63219-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/128-bruceville-high-falls-ny-97wNZJ/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "128 Bruceville, 128 Bruceville Rd APT 1, High Falls, NY 12440",
+      "addressStreet": "128 Bruceville Rd APT 1",
+      "addressCity": "High Falls",
+      "addressState": "NY",
+      "addressZipcode": "12440",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 884,
+      "latLong": {
+        "latitude": 41.832382,
+        "longitude": -74.11979
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441998103,
+          "streetAddress": "128 Bruceville Rd APT 1",
+          "zipcode": "12440",
+          "city": "High Falls",
+          "state": "NY",
+          "latitude": 41.832382,
+          "longitude": -74.11979,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 884.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 67,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 5874924000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: First Capital Property Management Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a7a9be252606849d319edf8f9d63219-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/690dc88f8e5503128fd1351a7b0d5a11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e0b3a957309dde0f83a7821f95e5245-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbeed2d3210525848b1ced2c08593455-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7873b8748f78807fc1300972e56d5e3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69e3dc77907a5c02f1675bae9f172ae3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86703302a1ec6db27e91aec7039b4e23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cb7e5edebda3bef37168e571dd0cfa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb88b56cd8da852deaaa53d0cf7997b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/519116ffad072415b65268a0fc4decb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ab42a93e96f4b829b0c43bb129f9a81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12bef48fd504b2121cdda91bed6d02cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1920492c0180a7dd66962056c25888e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ef1da5e91a6b1599dafb82a0bcedd67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab06fb4f240f763d444ab789ae4e18cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75df6bbdf22d1a625a7cc97a59fff3f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62ebed43004f56e0442c7121f7762ecd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a469f29dade6b4d645062a8a40a99c93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1972dc954044be8ac40ac2b0e60809d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2076874251",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2a86f72be2b96e90412fdcd66adf9d1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/107-Main-St-1-High-Falls-NY-12440/2076874251_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,800/mo",
+      "priceLabel": "$2.8K",
+      "address": "107 Main St #1, High Falls, NY 12440",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.82701,
+        "longitude": -74.12821
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2076874251,
+          "streetAddress": "107 Main St #1",
+          "zipcode": "12440",
+          "city": "High Falls",
+          "state": "NY",
+          "latitude": 41.82701,
+          "longitude": -74.12821,
+          "price": 2800.0,
+          "datePriceChanged": 1728284400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2036,
+          "listing_sub_type": {},
+          "priceReduction": "$450 (Oct 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -450,
+          "timeOnZillow": 6062629000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-07 00:00:00",
+      "visited": false,
+      "timeOnZillow": 6062629000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32854210",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5cfbf1441488aa2b8952ffb08b1d125e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/6-High-Ridge-Rd-New-Paltz-NY-12561/32854210_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,500/mo",
+      "priceLabel": "$4.5K",
+      "address": "6 High Ridge Rd, New Paltz, NY 12561",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 1920,
+      "latLong": {
+        "latitude": 41.764587,
+        "longitude": -74.09956
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32854210,
+          "streetAddress": "6 High Ridge Rd",
+          "zipcode": "12561",
+          "city": "New Paltz",
+          "state": "NY",
+          "latitude": 41.764587,
+          "longitude": -74.09956,
+          "price": 4500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 1920.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 675600,
+          "rentZestimate": 3800,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 167196000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 569697.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-30 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Start Home Smart, Inc.",
+      "timeOnZillow": 167196000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32855063",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d7ac80e487db9f5bd41108f9c7f9f9f0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/33-Outlook-Farm-Dr-New-Paltz-NY-12561/32855063_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$5,000/mo",
+      "priceLabel": "$5.0K",
+      "address": "33 Outlook Farm Dr, New Paltz, NY 12561",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2580,
+      "latLong": {
+        "latitude": 41.73414,
+        "longitude": -74.13763
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32855063,
+          "streetAddress": "33 Outlook Farm Dr",
+          "zipcode": "12561",
+          "city": "New Paltz",
+          "state": "NY",
+          "latitude": 41.73414,
+          "longitude": -74.13763,
+          "price": 5000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2580.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 846100,
+          "rentZestimate": 4380,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5000.0,
+          "timeOnZillow": 3807176000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 587424.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 3807176000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32855483",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4e45571e15de99f9638beb75dcd6dcb1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/123-Plains-Rd-New-Paltz-NY-12561/32855483_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "123 Plains Rd, New Paltz, NY 12561",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1887,
+      "latLong": {
+        "latitude": 41.73478,
+        "longitude": -74.102974
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32855483,
+          "streetAddress": "123 Plains Rd",
+          "zipcode": "12561",
+          "city": "New Paltz",
+          "state": "NY",
+          "latitude": 41.73478,
+          "longitude": -74.102974,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1887.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 474000,
+          "rentZestimate": 3214,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 1154474000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 357424.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-09 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Stevens Real Estate",
+      "timeOnZillow": 1154474000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32854931",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cfc4b61b12ee200764ab9ca80e06d7b9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/7-Wood-Lot-Rd-New-Paltz-NY-12561/32854931_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$5,900/mo",
+      "priceLabel": "$5.9K",
+      "address": "7 Wood Lot Rd, New Paltz, NY 12561",
+      "isNewYorkState": true,
+      "beds": 5,
+      "baths": 4.0,
+      "area": 3250,
+      "latLong": {
+        "latitude": 41.74851,
+        "longitude": -74.11917
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "53 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32854931,
+          "streetAddress": "7 Wood Lot Rd",
+          "zipcode": "12561",
+          "city": "New Paltz",
+          "state": "NY",
+          "latitude": 41.74851,
+          "longitude": -74.11917,
+          "price": 5900.0,
+          "bathrooms": 4.0,
+          "bedrooms": 5.0,
+          "livingArea": 3250.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1421100,
+          "rentZestimate": 5710,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5900.0,
+          "timeOnZillow": 4587491000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1192727.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Laura Rose",
+      "timeOnZillow": 4587491000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32850739",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0fe2befad389b6030e9d3453a3450a89-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/60-Lower-27-Knolls-Rd-High-Falls-NY-12440/32850739_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$5,000/mo",
+      "priceLabel": "$5.0K",
+      "address": "60 Lower 27 Knolls Rd, High Falls, NY 12440",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 2800,
+      "latLong": {
+        "latitude": 41.802017,
+        "longitude": -74.126236
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32850739,
+          "streetAddress": "60 Lower 27 Knolls Rd",
+          "zipcode": "12440",
+          "city": "High Falls",
+          "state": "NY",
+          "latitude": 41.802017,
+          "longitude": -74.126236,
+          "price": 5000.0,
+          "datePriceChanged": 1726642800000,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 2800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1714900,
+          "rentZestimate": 4934,
+          "listing_sub_type": {},
+          "priceReduction": "$700 (Sep 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5000.0,
+          "priceChange": -700,
+          "timeOnZillow": 2422230000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1198033.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Mary Collins Real Estate, Inc.",
+      "timeOnZillow": 2422230000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32861405",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/143d8aba2be7cf0df2a85a945f45904e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/90-Upper-Whitfield-Rd-Accord-NY-12404/32861405_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,500/mo",
+      "priceLabel": "$4.5K",
+      "address": "90 Upper Whitfield Rd, Accord, NY 12404",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 2090,
+      "latLong": {
+        "latitude": 41.82547,
+        "longitude": -74.23907
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "56 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32861405,
+          "streetAddress": "90 Upper Whitfield Rd",
+          "zipcode": "12404",
+          "city": "Accord",
+          "state": "NY",
+          "latitude": 41.82547,
+          "longitude": -74.23907,
+          "price": 4500.0,
+          "datePriceChanged": 1727766000000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 2090.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 4180,
+          "listing_sub_type": {},
+          "priceReduction": "$750 (Oct 1)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "priceChange": -750,
+          "timeOnZillow": 4902919000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices Hudson Valley Properties",
+      "timeOnZillow": 4902919000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "32862821",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0014e60c436664b845f2b4a4864eab0e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/37-Tow-Path-Rd-Accord-NY-12404/32862821_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$5,500/mo",
+      "priceLabel": "$5.5K",
+      "address": "37 Tow Path Rd, Accord, NY 12404",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1480,
+      "latLong": {
+        "latitude": 41.7835,
+        "longitude": -74.22584
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "113 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32862821,
+          "streetAddress": "37 Tow Path Rd",
+          "zipcode": "12404",
+          "city": "Accord",
+          "state": "NY",
+          "latitude": 41.7835,
+          "longitude": -74.22584,
+          "price": 5500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1480.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 4644,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5500.0,
+          "timeOnZillow": 9837444000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 85000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices Hudson Valley Properties",
+      "timeOnZillow": 9837444000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "441998103",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5a7a9be252606849d319edf8f9d63219-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/128-bruceville-high-falls-ny-97wNZJ/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,400/mo",
+      "priceLabel": "$1.4K",
+      "address": "128 Bruceville Rd APT 1, High Falls, NY 12440",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 884,
+      "latLong": {
+        "latitude": 41.832382,
+        "longitude": -74.11979
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441998103,
+          "streetAddress": "128 Bruceville Rd APT 1",
+          "zipcode": "12440",
+          "city": "High Falls",
+          "state": "NY",
+          "latitude": 41.832382,
+          "longitude": -74.11979,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 884.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 5874924000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: First Capital Property Management Group",
+      "timeOnZillow": 5874924000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "754a23c0",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

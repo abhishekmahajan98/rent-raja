@@ -1,0 +1,599 @@
+{
+  "listResults": [
+    {
+      "zpid": "349605437",
+      "id": "349605437",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1xr1khkt9pjrw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/36608814868684306c9c57284a90933e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/6-Hillside-Rd-A-Greenwood-Lake-NY-10925/349605437_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "6 Hillside Rd #A, Greenwood Lake, NY 10925",
+      "addressStreet": "6 Hillside Rd #A",
+      "addressCity": "Greenwood Lake",
+      "addressState": "NY",
+      "addressZipcode": "10925",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.180656,
+        "longitude": -74.319
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 349605437,
+          "streetAddress": "6 Hillside Rd #A",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.180656,
+          "longitude": -74.319,
+          "price": 3000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2159,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 157514000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/36608814868684306c9c57284a90933e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69cd5af3f361ef95218320f6e7d991fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de6964e9a477d80d7b02ca02f14b044b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e81d7de876257a8b7ccc4f4dd9567eac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0fc54843758ec62c03191d1b59fbc20e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13557ebb50a72f4aebdc75dde21a8bf9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf72d8171284c3aa5156b140616ad4f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89c4ab75f7b3f046b1d53f7b946862c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1583be8615bb8d2a3bfaf641a96563d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f4753420d0c005a83dd16ed571d6da4-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "349605437",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/36608814868684306c9c57284a90933e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/6-Hillside-Rd-A-Greenwood-Lake-NY-10925/349605437_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,000/mo",
+      "priceLabel": "$3.0K",
+      "address": "6 Hillside Rd #A, Greenwood Lake, NY 10925",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.180656,
+        "longitude": -74.319
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 349605437,
+          "streetAddress": "6 Hillside Rd #A",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.180656,
+          "longitude": -74.319,
+          "price": 3000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2159,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 157514000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 157514000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "31868672",
+      "id": "31868672",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2a352vqfand31",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b8887ffe0f40c7a3801b4059b6d2f950-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/46-Woods-Rd-Greenwood-Lake-NY-10925/31868672_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,595/mo",
+      "unformattedPrice": 3595,
+      "address": "46 Woods Rd, Greenwood Lake, NY 10925",
+      "addressStreet": "46 Woods Rd",
+      "addressCity": "Greenwood Lake",
+      "addressState": "NY",
+      "addressZipcode": "10925",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1528,
+      "latLong": {
+        "latitude": 41.1916,
+        "longitude": -74.30743
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31868672,
+          "streetAddress": "46 Woods Rd",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.1916,
+          "longitude": -74.30743,
+          "price": 3595.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1528.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 59,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2801,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3595.0,
+          "timeOnZillow": 5105130000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 410800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": true,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Ridge & Valley RE Corp",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8887ffe0f40c7a3801b4059b6d2f950-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fe810bcbc1024f67c0eeaadce57c817-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d403ac3b96ef22ab5fd101c65710f3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05ad086cd1a3893c5cb9c9f7b5fe4661-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9eb341f44bf001e602576a97054b1bae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81527ae347b45a34a9f1d6d26d2d8978-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc1031fdfb91569a1e3b8996f901c662-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/436104b58322c99ac340786a35ffb9d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d4502ccb609a935965cf490ea36608b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe8db025975bedba1521667aeee25723-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/446ec4d63ba1b925f925072b1ef54141-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ffbadd0f8cfc826b6d40b4d14c94572-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ee611cb8eec5732dc61b5d261632bb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ed9e56c1178818126a73afbfeec917e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/395741ceeee760cf0ad60a450fb290d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ccd502f169b7077670620dd549d63ae8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9b6be24f35aa03fc6be811ef11ca701-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c00d8defd07e119fbfe3322c576bf97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1533539a36217c241ab90a6906743c6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a631a79c66135b08007616831962a03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/916786e9c37180810eac52bd8c97d5c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24f9b59e3f2d8153033553f8d7683d2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8607efbed9af5bc6146a70db13567dcd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/445707f782b8a52b4988dbb374964c00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a37a4e122abf41f03f6bdcb6d8f4530b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a6ffdbfd14773b68d743011b179df5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91660c959e65e47dbe1c03e1dfc5a933-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0de5180d1a85b1c1f654b81cb5aa1de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb96cdea030b7c86a168e3f965f94631-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d747d2ead6ee0d24767619d09a552299-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e93d0c7a5c933b5ada65297b38c79f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0615d1d7301d6ce9b340a47b7002ab3b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "39803492",
+      "id": "39803492",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3a0k3r9gf0mwk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b2bb8cb2834f3e5ee952fa3f4691910d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/857-E-Shore-Rd-Hewitt-NJ-07421/39803492_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "857 E Shore Rd, Hewitt, NJ 07421",
+      "addressStreet": "857 E Shore Rd",
+      "addressCity": "Hewitt",
+      "addressState": "NJ",
+      "addressZipcode": "07421",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 1231,
+      "latLong": {
+        "latitude": 41.18054,
+        "longitude": -74.32271
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 39803492,
+          "streetAddress": "857 E Shore Rd",
+          "zipcode": "07421",
+          "city": "Hewitt",
+          "state": "NJ",
+          "latitude": 41.18054,
+          "longitude": -74.32271,
+          "price": 3500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 1231.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 695400,
+          "rentZestimate": 3422,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 2594934000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 331500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 695400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2bb8cb2834f3e5ee952fa3f4691910d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96ab7786bfcd1569ad14e2328002bceb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/316088fe1a52bb7f0061cbb5022487d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f75c54d149ea4a4eb47d532534845221-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b78a5d9607af0b6358fc4d6dbf33fa6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3394a3832aa6311a77f65ffa1ffba7aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bf8b0fce76ede6876bb41d04677bc20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d986333d6ee3c61348f8b6b91a99701-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e4cd5359abbbf07857f389017a03324-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/933adbf652cd59281bccb16b6fade3cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/711168f4761aafd696755a7a3340207d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/adc60d34a16fd3539a264ae000ff48d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c88c74d8f3a23eb5ed0cf06d0618cf90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e3067ba50e087e8297b86c70ebf8b1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e52334eff4e4b76372c95f7a0f16ba7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/996e85f14bd80a4be073e6395965631e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a2ee63dd25a45710211aee166f5dae6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d92c0710aca837bca405e6f368701f9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10ace5248509a4aa76600a0e379791d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6597f3e0cd0590cb25e50b5ce124017c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a63002fd805551828f765b3e28638e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78a83f0dd5c3427a75c15d126c7c9d0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca8be17355643b6593e075623802d35e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f1a30a36e25e38eea568cc56087ff72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d26c30e27af78658dc54edb85c630f92-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/938f3bdea696b184f7126448ab6600ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ab7df67223355a6a881c73ecbc64d77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4fe4ffe63a7a66cd13d4fed03da4478-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bb6a88da05e415791dcfa781bc72140-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc5d2899e58a257a6f605753d9966b61-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "367a98ec",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "38d7ca44"
+}

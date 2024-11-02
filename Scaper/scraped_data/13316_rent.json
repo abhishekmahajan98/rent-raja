@@ -1,0 +1,598 @@
+{
+  "listResults": [
+    {
+      "zpid": "2057430545",
+      "id": "2057430545",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "fbrrk5hw1aww",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3816e98d67a73f31fce658ad4a294996-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8013-State-Highway-13-Blossvale-NY-13308/2057430545_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,050/mo",
+      "unformattedPrice": 1050,
+      "address": "8013 State Highway 13, Blossvale, NY 13308",
+      "addressStreet": "8013 State Highway 13",
+      "addressCity": "Blossvale",
+      "addressState": "NY",
+      "addressZipcode": "13308",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.2498,
+        "longitude": -75.69964
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057430545,
+          "streetAddress": "8013 State Highway 13",
+          "zipcode": "13308",
+          "city": "Blossvale",
+          "state": "NY",
+          "latitude": 43.2498,
+          "longitude": -75.69964,
+          "price": 1050.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1092,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1050.0,
+          "timeOnZillow": 332191000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Premier Property Management Group LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3816e98d67a73f31fce658ad4a294996-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8850ee61bc4fd2dbf0d2ccf652c84d51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/784c362462049106d5c6b46eed289b96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e5af805fe43a236815610c611fccaf5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1eb25e5c2d7c870ab11247bf709133ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d3a1b1511b30d25d4896e81214982c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d034ce7ff1f3024cd484d6b10ab8981-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21f7b6d872a8aacda438e0138aabbaf4-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2057430545",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3816e98d67a73f31fce658ad4a294996-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/8013-State-Highway-13-Blossvale-NY-13308/2057430545_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,050/mo",
+      "priceLabel": "$1.1K",
+      "address": "8013 State Highway 13, Blossvale, NY 13308",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.2498,
+        "longitude": -75.69964
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057430545,
+          "streetAddress": "8013 State Highway 13",
+          "zipcode": "13308",
+          "city": "Blossvale",
+          "state": "NY",
+          "latitude": 43.2498,
+          "longitude": -75.69964,
+          "price": 1050.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1092,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1050.0,
+          "timeOnZillow": 332191000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Premier Property Management Group LLC",
+      "timeOnZillow": 332191000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "53765918",
+      "id": "53765918",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "481wgs2wk3e1d",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5b33611d17898beeafb486b5e9e395b1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/395-State-Route-49-Cleveland-NY-13042/53765918_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "395 State Route 49, Cleveland, NY 13042",
+      "addressStreet": "395 State Route 49",
+      "addressCity": "Cleveland",
+      "addressState": "NY",
+      "addressZipcode": "13042",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {
+        "latitude": 43.236454,
+        "longitude": -75.909996
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53765918,
+          "streetAddress": "395 State Route 49",
+          "zipcode": "13042",
+          "city": "Cleveland",
+          "state": "NY",
+          "latitude": 43.236454,
+          "longitude": -75.909996,
+          "price": 2200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 404700,
+          "rentZestimate": 1976,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 2190898000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 330462.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 404700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b33611d17898beeafb486b5e9e395b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29bfe7b9922c7243bd85e1f6e45c68b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e10447be2627a3fad22c96e3a6d6ebaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6c8d7252dff702164aca4256bec6bb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f2d2d29f7caa6740a6c9aba1fce2b0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed16c88f79feebecb2ebcb9275883889-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca9b5730f76805a2c671c8f8bd428eab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d37810dd23d3201c1018f9796ee43ebb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e854d0ca1b7297e7dc3bd44c0e076a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57460b6cf75040a9b4eff67fd868885e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44008192a7b4e6f3ad7bc3b6f992540f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83f0666cdc73ab01b5d2f2e9856ceda8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae72b0ef9c722ad4b23cacce79810bc5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/679134b6a2b1cbe1149c12b9bb9ef6a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed5f185d9569865b7ecf9aab955b1482-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea9f0129cf7a2f46c8a830ed9bf17945-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8c978cb63b381d4f24183878dec94de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36651134b3b8088895d4c7b44c14e4e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5213969f543609b09ae69178e0e0f3a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a1ef4d16564a78f7d335bd27a318a2c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c8cb5e77d6410829547e7461488546f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0888fc1ec971b49c45d35db31e50baea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3b10097dfdf44adb3772e95f5f59d6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34711c9c79604b9a404100914d05412a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a3ef702c178cee36ee032f71dc019fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58b8701d7a64a8224a11a658d5088968-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ba9a319047ab7260f359373ffcf04ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/705e76d859a79b449e2294c4a4b3972f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d105a40e17b4991dca74bd0af18a940-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61b98f5927d9ee60705be674d174f0ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58cbe054e7e609d7da6366e2765069bf-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2082580572",
+      "id": "2082580572",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3dphpmmasdarb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7fb901b809123e5bf5773480582a4f7b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/184-Pine-Haven-Cir-Blossvale-NY-13308/2082580572_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,756/mo",
+      "unformattedPrice": 1756,
+      "address": "184 Pine Haven Cir, Blossvale, NY 13308",
+      "addressStreet": "184 Pine Haven Cir",
+      "addressCity": "Blossvale",
+      "addressState": "NY",
+      "addressZipcode": "13308",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.246834,
+        "longitude": -75.59018
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082580572,
+          "streetAddress": "184 Pine Haven Cir",
+          "zipcode": "13308",
+          "city": "Blossvale",
+          "state": "NY",
+          "latitude": 43.246834,
+          "longitude": -75.59018,
+          "price": 1756.0,
+          "datePriceChanged": 1727420400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 59,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 138100,
+          "rentZestimate": 1714,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1756.0,
+          "priceChange": 128,
+          "timeOnZillow": 5114679000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 138100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: RHP Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fb901b809123e5bf5773480582a4f7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/363bf64d17389138add91ee4eb6e5c4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d66ae2b414ac3c28e802bec53271f366-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e669666bbfaa236c49d860b6eab0927-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03d1171ed40bb612ba7f98166f4a9d50-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1fb2176c89f1ec85f949fb7744dbc6d-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "43.23095--75.75215",
+      "id": "43.23095--75.75215",
+      "providerListingId": "18rfcfsaknffh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1251997425f9d1d2c53f3040d217e189-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/245-mattawa-st-north-bay-ny-CHvKXd/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "245 Mattawa St, North Bay, NY",
+      "addressStreet": "245 Mattawa St # 1",
+      "addressCity": "North Bay",
+      "addressState": "NY",
+      "addressZipcode": "13123",
+      "units": [
+        {
+          "price": "$1,800+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,300+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2622433530,
+      "latLong": {
+        "latitude": 43.23095,
+        "longitude": -75.75215
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1251997425f9d1d2c53f3040d217e189-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c7132fe8087877969b0c4d9ac604d31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3b322df925d268d746a553f4043c579-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/660668438fa9c45d2d2fb3e5981aa90c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4020affb75220f524ea434aa59c87b87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f15d3be7940bbe92dd5a6659ec31668d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff3029865c807451ab7f928d87a6d5fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb43ddd3a06c61294a26f7a859fb8eca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62463f85588f067c105aa295f33d03ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fb3f91f4d35e0205c44dab5177e9e60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f50867471e2540f9f394a35a31e1e77e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce22666d5e88ef48b20fc01b3975a195-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1be3e31fc94b8515a68f7ee19265dc7-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    }
+  ],
+  "resultsHash": "421cc43c",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "2c676c70"
+}

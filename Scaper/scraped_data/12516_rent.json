@@ -1,0 +1,858 @@
+{
+  "listResults": [
+    {
+      "zpid": "30006154",
+      "id": "30006154",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3kepjku60y4n1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7a99a4061f3bef73cb921af5cebb553f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5-Parkview-Ct-Copake-NY-12516/30006154_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "5 Parkview Ct, Copake, NY 12516",
+      "addressStreet": "5 Parkview Ct",
+      "addressCity": "Copake",
+      "addressState": "NY",
+      "addressZipcode": "12516",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1130,
+      "latLong": {
+        "latitude": 42.11175,
+        "longitude": -73.54542
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30006154,
+          "streetAddress": "5 Parkview Ct",
+          "zipcode": "12516",
+          "city": "Copake",
+          "state": "NY",
+          "latitude": 42.11175,
+          "longitude": -73.54542,
+          "price": 2500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1130.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2139,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 877681000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 247222.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-22 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Elyse Harney Real Estate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a99a4061f3bef73cb921af5cebb553f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7420798049d69de1b6e5bd10c12199d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d70e69de3bb53ed9dad112c43371ed72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b13dc9af072658c8585151dac2baf0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78212d521d39068b9a18c89974a999e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13e3a01966b0de4b85aef03ce0a9bd03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62e5f047c07ae0130d18caa213d30ce0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53517e5318654feb6a671fd5a0162bd2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29998685",
+      "id": "29998685",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "11sqre2rcn0zz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b3478fec89f1ac822f75f425577d8e9e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1955-County-Route-7-Ancram-NY-12502/29998685_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,150/mo",
+      "unformattedPrice": 3150,
+      "address": "1955 County Route 7, Ancram, NY 12502",
+      "addressStreet": "1955 County Route 7",
+      "addressCity": "Ancram",
+      "addressState": "NY",
+      "addressZipcode": "12502",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 42.08163,
+        "longitude": -73.59989
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29998685,
+          "streetAddress": "1955 County Route 7",
+          "zipcode": "12502",
+          "city": "Ancram",
+          "state": "NY",
+          "latitude": 42.08163,
+          "longitude": -73.59989,
+          "price": 3150.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 483100,
+          "rentZestimate": 4201,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3150.0,
+          "timeOnZillow": 616328000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 394000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 483100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3478fec89f1ac822f75f425577d8e9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9b0f914bafd649cb97b0ce552c7465f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/542234d1eb55efd45cf17e88880021a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/868d76a02439a633b138344a76f04df0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab386bd2e57cbce88d1511476a693ead-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c627e85a83c7a0832a22fc733ff7159c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc7d4f00b579256a4540d1c6decff91e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d78bbde24cd11abf0f84ad1a7fffe7d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6d6151412ed1992be50e144fed83d6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6c4377de3671186ecf90cad478c48a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98e101f78d38a4b9423ea531a25532f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb46cf6074bb3d6afa7b50ceeed461a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/198ad479610e299e06d6d0ea79f95257-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91dd581123a9c14fbbcfb3838c5b8221-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "215396609",
+      "id": "215396609",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1v3gcvg2k128z",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4025a67dc6a78fa521d7133240368e1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Craryville-NY-12521/215396609_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "(undisclosed Address), Craryville, NY 12521",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Craryville",
+      "addressState": "NY",
+      "addressZipcode": "12521",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 3.0,
+      "area": 2000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "221 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215396609,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12521",
+          "city": "Craryville",
+          "state": "NY",
+          "price": 3500.0,
+          "datePriceChanged": 1721026800000,
+          "bathrooms": 3.0,
+          "bedrooms": 2.0,
+          "livingArea": 2000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 221,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 488600,
+          "rentZestimate": 4394,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "priceChange": 300,
+          "timeOnZillow": 19171160000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 488600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-03-24 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4025a67dc6a78fa521d7133240368e1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b086aa95a33b1c9fe461fb8a7a8160f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fef5342b33b0373f6007607843669738-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aea700371caecf94d0e8f37ab4c29f55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14661100c017b43d1718d386e97d9d32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1570108b4de4db3e834f04c274503472-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b9cc36c2e225cf3c19ee82289e65dfc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/151ec4b71e76aa62a41341e5457e0ffb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/721e1cf300996fd4340b453278911316-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d7086ab6ca551ccffca77d83f78f3bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb39e160b6e48cb870023e54ce997242-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab80eaacd757480b63acc0e73b15a6cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3413dac825eb5e8c5041313dc0236ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc96c527196e1244789297e1ab3bf61a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c46ea34020dd781a1592d45e0de703f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1bd9f2ff2e463594a6d9c4c1288b18a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd00a7b6c1e301736a13ba1f5ad220b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/064e247b22a69b6fff2f28885835a0eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52c48fa6bc34e8e8106207b93168a227-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/acc7d184606c520ba86ccbb816b11582-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9861567a1d6d413cbc7e1eed2dfdff3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe2142e58934ebdf359d44514b90a81c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17abf79eebee09f392c2777be29c0c8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad64111eb39ad10c0eaa81075fca6ef8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70af217af95ff92f0580c983cc9b7a0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f2296a40c3e15ccfadca6239bb49d66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5189842985b09d0f3fefae5d1d4b3178-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ad76d76031ca886469974a0ee669418-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/605c849bfcf178700a9c9d2d9fce93f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7afa9f48d4f90ec7083900bcb1b530aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15dc74c1bb58b21d06fe2ba9de0db0c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3598f677a17cdb7116d64d5db0f4c707-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec09f3aaf6ab8768864eb279de64cb2c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff4603cd9703180499865da4ab1fc6f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46943b642568047ceb9513c258561846-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4026976e20bea80e04285e4b2a8722fe-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "439145294",
+      "id": "439145294",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "bnexgyfb2u53",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b339f936ab31f303bc46d2d8ba6a0a68-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/186-Main-St-4-Copake-NY-12516/439145294_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,475/mo",
+      "unformattedPrice": 1475,
+      "address": "186 Main St #4, Copake, NY 12516",
+      "addressStreet": "186 Main St #4",
+      "addressCity": "Copake",
+      "addressState": "NY",
+      "addressZipcode": "12516",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 42.103798,
+        "longitude": -73.54943
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439145294,
+          "streetAddress": "186 Main St #4",
+          "zipcode": "12516",
+          "city": "Copake",
+          "state": "NY",
+          "latitude": 42.103798,
+          "longitude": -73.54943,
+          "price": 1475.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1475.0,
+          "timeOnZillow": 699196000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Mondello Upstate Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b339f936ab31f303bc46d2d8ba6a0a68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b16ce87b4bc4f1a29ef9aafab920dff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6949934a676a186fd7b9e2ab1e97e866-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/009ee1212fe825a6dd401ca3366724de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d72fb44d8c7e991af6bf43d0d064abd7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d5f0050386ef9c402efc4c40e500368-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5187e90c61e6ab99abf102f3231aa61c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edbc5775430e0a51d31222a98180f2ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa435efa984e8475de3d1cef684eb2bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0abc27689f2f53ba99fe13460346fe96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4787706f6a938199eb29eca4e3ea8dd8-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "30006154",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7a99a4061f3bef73cb921af5cebb553f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/5-Parkview-Ct-Copake-NY-12516/30006154_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "5 Parkview Ct, Copake, NY 12516",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1130,
+      "latLong": {
+        "latitude": 42.11175,
+        "longitude": -73.54542
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30006154,
+          "streetAddress": "5 Parkview Ct",
+          "zipcode": "12516",
+          "city": "Copake",
+          "state": "NY",
+          "latitude": 42.11175,
+          "longitude": -73.54542,
+          "price": 2500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1130.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2139,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 877681000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 247222.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-22 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Elyse Harney Real Estate",
+      "timeOnZillow": 877681000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "29998685",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b3478fec89f1ac822f75f425577d8e9e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1955-County-Route-7-Ancram-NY-12502/29998685_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,150/mo",
+      "priceLabel": "$3.2K",
+      "address": "1955 County Route 7, Ancram, NY 12502",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 42.08163,
+        "longitude": -73.59989
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29998685,
+          "streetAddress": "1955 County Route 7",
+          "zipcode": "12502",
+          "city": "Ancram",
+          "state": "NY",
+          "latitude": 42.08163,
+          "longitude": -73.59989,
+          "price": 3150.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 483100,
+          "rentZestimate": 4201,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3150.0,
+          "timeOnZillow": 616328000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 394000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 616328000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "439145294",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b339f936ab31f303bc46d2d8ba6a0a68-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/186-Main-St-4-Copake-NY-12516/439145294_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,475/mo",
+      "priceLabel": "$1.5K",
+      "address": "186 Main St #4, Copake, NY 12516",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 42.103798,
+        "longitude": -73.54943
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439145294,
+          "streetAddress": "186 Main St #4",
+          "zipcode": "12516",
+          "city": "Copake",
+          "state": "NY",
+          "latitude": 42.103798,
+          "longitude": -73.54943,
+          "price": 1475.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1475.0,
+          "timeOnZillow": 699196000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Mondello Upstate Properties",
+      "timeOnZillow": 699196000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "48e526a4",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

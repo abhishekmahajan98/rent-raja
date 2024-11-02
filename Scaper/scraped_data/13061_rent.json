@@ -1,0 +1,158 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "441799259",
+      "id": "441799259",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "p5zhfha5hzgd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2e14cd47385dfacb6ff15471dd3a4dfa-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/cazenovia-ny/carriage-garden-apartments/ChHf2q/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,495/mo",
+      "unformattedPrice": 1495,
+      "address": "Carriage Garden Apartments, 8 Carriage Lane Pl #15C, Cazenovia, NY 13035",
+      "addressStreet": "8 Carriage Lane Pl #15C",
+      "addressCity": "Cazenovia",
+      "addressState": "NY",
+      "addressZipcode": "13035",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 42.92796,
+        "longitude": -75.84223
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441799259,
+          "streetAddress": "8 Carriage Lane Pl #15C",
+          "zipcode": "13035",
+          "city": "Cazenovia",
+          "state": "NY",
+          "latitude": 42.92796,
+          "longitude": -75.84223,
+          "price": 1495.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1495.0,
+          "timeOnZillow": 1491364000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 15C",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-06-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e14cd47385dfacb6ff15471dd3a4dfa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/763aced69d81de33a1d51b421418e97f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e3aba1da9b38ff7d451f761c2c1b02a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5200641f761efb5ada5588bc986f4856-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ecabd8b617e45bfb8f5a355b025d389-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63a0671a73aec590fda6d1ecaae3bc2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b28a38be415a95bd7276a13507d1673-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f59ff0907c911620b6f2d01587c1a5c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/add49bb6351d10238eea72f805347835-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc5d42f20bf80d2d574486a45cd66bdb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ee3286c761bb91b18c01fbb648346d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/074e68dcbf5a06cd5d59ed5a421f2adc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/111bf83eeec8c5638d0f7985e867b29c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/626db7c94460f8621ce0de3712a443dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68e7e66e37960b595b681c849e19873b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ec8fb23e69f5b3b5a551e2fa2eb2bb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7538f3529aff1a6a07f8c2f1acc9d3be-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyEnhancedPackage"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "47328d91"
+}

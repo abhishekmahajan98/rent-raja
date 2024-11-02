@@ -1,0 +1,772 @@
+{
+  "listResults": [
+    {
+      "zpid": "42.345512--76.848816",
+      "id": "42.345512--76.848816",
+      "providerListingId": "3mc947khz6yqj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4072c2eed79f8a6143065f9a53945bfc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/401-w-main-st-montour-falls-ny-5Xr5vT/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "401 W Main St, Montour Falls, NY",
+      "addressStreet": "401 W  Main St   Apt 32",
+      "addressCity": "Montour Falls",
+      "addressState": "NY",
+      "addressZipcode": "14865",
+      "units": [
+        {
+          "price": "$2,200+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1002143564,
+      "latLong": {
+        "latitude": 42.345512,
+        "longitude": -76.848816
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4072c2eed79f8a6143065f9a53945bfc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ca568d0e44c89daac3a35cb1fa1c92e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c1897ba6b97cc6c640958aead7b1d18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5293510af4ae10430aeb5eefb1186401-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "340033106",
+      "id": "340033106",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2wuvh2pvnb58",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.37630844116211,-76.86920928955078&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=aRR6nDTTBR5dl5oryjvvbPkQjM0=",
+      "detailUrl": "https://www.zillow.com/homedetails/1005-N-Decatur-St-APT-2-Watkins-Glen-NY-14891/340033106_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "1005 N Decatur St APT 2, Watkins Glen, NY 14891",
+      "addressStreet": "1005 N Decatur St APT 2",
+      "addressCity": "Watkins Glen",
+      "addressState": "NY",
+      "addressZipcode": "14891",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.37630844116211,-76.86920928955078&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=6BzpwRuw3yZRcJP7SwEf8Ng3p9Y=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.37630844116211,-76.86920928955078&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=B_1YcFKOCDX40bcuE6EatQONGvY=",
+      "beds": 5,
+      "baths": 2.0,
+      "area": 1650,
+      "latLong": {
+        "latitude": 42.37631,
+        "longitude": -76.86921
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "32 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 340033106,
+          "streetAddress": "1005 N Decatur St APT 2",
+          "zipcode": "14891",
+          "city": "Watkins Glen",
+          "state": "NY",
+          "latitude": 42.37631,
+          "longitude": -76.86921,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 5.0,
+          "livingArea": 1650.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 32,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2194,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 2848954000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440312973",
+      "id": "440312973",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2e4fj547fehdv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7eb90165d149aea4996bfae56ce78bd6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/208-W-Broadway-St-E5-Montour-Falls-NY-14865/440312973_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,195/mo",
+      "unformattedPrice": 1195,
+      "address": "208 W Broadway St #E5, Montour Falls, NY 14865",
+      "addressStreet": "208 W Broadway St #E5",
+      "addressCity": "Montour Falls",
+      "addressState": "NY",
+      "addressZipcode": "14865",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 905,
+      "latLong": {
+        "latitude": 42.34951,
+        "longitude": -76.84336
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "49 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440312973,
+          "streetAddress": "208 W Broadway St #E5",
+          "zipcode": "14865",
+          "city": "Montour Falls",
+          "state": "NY",
+          "latitude": 42.34951,
+          "longitude": -76.84336,
+          "price": 1195.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 905.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 49,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1195.0,
+          "timeOnZillow": 4263775000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# E5",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-04 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7eb90165d149aea4996bfae56ce78bd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/839b086448dbe2dd01348e9c44e4b250-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0fd430dbea9d0ca393ebdbb0259feb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfc15cfb61ef1b2312aa1f60a9c44cfd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e7ec0bca75c4657bd6ccced1e205c40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d94c54bd93c9c5b4f864ffb2783c60d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c323a3a5a7a17db868ed3a2e1f2861d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f60acd442854fc3bf6081e0b67bc9c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64c6ad4752deb55c2a6a9c373352ea24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58053beb48f7667f79b4ced1364d1206-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c2a62d1038a7b69a60bb0a4d38a1712-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4fb5a8823ceaafcc1c1c2c74a50b38e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b3707e75e6e451dd7689993e581409f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c98a907cca0a9dfe75cbbe8c8de2b366-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb7357524a313210662c295264bf4515-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c1f2b5d6a58bd3531a31ab1e572430c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36ae68b27491212fc7a2c5b22105f719-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9364762abec1d22b2ee198d79188162-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/188a58846f71fca92fea30cf1081bb69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10d3c09779a1d4ad966bae185cd529c1-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "374909241",
+      "id": "374909241",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5cy35f4zh9hq0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e1e4403bfd77c07af1b72047bab155f2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/101-1st-St-Watkins-Glen-NY-14891/374909241_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,250/mo",
+      "unformattedPrice": 2250,
+      "address": "101 1st St, Watkins Glen, NY 14891",
+      "addressStreet": "101 1st St",
+      "addressCity": "Watkins Glen",
+      "addressState": "NY",
+      "addressZipcode": "14891",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1150,
+      "latLong": {
+        "latitude": 42.382366,
+        "longitude": -76.873665
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "55 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 374909241,
+          "streetAddress": "101 1st St",
+          "zipcode": "14891",
+          "city": "Watkins Glen",
+          "state": "NY",
+          "latitude": 42.382366,
+          "longitude": -76.873665,
+          "price": 2250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1150.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 55,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1851,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2250.0,
+          "timeOnZillow": 4835741000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1e4403bfd77c07af1b72047bab155f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6cf6b0c5908675dc651074d6c9805e13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55bff91633b9c5d754c221ce1ab51f66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3576e9d45c491fa7d3fd3eb74c4616fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13df118a10b3396f46f180979afc0798-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6eab518ae8dad5d134239612ee0af2f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43a219b8c2462e4c57c21ef149bf469e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/807fee1f65a18deca96dbb0f39d4ad27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dab707d7652a45382d45841dbc770eb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4582ef0742563c6d93ae97542d3b52a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f909fc95c019d911841216f0be6f9b21-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9557a443499da4e9eeeb3b0a77022c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1663537544f3090a57a06d2564da5d96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cff414ce88b9532e2da01836087bebfa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cd4bbffdfdb03d876d1981cda14da0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b979578964a147f22d21f27d0af3285-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a10e24a52c8b696a7c4532622f9695f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdd1b9a925da273557b85dd3efe9f4aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/166138b741f857a17ee92aeed2a266a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7a8b213737797c5432ce727cf9df614-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "plid": "3mc947khz6yqj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4072c2eed79f8a6143065f9a53945bfc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/401-w-main-st-montour-falls-ny-5Xr5vT/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$2,200+/mo",
+      "address": "401 W Main St, Montour Falls, NY",
+      "minBeds": 2,
+      "minBaths": 3.0,
+      "minArea": 2122,
+      "lotId": 1002143564,
+      "latLong": {
+        "latitude": 42.345512,
+        "longitude": -76.848816
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "42.345512--76.848816",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 243037000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "340033106",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.37630844116211,-76.86920928955078&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=aRR6nDTTBR5dl5oryjvvbPkQjM0=",
+      "detailUrl": "/homedetails/1005-N-Decatur-St-APT-2-Watkins-Glen-NY-14891/340033106_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "1005 N Decatur St APT 2, Watkins Glen, NY 14891",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.37630844116211,-76.86920928955078&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=6BzpwRuw3yZRcJP7SwEf8Ng3p9Y=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.37630844116211,-76.86920928955078&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=B_1YcFKOCDX40bcuE6EatQONGvY=",
+      "isNewYorkState": true,
+      "beds": 5,
+      "baths": 2.0,
+      "area": 1650,
+      "latLong": {
+        "latitude": 42.37631,
+        "longitude": -76.86921
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "32 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 340033106,
+          "streetAddress": "1005 N Decatur St APT 2",
+          "zipcode": "14891",
+          "city": "Watkins Glen",
+          "state": "NY",
+          "latitude": 42.37631,
+          "longitude": -76.86921,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 5.0,
+          "livingArea": 1650.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2194,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 2848954000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2848954000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "440312973",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7eb90165d149aea4996bfae56ce78bd6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/208-W-Broadway-St-E5-Montour-Falls-NY-14865/440312973_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,195/mo",
+      "priceLabel": "$1.2K",
+      "address": "208 W Broadway St #E5, Montour Falls, NY 14865",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 905,
+      "latLong": {
+        "latitude": 42.34951,
+        "longitude": -76.84336
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "49 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440312973,
+          "streetAddress": "208 W Broadway St #E5",
+          "zipcode": "14865",
+          "city": "Montour Falls",
+          "state": "NY",
+          "latitude": 42.34951,
+          "longitude": -76.84336,
+          "price": 1195.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 905.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1195.0,
+          "timeOnZillow": 4263775000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# E5",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-04 00:00:00",
+      "visited": false,
+      "timeOnZillow": 4263775000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "374909241",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e1e4403bfd77c07af1b72047bab155f2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/101-1st-St-Watkins-Glen-NY-14891/374909241_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,250/mo",
+      "priceLabel": "$2.3K",
+      "address": "101 1st St, Watkins Glen, NY 14891",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1150,
+      "latLong": {
+        "latitude": 42.382366,
+        "longitude": -76.873665
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "55 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 374909241,
+          "streetAddress": "101 1st St",
+          "zipcode": "14891",
+          "city": "Watkins Glen",
+          "state": "NY",
+          "latitude": 42.382366,
+          "longitude": -76.873665,
+          "price": 2250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1150.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1851,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2250.0,
+          "timeOnZillow": 4835741000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 4835741000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "4226cd25",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

@@ -1,0 +1,912 @@
+{
+  "listResults": [
+    {
+      "zpid": "441833903",
+      "id": "441833903",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1pb35jbq7sc71",
+      "imgSrc": "https://photos.zillowstatic.com/fp/392e1e878ade682fcecec97588ad00fd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2082-Buffalo-St-1-Stanley-NY-14561/441833903_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "2082 Buffalo St #1, Stanley, NY 14561",
+      "addressStreet": "2082 Buffalo St #1",
+      "addressCity": "Stanley",
+      "addressState": "NY",
+      "addressZipcode": "14561",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.8871,
+        "longitude": -77.09614
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441833903,
+          "streetAddress": "2082 Buffalo St #1",
+          "zipcode": "14561",
+          "city": "Stanley",
+          "state": "NY",
+          "latitude": 42.8871,
+          "longitude": -77.09614,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1375147000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/392e1e878ade682fcecec97588ad00fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dc283d2cf9aee23368094114efcad9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b663f91fb27b2feafe51abdd07eed540-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8557cb944b380f779c5b43e7d0e795e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fee009eaae934f4e53af86e6941c47f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f09dbe9949cbae0b8478df380b38e453-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66c116274c5c85e7528c2e5b24a2c0d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28dea327c80f14346d6c2034bbf73fff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38fb7f2147a1c974b463851ad4516e4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12ca1826a7ed82ef49f12f604fe3f9e4-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "441833903",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/392e1e878ade682fcecec97588ad00fd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2082-Buffalo-St-1-Stanley-NY-14561/441833903_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "2082 Buffalo St #1, Stanley, NY 14561",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.8871,
+        "longitude": -77.09614
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441833903,
+          "streetAddress": "2082 Buffalo St #1",
+          "zipcode": "14561",
+          "city": "Stanley",
+          "state": "NY",
+          "latitude": 42.8871,
+          "longitude": -77.09614,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1375147000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1375147000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "351315469",
+      "id": "351315469",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "6qcx523vatay",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f746312b0aa079b3a828c344fa7f8e07-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/newark-ny/parkview-apartments/98Dymt/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,000/mo",
+      "unformattedPrice": 1000,
+      "address": "Parkview Apartments, 310 Washington St #B36, Newark, NY 14513",
+      "addressStreet": "310 Washington St #B36",
+      "addressCity": "Newark",
+      "addressState": "NY",
+      "addressZipcode": "14513",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 43.040623,
+        "longitude": -77.09962
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 351315469,
+          "streetAddress": "310 Washington St #B36",
+          "zipcode": "14513",
+          "city": "Newark",
+          "state": "NY",
+          "latitude": 43.040623,
+          "longitude": -77.09962,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1009,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 667950000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B36",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-30 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Perkins Park Apartments Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f746312b0aa079b3a828c344fa7f8e07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9496eddb74cdc69231f3961e9f9fbca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd827862903b52504d39c3119cb53760-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/009cae1aaeecace9042f16bff051b445-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e23d175dae289bf5ddfe3a58d3b9afc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8205755bcc0c3540fbc53b234fcf15d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d53ea44e6f928c633588c692e7acf1b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4c8d608928a5791c68c391f539b1cda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fe55f1def0239cabfa1147197f0be57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b59322df1db0957a6a42f998d7eeb22b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25174f4828a55222f49bf423b00657b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55aa28f10a6efa7d8357417e959b1cbd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3839a0ebf95416cc3ef698bc9221e2f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e48d64e400d0f774d8f0607a181df86f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0346b14ff1fa124da21647a747071099-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb953e123b0758532fc861fe3b9ecb42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b1e82262a64e9910027fbc3232ed0bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1102630591945f83dc841053d6e82920-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2058623436",
+      "id": "2058623436",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2ydjyt2mkwu0q",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2367fab7a858b902e4eab8e46cd84854-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/473-475-W-Union-St-Newark-NY-14513/2058623436_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "473-475 W Union St, Newark, NY 14513",
+      "addressStreet": "473-475 W Union St",
+      "addressCity": "Newark",
+      "addressState": "NY",
+      "addressZipcode": "14513",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1750,
+      "latLong": {
+        "latitude": 43.046818,
+        "longitude": -77.10826
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2058623436,
+          "streetAddress": "473-475 W Union St",
+          "zipcode": "14513",
+          "city": "Newark",
+          "state": "NY",
+          "latitude": 43.046818,
+          "longitude": -77.10826,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1537,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 2164305000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-07 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2367fab7a858b902e4eab8e46cd84854-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e418079d626f79427e620e7927b27e73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66440a51d356f0c2e3e3740ae02bbb96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa041c53c04692fae8adfb41070a9813-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87e6bb7286f855749182141e0b1c7643-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/171f6cd5aaa8e3064c5a131e9d6c48e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b44cd17371d43ef2b13c818c1e1c062f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65d97e16b78d7cef7d6e49a6be89fc74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6ee0c4a979a65e7310b36ad8f3b2dc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b09cffddd2f93693c7fe676b186adc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9974027e31669e1c39ebc97e1a1df06d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cdca66c6c5d9407b5e789080a50dc09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad4f89c969656eab60acfc7cf6aa15b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23b6e31494f494840b5f326805bad251-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/befee9a0e738fa7ac8eede62660c1902-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f09264c6689dcd55b447624440443228-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f9a4023c32a6e605b88dbfb9f0da6b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d715d3033208cac5258f65ef4e6754e-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441703846",
+      "id": "441703846",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2mccce1bhxenc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d7a9425fbccca9e13d6bd6f43f666dc6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/112-E-Maple-Ave-2-Newark-NY-14513/441703846_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$695/mo",
+      "unformattedPrice": 695,
+      "address": "112 E Maple Ave #2, Newark, NY 14513",
+      "addressStreet": "112 E Maple Ave #2",
+      "addressCity": "Newark",
+      "addressState": "NY",
+      "addressZipcode": "14513",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.040062,
+        "longitude": -77.09461
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441703846,
+          "streetAddress": "112 E Maple Ave #2",
+          "zipcode": "14513",
+          "city": "Newark",
+          "state": "NY",
+          "latitude": 43.040062,
+          "longitude": -77.09461,
+          "price": 695.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 695.0,
+          "timeOnZillow": 1983008000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-09 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7a9425fbccca9e13d6bd6f43f666dc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f2e513f9efec429846fab7ffb6c2bf2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27bf9b644eac13e46fe693a42f1eddd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cee3f8407755906735d574926feab65e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10eec4684259bdd56d90f5977f3a5ac1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23144b2e5c95e635d5f96fabd9ecc024-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21b1467753df0e200a0759aa158ffc04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c5a9c7855f613fc97b5f3e5e93aeffd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6185f41fecc82bbd387c1e3c99219c57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80fc89563089ff49a01366b57d41890d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1c1c84d9a08056521064663d42c61a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5649a6a46e321cd730dd975965c018f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6b1ee0d7e3586ee616ab2e4691a697f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de1ffc3839abca9a0c26375da12b3de4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24a1e4246e87824b8b9b7fea46ca42f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/115c954222aac5337d31ba069ce132d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb0dc01242b4e06376c93a1eeda74106-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5454b6504fb6860e75d208f1df1fada7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92d18da6e967e55d6ec5c296768ba048-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a68e3f3fbeee8ea5e3195206969fe0a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5453214c761b9d546fc31981586d352a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3332a3faed43d85124e290e7b01ea549-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0012f96c45e4c0f3d71984f64c30e4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f100a28e1b45763b1029067cc0fa3842-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d288acc3336aa58061699cd0725266e9-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31891904",
+      "id": "31891904",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5fpj2a4f9rh9s",
+      "imgSrc": "https://photos.zillowstatic.com/fp/70e56c99479a514430263966d6a75d6a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/13-W-High-St-Shortsville-NY-14548/31891904_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "13 W High St, Shortsville, NY 14548",
+      "addressStreet": "13 W High St",
+      "addressCity": "Shortsville",
+      "addressState": "NY",
+      "addressZipcode": "14548",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1328,
+      "latLong": {
+        "latitude": 42.953083,
+        "longitude": -77.22834
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "42 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31891904,
+          "streetAddress": "13 W High St",
+          "zipcode": "14548",
+          "city": "Shortsville",
+          "state": "NY",
+          "latitude": 42.953083,
+          "longitude": -77.22834,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1328.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 42,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 141500,
+          "rentZestimate": 1784,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 3699695000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 112000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 141500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/70e56c99479a514430263966d6a75d6a-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440605619",
+      "id": "440605619",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3m4b72azp4yjs",
+      "imgSrc": "https://photos.zillowstatic.com/fp/962e21864412dbc03782f1d66e38eb13-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Newark-NY-14513/440605619_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "(undisclosed Address), Newark, NY 14513",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Newark",
+      "addressState": "NY",
+      "addressZipcode": "14513",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "42 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440605619,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "14513",
+          "city": "Newark",
+          "state": "NY",
+          "price": 1300.0,
+          "datePriceChanged": 1727766000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 42,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Oct 1)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "priceChange": -200,
+          "timeOnZillow": 3654387000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Cornerstone Realty Associates",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/962e21864412dbc03782f1d66e38eb13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/296f33257a590e4e049a63a3a5ab1009-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38086143fe3608214f0fa09b21844a2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02bae08e70c61a21e92a08f0cba79a6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9090c9021949427cc4c5e9b4f6e0ab1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a472026f346afc9648d684827f892da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d0b7f2b992ec77e6ea89e0e8214302c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b016fc2efcdba7edce27496b24e73004-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6bff255b0ba497830cf541d07ce1cd38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6dea49e65bd271c4c6cc1f9052c8513-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f92cd0e3559d7c0b24ae1d73f52eb5cf-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "45d4e28c",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "3ded4d1a"
+}

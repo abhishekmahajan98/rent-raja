@@ -1,0 +1,549 @@
+{
+  "listResults": [
+    {
+      "zpid": "2056603572",
+      "id": "2056603572",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "15hfrvgu4hsrw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cdb564ec15b22053d85692368390fc9f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/65-Cass-St-UNIT-4-Westfield-NY-14787/2056603572_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$745/mo",
+      "unformattedPrice": 745,
+      "address": "65 Cass St UNIT 4, Westfield, NY 14787",
+      "addressStreet": "65 Cass St UNIT 4",
+      "addressCity": "Westfield",
+      "addressState": "NY",
+      "addressZipcode": "14787",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 42.330967,
+        "longitude": -79.57265
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056603572,
+          "streetAddress": "65 Cass St UNIT 4",
+          "zipcode": "14787",
+          "city": "Westfield",
+          "state": "NY",
+          "latitude": 42.330967,
+          "longitude": -79.57265,
+          "price": 745.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1086,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 745.0,
+          "timeOnZillow": 1016628000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cdb564ec15b22053d85692368390fc9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d2908fa67db373de442bb7a7623876a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42a1cf3f8d240cff5f7f70ba37966b3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1096ad026d34953399aeb3257f945a43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7094411e0b898dcde1031aca5e444f7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b584d1251c0799573f79dc36ee909a79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4b074f6e979d1701f694ffa91d92826-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbd2b92e8ad73611d4f2e52affd711b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a8b2f96818304ade79e2e0589830028-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3aaa63125f88a8c6c60004d066c5481d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ace94efabba9288dfc0f0a137c65cb25-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29928870",
+      "id": "29928870",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "440xepqf2ft43",
+      "imgSrc": "https://photos.zillowstatic.com/fp/efd1aac1317ec49483c7c80e65f1985f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/28-E-2nd-St-Westfield-NY-14787/29928870_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,995/mo",
+      "unformattedPrice": 1995,
+      "address": "28 E 2nd St, Westfield, NY 14787",
+      "addressStreet": "28 E 2nd St",
+      "addressCity": "Westfield",
+      "addressState": "NY",
+      "addressZipcode": "14787",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1896,
+      "latLong": {
+        "latitude": 42.318768,
+        "longitude": -79.57368
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "91 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29928870,
+          "streetAddress": "28 E 2nd St",
+          "zipcode": "14787",
+          "city": "Westfield",
+          "state": "NY",
+          "latitude": 42.318768,
+          "longitude": -79.57368,
+          "price": 1995.0,
+          "datePriceChanged": 1725951600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1896.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 91,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 144800,
+          "rentZestimate": 2021,
+          "listing_sub_type": {},
+          "priceReduction": "$155 (Sep 10)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1995.0,
+          "priceChange": -155,
+          "timeOnZillow": 7927500000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 108235.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 144800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/efd1aac1317ec49483c7c80e65f1985f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2056603572",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cdb564ec15b22053d85692368390fc9f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/65-Cass-St-UNIT-4-Westfield-NY-14787/2056603572_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$745/mo",
+      "priceLabel": "$745",
+      "address": "65 Cass St UNIT 4, Westfield, NY 14787",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 42.330967,
+        "longitude": -79.57265
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056603572,
+          "streetAddress": "65 Cass St UNIT 4",
+          "zipcode": "14787",
+          "city": "Westfield",
+          "state": "NY",
+          "latitude": 42.330967,
+          "longitude": -79.57265,
+          "price": 745.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1086,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 745.0,
+          "timeOnZillow": 1016628000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1016628000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "29928870",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/efd1aac1317ec49483c7c80e65f1985f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/28-E-2nd-St-Westfield-NY-14787/29928870_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,995/mo",
+      "priceLabel": "$2.0K",
+      "address": "28 E 2nd St, Westfield, NY 14787",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1896,
+      "latLong": {
+        "latitude": 42.318768,
+        "longitude": -79.57368
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "91 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29928870,
+          "streetAddress": "28 E 2nd St",
+          "zipcode": "14787",
+          "city": "Westfield",
+          "state": "NY",
+          "latitude": 42.318768,
+          "longitude": -79.57368,
+          "price": 1995.0,
+          "datePriceChanged": 1725951600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1896.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 144800,
+          "rentZestimate": 2021,
+          "listing_sub_type": {},
+          "priceReduction": "$155 (Sep 10)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1995.0,
+          "priceChange": -155,
+          "timeOnZillow": 7927500000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 108235.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 7927500000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2078047598",
+      "id": "2078047598",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "451gwvhv3wjnw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1f036744ac4d42c2ee3d68f86b32eb31-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5525-Summit-Ave-4-Bemus-Pt-NY-14712/2078047598_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$549/mo",
+      "unformattedPrice": 549,
+      "address": "5525 Summit Ave #4, Bemus Pt, NY 14712",
+      "addressStreet": "5525 Summit Ave #4",
+      "addressCity": "Bemus Pt",
+      "addressState": "NY",
+      "addressZipcode": "14712",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.195045,
+        "longitude": -79.418236
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2078047598,
+          "streetAddress": "5525 Summit Ave #4",
+          "zipcode": "14712",
+          "city": "Bemus Pt",
+          "state": "NY",
+          "latitude": 42.195045,
+          "longitude": -79.418236,
+          "price": 549.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 24,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1118,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 549.0,
+          "timeOnZillow": 2089076000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f036744ac4d42c2ee3d68f86b32eb31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31d35fc9370b00345f12d92e2169aeb0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cc193e5728f81a6cfbe10627a685a0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04da2f6201c149dd7a3695b8d9f075eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/226fb68220d5186e4d45039f97eb0877-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea83c5a3d2d438d77b5d22c9c0027f98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36bd344b0fc2f6838f87ffaa4547064c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8f0420250cc022f7e3a1bb74919c048-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c202423ba2aa6638f43c7ef1d7e9929-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81633d547ae2a4ebc8cb373d53db82d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c9c07c28d2208ee01dee5c3044fa820-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/999a6e3d488126a3cb6eb9f12a588a07-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "70d86364",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "44364b01"
+}
