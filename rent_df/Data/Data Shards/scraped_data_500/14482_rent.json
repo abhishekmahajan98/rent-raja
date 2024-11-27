@@ -1,0 +1,810 @@
+{
+  "listResults": [
+    {
+      "zpid": "30483534",
+      "id": "30483534",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3wc956m6vsb2f",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cc69f39c3b9974346a19aab5fbf648b9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/126-Myrtle-St-Le-Roy-NY-14482/30483534_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "126 Myrtle St, Le Roy, NY 14482",
+      "addressStreet": "126 Myrtle St",
+      "addressCity": "Le Roy",
+      "addressState": "NY",
+      "addressZipcode": "14482",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.974255,
+        "longitude": -78.0012
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30483534,
+          "streetAddress": "126 Myrtle St",
+          "zipcode": "14482",
+          "city": "Le Roy",
+          "state": "NY",
+          "latitude": 42.974255,
+          "longitude": -78.0012,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1826,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1509027000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 65621.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-06 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc69f39c3b9974346a19aab5fbf648b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbf302ce85ba797df43913dfb20be352-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b955b804b08377a5714ff4141fe99f9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cdeeb8c959e5d8c20ef4713a75449d3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d444cf2ab0b6f85075a99f6964576e65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a55884ef7116fa3618e198d6e84bc52c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ae52d29bacf31f47fa50ba1b86db802-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27de862631317aea9e4f02b9345c744f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed2af96cfceb88596c93600e5229b5df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a444b07d60d5d864274c390dbf1268e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dc2c13d72e579a9f9810320d6ff60ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5447eee217280b447993c10522564615-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/540494c49fbd20e30f03e5437f66b7d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0005d78ee4a285d82bec660b0815bc9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/696339e07ec5a4d9b7d0b38fcc9c1dfb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32cc9456db4cb1aa5d7a15e2514b9209-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76bedfc7054ad1510ed6649854fa3d54-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2061457477",
+      "id": "2061457477",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2s878tm6j8jyh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/520ad4987efd99cbe6c2802314a820ef-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/7928-E-Main-Rd-1W-Le-Roy-NY-14482/2061457477_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,050/mo",
+      "unformattedPrice": 1050,
+      "address": "7928 E Main Rd #1W, Le Roy, NY 14482",
+      "addressStreet": "7928 E Main Rd #1W",
+      "addressCity": "Le Roy",
+      "addressState": "NY",
+      "addressZipcode": "14482",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 42.979614,
+        "longitude": -77.957756
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "60 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061457477,
+          "streetAddress": "7928 E Main Rd #1W",
+          "zipcode": "14482",
+          "city": "Le Roy",
+          "state": "NY",
+          "latitude": 42.979614,
+          "longitude": -77.957756,
+          "price": 1050.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 60,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1024,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1050.0,
+          "timeOnZillow": 5203425000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1W",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/520ad4987efd99cbe6c2802314a820ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74733d97c77fbb1639b1b9aa3ed02aed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a08803652560068ab33843a10af8069-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6e7c43e4540e71d45b9c99761c1add1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96220284449d33eb16ecc80f89c759d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/070868cf94696a9cad1560e9a356e679-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ed20d65cfc93539e409f72cedb2cc26-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2058622846",
+      "id": "2058622846",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1e5r7aw4unjj6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a503453c2262233dadb81eaf35fe197e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/36-38-E-Main-St-Le-Roy-NY-14482/2058622846_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$925+/mo",
+      "unformattedPrice": 925,
+      "address": "36-38 East Main Street - 2, 36-38 E Main St, Le Roy, NY 14482",
+      "addressStreet": "36-38 E Main St",
+      "addressCity": "Le Roy",
+      "addressState": "NY",
+      "addressZipcode": "14482",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 825,
+      "latLong": {
+        "latitude": 42.978004,
+        "longitude": -77.98403
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2058622846,
+          "streetAddress": "36-38 E Main St",
+          "zipcode": "14482",
+          "city": "Le Roy",
+          "state": "NY",
+          "latitude": 42.978004,
+          "longitude": -77.98403,
+          "price": 925.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 825.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 961,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 925.0,
+          "timeOnZillow": 851835000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-30 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: GVM Properties Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a503453c2262233dadb81eaf35fe197e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d4126a8967dbce75937f602afeb1764-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d25e3232de8fd3a49ac2b3ed7ed6e043-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87c46725d13cf994961c3f29f43779c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/733fe42a833b05a3473789884e5a2854-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f0578253831e04b980b17a20243b751-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441583459",
+      "id": "441583459",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2bfrpsdyw3xub",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.98060989379883,-77.9884262084961&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=uZbq8Hv3y5pjfaGcOgadjG4fOKQ=",
+      "detailUrl": "https://www.zillow.com/b/27-church-street-4-le-roy-ny-98DnQ7/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$900+/mo",
+      "unformattedPrice": 900,
+      "address": "27 Church Street - 4, 27 Church St APT 4, Le Roy, NY 14482",
+      "addressStreet": "27 Church St APT 4",
+      "addressCity": "Le Roy",
+      "addressState": "NY",
+      "addressZipcode": "14482",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.98060989379883,-77.9884262084961&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=Pwb2d-1KsjJid_eLQ8Vt4VEPNRU=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.98060989379883,-77.9884262084961&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=xMoZrhVal4E93lhrCc_pq6APzCs=",
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.98061,
+        "longitude": -77.98843
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441583459,
+          "streetAddress": "27 Church St APT 4",
+          "zipcode": "14482",
+          "city": "Le Roy",
+          "state": "NY",
+          "latitude": 42.98061,
+          "longitude": -77.98843,
+          "price": 900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 47,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 900.0,
+          "timeOnZillow": 4098512000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Supergoose Management, LLC",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "30483534",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cc69f39c3b9974346a19aab5fbf648b9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/126-Myrtle-St-Le-Roy-NY-14482/30483534_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "126 Myrtle St, Le Roy, NY 14482",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.974255,
+        "longitude": -78.0012
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30483534,
+          "streetAddress": "126 Myrtle St",
+          "zipcode": "14482",
+          "city": "Le Roy",
+          "state": "NY",
+          "latitude": 42.974255,
+          "longitude": -78.0012,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1826,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1509027000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 65621.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-06 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1509027000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2061457477",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/520ad4987efd99cbe6c2802314a820ef-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/7928-E-Main-Rd-1W-Le-Roy-NY-14482/2061457477_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,050/mo",
+      "priceLabel": "$1.1K",
+      "address": "7928 E Main Rd #1W, Le Roy, NY 14482",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 42.979614,
+        "longitude": -77.957756
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "60 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061457477,
+          "streetAddress": "7928 E Main Rd #1W",
+          "zipcode": "14482",
+          "city": "Le Roy",
+          "state": "NY",
+          "latitude": 42.979614,
+          "longitude": -77.957756,
+          "price": 1050.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1024,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1050.0,
+          "timeOnZillow": 5203425000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1W",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 5203425000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2058622846",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a503453c2262233dadb81eaf35fe197e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/36-38-E-Main-St-Le-Roy-NY-14482/2058622846_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$925+/mo",
+      "priceLabel": "$925",
+      "address": "36-38 E Main St, Le Roy, NY 14482",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 825,
+      "latLong": {
+        "latitude": 42.978004,
+        "longitude": -77.98403
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2058622846,
+          "streetAddress": "36-38 E Main St",
+          "zipcode": "14482",
+          "city": "Le Roy",
+          "state": "NY",
+          "latitude": 42.978004,
+          "longitude": -77.98403,
+          "price": 925.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 825.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 961,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 925.0,
+          "timeOnZillow": 851835000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-30 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: GVM Properties Inc.",
+      "timeOnZillow": 851835000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "zpid": "441583459",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.98060989379883,-77.9884262084961&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=uZbq8Hv3y5pjfaGcOgadjG4fOKQ=",
+      "detailUrl": "/b/27-church-street-4-le-roy-ny-98DnQ7/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$900+/mo",
+      "priceLabel": "$900",
+      "address": "27 Church St APT 4, Le Roy, NY 14482",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.98060989379883,-77.9884262084961&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=Pwb2d-1KsjJid_eLQ8Vt4VEPNRU=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.98060989379883,-77.9884262084961&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=xMoZrhVal4E93lhrCc_pq6APzCs=",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.98061,
+        "longitude": -77.98843
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441583459,
+          "streetAddress": "27 Church St APT 4",
+          "zipcode": "14482",
+          "city": "Le Roy",
+          "state": "NY",
+          "latitude": 42.98061,
+          "longitude": -77.98843,
+          "price": 900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 900.0,
+          "timeOnZillow": 4098512000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Supergoose Management, LLC",
+      "timeOnZillow": 4098512000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "7c1133e8",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

@@ -1,0 +1,1440 @@
+{
+  "listResults": [
+    {
+      "zpid": "441951701",
+      "id": "441951701",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3r3sv1dbfm2hg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2f76c79223fb1a42b7f20515ec1615cd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/270-State-Ave-FLOOR-2-Wyandanch-NY-11798/441951701_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "270 State Ave FLOOR 2, Wyandanch, NY 11798",
+      "addressStreet": "270 State Ave FLOOR 2",
+      "addressCity": "Wyandanch",
+      "addressState": "NY",
+      "addressZipcode": "11798",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 40.743114,
+        "longitude": -73.35553
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441951701,
+          "streetAddress": "270 State Ave FLOOR 2",
+          "zipcode": "11798",
+          "city": "Wyandanch",
+          "state": "NY",
+          "latitude": 40.743114,
+          "longitude": -73.35553,
+          "price": 3000.0,
+          "datePriceChanged": 1731052800000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 8)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "priceChange": -200,
+          "timeOnZillow": 175216000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: VORO LLC \"THE RENTAL KING\"",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f76c79223fb1a42b7f20515ec1615cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f00bc56ed23c8a2a305f2979d73e30d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1c64e124d3cc15d57d5616275bf9cb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58a04d725f1cdb82980a7b6f338dab23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82f56de530c542bba1561bd86c7477da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbab2592a519cb45f984aa9ff83d08b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87da7896175f8a08c3cf5b735e7ab78c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22f94cea1bb5589c3e452bf3b3619536-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a81e207f8004e29c84412ac939c70c08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8162069609dfa8dff47602899ec7b16a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c343d20de895ec4a8d02592129e2969f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec8fb52206e303895f72fb8965564214-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a3e49f4eb6c632d18fdd023d4c55a71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef03784dae116c78346b54cf12a65f42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d3e5ad2233b7a5c2f7cc3ac3066da08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1ce69a9ba8cc86dbfebefa1dffec8d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bba395cb17eb708b73e8a11c51219b6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e2b28d651d70f0f4a5d4fdf78020e08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21d7027397c958fda207d9c65ef42b3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2184baeb2db2a893c4316c9f3add3c8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b5312237ace4ec579816d38d2aee8be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43add5c8d0990eccb59969d0d63f550f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/365294297562aca16ea4c42a3993ef03-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32613294",
+      "id": "32613294",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "23eeujprtexc7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/98887c194a0e25b2b3ccec8e9149d168-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/134-N-24th-St-Wyandanch-NY-11798/32613294_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "134 N 24th St, Wyandanch, NY 11798",
+      "addressStreet": "134 N 24th St",
+      "addressCity": "Wyandanch",
+      "addressState": "NY",
+      "addressZipcode": "11798",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.75346,
+        "longitude": -73.369675
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32613294,
+          "streetAddress": "134 N 24th St",
+          "zipcode": "11798",
+          "city": "Wyandanch",
+          "state": "NY",
+          "latitude": 40.75346,
+          "longitude": -73.369675,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 479900,
+          "rentZestimate": 3697,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 905565000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1580.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 479900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/98887c194a0e25b2b3ccec8e9149d168-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffeef48a2b032a5bbb62dc1ca425db5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77e3dd5889573276b50a2d6164c6ebf3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/551b30a3d6f47baf745212fa5751c364-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32613274",
+      "id": "32613274",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1qxgg7qn0ccfj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2ff31eaebdc2a16afc114f7b8808ebef-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Wyandanch-NY-11798/32613274_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,100/mo",
+      "unformattedPrice": 3100,
+      "address": "(undisclosed Address), Wyandanch, NY 11798",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Wyandanch",
+      "addressState": "NY",
+      "addressZipcode": "11798",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32613274,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11798",
+          "city": "Wyandanch",
+          "state": "NY",
+          "price": 3100.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 385400,
+          "rentZestimate": 3250,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3100.0,
+          "timeOnZillow": 1306474000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 385400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-09 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ff31eaebdc2a16afc114f7b8808ebef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/383238e808be2088a77cc2d0b175e3ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9123d40489419d91f687cc4f8adb4b40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa9710168764de14bb0c1cc612a5193e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb48450af8f4ea12552446ecf38f2167-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ca7438fa2194c462705f6d253f57746-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebd6b4f70431166411dec68f4600f2c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/126da4c6a76ee3b601b30add9b56298b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18b024b494e4916d54f2c37e47a61590-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6cf8a6765c430ac0e2d82c1f30b016b2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32618213",
+      "id": "32618213",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "qdww85gxmgu3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1867bdfb1897ea6620f13d6c1f25ef67-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Wyandanch-NY-11798/32618213_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "(undisclosed Address), Wyandanch, NY 11798",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Wyandanch",
+      "addressState": "NY",
+      "addressZipcode": "11798",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32618213,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11798",
+          "city": "Wyandanch",
+          "state": "NY",
+          "price": 3000.0,
+          "datePriceChanged": 1731484800000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 430500,
+          "rentZestimate": 3219,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 13)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "priceChange": -200,
+          "timeOnZillow": 1555195000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 430500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-13 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Michael J. Watts & Associates Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1867bdfb1897ea6620f13d6c1f25ef67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f838c7097a8bd1122fbe12c8cb33299b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77ce567f4f437a81d948443996779e8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e570c3a1d68b79b3fa1a7e0ce9dbb2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18baee3bd245627f1511c57226aa9018-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10197f62fdbe71902f0950f732ff8e2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0eb0dad4bf29200cc8f0087fdf94fc7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7abd735d71bba4170d9a02f63c77595c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d3c52ff164f645d8420a27f5923f673-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32615510",
+      "id": "32615510",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2vypk6wudmdn5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/51a1acc4be8dc9816afbaa272c53e518-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/55-S-20th-St-Wyandanch-NY-11798/32615510_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "55 S 20th St, Wyandanch, NY 11798",
+      "addressStreet": "55 S 20th St",
+      "addressCity": "Wyandanch",
+      "addressState": "NY",
+      "addressZipcode": "11798",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1750,
+      "latLong": {
+        "latitude": 40.751366,
+        "longitude": -73.36452
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32615510,
+          "streetAddress": "55 S 20th St",
+          "zipcode": "11798",
+          "city": "Wyandanch",
+          "state": "NY",
+          "latitude": 40.751366,
+          "longitude": -73.36452,
+          "price": 2500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1750.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 688700,
+          "rentZestimate": 2710,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 685599000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 3350.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 688700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-16 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: GEM Realty NYC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/51a1acc4be8dc9816afbaa272c53e518-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8624ff1c8155b71a7e3992fbdc47aa0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bcd18f2f9eb920f11393b92e4af07a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab9f01cb71a9f3ac6044f2c90b58b49f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de347fa7d442d4195e42caa635465950-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37501da86823935486f0bdf53ad27349-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2579c7609afa66e4cfebf8b5873f8e81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8926c0295d8da0186d48d7fb1322a9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecb7829a395d8de586860ec14a4d6cfd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80cd19dbeb8637bfd48c052ca4a84215-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2055299183",
+      "id": "2055299183",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "bvvurxrrzhd3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/978a7a3f5cef8a7e230a64b90925252c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Wyandanch-NY-11798/2055299183_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,200/mo",
+      "unformattedPrice": 3200,
+      "address": "(undisclosed Address), Wyandanch, NY 11798",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Wyandanch",
+      "addressState": "NY",
+      "addressZipcode": "11798",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055299183,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11798",
+          "city": "Wyandanch",
+          "state": "NY",
+          "price": 3200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3017,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 509398000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Legendary",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/978a7a3f5cef8a7e230a64b90925252c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a1416ed8cbcf3edd426baac85a10fc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b17ed543c5bac03cb63a17c64a9244a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b6f06dfbd1b8f4880be7de820dfed73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c72d6613a573fc4087586fd99e1e0e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36023b9eb2887545cd04cf7f429f4bc1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b32497bc85c2dd8618887f8aceec6b7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32618185",
+      "id": "32618185",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5er8b3xagv0pz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/dcf4ef9adf407345bdff61db2e977be8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Wyandanch-NY-11798/32618185_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "(undisclosed Address), Wyandanch, NY 11798",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Wyandanch",
+      "addressState": "NY",
+      "addressZipcode": "11798",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32618185,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11798",
+          "city": "Wyandanch",
+          "state": "NY",
+          "price": 3000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2952,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 1566145000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-06 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Property Manager",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcf4ef9adf407345bdff61db2e977be8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6216dd8e4b74ef05a1f90de85ad33278-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f071e3008bf0a013e6e401f73b3c38d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4b0ff06afd3a74717d4576205df205d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b97d0a1be0905c0efc3fb5ba9adc0f2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e9a2a051c9482462f070cd3afc33a20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca35519d6288c8c4c89bb554e8a02ec4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6fd82139f299b45c0467455ce3935bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3feb7c12848e7625f7bf21a1d6fdfced-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/617409cc8cef8dafef0da3d5ae09d56b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/048772b09c9ce2cddc233b1cd7ffd0bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/619a17b9623321b11f69d9c7db993bc5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffa43399b8c20167b5f4b5b590a289ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06862d61367d9e19be5078b312d5afa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e1d5070ee0abe2e40b91ca4dafb54b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab4fd7e39abc3d0834eec7c9221f1f51-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32613510",
+      "id": "32613510",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3ty0uw1h8zz8k",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e856fc7a632558b7946df4df6380224e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Wheatley-Heights-NY-11798/32613510_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,650/mo",
+      "unformattedPrice": 1650,
+      "address": "(undisclosed Address), Wheatley Heights, NY 11798",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Wheatley Heights",
+      "addressState": "NY",
+      "addressZipcode": "11798",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "76 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32613510,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11798",
+          "city": "Wheatley Heights",
+          "state": "NY",
+          "price": 1650.0,
+          "datePriceChanged": 1728198000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 76,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 454700,
+          "rentZestimate": 1903,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "priceChange": -100,
+          "timeOnZillow": 6640859000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 454700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: listing pro realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e856fc7a632558b7946df4df6380224e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17421f0d9327cb9674f20f85f97e78ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3a3b7daf3dc5f46264e16f65350689a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/210aee74247c7f58c921c87970983819-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32613246",
+      "id": "32613246",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4d9z7ez6ffft7",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=40.757022857666016,-73.363525390625&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=jXWan4gBkWZ1Zn8TZZA--B5DbSc=",
+      "detailUrl": "https://www.zillow.com/homedetails/62-N-16th-St-Wyandanch-NY-11798/32613246_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "62 N 16th St, Wyandanch, NY 11798",
+      "addressStreet": "62 N 16th St",
+      "addressCity": "Wyandanch",
+      "addressState": "NY",
+      "addressZipcode": "11798",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=40.757022857666016,-73.363525390625&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=n7O4HvAjotc9mzvNWVmD9-imrfM=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=40.757022857666016,-73.363525390625&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=EeVDFQXGpk41rLz6pOdyYk9VKIs=",
+      "beds": 0,
+      "baths": 0.0,
+      "latLong": {
+        "latitude": 40.757023,
+        "longitude": -73.363525
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "117 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32613246,
+          "streetAddress": "62 N 16th St",
+          "zipcode": "11798",
+          "city": "Wyandanch",
+          "state": "NY",
+          "latitude": 40.757023,
+          "longitude": -73.363525,
+          "price": 2400.0,
+          "bathrooms": 0.0,
+          "bedrooms": 0.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 117,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 497000,
+          "rentZestimate": 3158,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 10192516000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1550.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 497000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: ACTNOW REALTY TRADING LLC",
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "441951701",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2f76c79223fb1a42b7f20515ec1615cd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/270-State-Ave-FLOOR-2-Wyandanch-NY-11798/441951701_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,000/mo",
+      "priceLabel": "$3.0K",
+      "address": "270 State Ave FLOOR 2, Wyandanch, NY 11798",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 40.743114,
+        "longitude": -73.35553
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441951701,
+          "streetAddress": "270 State Ave FLOOR 2",
+          "zipcode": "11798",
+          "city": "Wyandanch",
+          "state": "NY",
+          "latitude": 40.743114,
+          "longitude": -73.35553,
+          "price": 3000.0,
+          "datePriceChanged": 1731052800000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 8)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "priceChange": -200,
+          "timeOnZillow": 175216000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: VORO LLC \"THE RENTAL KING\"",
+      "timeOnZillow": 175216000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32613294",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/98887c194a0e25b2b3ccec8e9149d168-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/134-N-24th-St-Wyandanch-NY-11798/32613294_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "134 N 24th St, Wyandanch, NY 11798",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.75346,
+        "longitude": -73.369675
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32613294,
+          "streetAddress": "134 N 24th St",
+          "zipcode": "11798",
+          "city": "Wyandanch",
+          "state": "NY",
+          "latitude": 40.75346,
+          "longitude": -73.369675,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 479900,
+          "rentZestimate": 3697,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 905565000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1580.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "visited": false,
+      "timeOnZillow": 905565000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32615510",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/51a1acc4be8dc9816afbaa272c53e518-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/55-S-20th-St-Wyandanch-NY-11798/32615510_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "55 S 20th St, Wyandanch, NY 11798",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1750,
+      "latLong": {
+        "latitude": 40.751366,
+        "longitude": -73.36452
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32615510,
+          "streetAddress": "55 S 20th St",
+          "zipcode": "11798",
+          "city": "Wyandanch",
+          "state": "NY",
+          "latitude": 40.751366,
+          "longitude": -73.36452,
+          "price": 2500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1750.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 688700,
+          "rentZestimate": 2710,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 685599000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 3350.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-16 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: GEM Realty NYC",
+      "timeOnZillow": 685599000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32613246",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=40.757022857666016,-73.363525390625&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=jXWan4gBkWZ1Zn8TZZA--B5DbSc=",
+      "detailUrl": "/homedetails/62-N-16th-St-Wyandanch-NY-11798/32613246_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,400/mo",
+      "priceLabel": "$2.4K",
+      "address": "62 N 16th St, Wyandanch, NY 11798",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=40.757022857666016,-73.363525390625&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=n7O4HvAjotc9mzvNWVmD9-imrfM=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=40.757022857666016,-73.363525390625&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=EeVDFQXGpk41rLz6pOdyYk9VKIs=",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 0.0,
+      "latLong": {
+        "latitude": 40.757023,
+        "longitude": -73.363525
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "117 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32613246,
+          "streetAddress": "62 N 16th St",
+          "zipcode": "11798",
+          "city": "Wyandanch",
+          "state": "NY",
+          "latitude": 40.757023,
+          "longitude": -73.363525,
+          "price": 2400.0,
+          "bathrooms": 0.0,
+          "bedrooms": 0.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 497000,
+          "rentZestimate": 3158,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 10192516000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1550.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: ACTNOW REALTY TRADING LLC",
+      "timeOnZillow": 10192516000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "705d9dd0",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

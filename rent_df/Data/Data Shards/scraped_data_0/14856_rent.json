@@ -1,0 +1,220 @@
+{
+  "listResults": [
+    {
+      "zpid": "32572339",
+      "id": "32572339",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "m04e97jtzwrd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2d22dd892d5cb1a5a87478d4d57d35ea-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/7673-State-Route-53-Kanona-NY-14856/32572339_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "7673 State Route 53, Kanona, NY 14856",
+      "addressStreet": "7673 State Route 53",
+      "addressCity": "Kanona",
+      "addressState": "NY",
+      "addressZipcode": "14856",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 1.0,
+      "area": 1528,
+      "latLong": {
+        "latitude": 42.37321,
+        "longitude": -77.3654
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "79 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32572339,
+          "streetAddress": "7673 State Route 53",
+          "zipcode": "14856",
+          "city": "Kanona",
+          "state": "NY",
+          "latitude": 42.37321,
+          "longitude": -77.3654,
+          "price": 1200.0,
+          "datePriceChanged": 1729666800000,
+          "bathrooms": 1.0,
+          "bedrooms": 4.0,
+          "livingArea": 1528.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 79,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 116600,
+          "rentZestimate": 1274,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 23)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "priceChange": -100,
+          "timeOnZillow": 6850136000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 92600.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 116600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Wilkins Properties LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d22dd892d5cb1a5a87478d4d57d35ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3701bbcc19d0dcdaa50e105104858904-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8382d5a5db504d54e3a6f5e1cf89238d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ee06f7982ab111d5e9fc70b8dfe1617-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35941d313a765fede843c84938a46c01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d717969d6e9175b5411d45957c73a178-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32572339",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2d22dd892d5cb1a5a87478d4d57d35ea-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/7673-State-Route-53-Kanona-NY-14856/32572339_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "7673 State Route 53, Kanona, NY 14856",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 1.0,
+      "area": 1528,
+      "latLong": {
+        "latitude": 42.37321,
+        "longitude": -77.3654
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "79 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32572339,
+          "streetAddress": "7673 State Route 53",
+          "zipcode": "14856",
+          "city": "Kanona",
+          "state": "NY",
+          "latitude": 42.37321,
+          "longitude": -77.3654,
+          "price": 1200.0,
+          "datePriceChanged": 1729666800000,
+          "bathrooms": 1.0,
+          "bedrooms": 4.0,
+          "livingArea": 1528.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 116600,
+          "rentZestimate": 1274,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 23)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "priceChange": -100,
+          "timeOnZillow": 6850136000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 92600.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Wilkins Properties LLC",
+      "timeOnZillow": 6850136000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "6462e947",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

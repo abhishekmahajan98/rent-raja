@@ -1,0 +1,399 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "2088122282",
+      "id": "2088122282",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2c8fqmmdyj972",
+      "imgSrc": "https://photos.zillowstatic.com/fp/432623020db523e50fb4013c8afab25b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8740-N-Main-St-Evans-Mills-NY-13637/2088122282_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,950/mo",
+      "unformattedPrice": 1950,
+      "address": "8740 N Main St, Evans Mills, NY 13637",
+      "addressStreet": "8740 N Main St",
+      "addressCity": "Evans Mills",
+      "addressState": "NY",
+      "addressZipcode": "13637",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1750,
+      "latLong": {
+        "latitude": 44.089455,
+        "longitude": -75.804924
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2088122282,
+          "streetAddress": "8740 N Main St",
+          "zipcode": "13637",
+          "city": "Evans Mills",
+          "state": "NY",
+          "latitude": 44.089455,
+          "longitude": -75.804924,
+          "price": 1950.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1750.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 318700,
+          "rentZestimate": 2235,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 466792000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 318700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-30 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/432623020db523e50fb4013c8afab25b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/096cd49823a5a35e8a0e3d1bbafe2b4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a129e3729b3d211402f10a0b68fb430a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9cf08bafd52cffb8320acc2b180d1cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6961823947f2b14a81447f1b1a0f228-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/462fdbb1021b48ebe043446cbbb6a487-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ddb1b4c98b5b7a374d040bf3d80eca8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a53a77bbf6cffe24c22bf1d79770b58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72163f10655265377935c4010137e4f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b56b4d0583451f36fbd7c787cd4a0727-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1a95c68d378d40c1c023f4ec6dcdf4c-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "2088193751",
+      "id": "2088193751",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3qwsjj6zejh95",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a847b9dd226d61334abd5945fd5dd20e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8728-N-Main-St-B-Evans-Mills-NY-13637/2088193751_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$985/mo",
+      "unformattedPrice": 985,
+      "address": "8728 N Main St #B, Evans Mills, NY 13637",
+      "addressStreet": "8728 N Main St #B",
+      "addressCity": "Evans Mills",
+      "addressState": "NY",
+      "addressZipcode": "13637",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 44.089443,
+        "longitude": -75.80495
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2088193751,
+          "streetAddress": "8728 N Main St #B",
+          "zipcode": "13637",
+          "city": "Evans Mills",
+          "state": "NY",
+          "latitude": 44.089443,
+          "longitude": -75.80495,
+          "price": 985.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 157900,
+          "rentZestimate": 1326,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 985.0,
+          "timeOnZillow": 466792000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 157900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a847b9dd226d61334abd5945fd5dd20e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2da865450978e64c64dd57e73e479005-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d19626785c793ef6c7c6c294103ef08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea70293cc16898744d3fcc17764c4b04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d4a0c4dfb9a09c891a97bdcbe28b92a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b60034d4dc86ee7e4d593392337eb1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afc7a6a910acbd7d0ccfa3be893637ee-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "44.092102--75.8012",
+      "id": "44.092102--75.8012",
+      "providerListingId": "4b90z2jdqq693",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f7558faf9b78e53b6265df4d89af5e1f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/north-view-apartments-evans-mills-ny-986FNX/",
+      "statusType": "FOR_RENT",
+      "statusText": "North View Apartments",
+      "address": "8124 Schell Ave, Evans Mills, NY",
+      "addressStreet": "8124 Schell Ave # 1095",
+      "addressCity": "Evans Mills",
+      "addressState": "NY",
+      "addressZipcode": "13637",
+      "units": [
+        {
+          "price": "$817+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$842+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2012413464,
+      "latLong": {
+        "latitude": 44.092102,
+        "longitude": -75.8012
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "North View Apartments",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7558faf9b78e53b6265df4d89af5e1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f020f957411f8a17d080123da9c68d5e-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "44.214928--75.79588",
+      "id": "44.214928--75.79588",
+      "providerListingId": "21r2u2j32qgph",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7d65bc643696b22bd01729e0c4cdeb1e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/100-main-st-theresa-ny-ketdet-properties-llc-theresa-ny-5Y3pSj/",
+      "statusType": "FOR_RENT",
+      "statusText": "100 Main St Theresa NY/Ketdet Properties LLC",
+      "address": "100 Main St, Theresa, NY",
+      "addressStreet": "100 Main St # 1",
+      "addressCity": "Theresa",
+      "addressState": "NY",
+      "addressZipcode": "13691",
+      "units": [
+        {
+          "price": "$850+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1003287775,
+      "latLong": {
+        "latitude": 44.214928,
+        "longitude": -75.79588
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "100 Main St Theresa NY/Ketdet Properties LLC",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d65bc643696b22bd01729e0c4cdeb1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7ba59daffef99c633738a87ce21b5c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bb257863d26a283ca2698dcbfc3a0ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b9cd9f077044deea1890b0dfdf40203-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e714b798c6d3de2bc620283abccaf78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f10a3714c8f94e9b8dcb8c03afe35842-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e5dbf8b7264f394e4542fed88dd6d82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b019e602230ab9c25a28b15c7d6616dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36ef62a8fcfd5f0a13f193ebfa3530ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/244d3e05f589f8bcf0b068d0f67eb903-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35851103775a163bcaaf46b2ad17bc82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c87ebec21dbfb836312f8d0c70949834-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea19db562cd3d0c0e9a3c92487e961d5-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "2c832e58"
+}

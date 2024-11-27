@@ -1,0 +1,486 @@
+{
+  "listResults": [
+    {
+      "zpid": "440535254",
+      "id": "440535254",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "jhwznp6u8yc6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c77f34120767aa7582cc6f7371634d07-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/132-Route-365-4-Remsen-NY-13438/440535254_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "132 Route 365 #4, Remsen, NY 13438",
+      "addressStreet": "132 Route 365 #4",
+      "addressCity": "Remsen",
+      "addressState": "NY",
+      "addressZipcode": "13438",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {
+        "latitude": 43.349438,
+        "longitude": -75.0704
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "68 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440535254,
+          "streetAddress": "132 Route 365 #4",
+          "zipcode": "13438",
+          "city": "Remsen",
+          "state": "NY",
+          "latitude": 43.349438,
+          "longitude": -75.0704,
+          "price": 3000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 68,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 366000,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 5891777000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 366000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: GATEWAY PROPERTIES OF UPSTATE NY INC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c77f34120767aa7582cc6f7371634d07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2350e9a8010ffb69e764c69e2407fddc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ac3950f2334cf36703bafd719079282-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afede73963c539a8414d77aa3f5abf79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/139b09f2e628c547144a4e34e581dacf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d92e90a51fc2137495e13d6c163c73ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c2f947219d28631e79f9f88302f35a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1f55272275ac3961137ee4f55c45f35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08066f19200c23335fc33d599c91c667-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cff3f585d0326161bc2e609c4d95dff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36d61098be34b05cddb5a985b2d4586d-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440535255",
+      "id": "440535255",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2h7h2pqf3yyd1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bccc292e315b6821227ee240d60c528d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/132-Nys-365-3-Remsen-NY-13438/440535255_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "132 Nys #365-3, Remsen, NY 13438",
+      "addressStreet": "132 Nys #365-3",
+      "addressCity": "Remsen",
+      "addressState": "NY",
+      "addressZipcode": "13438",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 3.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 43.33346,
+        "longitude": -75.09938
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "114 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440535255,
+          "streetAddress": "132 Nys #365-3",
+          "zipcode": "13438",
+          "city": "Remsen",
+          "state": "NY",
+          "latitude": 43.33346,
+          "longitude": -75.09938,
+          "price": 1800.0,
+          "bathrooms": 3.0,
+          "bedrooms": 5.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 114,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 349900,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 9874534000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 365-3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 349900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: GATEWAY PROPERTIES OF UPSTATE NY INC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bccc292e315b6821227ee240d60c528d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e88c1645e01bbf2a720e4dbb6491c910-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df5b95ba0669515957038c10f8f4301e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42adbf5d7893fa47fd7914a8c6e26510-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2366b36c4148944fcfe5218f1b715ee3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a69309305df49ca42514c63a16323d13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eca46304b00ba3768c48bb3a00409ead-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99f0f4788de7a0092a91b5deb51e372e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f90823c056bc8ed44fcbcc855dc771b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24a123f479a97ac16aaf2193a22d715b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a260d983b98c051a844f3d604ac88b2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4de0c10a4e681b76e124635821a917c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ab1bfd0834ca0739ff6be26a1c47c10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e38197763fc00e36e3f99a6c0709162d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f20e55d1acc16769f34fb37b77224bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e632acf2d6438aa70d5cbe135967e7c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c039efb07ec8f71cea8fd3e61453bed9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b172133463d91cfa40b2e5c4c7fc994-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1defc2cb7b104e38f9f39da2b29d38e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9983421243346339af03df03dd3f10e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d6f9d050561d03278d2c830b73d824f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f353476cf1a5eadf614b9ea2d5cc8470-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85b58d0cddf9efbd8d5a67d5b5083c53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fed00cca465fc6ca53911efb49bbe9c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7778cfc2b3557ceca28846df63312d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aaba6c2aabf6e35be6a36157ebd5fc42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc108e9643a23f6137806b2c65c9e9c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f7212e75fa3e6d5c287aee854cb638f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a00bd024c991de0724bcfba62b990fbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b1d4dde0294153d4b62882613ac0906-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25736ef339031e313a6f2dfd7ae5d54b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/804285ee58482bf04297ff0ccd3b2c20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ace0ed71b89aae17565d383879a1be93-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "440535254",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c77f34120767aa7582cc6f7371634d07-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/132-Route-365-4-Remsen-NY-13438/440535254_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,000/mo",
+      "priceLabel": "$3.0K",
+      "address": "132 Route 365 #4, Remsen, NY 13438",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {
+        "latitude": 43.349438,
+        "longitude": -75.0704
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "68 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440535254,
+          "streetAddress": "132 Route 365 #4",
+          "zipcode": "13438",
+          "city": "Remsen",
+          "state": "NY",
+          "latitude": 43.349438,
+          "longitude": -75.0704,
+          "price": 3000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 366000,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 5891777000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: GATEWAY PROPERTIES OF UPSTATE NY INC",
+      "timeOnZillow": 5891777000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "440535255",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bccc292e315b6821227ee240d60c528d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/132-Nys-365-3-Remsen-NY-13438/440535255_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,800/mo",
+      "priceLabel": "$1.8K",
+      "address": "132 Nys #365-3, Remsen, NY 13438",
+      "isNewYorkState": true,
+      "beds": 5,
+      "baths": 3.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 43.33346,
+        "longitude": -75.09938
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "114 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440535255,
+          "streetAddress": "132 Nys #365-3",
+          "zipcode": "13438",
+          "city": "Remsen",
+          "state": "NY",
+          "latitude": 43.33346,
+          "longitude": -75.09938,
+          "price": 1800.0,
+          "bathrooms": 3.0,
+          "bedrooms": 5.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 349900,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 9874534000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 365-3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: GATEWAY PROPERTIES OF UPSTATE NY INC",
+      "timeOnZillow": 9874534000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "4e4ed02",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

@@ -1,0 +1,661 @@
+{
+  "listResults": [
+    {
+      "zpid": "32886116",
+      "id": "32886116",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2xbjpmaasbdbu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/82de47a9bd62cb25a7d67d56751ed519-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/272-Yerry-Hill-Rd-Woodstock-NY-12498/32886116_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "272 Yerry Hill Rd, Woodstock, NY 12498",
+      "addressStreet": "272 Yerry Hill Rd",
+      "addressCity": "Woodstock",
+      "addressState": "NY",
+      "addressZipcode": "12498",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1587,
+      "latLong": {
+        "latitude": 42.01817,
+        "longitude": -74.141106
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "109 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32886116,
+          "streetAddress": "272 Yerry Hill Rd",
+          "zipcode": "12498",
+          "city": "Woodstock",
+          "state": "NY",
+          "latitude": 42.01817,
+          "longitude": -74.141106,
+          "price": 4500.0,
+          "datePriceChanged": 1731052800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1587.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 109,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1446000,
+          "rentZestimate": 3770,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Nov 8)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "priceChange": -300,
+          "timeOnZillow": 9473771000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1817204.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1446000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Hudson Valley Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/82de47a9bd62cb25a7d67d56751ed519-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21b146c008ed6069164781c6342edcd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2fab933105c7a9d9f35752cd247a164-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad82e374156d0f373a3d0ff5895b25f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8be94b1937fe78cc41643e75271b641b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01e6d7b651fda57be9afbf4cd56e6064-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a1646d2116f2f27f8cae24d65f53248-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce0fb49ecde3bacb287a4e8675fddd6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f56b63786a7cf823a153b80f6ae6b57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40e8ccf68a98258280699c16235bf668-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd2cd99c9fbe8e6f0556911b858e5653-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e85c653e6f2f094a5bf35b9d472feb82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25b0424112a3594d0d8e90b431015f1b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73ccb6af17718a211cae8d32d13935d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a36850746437c2eaeca79e1738bb448-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7ed9950e7ac6f8554ec43eebe957e78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/550a52c991c0a94cdd2351c77dbde236-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9efdf72efef7c8c9460be16a4dae1b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b6b8432bff487d74e8a84616ca74cc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/baef29fee137f71a0dc3eeb89cb4c986-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/311b2b3c72118cb0ce2adb192ee00c58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1875088cb8db6b8e5a872047c1ecdf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80c0ac0eb64656a2440554f02215e1a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/306b8de328cbc48daadf7cafda320a46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7bd36e236234f74f26177b7b181fc76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34032b8a51f37f53eb344f89bdbbf397-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6928a906520e8eeb7d7ed4f7e7f14a7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09954f9cac714314ae44fe6944a0933b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e69d4b582047f74f3ed48e0d9217430-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32886116",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/82de47a9bd62cb25a7d67d56751ed519-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/272-Yerry-Hill-Rd-Woodstock-NY-12498/32886116_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,500/mo",
+      "priceLabel": "$4.5K",
+      "address": "272 Yerry Hill Rd, Woodstock, NY 12498",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1587,
+      "latLong": {
+        "latitude": 42.01817,
+        "longitude": -74.141106
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "109 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32886116,
+          "streetAddress": "272 Yerry Hill Rd",
+          "zipcode": "12498",
+          "city": "Woodstock",
+          "state": "NY",
+          "latitude": 42.01817,
+          "longitude": -74.141106,
+          "price": 4500.0,
+          "datePriceChanged": 1731052800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1587.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1446000,
+          "rentZestimate": 3770,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Nov 8)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "priceChange": -300,
+          "timeOnZillow": 9473771000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1817204.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Hudson Valley Properties",
+      "timeOnZillow": 9473771000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "32886235",
+      "id": "32886235",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2826bfqfsu6va",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3851b547e39d331b2873e11097a20dbf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Woodstock-NY-12498/32886235_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "(undisclosed Address), Woodstock, NY 12498",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Woodstock",
+      "addressState": "NY",
+      "addressZipcode": "12498",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 400,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32886235,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12498",
+          "city": "Woodstock",
+          "state": "NY",
+          "price": 1800.0,
+          "datePriceChanged": 1731744000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 745000,
+          "rentZestimate": 3577,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 16)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "priceChange": -200,
+          "timeOnZillow": 1080264000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 745000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-11 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3851b547e39d331b2873e11097a20dbf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a92755797ad44498eee25e62668f8f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7eb6a635ea1a96315b20cca3c7d48e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0b918000fa3384489a4ccb3d83996ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43a5f0953846fc43fba39c2ddba0baf6-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "41.999557--74.116234",
+      "id": "41.999557--74.116234",
+      "providerListingId": "40e0d3q9sb873",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cd0df3e857136d68ea05126309a3aff8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/1563-1567-route-28-west-hurley-ny-Bzcmwv/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "1563-1567 Route 28, West Hurley, NY",
+      "addressStreet": "1563-1567 Route 28 # 3",
+      "addressCity": "West Hurley",
+      "addressState": "NY",
+      "addressZipcode": "12491",
+      "units": [
+        {
+          "price": "$1,500+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,100+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2540132996,
+      "latLong": {
+        "latitude": 41.999557,
+        "longitude": -74.116234
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd0df3e857136d68ea05126309a3aff8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c84294abc0608c686c743fd67c43a94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a824bf8a161831c0dd4a76d4cf84f099-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12d8dfec0be1f7e83ac3293985817252-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d73512e92d3692d67620dd31873322dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/367b04cfa13d298c8036c43ed73a265c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/544057e5db365867554856b7b74d5025-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/720576e0e7bb426a3a0b13fd014f9b9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6495615fa0954049d8f744541e3d41a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/daf69e2ed70c0ae9bde23fd65421d748-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01ad6f99295625324ad6eb534666cb5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9b8121aa435fc3d869df95319c99e47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/550de027ebf31f34c041a13c06406fa1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95d80682e9a0e84a1c4ff2179c34defa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9d6ded8c5870e2ba24713ec67210405-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb348dba8437442c636398ad1b1f07ec-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "2104953436",
+      "id": "2104953436",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "789jsf17fv41",
+      "imgSrc": "https://photos.zillowstatic.com/fp/575497381252341a87f2f0de41ba4cca-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/73-Pine-St-West-Hurley-NY-12491/2104953436_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,300/mo",
+      "unformattedPrice": 2300,
+      "address": "73 Pine St, West Hurley, NY 12491",
+      "addressStreet": "73 Pine St",
+      "addressCity": "West Hurley",
+      "addressState": "NY",
+      "addressZipcode": "12491",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1133,
+      "latLong": {
+        "latitude": 42.001556,
+        "longitude": -74.10785
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "41 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2104953436,
+          "streetAddress": "73 Pine St",
+          "zipcode": "12491",
+          "city": "West Hurley",
+          "state": "NY",
+          "latitude": 42.001556,
+          "longitude": -74.10785,
+          "price": 2300.0,
+          "datePriceChanged": 1730530800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1133.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 41,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 344200,
+          "rentZestimate": 2354,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 2)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "priceChange": -200,
+          "timeOnZillow": 3569715000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 344200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices Hudson Valley Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/575497381252341a87f2f0de41ba4cca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a554744d6dfb6618c65da93341cb5384-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46dbc827aa8b33f1a65bbb69d8587c69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57a043e304c7c2a04d66658dea71a1b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd5af4b941edc5761504bf28897e9533-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfca28f201faa9774c72afd884497ab1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0470da02f673408cf6c1f32f94254867-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88f2492db784dfd77c3765b962cc8d44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9b76e465170c2e3648f9f4ceb6a436a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eaff8a8af6ac839c46617eb7648d5a72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6cad205697d689e98daf1d50efff3234-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a05c1ce3715e28d51ebd41dc07f2283-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f4281fa9f5a72fb94f1fe38d4ba6bad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7ca2663096f7dbfbf1dba0a06b55f7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9581ceca8183f1ee6e455589f745a886-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44a51715ba430e18ba7ce7415921ea61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afb8713dee5743151c8e824808e182ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb443e6d737424ebc68fdd4c89dd9a45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ffed0b2c4761c62083523b3c708fc86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e44e4f2ec7b7391116ee682a3b176ec9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcc84944966af23ac61cae9a4811322e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/818b6506398dd94b6e925d9c598d3b99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dd1e5f8ffead2414874978e7fed2bf7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e5d219d71dd43cc245565ea3d2acd65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20d84c41c4fb12c35389d89f9f922470-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "6991545e",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "566dffe0"
+}

@@ -1,0 +1,4461 @@
+{
+  "listResults": [
+    {
+      "zpid": "439162656",
+      "id": "439162656",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3ycj3vsgxsk9f",
+      "imgSrc": "https://photos.zillowstatic.com/fp/28c69749434e8820e9d25bc7092bd205-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/liberty-ny/golden-park-apartments/5XmgfK/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$350+/mo",
+      "unformattedPrice": 350,
+      "address": "Golden Park Apartments, 56 Golden Park Ln, Liberty, NY 12754",
+      "addressStreet": "56 Golden Park Ln #1B-1BA-600SQFT",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.78247,
+        "longitude": -74.72238
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439162656,
+          "streetAddress": "56 Golden Park Ln #1B-1BA-600SQFT",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.78247,
+          "longitude": -74.72238,
+          "price": 350.0,
+          "datePriceChanged": 1725346800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 100,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$498 (Sep 3)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 350.0,
+          "priceChange": -498,
+          "timeOnZillow": 8649177000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1B-1Ba-600Sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/28c69749434e8820e9d25bc7092bd205-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/179c5b353773519f40fdf20e265c27c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd0394712155b76a45933dc61aba0fa7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/646c0eac7b434d978041374f6a548539-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/063b891242d4547dcaa2a03cfa6a2b5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c743d16f485bae5890443c7b59615777-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68e90787d342963a09a22656be909968-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e5d5e4e6f753d9530f66580fc0f1382-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442550898",
+      "id": "442550898",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "281n8m98p2jkp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6c8304ebf9f36adc121a3b843676b559-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/100-Lincoln-Pl-APT-2-Liberty-NY-12754/442550898_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,550/mo",
+      "unformattedPrice": 1550,
+      "address": "100 Lincoln Pl APT 2, Liberty, NY 12754",
+      "addressStreet": "100 Lincoln Pl APT 2",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 41.802902,
+        "longitude": -74.74953
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442550898,
+          "streetAddress": "100 Lincoln Pl APT 2",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.802902,
+          "longitude": -74.74953,
+          "price": 1550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 1074257000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Robert C Leffler Lic Real Estate Broker",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c8304ebf9f36adc121a3b843676b559-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/565393d4305724fe6ae1118254cd819c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46541c4063099903058c1440ed89a902-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed0242214d68cec8e2b96d387a6d1b0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/763f2661fb395a2cd1453fc274adce19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cfb52df9c2f77c4e7ca3bb89409700a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442104321",
+      "id": "442104321",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5939a95w6ena7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e7e66239fcff289ccd62abf9f95a25f4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/14-Church-St-APT-2-Liberty-NY-12754/442104321_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "14 Church St APT 2, Liberty, NY 12754",
+      "addressStreet": "14 Church St APT 2",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.79825,
+        "longitude": -74.744064
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442104321,
+          "streetAddress": "14 Church St APT 2",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.79825,
+          "longitude": -74.744064,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 2505461000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-26 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7e66239fcff289ccd62abf9f95a25f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e6bf47623be6559a54959b6f0c51852-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e79e4b9a3a0e0eff0b18dbe87dda422-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a9a4e3429d7dcad6b167f76064e1ba6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65c87134a955c5abbf357f8d7f156ecd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0af41f52d51ffd3dc114168c4b755802-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51e0eb8ebf0f3fd3d11633bae42b508d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b32775b506e7256e3d66b8234c0ef19-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2066393360",
+      "id": "2066393360",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3y2gwrc2jpxt4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/dbb5c77ec7c07bcd40b5aa8315abfa30-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/125-S-Main-St-FLOOR-2-Liberty-NY-12754/2066393360_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "125 S Main St FLOOR 2, Liberty, NY 12754",
+      "addressStreet": "125 S Main St FLOOR 2",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.797745,
+        "longitude": -74.74403
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2066393360,
+          "streetAddress": "125 S Main St FLOOR 2",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.797745,
+          "longitude": -74.74403,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 37,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1352,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 3213803000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-04 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbb5c77ec7c07bcd40b5aa8315abfa30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21832d2e2a62f2e1cf614230f229e4d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd900661561c4ea37638d4473f77e724-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9887b23174a84ad0f80d4cfe1d11eab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8539bc571733ff5cbad8441194178cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3024b43d2dcbd569faa004cdba5c65b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfd188457ea6e28a0829659832fb0fc9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0836107c6039c181b33ea9cdaf2ae0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52dc6a56ea1b9de0cec872c848f741ba-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "401887100",
+      "id": "401887100",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "xqtjs0qb0zmq",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=41.77281188964844,-74.66078186035156&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=9ng5FYXoPDcqkv6x-9W51weufK0=",
+      "detailUrl": "https://www.zillow.com/homedetails/1195-State-Route-52-2-Loch-Sheldrake-NY-12759/401887100_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "1195 State Route 52 #2, Loch Sheldrake, NY 12759",
+      "addressStreet": "1195 State Route 52 #2",
+      "addressCity": "Loch Sheldrake",
+      "addressState": "NY",
+      "addressZipcode": "12759",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=41.77281188964844,-74.66078186035156&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=Lf7OgMDNQM4EAZ-IRfsNBnXg-QQ=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=41.77281188964844,-74.66078186035156&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=bAvE3n_sN72LbmbzeCaRXEzL5OY=",
+      "beds": 2,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.77281,
+        "longitude": -74.66078
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 401887100,
+          "streetAddress": "1195 State Route 52 #2",
+          "zipcode": "12759",
+          "city": "Loch Sheldrake",
+          "state": "NY",
+          "latitude": 41.77281,
+          "longitude": -74.66078,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 429138000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32772711",
+      "id": "32772711",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3cv9qh237p7h3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d14e06fad733ab62d7cb0107056fc5c0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/55-Delaware-Ave-Liberty-NY-12754/32772711_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,700/mo",
+      "unformattedPrice": 3700,
+      "address": "55 Delaware Ave, Liberty, NY 12754",
+      "addressStreet": "55 Delaware Ave",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2400,
+      "latLong": {
+        "latitude": 41.806587,
+        "longitude": -74.74241
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32772711,
+          "streetAddress": "55 Delaware Ave",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.806587,
+          "longitude": -74.74241,
+          "price": 3700.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 342100,
+          "rentZestimate": 2955,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3700.0,
+          "timeOnZillow": 1043022000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 261953.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 342100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d14e06fad733ab62d7cb0107056fc5c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0ed85f3a7c7a5c5d91a2a4558692c59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/525464e7ac6bdb8791e8f436cee8e439-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a24a4d3eccec566894d1b4839de8df24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c50f803af81ee08aed8782374b0793d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ed2c4855629bb11f77743947f1f6399-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a913881cac4e52b6d1340ec41a0adc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc3a3f49a1ed4059e937fab0e6a611de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23517cf80c50c40cc4dbc120e4f4158f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7641f737277aa16e5eb062e84edc7423-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da7b0b281ad3b3fd52d3217610810bff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8aa6991b8e82a2c9108be2f94364e9a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46c049614a118e31a41562bf4b65f930-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/106c190516b6b0a32d20685b26e1c9c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/49467ef302daf1f1cc4190704a731db6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2fa8c9397b3053e541aa1c206e13f32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3640160cecd2842f1514619e0952dfa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19b48fa03a7549df8dba2a72e04fed97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89fa661bb682f56c91a4fce12632085a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95442094b5bf120767669a071bfa6de4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ada1d2c4066972fb1c340b700b38362f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441743544",
+      "id": "441743544",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3xf95rnwewdtu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a75fecabcd53cc5a6aa0ad301e8eec68-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/15-Beaumont-Estates-Ln-4B-Liberty-NY-12754/441743544_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,595/mo",
+      "unformattedPrice": 1595,
+      "address": "15 Beaumont Estates Ln #4B, Liberty, NY 12754",
+      "addressStreet": "15 Beaumont Estates Ln #4B",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.790707,
+        "longitude": -74.78846
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441743544,
+          "streetAddress": "15 Beaumont Estates Ln #4B",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.790707,
+          "longitude": -74.78846,
+          "price": 1595.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1595.0,
+          "timeOnZillow": 556516000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a75fecabcd53cc5a6aa0ad301e8eec68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0813c678066c859970905466ac7c24a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b479e4fe290debf6f83cb1c641b7f418-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1536e9a6e723357675c092fbe8effb5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88b54ad7186941a95182b18da7f48329-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ccc3e9fd0802fe23c3ff53c12b2fa893-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26788dcae104c63e0ea3bc35bbc8038e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/895497538778566c1b08ecbcf9f9e946-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ac3484f53ca7cf0772657bd7167b9d8-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2071294947",
+      "id": "2071294947",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "suj8xz30t8ch",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9f9b3c8e43586ab5beb6f6031bf5f133-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4927-State-Route-55-A3-Swan-Lake-NY-12783/2071294947_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "4927 State Route 55 #A3, Swan Lake, NY 12783",
+      "addressStreet": "4927 State Route 55 #A3",
+      "addressCity": "Swan Lake",
+      "addressState": "NY",
+      "addressZipcode": "12783",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 41.76285,
+        "longitude": -74.78155
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2071294947,
+          "streetAddress": "4927 State Route 55 #A3",
+          "zipcode": "12783",
+          "city": "Swan Lake",
+          "state": "NY",
+          "latitude": 41.76285,
+          "longitude": -74.78155,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1125,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 3413525000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Comres Realty Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f9b3c8e43586ab5beb6f6031bf5f133-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79fedd1d0e6bc23763d711f259c8de1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f189f83176f3476fac2b95d86c8cd3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e98f4f7c1bba5a1b5379f9bfc4d3c5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6e983baa43b96c59eed40508cb0e8e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9102feec38bef3bd4534343555e3654-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fcf21daf84495b4062a246b3729d956-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73502d1e4a5a0b44142f55b17e93c131-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed20e39bc196b40912a08cd988dfdfcb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76741e628f4ce8b2cdf934be48a76af0-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440146105",
+      "id": "440146105",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "t8puphkd9wya",
+      "imgSrc": "https://photos.zillowstatic.com/fp/84552751a5825b80230f6d715cb42120-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/113-Lake-St-APT-2-Liberty-NY-12754/440146105_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,495/mo",
+      "unformattedPrice": 1495,
+      "address": "113 Lake St APT 2, Liberty, NY 12754",
+      "addressStreet": "113 Lake St APT 2",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.795578,
+        "longitude": -74.74968
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440146105,
+          "streetAddress": "113 Lake St APT 2",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.795578,
+          "longitude": -74.74968,
+          "price": 1495.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 33,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1495.0,
+          "timeOnZillow": 2893737000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/84552751a5825b80230f6d715cb42120-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52205f80a754032c88d7cf3f438c78bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0104b50e930c92bd362b899baf5e1d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/706a30577004216c4b4cdf5a93286e93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82242d732b148b14812a6ea65b7813a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecf7c2631c2eb2b34d135dcb4a8af5b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cad8436ef1d8ab018f479b2f23281a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a0a0a7cc500b206a498052a232e00d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7c48171217870633086d342ff65e953-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4653f23836f997b5f2230ad2c79f5fdd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43a75be3c06b70def5b18dc12a9791d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e048631233d2f180a23bf18521de13fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/178c647bd66b46ea24683ca7c3cf4df7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "208773256",
+      "id": "208773256",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4yph38zfzhwx0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/59f5af0472232888b867534954af5984-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/110-Hasbrouck-A-Rd-Hurleyville-NY-12747/208773256_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "110 Hasbrouck A Rd, Hurleyville, NY 12747",
+      "addressStreet": "110 Hasbrouck A Rd",
+      "addressCity": "Hurleyville",
+      "addressState": "NY",
+      "addressZipcode": "12747",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.77343,
+        "longitude": -74.647606
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 208773256,
+          "streetAddress": "110 Hasbrouck A Rd",
+          "zipcode": "12747",
+          "city": "Hurleyville",
+          "state": "NY",
+          "latitude": 41.77343,
+          "longitude": -74.647606,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1359,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 366490000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 331034.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/59f5af0472232888b867534954af5984-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/559e62e262fa2e04a0ada8ba93e79f58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83e4579c710726d036c52358c371b9de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d80c1b789785b7c41f7579add5b7425f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3870ec380d0accc3e212cb7a18f9dd8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/390291ed76b7b638ab7ee6ae8a04fb0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04298f6117652f64a64d56b946c09128-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47ecaa6fef7515822b00ca4e98b343a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eaeeb4de719ac6915bc8b5b09a208ae3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f05a854fb34762db148a86c33c67afbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31f7a0b6cb9f4f922bbd00378b8a9bb6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "80034141",
+      "id": "80034141",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "vgqh1bfnv8cb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b10e5da19d9c407d7f8d10f45acb97d1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/15-Cara-Ct-Hurleyville-NY-12747/80034141_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "15 Cara Ct, Hurleyville, NY 12747",
+      "addressStreet": "15 Cara Ct",
+      "addressCity": "Hurleyville",
+      "addressState": "NY",
+      "addressZipcode": "12747",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2016,
+      "latLong": {
+        "latitude": 41.791748,
+        "longitude": -74.66155
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "68 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 80034141,
+          "streetAddress": "15 Cara Ct",
+          "zipcode": "12747",
+          "city": "Hurleyville",
+          "state": "NY",
+          "latitude": 41.791748,
+          "longitude": -74.66155,
+          "price": 3000.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2016.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 68,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 495300,
+          "rentZestimate": 3182,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 5894555000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 373517.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 495300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Resort Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b10e5da19d9c407d7f8d10f45acb97d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68910242d6d5266eafbfcf82d7d95f8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05581c20cc49ee5ed61706223c59e3d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0a1ff58b990cf281dafb247a5a838a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdd1f384b215842991e5a18b5eaa11b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/259f2e201f19ef5dc37c02e175ef0d03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b39373ae996ff407e20dce11d55c7802-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e466abd999b1caf2d38cc5edbdc6ce6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d19891c03f747f32656602ab1003be4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3f482946976f41b25c827d4e2a5e603-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3389244dd46c971698411851ecb508a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e7b518bef7ce69aab06e847c4a41819-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89777f45c24b709b28aa8c4a517baf86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55752979c73f72dd719cdf038ac9225e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebc4118961bfd672008d22ad52ffab59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8321f3a0118c5126f9b5ff39e83acc43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38be129ca30d8b24449dcb999106950c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0640d543f2488594db0b3d463c6f2ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e03b17d2361b2d370a79510ca71e435-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0f7cf28e75f2db52a241be994050451-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2060789557",
+      "id": "2060789557",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3v98xn1963dq5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6d825ed829d9513c7b3aeaf9c4363b37-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/327-Harris-Rd-3-Ferndale-NY-12734/2060789557_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,000/mo",
+      "unformattedPrice": 1000,
+      "address": "327 Harris Rd #3, Ferndale, NY 12734",
+      "addressStreet": "327 Harris Rd #3",
+      "addressCity": "Ferndale",
+      "addressState": "NY",
+      "addressZipcode": "12734",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.76766,
+        "longitude": -74.73761
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060789557,
+          "streetAddress": "327 Harris Rd #3",
+          "zipcode": "12734",
+          "city": "Ferndale",
+          "state": "NY",
+          "latitude": 41.76766,
+          "longitude": -74.73761,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1154,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 2444638000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d825ed829d9513c7b3aeaf9c4363b37-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b3a8857c856ff0ec1287fed6637d81f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9211906e220a967d6d686e458eb73078-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39bb07492e2f270fb67014e2f78a3850-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3922c5754b0b27a6cab244d55f1326b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d0b519aac308199a61240487ab54db5-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2062599615",
+      "id": "2062599615",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "13n5hgt3uc95e",
+      "imgSrc": "https://photos.zillowstatic.com/fp/56e7b51206b4ab98f3fcc2c098fb0291-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/247-Sprague-Ave-2-Liberty-NY-12754/2062599615_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "247 Sprague Ave #2, Liberty, NY 12754",
+      "addressStreet": "247 Sprague Ave #2",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 41.808586,
+        "longitude": -74.74767
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062599615,
+          "streetAddress": "247 Sprague Ave #2",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.808586,
+          "longitude": -74.74767,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 44,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1161,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 3817621000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Galeano Real Estate Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/56e7b51206b4ab98f3fcc2c098fb0291-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11ea39de00b3dcf218f0f99165be2c2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3384632fcd138ccae3ae35171dfe164b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ca9abb17177495a8000c1809fe8a7f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f86a993b1c387606a2aec244e26c19ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d72e45daf66ce44d8e1645d469393fe0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcc9b05f423167a25bab2f2f021c0273-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6cb92b947d5e85438e6bb6292a3a21c-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "41.80141--74.74927",
+      "id": "41.80141--74.74927",
+      "providerListingId": "5ae8z8djh7f4g",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fab206ea97faceac46f988b4b949ae74-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/31-saint-pauls-pl-liberty-ny-97yRvw/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "31 Saint Pauls Pl, Liberty, NY",
+      "addressStreet": "31 Saint Pauls Pl Unit 4",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "units": [
+        {
+          "price": "$1,200+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,400+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2011732873,
+      "latLong": {
+        "latitude": 41.80141,
+        "longitude": -74.74927
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "75 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fab206ea97faceac46f988b4b949ae74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b72320d9d2b93a7336b5db210330bf1f-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "41.79826--74.73859",
+      "id": "41.79826--74.73859",
+      "providerListingId": "1y6ey01cbys0d",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a0bff9f8da9d471faf0fffeebe2f5fa4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/11-orange-ln-liberty-ny-97yRNh/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "11 Orange Ln, Liberty, NY",
+      "addressStreet": "11 Orange Ln Unit 8",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "units": [
+        {
+          "price": "$1,850+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2011731588,
+      "latLong": {
+        "latitude": 41.79826,
+        "longitude": -74.73859
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "Updated yesterday"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0bff9f8da9d471faf0fffeebe2f5fa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0530c1e5858f3c3ed7530a06fd8a889-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3d1f6c80e93292f4ffdc01a0b2172e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1fa85d481cff091ad4d1bb2ce03bcb0-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "32774338",
+      "id": "32774338",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "w7grrjh5jh0b",
+      "imgSrc": "https://photos.zillowstatic.com/fp/16afe4b5192a043d16a50621615e8fbd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/153-Upper-Ferndale-Rd-Liberty-NY-12754/32774338_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "153 Upper Ferndale Rd, Liberty, NY 12754",
+      "addressStreet": "153 Upper Ferndale Rd",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1431,
+      "latLong": {
+        "latitude": 41.784134,
+        "longitude": -74.73702
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32774338,
+          "streetAddress": "153 Upper Ferndale Rd",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.784134,
+          "longitude": -74.73702,
+          "price": 2400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1431.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 220400,
+          "rentZestimate": 2133,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 182560000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 126621.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 220400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/16afe4b5192a043d16a50621615e8fbd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcb4176900652aa09ff954d64e91df26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a29c59fb91b0898693645c379a823c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a3c4a66528c8c9202d9e093f7f914f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/009a3692baae0a3e3d836741af4db62a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99bd8e8592282d45d2b8bec5791d7dcc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1995d1a4ac5c608cc46584fc5bf11d47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dacddc6468f1784368fd39b9d7dcfac6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fede40358a5e90116c59b22ad64cfff5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb4668f92adf109be85c8d4c98749f86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b030ffe286e2995231463148fdce4d57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a91cbd26cf8426804c6a6c178f5b688-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a0e09c2641c6a758b0e95f740f3e344-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8751cbc2bb87d7dc14af0961656ccc11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ecd112b2189214da649292446922479-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a5d8ab38e4d42fb943af42109e5633c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/843c9002118a5fce6e945d8920985ad1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edc25ddc461760ea65e7e8f7d7fe72ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c69d3497f662b86b3cdf837f0bbbff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/137af1a96081df8d8340945ed5970ce9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7bd8a8b9a4e0683b9d51199939a1bcbd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1eb430785ce5d92897894c21d21cd4d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c5b60d53d5d340a79a6ddef48a1aa82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/656f55fde2704880b04759589d37c05e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c6f7a69b848e51fe9cfc957d91050f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d7b23039bfd1939ae4cca097d1b7939-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee6ef3aee8bd13bed1088d95123bf3f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1bc693805aa54eaa6d784b0fe624a31b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "41.76519--74.648224",
+      "id": "41.76519--74.648224",
+      "providerListingId": "577kvz5c0ag5s",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1028c01d5b6406192cfa03a35b3015c6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/2-bed-1-bath-apartment-in-loch-sheldrake-loch-sheldrake-ny-5ftG87/",
+      "statusType": "FOR_RENT",
+      "statusText": "2 Bed 1 Bath Apartment In Loch Sheldrake",
+      "address": "1007 State Route 52, Loch Sheldrake, NY",
+      "addressStreet": "1007 State Route 52 # 2",
+      "addressCity": "Loch Sheldrake",
+      "addressState": "NY",
+      "addressZipcode": "12759",
+      "units": [
+        {
+          "price": "$1,100+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,200+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1036987397,
+      "latLong": {
+        "latitude": 41.76519,
+        "longitude": -74.648224
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "2 Bed 1 Bath Apartment In Loch Sheldrake",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1028c01d5b6406192cfa03a35b3015c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2288ab612789cfe04b96f6560b249fb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9165774f1dc09fbf387a7f843670f69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a359e8ae777201a2453bf18ebbea974f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7090492d6f018aace93a494d981b6c93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71a9050fb7c1699c221fa9b79fc06a9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b59a53504ce7fb528d2a421b4b1f5c88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d1ba0e703ce0b3a95d400e8de0df55a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22601367658a085e4545ea32b03f11d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e63e7e0f7323d3d994463b0c7a2d89e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62680f57a7286246da0aa2a23e751afc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c9bc2dd33d00757ce138e6603ad21fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43a5b270eb1dde9d5dc2c4786b0b0451-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e7ae159c37fdb0ac507536ff655f986-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd68a4bfd2a934bf9d79eef1255dfb4f-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "2069636532",
+      "id": "2069636532",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "253qn1b4sx8xa",
+      "imgSrc": "https://photos.zillowstatic.com/fp/44ca47d489ce3a6970f26eddd56b17e0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/231-Reynolds-Rd-6-Loch-Sheldrake-NY-12759/2069636532_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,699/mo",
+      "unformattedPrice": 1699,
+      "address": "231 Reynolds Rd #6, Loch Sheldrake, NY 12759",
+      "addressStreet": "231 Reynolds Rd #6",
+      "addressCity": "Loch Sheldrake",
+      "addressState": "NY",
+      "addressZipcode": "12759",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 3.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 41.790154,
+        "longitude": -74.68083
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "32 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2069636532,
+          "streetAddress": "231 Reynolds Rd #6",
+          "zipcode": "12759",
+          "city": "Loch Sheldrake",
+          "state": "NY",
+          "latitude": 41.790154,
+          "longitude": -74.68083,
+          "price": 1699.0,
+          "bathrooms": 3.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 32,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1735,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1699.0,
+          "timeOnZillow": 2825584000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 6",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: eXp Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/44ca47d489ce3a6970f26eddd56b17e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/719b66945e5ea3421e878e70c448116b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/faae2a104bb3b2fefe6abd661a4f36ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04559bcaeaaa37e9c9ce58aed599dd39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc481c64791039e36abe32cf4f12e41c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bc3dfc5855196efed41a41cb795d372-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71ebbd08593c634da11badaa6ef688c3-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442377450",
+      "id": "442377450",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1hf1jxfkp0zn9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/16f33cd034f0e19d101ffbf72186f08f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/79-Yaun-Ave-Liberty-NY-12754/442377450_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$1,650/mo",
+      "unformattedPrice": 1650,
+      "address": "79 Yaun Ave, Liberty, NY 12754",
+      "addressStreet": "79 Yaun Ave",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.804733,
+        "longitude": -74.75388
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442377450,
+          "streetAddress": "79 Yaun Ave",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.804733,
+          "longitude": -74.75388,
+          "price": 1650.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 190700,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "timeOnZillow": 1630970000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 190700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-06 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Spring St Group LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/16f33cd034f0e19d101ffbf72186f08f-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "41.772507--74.660484",
+      "id": "41.772507--74.660484",
+      "providerListingId": "5fpg0e809gz3f",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b99232fb9ef7070b05552bc438bcb0ff-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/1189-state-route-52-loch-sheldrake-ny-CbqdP4/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "1189 State Route 52, Loch Sheldrake, NY",
+      "addressStreet": "1189 State Route 52 # 9",
+      "addressCity": "Loch Sheldrake",
+      "addressState": "NY",
+      "addressZipcode": "12759",
+      "units": [
+        {
+          "price": "$700+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,700+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2714237794,
+      "latLong": {
+        "latitude": 41.772507,
+        "longitude": -74.660484
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b99232fb9ef7070b05552bc438bcb0ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/860d3942c4bb33f45a7a4e5b01ebe39a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/910b1af70de238fd18fad21f49bf279c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db3938d80a22397a3e3cae0d8bfb1774-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7fb1968e6911781e9a0413b073ee106-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd2245ddb80664728b53d703dedc89f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea8b4a30aff5f75d7892909e85b3a1ae-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "442313099",
+      "id": "442313099",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3jynyjphdhun0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2288ab612789cfe04b96f6560b249fb1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/2-bed-1-bath-apartment-in-loch-sheldrake-loch-sheldrake-ny-5ftG87/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200+/mo",
+      "unformattedPrice": 1200,
+      "address": "2 Bed 1 Bath Apartment In Loch Sheldrake, 1007 State Route 52, Loch Sheldrake, NY 12759",
+      "addressStreet": "1007 State Route 52 #6",
+      "addressCity": "Loch Sheldrake",
+      "addressState": "NY",
+      "addressZipcode": "12759",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.765182,
+        "longitude": -74.648224
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442313099,
+          "streetAddress": "1007 State Route 52 #6",
+          "zipcode": "12759",
+          "city": "Loch Sheldrake",
+          "state": "NY",
+          "latitude": 41.765182,
+          "longitude": -74.648224,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 1949954000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 6",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Integrity National Property Management Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2288ab612789cfe04b96f6560b249fb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/203763a75058a03f89d129886c0ee29b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c46d1c24e11d6435a6c46b92405a45d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6275430491bf97c9bfb4d193629530c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de989135932045973cea6bd1f675d879-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdb3c7188839b4d43ccea366afe6b369-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a93473764a7bba9fdcf2dba2c3b8da4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e3b4cb1a583ff30884d6bf780cbad0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80ed470678116c6bc59d3d44b6fdcc5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c12b58ff5bf8d7438079a51bf3a44036-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34747a70d1c3dec1a0e82c7488b7eeee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e30cb261baef7eb87178a13be1a014c8-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2055314860",
+      "id": "2055314860",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3pg9g61yyav79",
+      "imgSrc": "https://photos.zillowstatic.com/fp/93fa80cac165a8b28a2b3b3d81d77707-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-Maple-Ave-N-2-Loch-Sheldrake-NY-12759/2055314860_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "10 Maple Ave N #2, Loch Sheldrake, NY 12759",
+      "addressStreet": "10 Maple Ave N #2",
+      "addressCity": "Loch Sheldrake",
+      "addressState": "NY",
+      "addressZipcode": "12759",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 41.770985,
+        "longitude": -74.65169
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055314860,
+          "streetAddress": "10 Maple Ave N #2",
+          "zipcode": "12759",
+          "city": "Loch Sheldrake",
+          "state": "NY",
+          "latitude": 41.770985,
+          "longitude": -74.65169,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 91700,
+          "rentZestimate": 993,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 3400673000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 91700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/93fa80cac165a8b28a2b3b3d81d77707-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9209390681f9648b159c26f050194e91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f54d5a1596b621f87f3d9375a68dc2d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/858bde1b92cc9b27f0d43d891f9dbe82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77e83ebeb779306dd520f7beb25168d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bd38ded07cdb6d111f43088da756db3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/284741d85021aee85d47becf34e36768-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2bec2a2dc906fd7032024f2312cdb4ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ca81db3f08b5aac12ea965602ce2272-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442429272",
+      "id": "442429272",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4x17edrxa1h35",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9ed7cd24e918b21c9f82dadc99e3a19b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/9-spring-st.-liberty-ny-65cbYC/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "9 Spring St., 9 Spring St #2, Liberty, NY 12754",
+      "addressStreet": "9 Spring St #2",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.797688,
+        "longitude": -74.74657
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442429272,
+          "streetAddress": "9 Spring St #2",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.797688,
+          "longitude": -74.74657,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 1488345000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Integrity National Property Management Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ed7cd24e918b21c9f82dadc99e3a19b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06f56f08f281ef932c46318c1714e6d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2110c63bd9794950f436d5c6ac49522-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d435d77ce5a4933a058f15c2daee5d19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8a33bd3b5de20988259a347f5548840-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca492a8ae7ea83eaa5a4b5660d5a6ef6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75007a18644424344b08aa3ac75e2586-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4037548410fba817f7f46fe989ad288-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b01076a246f728b06271e367dddb998b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fe224e66f1e25f9dbdb0c847ffdc32b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99ff45287de18cb634e220ca8ca969d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9efd3ecaae3765d7646e04e03da2e71a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9930b8995eb4b2e5d01c031c51066e95-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f40025b3ce4d143af5c70c7f0e6a3f58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1856937d65946491f34c1afa25f5a2ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/855764ad2e67d0b19dabdd1f04fe1efe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e328b5d4012bcd567dff13ecdef4d99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db1c455bd54abaa8586b297840c7a675-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09783527423a183b04be9345c9750639-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb041deb978a2fa7ed0403ecb6d8ebb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54f9ebd555395ebd3e04bada7fd92597-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "439162656",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/28c69749434e8820e9d25bc7092bd205-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/liberty-ny/golden-park-apartments/5XmgfK/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$350+/mo",
+      "priceLabel": "$350",
+      "address": "56 Golden Park Ln, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.78247,
+        "longitude": -74.72238
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439162656,
+          "streetAddress": "56 Golden Park Ln #1B-1BA-600SQFT",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.78247,
+          "longitude": -74.72238,
+          "price": 350.0,
+          "datePriceChanged": 1725346800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$498 (Sep 3)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 350.0,
+          "priceChange": -498,
+          "timeOnZillow": 8649177000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1B-1Ba-600Sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 8649177000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "442550898",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6c8304ebf9f36adc121a3b843676b559-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/100-Lincoln-Pl-APT-2-Liberty-NY-12754/442550898_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,550/mo",
+      "priceLabel": "$1.6K",
+      "address": "100 Lincoln Pl APT 2, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 41.802902,
+        "longitude": -74.74953
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442550898,
+          "streetAddress": "100 Lincoln Pl APT 2",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.802902,
+          "longitude": -74.74953,
+          "price": 1550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 1074257000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Robert C Leffler Lic Real Estate Broker",
+      "timeOnZillow": 1074257000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442104321",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e7e66239fcff289ccd62abf9f95a25f4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/14-Church-St-APT-2-Liberty-NY-12754/442104321_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,300/mo",
+      "priceLabel": "$1.3K",
+      "address": "14 Church St APT 2, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.79825,
+        "longitude": -74.744064
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442104321,
+          "streetAddress": "14 Church St APT 2",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.79825,
+          "longitude": -74.744064,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 2505461000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-26 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2505461000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2066393360",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/dbb5c77ec7c07bcd40b5aa8315abfa30-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/125-S-Main-St-FLOOR-2-Liberty-NY-12754/2066393360_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,400/mo",
+      "priceLabel": "$1.4K",
+      "address": "125 S Main St FLOOR 2, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.797745,
+        "longitude": -74.74403
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2066393360,
+          "streetAddress": "125 S Main St FLOOR 2",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.797745,
+          "longitude": -74.74403,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1352,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 3213803000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-04 00:00:00",
+      "visited": false,
+      "timeOnZillow": 3213803000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "401887100",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=41.77281188964844,-74.66078186035156&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=9ng5FYXoPDcqkv6x-9W51weufK0=",
+      "detailUrl": "/homedetails/1195-State-Route-52-2-Loch-Sheldrake-NY-12759/401887100_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "1195 State Route 52 #2, Loch Sheldrake, NY 12759",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=41.77281188964844,-74.66078186035156&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=Lf7OgMDNQM4EAZ-IRfsNBnXg-QQ=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=41.77281188964844,-74.66078186035156&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=bAvE3n_sN72LbmbzeCaRXEzL5OY=",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.77281,
+        "longitude": -74.66078
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 401887100,
+          "streetAddress": "1195 State Route 52 #2",
+          "zipcode": "12759",
+          "city": "Loch Sheldrake",
+          "state": "NY",
+          "latitude": 41.77281,
+          "longitude": -74.66078,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 429138000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 429138000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32772711",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d14e06fad733ab62d7cb0107056fc5c0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/55-Delaware-Ave-Liberty-NY-12754/32772711_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,700/mo",
+      "priceLabel": "$3.7K",
+      "address": "55 Delaware Ave, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2400,
+      "latLong": {
+        "latitude": 41.806587,
+        "longitude": -74.74241
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32772711,
+          "streetAddress": "55 Delaware Ave",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.806587,
+          "longitude": -74.74241,
+          "price": 3700.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 342100,
+          "rentZestimate": 2955,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3700.0,
+          "timeOnZillow": 1043022000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 261953.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1043022000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441743544",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a75fecabcd53cc5a6aa0ad301e8eec68-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/15-Beaumont-Estates-Ln-4B-Liberty-NY-12754/441743544_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,595/mo",
+      "priceLabel": "$1.6K",
+      "address": "15 Beaumont Estates Ln #4B, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.790707,
+        "longitude": -74.78846
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441743544,
+          "streetAddress": "15 Beaumont Estates Ln #4B",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.790707,
+          "longitude": -74.78846,
+          "price": 1595.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1595.0,
+          "timeOnZillow": 556516000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 556516000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2071294947",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9f9b3c8e43586ab5beb6f6031bf5f133-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/4927-State-Route-55-A3-Swan-Lake-NY-12783/2071294947_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,250/mo",
+      "priceLabel": "$1.3K",
+      "address": "4927 State Route 55 #A3, Swan Lake, NY 12783",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 41.76285,
+        "longitude": -74.78155
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2071294947,
+          "streetAddress": "4927 State Route 55 #A3",
+          "zipcode": "12783",
+          "city": "Swan Lake",
+          "state": "NY",
+          "latitude": 41.76285,
+          "longitude": -74.78155,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1125,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 3413525000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Comres Realty Group",
+      "timeOnZillow": 3413525000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "440146105",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/84552751a5825b80230f6d715cb42120-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/113-Lake-St-APT-2-Liberty-NY-12754/440146105_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,495/mo",
+      "priceLabel": "$1.5K",
+      "address": "113 Lake St APT 2, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.795578,
+        "longitude": -74.74968
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440146105,
+          "streetAddress": "113 Lake St APT 2",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.795578,
+          "longitude": -74.74968,
+          "price": 1495.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1495.0,
+          "timeOnZillow": 2893737000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 2893737000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "208773256",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/59f5af0472232888b867534954af5984-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/110-Hasbrouck-A-Rd-Hurleyville-NY-12747/208773256_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,250/mo",
+      "priceLabel": "$1.3K",
+      "address": "110 Hasbrouck A Rd, Hurleyville, NY 12747",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.77343,
+        "longitude": -74.647606
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 208773256,
+          "streetAddress": "110 Hasbrouck A Rd",
+          "zipcode": "12747",
+          "city": "Hurleyville",
+          "state": "NY",
+          "latitude": 41.77343,
+          "longitude": -74.647606,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1359,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 366490000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 331034.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 366490000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "80034141",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b10e5da19d9c407d7f8d10f45acb97d1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/15-Cara-Ct-Hurleyville-NY-12747/80034141_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,000/mo",
+      "priceLabel": "$3.0K",
+      "address": "15 Cara Ct, Hurleyville, NY 12747",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2016,
+      "latLong": {
+        "latitude": 41.791748,
+        "longitude": -74.66155
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "68 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 80034141,
+          "streetAddress": "15 Cara Ct",
+          "zipcode": "12747",
+          "city": "Hurleyville",
+          "state": "NY",
+          "latitude": 41.791748,
+          "longitude": -74.66155,
+          "price": 3000.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2016.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 495300,
+          "rentZestimate": 3182,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 5894555000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 373517.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Resort Realty",
+      "timeOnZillow": 5894555000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2060789557",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6d825ed829d9513c7b3aeaf9c4363b37-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/327-Harris-Rd-3-Ferndale-NY-12734/2060789557_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,000/mo",
+      "priceLabel": "$1.0K",
+      "address": "327 Harris Rd #3, Ferndale, NY 12734",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.76766,
+        "longitude": -74.73761
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060789557,
+          "streetAddress": "327 Harris Rd #3",
+          "zipcode": "12734",
+          "city": "Ferndale",
+          "state": "NY",
+          "latitude": 41.76766,
+          "longitude": -74.73761,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1154,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 2444638000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 2444638000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2062599615",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/56e7b51206b4ab98f3fcc2c098fb0291-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/247-Sprague-Ave-2-Liberty-NY-12754/2062599615_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "247 Sprague Ave #2, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 41.808586,
+        "longitude": -74.74767
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062599615,
+          "streetAddress": "247 Sprague Ave #2",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.808586,
+          "longitude": -74.74767,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1161,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 3817621000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Galeano Real Estate Inc.",
+      "timeOnZillow": 3817621000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "5ae8z8djh7f4g",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fab206ea97faceac46f988b4b949ae74-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/31-saint-pauls-pl-liberty-ny-97yRvw/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$1,200+/mo",
+      "address": "31 Saint Pauls Pl, Liberty, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 700,
+      "lotId": 2011732873,
+      "latLong": {
+        "latitude": 41.80141,
+        "longitude": -74.74927
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "75 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "41.80141--74.74927",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 6500666000,
+      "unitCount": 3,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "plid": "1y6ey01cbys0d",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a0bff9f8da9d471faf0fffeebe2f5fa4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/11-orange-ln-liberty-ny-97yRNh/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$1,850+/mo",
+      "address": "11 Orange Ln, Liberty, NY",
+      "minBeds": 2,
+      "minBaths": 2.0,
+      "minArea": 1150,
+      "lotId": 2011731588,
+      "latLong": {
+        "latitude": 41.79826,
+        "longitude": -74.73859
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "Updated yesterday"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "41.79826--74.73859",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 73698000,
+      "unitCount": 3,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "32774338",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/16afe4b5192a043d16a50621615e8fbd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/153-Upper-Ferndale-Rd-Liberty-NY-12754/32774338_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,400/mo",
+      "priceLabel": "$2.4K",
+      "address": "153 Upper Ferndale Rd, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1431,
+      "latLong": {
+        "latitude": 41.784134,
+        "longitude": -74.73702
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32774338,
+          "streetAddress": "153 Upper Ferndale Rd",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.784134,
+          "longitude": -74.73702,
+          "price": 2400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1431.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 220400,
+          "rentZestimate": 2133,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 182560000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 126621.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "timeOnZillow": 182560000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "plid": "577kvz5c0ag5s",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1028c01d5b6406192cfa03a35b3015c6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/2-bed-1-bath-apartment-in-loch-sheldrake-loch-sheldrake-ny-5ftG87/",
+      "statusType": "FOR_RENT",
+      "statusText": "2 Bed 1 Bath Apartment In Loch Sheldrake",
+      "price": "$1,100+/mo",
+      "address": "1007 State Route 52, Loch Sheldrake, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "lotId": 1036987397,
+      "latLong": {
+        "latitude": 41.76519,
+        "longitude": -74.648224
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "2 Bed 1 Bath Apartment In Loch Sheldrake",
+      "buildingId": "41.76519--74.648224",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 766322000,
+      "unitCount": 3,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "zpid": "2069636532",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/44ca47d489ce3a6970f26eddd56b17e0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/231-Reynolds-Rd-6-Loch-Sheldrake-NY-12759/2069636532_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,699/mo",
+      "priceLabel": "$1.7K",
+      "address": "231 Reynolds Rd #6, Loch Sheldrake, NY 12759",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 3.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 41.790154,
+        "longitude": -74.68083
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "32 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2069636532,
+          "streetAddress": "231 Reynolds Rd #6",
+          "zipcode": "12759",
+          "city": "Loch Sheldrake",
+          "state": "NY",
+          "latitude": 41.790154,
+          "longitude": -74.68083,
+          "price": 1699.0,
+          "bathrooms": 3.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1735,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1699.0,
+          "timeOnZillow": 2825584000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 6",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: eXp Realty",
+      "timeOnZillow": 2825584000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "442377450",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/16f33cd034f0e19d101ffbf72186f08f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/79-Yaun-Ave-Liberty-NY-12754/442377450_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$1,650/mo",
+      "priceLabel": "$1.7K",
+      "address": "79 Yaun Ave, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.804733,
+        "longitude": -74.75388
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442377450,
+          "streetAddress": "79 Yaun Ave",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.804733,
+          "longitude": -74.75388,
+          "price": 1650.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 190700,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "timeOnZillow": 1630970000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-06 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Spring St Group LLC",
+      "timeOnZillow": 1630970000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "plid": "5fpg0e809gz3f",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b99232fb9ef7070b05552bc438bcb0ff-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/1189-state-route-52-loch-sheldrake-ny-CbqdP4/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$700+/mo",
+      "address": "1189 State Route 52, Loch Sheldrake, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 120,
+      "lotId": 2714237794,
+      "latLong": {
+        "latitude": 41.772507,
+        "longitude": -74.660484
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "41.772507--74.660484",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 3397633000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "442313099",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2288ab612789cfe04b96f6560b249fb1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/2-bed-1-bath-apartment-in-loch-sheldrake-loch-sheldrake-ny-5ftG87/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,200+/mo",
+      "priceLabel": "$1.2K",
+      "address": "1007 State Route 52, Loch Sheldrake, NY 12759",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.765182,
+        "longitude": -74.648224
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442313099,
+          "streetAddress": "1007 State Route 52 #6",
+          "zipcode": "12759",
+          "city": "Loch Sheldrake",
+          "state": "NY",
+          "latitude": 41.765182,
+          "longitude": -74.648224,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 1949954000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 6",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Integrity National Property Management Inc.",
+      "timeOnZillow": 1949954000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "zpid": "2055314860",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/93fa80cac165a8b28a2b3b3d81d77707-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/10-Maple-Ave-N-2-Loch-Sheldrake-NY-12759/2055314860_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "10 Maple Ave N #2, Loch Sheldrake, NY 12759",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 41.770985,
+        "longitude": -74.65169
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055314860,
+          "streetAddress": "10 Maple Ave N #2",
+          "zipcode": "12759",
+          "city": "Loch Sheldrake",
+          "state": "NY",
+          "latitude": 41.770985,
+          "longitude": -74.65169,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 91700,
+          "rentZestimate": 993,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 3400673000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "timeOnZillow": 3400673000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "442429272",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9ed7cd24e918b21c9f82dadc99e3a19b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/9-spring-st.-liberty-ny-65cbYC/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,400/mo",
+      "priceLabel": "$1.4K",
+      "address": "9 Spring St #2, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.797688,
+        "longitude": -74.74657
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442429272,
+          "streetAddress": "9 Spring St #2",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.797688,
+          "longitude": -74.74657,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 1488345000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Integrity National Property Management Inc.",
+      "timeOnZillow": 1488345000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "279b87d6",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

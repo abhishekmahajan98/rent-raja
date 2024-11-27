@@ -1,0 +1,518 @@
+{
+  "listResults": [
+    {
+      "zpid": "442582785",
+      "id": "442582785",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "15sa1hpf50qdp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4ba8b0f80b1c41ed13443475e184aba4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/283-Travis-Hill-Rd-1-Preston-Hollow-NY-12469/442582785_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$900/mo",
+      "unformattedPrice": 900,
+      "address": "283 Travis Hill Rd #1, Preston Hollow, NY 12469",
+      "addressStreet": "283 Travis Hill Rd #1",
+      "addressCity": "Preston Hollow",
+      "addressState": "NY",
+      "addressZipcode": "12469",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 400,
+      "latLong": {
+        "latitude": 42.45793,
+        "longitude": -74.20055
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442582785,
+          "streetAddress": "283 Travis Hill Rd #1",
+          "zipcode": "12469",
+          "city": "Preston Hollow",
+          "state": "NY",
+          "latitude": 42.45793,
+          "longitude": -74.20055,
+          "price": 900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 900.0,
+          "timeOnZillow": 959800000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-13 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Venture Realty Partners",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ba8b0f80b1c41ed13443475e184aba4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7a849d0a1fd662c31fb0ae25ad714c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e79ebee5fcb0a5f954a8e3b1a2f3b23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5cbb6added16e83b02f57b797b81ec3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/988ce162914b9c924ad84eebdf552b59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1c0c7b4092f8c9ad26dc8745c65af90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cd84a6ea434d35b719581a7c223b3f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a15af16d741bfb9e7cb09ffedd651de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a9476d28d332a14ec8147d609ef650e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e65fac6da106e9fa754178ff15431d48-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442582785",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4ba8b0f80b1c41ed13443475e184aba4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/283-Travis-Hill-Rd-1-Preston-Hollow-NY-12469/442582785_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$900/mo",
+      "priceLabel": "$900",
+      "address": "283 Travis Hill Rd #1, Preston Hollow, NY 12469",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 400,
+      "latLong": {
+        "latitude": 42.45793,
+        "longitude": -74.20055
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442582785,
+          "streetAddress": "283 Travis Hill Rd #1",
+          "zipcode": "12469",
+          "city": "Preston Hollow",
+          "state": "NY",
+          "latitude": 42.45793,
+          "longitude": -74.20055,
+          "price": 900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 900.0,
+          "timeOnZillow": 959800000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-13 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Venture Realty Partners",
+      "timeOnZillow": 959800000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2080894305",
+      "id": "2080894305",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3f8za8pc10qeb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0d63f47b869bf0a76c3f3c7a379eb53b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Durham-NY-12422/2080894305_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "(undisclosed Address), Durham, NY 12422",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Durham",
+      "addressState": "NY",
+      "addressZipcode": "12422",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 16.0,
+      "area": 1000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2080894305,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12422",
+          "city": "Durham",
+          "state": "NY",
+          "price": 1600.0,
+          "bathrooms": 16.0,
+          "bedrooms": 1.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 46,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1493,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 4004162000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d63f47b869bf0a76c3f3c7a379eb53b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c159b0e291113af9b2b7c01f9d0dfc86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcf317eeedebcea71c67945c02979f22-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2110135363",
+      "id": "2110135363",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "e9fvyj5vf62a",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.392818450927734,-74.1463851928711&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=goIlL23fHHvhBBAaT6bnOjRjBtU=",
+      "detailUrl": "https://www.zillow.com/homedetails/521-Brown-Rd-1-East-Durham-NY-12423/2110135363_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "521 Brown Rd #1, East Durham, NY 12423",
+      "addressStreet": "521 Brown Rd #1",
+      "addressCity": "East Durham",
+      "addressState": "NY",
+      "addressZipcode": "12423",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.392818450927734,-74.1463851928711&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=pX0sHB77hmrPQmna76EqAdWQ1N8=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.392818450927734,-74.1463851928711&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=mki3AfIFSgDKmDBLDsyPoQjG-X0=",
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 42.39282,
+        "longitude": -74.146385
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2110135363,
+          "streetAddress": "521 Brown Rd #1",
+          "zipcode": "12423",
+          "city": "East Durham",
+          "state": "NY",
+          "latitude": 42.39282,
+          "longitude": -74.146385,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1215,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 529600000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "55569892",
+      "id": "55569892",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1enagg132p3e0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f4b186a473473097e0980fd50c7a14e5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/East-Durham-NY-12423/55569892_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "(undisclosed Address), East Durham, NY 12423",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "East Durham",
+      "addressState": "NY",
+      "addressZipcode": "12423",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 55569892,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12423",
+          "city": "East Durham",
+          "state": "NY",
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 249200,
+          "rentZestimate": 2215,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 443825000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 249200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4b186a473473097e0980fd50c7a14e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac0f5ab5d4ac29d85c694d18cbde10e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42fd5c85ff9188257699ea0daeb03090-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad4b7dcb38b4893cf042a52e2e9d6ef2-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "15c7368a",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "7c6c2c68"
+}

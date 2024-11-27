@@ -1,0 +1,397 @@
+{
+  "listResults": [
+    {
+      "zpid": "31730406",
+      "id": "31730406",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "eqdxpyz96wuu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d823fc7855d864cdafcf96a4d2d1b1f5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1298-Keeney-Rd-Fabius-NY-13063/31730406_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,250/mo",
+      "unformattedPrice": 2250,
+      "address": "1298 Keeney Rd, Fabius, NY 13063",
+      "addressStreet": "1298 Keeney Rd",
+      "addressCity": "Fabius",
+      "addressState": "NY",
+      "addressZipcode": "13063",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1227,
+      "latLong": {
+        "latitude": 42.8335,
+        "longitude": -75.9822
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31730406,
+          "streetAddress": "1298 Keeney Rd",
+          "zipcode": "13063",
+          "city": "Fabius",
+          "state": "NY",
+          "latitude": 42.8335,
+          "longitude": -75.9822,
+          "price": 2250.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1227.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 262300,
+          "rentZestimate": 2124,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2250.0,
+          "timeOnZillow": 1444067000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 161429.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 262300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d823fc7855d864cdafcf96a4d2d1b1f5-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441152116",
+      "id": "441152116",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "114zzk28vxfk7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6bdb5b6a3b0fd20f264eb11b9f3b63e1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1320-Route-91-1-Fabius-NY-13063/441152116_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "1320 Route 91 #1, Fabius, NY 13063",
+      "addressStreet": "1320 Route 91 #1",
+      "addressCity": "Fabius",
+      "addressState": "NY",
+      "addressZipcode": "13063",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.835693,
+        "longitude": -75.99014
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "52 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441152116,
+          "streetAddress": "1320 Route 91 #1",
+          "zipcode": "13063",
+          "city": "Fabius",
+          "state": "NY",
+          "latitude": 42.835693,
+          "longitude": -75.99014,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 52,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 4576704000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6bdb5b6a3b0fd20f264eb11b9f3b63e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/574b01231277c23b810cfb37496f48a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10bd8714cfdf48655e1924ed8a72bd42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5670448bfc7e2c671c7641cd1b1545b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/777dc24b8dd54e3126999c8d31f41283-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26ec23b5c2046a84233d39b7e9ac3a05-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2272c097ac3145d3765f976852f03739-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "31730406",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d823fc7855d864cdafcf96a4d2d1b1f5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1298-Keeney-Rd-Fabius-NY-13063/31730406_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,250/mo",
+      "priceLabel": "$2.3K",
+      "address": "1298 Keeney Rd, Fabius, NY 13063",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1227,
+      "latLong": {
+        "latitude": 42.8335,
+        "longitude": -75.9822
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31730406,
+          "streetAddress": "1298 Keeney Rd",
+          "zipcode": "13063",
+          "city": "Fabius",
+          "state": "NY",
+          "latitude": 42.8335,
+          "longitude": -75.9822,
+          "price": 2250.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1227.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 262300,
+          "rentZestimate": 2124,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2250.0,
+          "timeOnZillow": 1444067000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 161429.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1444067000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441152116",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6bdb5b6a3b0fd20f264eb11b9f3b63e1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1320-Route-91-1-Fabius-NY-13063/441152116_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "1320 Route 91 #1, Fabius, NY 13063",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.835693,
+        "longitude": -75.99014
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "52 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441152116,
+          "streetAddress": "1320 Route 91 #1",
+          "zipcode": "13063",
+          "city": "Fabius",
+          "state": "NY",
+          "latitude": 42.835693,
+          "longitude": -75.99014,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 4576704000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "visited": false,
+      "timeOnZillow": 4576704000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "2eb4d1ca",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

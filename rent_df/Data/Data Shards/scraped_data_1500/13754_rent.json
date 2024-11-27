@@ -1,0 +1,400 @@
+{
+  "listResults": [
+    {
+      "zpid": "2058139984",
+      "id": "2058139984",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4m0e5txect3dv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6fa9d3146c9ee45bbdb4ac15b122483c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/9-Marvin-St-1-Deposit-NY-13754/2058139984_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$900/mo",
+      "unformattedPrice": 900,
+      "address": "9 Marvin St #1, Deposit, NY 13754",
+      "addressStreet": "9 Marvin St #1",
+      "addressCity": "Deposit",
+      "addressState": "NY",
+      "addressZipcode": "13754",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.06193,
+        "longitude": -75.42001
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2058139984,
+          "streetAddress": "9 Marvin St #1",
+          "zipcode": "13754",
+          "city": "Deposit",
+          "state": "NY",
+          "latitude": 42.06193,
+          "longitude": -75.42001,
+          "price": 900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 823,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 900.0,
+          "timeOnZillow": 1662425000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fa9d3146c9ee45bbdb4ac15b122483c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f10fac03a8a27f3c44f306746b6af402-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f218bc25c3106ea888191463d7e8f721-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8765c273e7ae4cdc8a08319e20670099-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01ef24b035743182993fb899f2a96580-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442112394",
+      "id": "442112394",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2q86hy3tgfp9h",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7dcc847c3ac38a031b7042c62931c9f7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/30680-State-Highway-17-W-1-Hancock-NY-13783/442112394_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$875/mo",
+      "unformattedPrice": 875,
+      "address": "30680 State Highway 17 W #1, Hancock, NY 13783",
+      "addressStreet": "30680 State Highway 17 W #1",
+      "addressCity": "Hancock",
+      "addressState": "NY",
+      "addressZipcode": "13783",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 200,
+      "latLong": {
+        "latitude": 42.00604,
+        "longitude": -75.38483
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442112394,
+          "streetAddress": "30680 State Highway 17 W #1",
+          "zipcode": "13783",
+          "city": "Hancock",
+          "state": "NY",
+          "latitude": 42.00604,
+          "longitude": -75.38483,
+          "price": 875.0,
+          "datePriceChanged": 1732435200000,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$75 (Nov 24)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 875.0,
+          "priceChange": -75,
+          "timeOnZillow": 2425656000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-27 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dcc847c3ac38a031b7042c62931c9f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/297091c5896ecf32dcecb3ef4e5becc9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/535891dc63b530e9645d2df842d8f105-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d57da11e8c46acbf63f6971769a752b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34523d3be9b965af425d29d6b9183059-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2058139984",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6fa9d3146c9ee45bbdb4ac15b122483c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/9-Marvin-St-1-Deposit-NY-13754/2058139984_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$900/mo",
+      "priceLabel": "$900",
+      "address": "9 Marvin St #1, Deposit, NY 13754",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.06193,
+        "longitude": -75.42001
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2058139984,
+          "streetAddress": "9 Marvin St #1",
+          "zipcode": "13754",
+          "city": "Deposit",
+          "state": "NY",
+          "latitude": 42.06193,
+          "longitude": -75.42001,
+          "price": 900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 823,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 900.0,
+          "timeOnZillow": 1662425000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 1662425000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442112394",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7dcc847c3ac38a031b7042c62931c9f7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/30680-State-Highway-17-W-1-Hancock-NY-13783/442112394_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$875/mo",
+      "priceLabel": "$875",
+      "address": "30680 State Highway 17 W #1, Hancock, NY 13783",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 200,
+      "latLong": {
+        "latitude": 42.00604,
+        "longitude": -75.38483
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442112394,
+          "streetAddress": "30680 State Highway 17 W #1",
+          "zipcode": "13783",
+          "city": "Hancock",
+          "state": "NY",
+          "latitude": 42.00604,
+          "longitude": -75.38483,
+          "price": 875.0,
+          "datePriceChanged": 1732435200000,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$75 (Nov 24)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 875.0,
+          "priceChange": -75,
+          "timeOnZillow": 2425656000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-27 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2425656000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "54c9e0d0",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

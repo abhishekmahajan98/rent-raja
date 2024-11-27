@@ -1,0 +1,735 @@
+{
+  "listResults": [
+    {
+      "zpid": "32923608",
+      "id": "32923608",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3p6jyauxzf080",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2f09c7fc7092436b0b5e0dcae549524c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/110-McGillis-Ave-Lake-George-NY-12845/32923608_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "110 McGillis Ave, Lake George, NY 12845",
+      "addressStreet": "110 McGillis Ave",
+      "addressCity": "Lake George",
+      "addressState": "NY",
+      "addressZipcode": "12845",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1596,
+      "latLong": {
+        "latitude": 43.42409,
+        "longitude": -73.71856
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32923608,
+          "streetAddress": "110 McGillis Ave",
+          "zipcode": "12845",
+          "city": "Lake George",
+          "state": "NY",
+          "latitude": 43.42409,
+          "longitude": -73.71856,
+          "price": 2000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1596.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 330500,
+          "rentZestimate": 2449,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 580173000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 239286.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 330500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: The Jeffrey & Pamela York Team",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f09c7fc7092436b0b5e0dcae549524c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1696229d3cc2dad9d3d0f1b27069fb3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ce58bc69e17c9eda9187874e10055e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8731a117799d8a72435c3584318716b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6dbf2cf954fd50144e33bbe0011881b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b829b313deb0a4bd2c9a846242c32194-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/655e34b4f484f5b1b21ca7ec683e1d12-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae0038c1aafb94f71e75240a73b3eba5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47c4491c7ab6c5efe520e697bb3733fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0488c3ab4b2363af58ba9e99e418f817-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/758b199b62e2fd538c6f620d70597124-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8fe8a0d632760c9d213502e8b45296d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0d0ab13764bf40374ca9a7153b27750-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91a2c520b155716c8f1dc6cc2c3e85ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8312a1fc71b9a8155e287c3a8409864-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be52712d3f8e7e0f42a38e5462bc7872-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441128208",
+      "id": "441128208",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3xtc7q7csvcnt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f4499efa445753e9f669709a39498853-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8-Sanford-St-8A-Warrensburg-NY-12885/441128208_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "8 Sanford St #8A, Warrensburg, NY 12885",
+      "addressStreet": "8 Sanford St #8A",
+      "addressCity": "Warrensburg",
+      "addressState": "NY",
+      "addressZipcode": "12885",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 43.494396,
+        "longitude": -73.77751
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "53 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441128208,
+          "streetAddress": "8 Sanford St #8A",
+          "zipcode": "12885",
+          "city": "Warrensburg",
+          "state": "NY",
+          "latitude": 43.494396,
+          "longitude": -73.77751,
+          "price": 2200.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 53,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 4624967000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 8A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4499efa445753e9f669709a39498853-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f543fcabc685eedf8d381daeb9c9662-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85027975fda4e133b2a0e3eb1705f5e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9d9f9896220bf58def9bc492c684ece-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d35e0ba6011edb6133c0f2306d0a640a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d49fff27f5b7bbe11175b88702240f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71273a2397283b53e18d71fcebccafe6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6354934ce1bce8e60072c11046cd5c89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a767660c78b35aebb65f661d0d4b2386-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f80a1324f5736c40e2086c2fbd5a372-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ceebc6e241578682871afea045946fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9de2b812a85f160fa41cddb1ee118df4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07dbe7d56a6658a27ccf4ebf5bd9b265-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10efcece71130e56c811bc875ad993de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8316fd971e122b1f6354442a1b6c7a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d6577f1bf966656c413b0c07bcd5080-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4f94eb8671115201b488f2b37b684d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8656ffcf2ea693ed70a24f89ac7f0831-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27147c75d8fa89891a0fae2482de3c60-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32923608",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2f09c7fc7092436b0b5e0dcae549524c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/110-McGillis-Ave-Lake-George-NY-12845/32923608_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "110 McGillis Ave, Lake George, NY 12845",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1596,
+      "latLong": {
+        "latitude": 43.42409,
+        "longitude": -73.71856
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32923608,
+          "streetAddress": "110 McGillis Ave",
+          "zipcode": "12845",
+          "city": "Lake George",
+          "state": "NY",
+          "latitude": 43.42409,
+          "longitude": -73.71856,
+          "price": 2000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1596.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 330500,
+          "rentZestimate": 2449,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 580172000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 239286.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: The Jeffrey & Pamela York Team",
+      "timeOnZillow": 580172000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441128208",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f4499efa445753e9f669709a39498853-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/8-Sanford-St-8A-Warrensburg-NY-12885/441128208_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,200/mo",
+      "priceLabel": "$2.2K",
+      "address": "8 Sanford St #8A, Warrensburg, NY 12885",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 43.494396,
+        "longitude": -73.77751
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "53 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441128208,
+          "streetAddress": "8 Sanford St #8A",
+          "zipcode": "12885",
+          "city": "Warrensburg",
+          "state": "NY",
+          "latitude": 43.494396,
+          "longitude": -73.77751,
+          "price": 2200.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 4624966000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 8A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 4624966000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "55531777",
+      "id": "55531777",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3qys1sp4ub9x6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a83ed1d0a6ccfff2a65c9e4aa796205e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1-Lookout-Mountain-Rd-Lake-George-NY-12845/55531777_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$4,350/mo",
+      "unformattedPrice": 4350,
+      "address": "1 Lookout Mountain Rd, Lake George, NY 12845",
+      "addressStreet": "1 Lookout Mountain Rd",
+      "addressCity": "Lake George",
+      "addressState": "NY",
+      "addressZipcode": "12845",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1923,
+      "latLong": {
+        "latitude": 43.463615,
+        "longitude": -73.69471
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 55531777,
+          "streetAddress": "1 Lookout Mountain Rd",
+          "zipcode": "12845",
+          "city": "Lake George",
+          "state": "NY",
+          "latitude": 43.463615,
+          "longitude": -73.69471,
+          "price": 4350.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1923.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1023400,
+          "rentZestimate": 3653,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4350.0,
+          "timeOnZillow": 1440507000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 738095.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1023400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a83ed1d0a6ccfff2a65c9e4aa796205e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52741f7597aadc05385c760816d23fda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4da5e1de7649a4286b8ef67577844c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81fb0c66883f399a07dd8c19b925c27c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/978d7d089f73846fc253f670977641f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b884d63526ad0ef31fc71e8c366918e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/510e0482f1eb0ee4fb5d428477c2e5d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9837277d74fd80ae704f8105008e0586-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b56e16b5a9d6c1c8e57ff76f5976f4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0997b8fd64c55561043fe56316f66646-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6526638a5f419c319fbb66ec92e13226-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55c91437f0c7692aaaf8716f9dd2a457-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cdb9625938c1dc21353d0f1a2665fd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d14de0bb36e00b712e6f67076569d8b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7209440847108daa4265f72e6e422483-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70f04e1e074b047f2d7d1714d54239e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9292c7bb100dec8b688510b32f6987b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0afc19f231530e1843843b5f7c9e5c24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c09435eddd95c54b28512993d1b0eed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c813e1fbfd7f174a9bb87e4f535f0b69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef865b2ac7e52751b6515ca7dbe45c07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97ad84a67edddbb602de82381f1a284d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1823dba4f43452fe820e836ad69d4086-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/deada192a691eb08c1c4018e7b81c06a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b08cb8d5fafb09519bb120a649c1dfc1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b76abfe1c2a7846eb0dd4c5a55744c3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5364573899c0cd0fb3f367b7330e9512-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0ca387d9245721eb625547264305367-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecac669d4816a8f66d949355ce8da95d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9924b9dfcde9b85564b5dc732a8e75e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86e00a327610be8cc18291be02ca6db3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdaa1c45dbd760150f8c512571eb7c6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41c0e41a5911564e42bf8f920242cd0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/327e87fc376c0bd2982bd06a3985029e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a93b73eb4d6ba6dd8cda362e4a085b05-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97db438b6e30a179076613c7d7ef5e40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4eba0a46d05b54a63af3f907b9edc299-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/481be9a08730fe0038272e66bb20d321-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/675daaab1438d3ba539c1c57d2e36d2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3ce571f25618b120d810d18d385ff47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b274bee274fcab235c5971ee8f823df0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd5e8c7e29a91cfebcfe22e0b5ae75e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c77aa111a745ffacc30a75e0679a0d54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6165c675ad350e43ab9ab0dd29495dfc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6ab8c43dbc3ea3b1365a46d5aa7990c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/137efc91212440d519f93aed0a876016-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c32e85635bcbe1fb1307356cff6195b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87ad599391d14b0c1add3a9880155016-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/770c678c6b8bb67932cd22ad4dcdac8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67751ce3c5687142b423d5ad47e3c15e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb152c0ec4c1f18170ad0902374369b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f43afb6b5f84e5d876408c7e5b2c3230-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "5eb8602e",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "2d60ce1d"
+}

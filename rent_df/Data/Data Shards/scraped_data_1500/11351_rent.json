@@ -1,0 +1,980 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "2091417459",
+      "id": "2091417459",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5bmub6hfq3dg4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3239798a18cf1fb018b3bdf745815066-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3222-137th-St-APT-3A-Flushing-NY-11354/2091417459_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,980/mo",
+      "unformattedPrice": 1980,
+      "address": "3222 137th St APT 3A, Flushing, NY 11354",
+      "addressStreet": "3222 137th St APT 3A",
+      "addressCity": "Flushing",
+      "addressState": "NY",
+      "addressZipcode": "11354",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 680,
+      "latLong": {
+        "latitude": 40.7674,
+        "longitude": -73.83076
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2091417459,
+          "streetAddress": "3222 137th St APT 3A",
+          "zipcode": "11354",
+          "city": "Flushing",
+          "state": "NY",
+          "latitude": 40.7674,
+          "longitude": -73.83076,
+          "price": 1980.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 680.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 445700,
+          "rentZestimate": 2731,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1980.0,
+          "timeOnZillow": 198079000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 445700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3239798a18cf1fb018b3bdf745815066-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a7b25a6f0caa4e882edb275bc4e5983-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442670774",
+      "id": "442670774",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3k53u919k87cx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1b63616b67a31eb413d05f7cbd378514-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1110-129th-St-FLOOR-2-College-Pt-NY-11356/442670774_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,250/mo",
+      "unformattedPrice": 3250,
+      "address": "1110 129th St FLOOR 2, College Pt, NY 11356",
+      "addressStreet": "1110 129th St FLOOR 2",
+      "addressCity": "College Pt",
+      "addressState": "NY",
+      "addressZipcode": "11356",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 40.786842,
+        "longitude": -73.839226
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442670774,
+          "streetAddress": "1110 129th St FLOOR 2",
+          "zipcode": "11356",
+          "city": "College Pt",
+          "state": "NY",
+          "latitude": 40.786842,
+          "longitude": -73.839226,
+          "price": 3250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3250.0,
+          "timeOnZillow": 758959000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b63616b67a31eb413d05f7cbd378514-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72d6bbcb7d7f0e7a234b6188e58c5758-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/342bf6f3f8769524f98f317bd1564e35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b376d9a0e760de59a02e128d41f9c63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8848733c506ff9b4af35d2886cb649a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b7adcaa5708f780b257edd3bed2ca2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/928515f01cef6d0406cc1975ae201e91-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442311485",
+      "id": "442311485",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3rdcwy4egpyjt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/638ce17c8d6ba93c9b3b9771fdcdee7d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3366-Farrington-St-10-Flushing-NY-11354/442311485_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$4,000/mo",
+      "unformattedPrice": 4000,
+      "address": "3366 Farrington St #10, Flushing, NY 11354",
+      "addressStreet": "3366 Farrington St #10",
+      "addressCity": "Flushing",
+      "addressState": "NY",
+      "addressZipcode": "11354",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 863,
+      "latLong": {
+        "latitude": 40.765293,
+        "longitude": -73.83211
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442311485,
+          "streetAddress": "3366 Farrington St #10",
+          "zipcode": "11354",
+          "city": "Flushing",
+          "state": "NY",
+          "latitude": 40.765293,
+          "longitude": -73.83211,
+          "price": 4000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 863.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 1277976000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 10",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-10 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Sany realty group, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/638ce17c8d6ba93c9b3b9771fdcdee7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd583f0a8b24954c648bdba9bde07126-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1984c31b10e5a671bc51420f247f3f31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/045152a021bd29014e5fa1b942e75df6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/806a07a9e8bdc7dab340e31f02ac85d7-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442431322",
+      "id": "442431322",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1e504jg57bfhu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c4b4a7b3af24aed8fa96d4270b209beb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/144-63-27th-Ave-FLOOR-2-Flushing-NY-11354/442431322_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,400/mo",
+      "unformattedPrice": 3400,
+      "address": "144-63 27th Ave FLOOR 2, Flushing, NY 11354",
+      "addressStreet": "144-63 27th Ave FLOOR 2",
+      "addressCity": "Flushing",
+      "addressState": "NY",
+      "addressZipcode": "11354",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1150,
+      "latLong": {
+        "latitude": 40.773926,
+        "longitude": -73.822296
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442431322,
+          "streetAddress": "144-63 27th Ave FLOOR 2",
+          "zipcode": "11354",
+          "city": "Flushing",
+          "state": "NY",
+          "latitude": 40.773926,
+          "longitude": -73.822296,
+          "price": 3400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1150.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3400.0,
+          "timeOnZillow": 1475961000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: B Square Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4b4a7b3af24aed8fa96d4270b209beb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b27cfa6fc220e47e4c7591f1f715ce47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39059d6b4c64fc84d9457b519b638f88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dfae3e41e4a08c2b99fa423048998a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5390ea1894c0eb27e2761d1c4a39fc71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58c6aae9ff163e3cfa606956994ce735-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2722dafdf1f949d2dee8441b5c98a27f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19b91a26267ff4f7cc218ae5e7643bbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2b7ddc5f7dce01b1abe1eae56292c38-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "349005357",
+      "id": "349005357",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3rtv3c3xj62aa",
+      "imgSrc": "https://photos.zillowstatic.com/fp/07272fdd000a1e3b8fc8ef3490e96d33-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/18-37-Clintonville-St-1-Whitestone-NY-11357/349005357_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "18-37 Clintonville St #1, Whitestone, NY 11357",
+      "addressStreet": "18-37 Clintonville St #1",
+      "addressCity": "Whitestone",
+      "addressState": "NY",
+      "addressZipcode": "11357",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.781834,
+        "longitude": -73.8068
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "23 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 349005357,
+          "streetAddress": "18-37 Clintonville St #1",
+          "zipcode": "11357",
+          "city": "Whitestone",
+          "state": "NY",
+          "latitude": 40.781834,
+          "longitude": -73.8068,
+          "price": 2100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2333,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 82806000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Irene Mihalios, LREB",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/07272fdd000a1e3b8fc8ef3490e96d33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bea193d50ebbd6c12a65e5a67c6e9e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a752cbc3f79d312da27c5ecc0b8a138d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcbee386702c5e320807b48db6e03706-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db21b487a2e4d4e2bfd4d5485c3541ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd912cce249faef468692d223416084c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9799cce0ae8bafe1b2a522c3a0bb8b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75f18f252c0b67e89d229afc0b5671c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf2b47d22f6699d44907c6f8136004ec-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "40.76858--73.82711",
+      "id": "40.76858--73.82711",
+      "providerListingId": "2fq41ram2097x",
+      "imgSrc": "https://photos.zillowstatic.com/fp/93cefcd196c91eac37d738f1f86b932f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/131-02-a-road-40-flushing-ny-CZF9dC/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "131-02-A Road 40, Flushing, NY",
+      "addressStreet": "131-02-A Road 40 # 12",
+      "addressCity": "Flushing",
+      "addressState": "NY",
+      "addressZipcode": "11354",
+      "units": [
+        {
+          "price": "$2,900+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$4,160+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2705004143,
+      "latLong": {
+        "latitude": 40.76858,
+        "longitude": -73.82711
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "Updated yesterday"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/93cefcd196c91eac37d738f1f86b932f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8868bbf7cef56edcc589467d5fb67e34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb1a2d31b5fb1b0506741d582deeb177-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aeb9dbeea37ebd2b1985fa8305bc8a3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6775074b4c230cf4e82cf379e612af9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b60b33799e0840bb278a04d5eb9a7402-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f625bb81ba7f51b6ed505729b4a35166-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8fb391868abd0a1b6b5edcad4602fc7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25b142bad699b611d5fd09e7e955826b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae06f52a8a7309836c9e88b94cfdd7be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b1ec273f205ddcf787cc3fa56096109-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/012b2af1e18c869386cfbc87ac7cbff9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/220ac6173b479fe0b2a6e70fb90eac07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73994bde7eab91cb4e4217f72101de30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e06f99b564e3b16ef553f3a13d26fde6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c29a36c1a67126d9627e6b100bb85882-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fde1317445a15bdb799c9533bd43ed68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8c4bdf4311363f9338edf350d456959-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e07d7be0f86ece114d675fcdd13e9e75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4adbea8d7cd1ded0ae018a7154cb5c62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4253b3395bd9f4bb7ffaf118da0905e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f9d9ae6416b5afa81e9646dc49764e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75ad05abac03cb05eee64fc34bfa378d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/702019409ef145e29da12ab1448b1637-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42d270d6b10f77e5e7d1c0aa30b46c9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6cb644a7890cdf93a289cc5e64bf6cd5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2c13a718a6ba17ed70fab7416bc71a5-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 5,
+      "marketingTreatments": [
+        "paid"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "32027758",
+      "id": "32027758",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "373bf0vb53x85",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2f19568678d124e2e8c62c264f1d1d52-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/15113-12th-Ave-Flushing-NY-11357/32027758_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,700/mo",
+      "unformattedPrice": 4700,
+      "address": "15113 12th Ave, Flushing, NY 11357",
+      "addressStreet": "15113 12th Ave",
+      "addressCity": "Flushing",
+      "addressState": "NY",
+      "addressZipcode": "11357",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 40.79161,
+        "longitude": -73.8118
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32027758,
+          "streetAddress": "15113 12th Ave",
+          "zipcode": "11357",
+          "city": "Flushing",
+          "state": "NY",
+          "latitude": 40.79161,
+          "longitude": -73.8118,
+          "price": 4700.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 894600,
+          "rentZestimate": 4661,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4700.0,
+          "timeOnZillow": 179030000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 848000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 894600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: E Realty International Corp",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f19568678d124e2e8c62c264f1d1d52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f09c1031abdc73b6df36385d073ab7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85d099bf0994c3f2a83409dbfc41dd45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/def2aec77a4f80edcc0f3b961ea84858-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d2c6b578c346b6958451a419bea86d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1711d83c4e03e49b1005dd9345fccba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b3f05c2eb7f93f261d23871098857e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/344eb3d15610666b140087fafb418c36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83abca63360587cfc83286d739793d71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad9a8ee3c33f1e9b48b1a972ced5d19b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d4844224f2bc7116c83f836bcd0f7a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aaa4738edde6df5cde343147ff151d39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/320f302feb59b07020b6eea728f79e61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d24e397d9b0b2107af026a343b5e3324-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d3c4a13081de76b31c3526633df53e4-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442780341",
+      "id": "442780341",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1dg4sz5n6ep3u",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5b2ce12c5b8134754439a0d74cbcd8ad-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/14-42-132nd-St-UNIT-1-College-Pt-NY-11356/442780341_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "14-42 132nd St UNIT 1, College Pt, NY 11356",
+      "addressStreet": "14-42 132nd St UNIT 1",
+      "addressCity": "College Pt",
+      "addressState": "NY",
+      "addressZipcode": "11356",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.785007,
+        "longitude": -73.836525
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442780341,
+          "streetAddress": "14-42 132nd St UNIT 1",
+          "zipcode": "11356",
+          "city": "College Pt",
+          "state": "NY",
+          "latitude": 40.785007,
+          "longitude": -73.836525,
+          "price": 3500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 190526000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Terra Realty Group Inc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b2ce12c5b8134754439a0d74cbcd8ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cbb69bee24a7a0a7eedbc0e12702aeb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07910297ea4322bdf21dd61245703d1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ece020c102b234b70e009f1596a834c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8a944cd7c5d52e289212e9d2b66c62c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f40029274df7ff46f0b4547e6112a280-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4e2d43d4685a9007cd64385e8577b17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07fe4536ee35bbf34adc3e55496a3be7-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "46e154b3"
+}

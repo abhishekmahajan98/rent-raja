@@ -1,0 +1,390 @@
+{
+  "listResults": [
+    {
+      "zpid": "442123729",
+      "id": "442123729",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3gpr263fdprhp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b97bc2d03b2692ff9b678c715ea2c1b8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3794-State-Route-19-S-APT-10-Warsaw-NY-14569/442123729_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "3794 State Route 19 S APT 10, Warsaw, NY 14569",
+      "addressStreet": "3794 State Route 19 S APT 10",
+      "addressCity": "Warsaw",
+      "addressState": "NY",
+      "addressZipcode": "14569",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 42.703278,
+        "longitude": -78.13432
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442123729,
+          "streetAddress": "3794 State Route 19 S APT 10",
+          "zipcode": "14569",
+          "city": "Warsaw",
+          "state": "NY",
+          "latitude": 42.703278,
+          "longitude": -78.13432,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 26,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 2281359000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 10",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-28 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b97bc2d03b2692ff9b678c715ea2c1b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14b35d106a7eec7b548cc73b70966f05-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f66366d481520607f82fe45cb37bd505-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21833be665cf0996f96792482574fcd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5a6f10efb6b8bc62120d2e26e5f0e26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e53928f278184ca9684f509b51ca0dc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42d823a0a7d2750e00672bfce52e459c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bfa5e6341d0a837678587e45c8336d7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442034331",
+      "id": "442034331",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1qjx8fdadndb1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/68137d01c6d795678a11d124e950c89e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3850-Miller-Rd-Warsaw-NY-14569/442034331_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$1,050/mo",
+      "unformattedPrice": 1050,
+      "address": "3850 Miller Rd, Warsaw, NY 14569",
+      "addressStreet": "3850 Miller Rd",
+      "addressCity": "Warsaw",
+      "addressState": "NY",
+      "addressZipcode": "14569",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.69944,
+        "longitude": -78.130936
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442034331,
+          "streetAddress": "3850 Miller Rd",
+          "zipcode": "14569",
+          "city": "Warsaw",
+          "state": "NY",
+          "latitude": 42.69944,
+          "longitude": -78.130936,
+          "price": 1050.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 118700,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1050.0,
+          "timeOnZillow": 2611073000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 118700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-27 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Vivlan LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/68137d01c6d795678a11d124e950c89e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5e7863a6c4d43da3b554b55a0516219-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ae8570d950c52b1dd5e612a06839e91-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442123729",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b97bc2d03b2692ff9b678c715ea2c1b8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3794-State-Route-19-S-APT-10-Warsaw-NY-14569/442123729_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "3794 State Route 19 S APT 10, Warsaw, NY 14569",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 42.703278,
+        "longitude": -78.13432
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442123729,
+          "streetAddress": "3794 State Route 19 S APT 10",
+          "zipcode": "14569",
+          "city": "Warsaw",
+          "state": "NY",
+          "latitude": 42.703278,
+          "longitude": -78.13432,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 2281359000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 10",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-28 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2281359000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442034331",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/68137d01c6d795678a11d124e950c89e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3850-Miller-Rd-Warsaw-NY-14569/442034331_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$1,050/mo",
+      "priceLabel": "$1.1K",
+      "address": "3850 Miller Rd, Warsaw, NY 14569",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.69944,
+        "longitude": -78.130936
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442034331,
+          "streetAddress": "3850 Miller Rd",
+          "zipcode": "14569",
+          "city": "Warsaw",
+          "state": "NY",
+          "latitude": 42.69944,
+          "longitude": -78.130936,
+          "price": 1050.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 118700,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1050.0,
+          "timeOnZillow": 2611073000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-27 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Vivlan LLC",
+      "timeOnZillow": 2611073000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "608357d5",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

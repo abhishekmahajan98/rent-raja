@@ -1,0 +1,3159 @@
+{
+  "listResults": [
+    {
+      "zpid": "143295544",
+      "id": "143295544",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "340a15v3bzn2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4b0197f652ee3396f25f1789b559acb3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1811-Girard-St-Utica-NY-13501/143295544_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "1811 Girard St, Utica, NY 13501",
+      "addressStreet": "1811 Girard St",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 43.084904,
+        "longitude": -75.20392
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 143295544,
+          "streetAddress": "1811 Girard St",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.084904,
+          "longitude": -75.20392,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2308,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 624048000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 97630.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b0197f652ee3396f25f1789b559acb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e389a0fb60e1d8a4f6a36930f56da0c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cdb35c6df271a18dff8856e558a8f17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e27da2fbb4afafd57b16d5e37ffb6b65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf0505736fb2bb61ee2c56702e231579-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d68a26f6070043d317963d1588fd8f6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/361759bffc5118d0aad39a4d14f36782-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441566846",
+      "id": "441566846",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "52uj50fqbpg48",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1019ab2ecef63a5aa0cf2203b89f18d1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1228-South-St-Utica-NY-13501/441566846_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "1228 South St, Utica, NY 13501",
+      "addressStreet": "1228 South St",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 43.087822,
+        "longitude": -75.20887
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441566846,
+          "streetAddress": "1228 South St",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.087822,
+          "longitude": -75.20887,
+          "price": 1500.0,
+          "datePriceChanged": 1730444400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 48,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "priceChange": 200,
+          "timeOnZillow": 4156645000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1019ab2ecef63a5aa0cf2203b89f18d1-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442537964",
+      "id": "442537964",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2tyrt2gaf1rre",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ffebbc55ec1e3163df8de376dc795437-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Utica-NY-13501/442537964_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "(undisclosed Address), Utica, NY 13501",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442537964,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1028410000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: The Apartment Connection",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffebbc55ec1e3163df8de376dc795437-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3ee62a1330e470c9521887fbab20f80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/265172b09356927dcfed7b3a3f94a963-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/396417e4783bf404eb257f6f16fbf171-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3a91bea230dbdfbad37dee6dee11271-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79a3373fc5b6e295f764e6e40a222318-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df21138922f9debced862b424b2e9e9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed02c80748e432e1862d87a82ab60784-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5201987a29736eb9a14d416d9f288e8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c6e0b2c2f1e7a24c29b782392da0d6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87dd347752f0e3b82f2cae8930d4e5f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f1dcdd904648ea288bbfb7c619890ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/089eee3ffcd083ab469e10df6a8e779b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d255e05bbe1d5e59a4f62d3f9c87d24e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/862050d0aa7234d6128c4ade1fe58e4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f9e5fbe0c7b3aa3b09c21ea2a8e1437-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b63ccc7cbcad271f3b5ae39ab424956-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442702869",
+      "id": "442702869",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "55a48c9u94qhu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f8c536315eacb903382e7e99e8a4a417-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/934-Catherine-St-1N-Utica-NY-13501/442702869_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "934 Catherine St #1N, Utica, NY 13501",
+      "addressStreet": "934 Catherine St #1N",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.09713,
+        "longitude": -75.20868
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442702869,
+          "streetAddress": "934 Catherine St #1N",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.09713,
+          "longitude": -75.20868,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 415090000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1N",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8c536315eacb903382e7e99e8a4a417-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f01cb27d6902f4ba98c172db0f9bbd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/931336a692993e8f68da48c5232f0166-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59857c981b9e4390d374e3ffcf7fab19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ea54bd7222bf4fecb774cad7c6b169d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d680f6b50b71b95032c06e26e79699a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85179d96a62d9efe59e89e9a498df0c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ada03208433f8412b1fd9b930d686e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67e68416e109bdf36d4cc8d098d419b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/698a875ae6b2b9cebe4e618596a45255-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2aceb9f92d00606c5c99e53a1e905e5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf5bd6174a5dce22f03122b921c064e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00b8aa0344cd119353d0c4418ad297d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/721a83f9f31fd5d556711398e0d3e74b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf19ab2637936c76beb650e0b8979be1-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442769823",
+      "id": "442769823",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "f43vmg6d9j5g",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d45c91d2b7bc34fdf3b546b3d278aa88-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/521-Jefferson-Ave-1FR-Utica-NY-13501/442769823_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "521 Jefferson Ave #1FR, Utica, NY 13501",
+      "addressStreet": "521 Jefferson Ave #1FR",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.09378,
+        "longitude": -75.20738
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442769823,
+          "streetAddress": "521 Jefferson Ave #1FR",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.09378,
+          "longitude": -75.20738,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 161346000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1FR",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d45c91d2b7bc34fdf3b546b3d278aa88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61b5a2ed0aa31f8402b0e237666cfab1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95c0d90bbd4bb085dc168a53695a9011-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6da9ff0ad550d9c7ee0f4ea1e0c21df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c31174703148c5712599f5024d602ff6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46ecb83ff9bc0b9069b9b920239ba905-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecd04a10c388a07e87bc04fb8ae2d23b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442730085",
+      "id": "442730085",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "463hef44ndv6u",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f601dc4ce0b6f98fbba3727f4643b160-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1207-Blandina-St-APT-2-Utica-NY-13501/442730085_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "1207 Blandina St APT 2, Utica, NY 13501",
+      "addressStreet": "1207 Blandina St APT 2",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 43.092216,
+        "longitude": -75.20693
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442730085,
+          "streetAddress": "1207 Blandina St APT 2",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.092216,
+          "longitude": -75.20693,
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 324273000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f601dc4ce0b6f98fbba3727f4643b160-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a34d7d4d7b036ac5051e11255dba616c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3720fad4390375fadd4badaeb0b7990b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33bd98c28729aa266f27c78482c2f2b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4261c46c8f5b3a3338e8633dff65d89e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afdd2323a8f9d401dafecb0c00f1daad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3865b67c04b878fff1c0f316fac81a7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63bc469e421f142ce089b603eecd8755-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30520376",
+      "id": "30520376",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "11brygbnz7vtz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a576b1e39f954841404b53b17a6d729a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/40-W-Clark-St-Ilion-NY-13357/30520376_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "40 W Clark St, Ilion, NY 13357",
+      "addressStreet": "40 W Clark St",
+      "addressCity": "Ilion",
+      "addressState": "NY",
+      "addressZipcode": "13357",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1549,
+      "latLong": {
+        "latitude": 43.01732,
+        "longitude": -75.03642
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30520376,
+          "streetAddress": "40 W Clark St",
+          "zipcode": "13357",
+          "city": "Ilion",
+          "state": "NY",
+          "latitude": 43.01732,
+          "longitude": -75.03642,
+          "price": 2000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1549.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 138000,
+          "rentZestimate": 1781,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 1568852000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 84545.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 138000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a576b1e39f954841404b53b17a6d729a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eadb59dd1e5f43b4db3ee461157669fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/832bd7ec6a7b77c343afeb9e1a2f4c91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b41f1eb770435ad39e78de6edb29ee1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04da49802eaf6d4db645e9377de0206a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d98c25d28716e430d968aab8c761f9d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5eccdb854b2c27d796ca704f6acd8280-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c04af22fb09fce3a9d4e7bb145e3fb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/857ba8fac90c2adc5f72dadefc3e6540-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d54dab769b1d387be1661384c6b3e184-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/837cdd6c9ba7b5221947d716501c3fd0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/060ba6fab7d447a906dfc392d53faf21-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/873184387bf9706f5fd0b60eda60f79b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d90f120f54f369cbd32dfe25d15b9229-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54a8fcc080583b0fa54f8995cedf167e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6a3546d6551d93f5ee0dbe9625d3607-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b3a3811d2f6d23e04d878bade4d9348-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7c58d3c3d4f787591f924981cfacffc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bbcf1468618c67b4a4b62c22d07ecd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88e2e171254ccd7f9238e82cd7ef8342-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c645f871d30f02c680aaabeabd789f58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02db6040686048c069afd1e135d91de0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4823663f0e81c8e79771be4cb421a78e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/378e6d49690dbd3f54cd61387c4dc69f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c63460b557f8178d1f78bab72bf4ef41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34c5354b25ba10dae9cfe35e69eac196-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4dbd4982fb2e57ca7f2bdf042e6c9ad9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ded530e798eeedb3d41f5fa01a252c31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6dfc78f17bac62c04d0d5164102f20f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/046d3b545374f446c8c495d08a7b7fc7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1ff46058b4b6c7eab25dc3bc967587c-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442366447",
+      "id": "442366447",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "sgqnpar0echx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/293f521252ba855b2acd2c0f7fda2b03-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/208-E-Clark-St-UNIT-1-Ilion-NY-13357/442366447_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850/mo",
+      "unformattedPrice": 850,
+      "address": "208 E Clark St UNIT 1, Ilion, NY 13357",
+      "addressStreet": "208 E Clark St UNIT 1",
+      "addressCity": "Ilion",
+      "addressState": "NY",
+      "addressZipcode": "13357",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.012554,
+        "longitude": -75.02802
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442366447,
+          "streetAddress": "208 E Clark St UNIT 1",
+          "zipcode": "13357",
+          "city": "Ilion",
+          "state": "NY",
+          "latitude": 43.012554,
+          "longitude": -75.02802,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 1559949000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-05 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: River Hills Properties LLC.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/293f521252ba855b2acd2c0f7fda2b03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b62bf6a3271cc11eaf6b43459484b175-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7feab300090dcb646cd0540d890d53b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0185d1c74c51e1da0d58da491f68382a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1932e9bebcdbbbfef69f76792392098-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3043bb7623b312b6c6246f6191752ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf056e84d4965af69b1ca6e4e0a1f209-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a08bac2f0ffe58f6c437adf3460d9ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecba2f9cf46f1157e320b717afb78fba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0264ad2715a8f1efd5b6f25349825a18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b039b0fee0341d5eba244e62f1e2925-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff5a45b6fb7cf58e60f3a26067fadf6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54038c3e456ee510325a3aaef91e69b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5e65445580da1aa3ecfcda487c06614-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d83ce0c07e998694390ffc516731142c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3164cb0f1e1aff8e77b26bc9c635f3aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/529f9fd34170e65218a522588d33093e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c930dc0d9ec393e7c352b1bbff93b6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f8873b0f356de7bbe3341e68880ac36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f53dd15cb58df68f1f25961c586e3a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33c179883fd2befadc39e9eac2f87e3b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442326108",
+      "id": "442326108",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4jfthg9w3h2g1",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=43.09122848510742,-75.2027359008789&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=sxWQRcGqEEs4Krzjboug1tkVHO8=",
+      "detailUrl": "https://www.zillow.com/homedetails/705-Tilden-Ave-2-Utica-NY-13501/442326108_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "705 Tilden Ave #2, Utica, NY 13501",
+      "addressStreet": "705 Tilden Ave #2",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=43.09122848510742,-75.2027359008789&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=Dbb6ob29lIGsJk_N_-LjY92C5pw=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=43.09122848510742,-75.2027359008789&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=zVeyIKqN8kNLf3QZ_52AiDRT5cw=",
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.09123,
+        "longitude": -75.202736
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442326108,
+          "streetAddress": "705 Tilden Ave #2",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.09123,
+          "longitude": -75.202736,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 20,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 1747546000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441910105",
+      "id": "441910105",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2aw3x75dbw50a",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cc785898127125e9ab26f7515ebc686e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Utica-NY-13501/441910105_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "(undisclosed Address), Utica, NY 13501",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "34 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441910105,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 34,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 2942152000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc785898127125e9ab26f7515ebc686e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d1913ac250c61d382bde102549568be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4234f32ca82321334f48b833507c350-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6f94b0c00c23b81720826c594dbec76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a81d666c39e7a1c8bbd722a24f1f7b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e0817c36880ee4243a2af402f4244f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6793a50e2c051aac0f0c17c9e276d3a7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31572551",
+      "id": "31572551",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3fxwpbjska065",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7ea8b2570bf8d603d196e4adcac9da0b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1329-Mary-St-Utica-NY-13501/31572551_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "1329 Mary St, Utica, NY 13501",
+      "addressStreet": "1329 Mary St",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 43.092197,
+        "longitude": -75.20389
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31572551,
+          "streetAddress": "1329 Mary St",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.092197,
+          "longitude": -75.20389,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 265100,
+          "rentZestimate": 1884,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 424510000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 115116.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 265100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ea8b2570bf8d603d196e4adcac9da0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f14335d445bd99da789734a2d47b8163-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/999b787d8c5a859b260b216f826916ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82e28ff56d6a556821a6d0ed5edd5e1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/728051afb9d42b7b3f07a03c08b6fded-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bd2e567579782361afa414a91308e29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52b536a0329f3ee46679d475bc4e5aaf-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441128951",
+      "id": "441128951",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2w59pyhzevhqn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b6ea7dda178961cb3a91ee783e08d12b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1306-Catherine-St-2-Utica-NY-13501/441128951_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,000/mo",
+      "unformattedPrice": 1000,
+      "address": "1306 Catherine St #2, Utica, NY 13501",
+      "addressStreet": "1306 Catherine St #2",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.095303,
+        "longitude": -75.20305
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441128951,
+          "streetAddress": "1306 Catherine St #2",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.095303,
+          "longitude": -75.20305,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 13,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 1194409000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6ea7dda178961cb3a91ee783e08d12b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1eb2e72aea1ef2f6d7f1b7ef8f506a03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10c56fd4b16b28605cbb35e0532abd00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d95a6df126b8303760e155fb5c0351c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0addaf6d50de468d057a5d1c610857e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b73222ec6081bc14642c5c820663561-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f152efe2e75cc9b31e77afb70a5e5adc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db844981bd60b58dc52305da8bd04838-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57ba8b954034177ec64707b796c8e91e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/322d270fb8924f3c0edee2581daa4fe8-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2068955916",
+      "id": "2068955916",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "15acyy3xn7tq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/af5b1582f3020abd183dc3a96355beaf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/907-Bacon-St-3-Utica-NY-13501/2068955916_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "907 Bacon St #3, Utica, NY 13501",
+      "addressStreet": "907 Bacon St #3",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 43.090656,
+        "longitude": -75.20726
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "32 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2068955916,
+          "streetAddress": "907 Bacon St #3",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.090656,
+          "longitude": -75.20726,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 32,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1426,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 2835655000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/af5b1582f3020abd183dc3a96355beaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/352673331d97cf61b0f1d9673511a543-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac4f31c6229d37a6c0cf3213f7eac541-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58b41a635bd2ad5caf01fd7d8acaeacb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e87271faf3e8622310555106d83ae34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23a4ada1124542fe09809b0bcbb86373-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ca080e918cf2bfd7958520450652dd4-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2079887393",
+      "id": "2079887393",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1wtc34qmwbdp1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/41eb68caaf9943680b552079a83067ae-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/110-Reidy-Dr-Ilion-NY-13357/2079887393_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,225/mo",
+      "unformattedPrice": 1225,
+      "address": "110 Reidy Dr, Ilion, NY 13357",
+      "addressStreet": "110 Reidy Dr",
+      "addressCity": "Ilion",
+      "addressState": "NY",
+      "addressZipcode": "13357",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 952,
+      "latLong": {
+        "latitude": 43.019424,
+        "longitude": -75.06108
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "65 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2079887393,
+          "streetAddress": "110 Reidy Dr",
+          "zipcode": "13357",
+          "city": "Ilion",
+          "state": "NY",
+          "latitude": 43.019424,
+          "longitude": -75.06108,
+          "price": 1225.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 952.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 65,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1158,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1225.0,
+          "timeOnZillow": 5624201000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/41eb68caaf9943680b552079a83067ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22bc773b6918c9fac966a4071a2a713d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca385284783416c9ed93f6b6b47fc445-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf8de05f083f8f45d7c9d786472e95ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c6139d82d18e533e5c5475e766bfc4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f837eb5079de00c37376bd783c5d923-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a95e695ef69b5dc93bca6c903a26eb31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b58e2fe89c659d63d4ce6a12ba499203-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39087c404e0044526f0b2689df0cf810-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1832f6ee3c3bd88833c56797b750577-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa757d61c2b0ce7cb7016f6ba160a347-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31572078",
+      "id": "31572078",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "16kcxhswj1ndk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/aa51adc18d3acca0e213b11543617f61-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1004-Jay-St-Utica-NY-13501/31572078_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "1004 Jay St, Utica, NY 13501",
+      "addressStreet": "1004 Jay St",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.09581,
+        "longitude": -75.20728
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31572078,
+          "streetAddress": "1004 Jay St",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.09581,
+          "longitude": -75.20728,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 111500,
+          "rentZestimate": 1244,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 2628017000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 93023.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 111500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Premier Property Management Group LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa51adc18d3acca0e213b11543617f61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8f404538fa33fff5ccf1d9f665afe57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f352ae2cb3802ea4b0f75d87d6b361d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84e8e26e575ec3d5ad5129b7c9747019-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d94bf221ad190ed5124e1f456e2ecbd3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0424dd0a7d2ffb95bcc7c40b42c1328f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5dcdff8bb83a2e8ef252d4b38ab4990f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92ded6ae73c0eacc90a40583304deaf5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40b510b14c72989083676e2836144b60-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "343603617",
+      "id": "343603617",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "kumphw4b9m62",
+      "imgSrc": "https://photos.zillowstatic.com/fp/31120e65cc76fd3428bded15250e1efb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/401-Nichols-St-1-Utica-NY-13501/343603617_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "401 Nichols St #1, Utica, NY 13501",
+      "addressStreet": "401 Nichols St #1",
+      "addressCity": "Utica",
+      "addressState": "NY",
+      "addressZipcode": "13501",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.095993,
+        "longitude": -75.20756
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "60 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 343603617,
+          "streetAddress": "401 Nichols St #1",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.095993,
+          "longitude": -75.20756,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 60,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 846,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 5209147000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Premier Property Management Group LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/31120e65cc76fd3428bded15250e1efb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6617dfbb05a23684d18e66919f2ac19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/abc226049b766f5cabbae5b089e651dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7960eccbc6641bc744fb6a7b4daec792-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df7eecb1f4220045b4dc28958fb33594-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee4b5e9038b52d44393379ae8665d437-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d51f3a6ea9bed75838d0dee15d263b63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42683273b02546233ac41a90e889b773-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "143295544",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4b0197f652ee3396f25f1789b559acb3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1811-Girard-St-Utica-NY-13501/143295544_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "1811 Girard St, Utica, NY 13501",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 43.084904,
+        "longitude": -75.20392
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 143295544,
+          "streetAddress": "1811 Girard St",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.084904,
+          "longitude": -75.20392,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2308,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 624048000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 97630.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 624048000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441566846",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1019ab2ecef63a5aa0cf2203b89f18d1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1228-South-St-Utica-NY-13501/441566846_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "1228 South St, Utica, NY 13501",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 43.087822,
+        "longitude": -75.20887
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441566846,
+          "streetAddress": "1228 South St",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.087822,
+          "longitude": -75.20887,
+          "price": 1500.0,
+          "datePriceChanged": 1730444400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "priceChange": 200,
+          "timeOnZillow": 4156645000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 4156645000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442702869",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f8c536315eacb903382e7e99e8a4a417-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/934-Catherine-St-1N-Utica-NY-13501/442702869_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "934 Catherine St #1N, Utica, NY 13501",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.09713,
+        "longitude": -75.20868
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442702869,
+          "streetAddress": "934 Catherine St #1N",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.09713,
+          "longitude": -75.20868,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 415090000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1N",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "visited": false,
+      "timeOnZillow": 415090000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442769823",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d45c91d2b7bc34fdf3b546b3d278aa88-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/521-Jefferson-Ave-1FR-Utica-NY-13501/442769823_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "521 Jefferson Ave #1FR, Utica, NY 13501",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.09378,
+        "longitude": -75.20738
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442769823,
+          "streetAddress": "521 Jefferson Ave #1FR",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.09378,
+          "longitude": -75.20738,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 161346000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1FR",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 161346000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442730085",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f601dc4ce0b6f98fbba3727f4643b160-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1207-Blandina-St-APT-2-Utica-NY-13501/442730085_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,350/mo",
+      "priceLabel": "$1.4K",
+      "address": "1207 Blandina St APT 2, Utica, NY 13501",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 43.092216,
+        "longitude": -75.20693
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442730085,
+          "streetAddress": "1207 Blandina St APT 2",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.092216,
+          "longitude": -75.20693,
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 324273000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "visited": false,
+      "timeOnZillow": 324273000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30520376",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a576b1e39f954841404b53b17a6d729a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/40-W-Clark-St-Ilion-NY-13357/30520376_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "40 W Clark St, Ilion, NY 13357",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1549,
+      "latLong": {
+        "latitude": 43.01732,
+        "longitude": -75.03642
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30520376,
+          "streetAddress": "40 W Clark St",
+          "zipcode": "13357",
+          "city": "Ilion",
+          "state": "NY",
+          "latitude": 43.01732,
+          "longitude": -75.03642,
+          "price": 2000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1549.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 138000,
+          "rentZestimate": 1781,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 1568852000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 84545.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1568852000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442366447",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/293f521252ba855b2acd2c0f7fda2b03-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/208-E-Clark-St-UNIT-1-Ilion-NY-13357/442366447_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$850/mo",
+      "priceLabel": "$850",
+      "address": "208 E Clark St UNIT 1, Ilion, NY 13357",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.012554,
+        "longitude": -75.02802
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442366447,
+          "streetAddress": "208 E Clark St UNIT 1",
+          "zipcode": "13357",
+          "city": "Ilion",
+          "state": "NY",
+          "latitude": 43.012554,
+          "longitude": -75.02802,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 1559949000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-05 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: River Hills Properties LLC.",
+      "timeOnZillow": 1559949000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442326108",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=43.09122848510742,-75.2027359008789&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=sxWQRcGqEEs4Krzjboug1tkVHO8=",
+      "detailUrl": "/homedetails/705-Tilden-Ave-2-Utica-NY-13501/442326108_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,250/mo",
+      "priceLabel": "$1.3K",
+      "address": "705 Tilden Ave #2, Utica, NY 13501",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=43.09122848510742,-75.2027359008789&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=Dbb6ob29lIGsJk_N_-LjY92C5pw=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=43.09122848510742,-75.2027359008789&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=zVeyIKqN8kNLf3QZ_52AiDRT5cw=",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.09123,
+        "longitude": -75.202736
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442326108,
+          "streetAddress": "705 Tilden Ave #2",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.09123,
+          "longitude": -75.202736,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 1747546000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1747546000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31572551",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7ea8b2570bf8d603d196e4adcac9da0b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1329-Mary-St-Utica-NY-13501/31572551_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,150/mo",
+      "priceLabel": "$1.2K",
+      "address": "1329 Mary St, Utica, NY 13501",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 43.092197,
+        "longitude": -75.20389
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31572551,
+          "streetAddress": "1329 Mary St",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.092197,
+          "longitude": -75.20389,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 265100,
+          "rentZestimate": 1884,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 424510000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 115116.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 424510000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441128951",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b6ea7dda178961cb3a91ee783e08d12b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1306-Catherine-St-2-Utica-NY-13501/441128951_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,000/mo",
+      "priceLabel": "$1.0K",
+      "address": "1306 Catherine St #2, Utica, NY 13501",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.095303,
+        "longitude": -75.20305
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441128951,
+          "streetAddress": "1306 Catherine St #2",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.095303,
+          "longitude": -75.20305,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 1194409000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 1194409000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2068955916",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/af5b1582f3020abd183dc3a96355beaf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/907-Bacon-St-3-Utica-NY-13501/2068955916_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,250/mo",
+      "priceLabel": "$1.3K",
+      "address": "907 Bacon St #3, Utica, NY 13501",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 43.090656,
+        "longitude": -75.20726
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "32 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2068955916,
+          "streetAddress": "907 Bacon St #3",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.090656,
+          "longitude": -75.20726,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1426,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 2835655000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2835655000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2079887393",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/41eb68caaf9943680b552079a83067ae-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/110-Reidy-Dr-Ilion-NY-13357/2079887393_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,225/mo",
+      "priceLabel": "$1.2K",
+      "address": "110 Reidy Dr, Ilion, NY 13357",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 952,
+      "latLong": {
+        "latitude": 43.019424,
+        "longitude": -75.06108
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "65 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2079887393,
+          "streetAddress": "110 Reidy Dr",
+          "zipcode": "13357",
+          "city": "Ilion",
+          "state": "NY",
+          "latitude": 43.019424,
+          "longitude": -75.06108,
+          "price": 1225.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 952.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1158,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1225.0,
+          "timeOnZillow": 5624201000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "timeOnZillow": 5624201000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31572078",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/aa51adc18d3acca0e213b11543617f61-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1004-Jay-St-Utica-NY-13501/31572078_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "1004 Jay St, Utica, NY 13501",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.09581,
+        "longitude": -75.20728
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31572078,
+          "streetAddress": "1004 Jay St",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.09581,
+          "longitude": -75.20728,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 111500,
+          "rentZestimate": 1244,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 2628017000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 93023.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Premier Property Management Group LLC",
+      "timeOnZillow": 2628017000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "343603617",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/31120e65cc76fd3428bded15250e1efb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/401-Nichols-St-1-Utica-NY-13501/343603617_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "401 Nichols St #1, Utica, NY 13501",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.095993,
+        "longitude": -75.20756
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "60 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 343603617,
+          "streetAddress": "401 Nichols St #1",
+          "zipcode": "13501",
+          "city": "Utica",
+          "state": "NY",
+          "latitude": 43.095993,
+          "longitude": -75.20756,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 846,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 5209147000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Premier Property Management Group LLC",
+      "timeOnZillow": 5209147000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "63262eaa",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

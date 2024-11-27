@@ -1,0 +1,219 @@
+{
+  "listResults": [
+    {
+      "zpid": "441594326",
+      "id": "441594326",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1nzc83x7kxd7q",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9410b88a53c9a50712d4a249edb1ea8e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2129-State-Highway-206-R-Unadilla-NY-13849/441594326_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "2129 State Highway 206 #R, Unadilla, NY 13849",
+      "addressStreet": "2129 State Highway 206 #R",
+      "addressCity": "Unadilla",
+      "addressState": "NY",
+      "addressZipcode": "13849",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 42.24227,
+        "longitude": -75.376686
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "47 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441594326,
+          "streetAddress": "2129 State Highway 206 #R",
+          "zipcode": "13849",
+          "city": "Unadilla",
+          "state": "NY",
+          "latitude": 42.24227,
+          "longitude": -75.376686,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 47,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 4076635000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# R",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9410b88a53c9a50712d4a249edb1ea8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb5d8117f207e9636c498485ba12fdd5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c1919d95c271576cb7fac48ae00b3d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c877c76a5f5f0cfe1c8a3d16056ce20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9efab4a0cf5efb5aa7a62cb1e461fa36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98788a97c6c323c36855ed07a218b954-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34bbb7c78e0ee3bba042e5f61dd1eb10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df92d02b5648173c827b48b03864212f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a58ba19e2255a95e5a0c913929378df2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c93fa83026274c128d73c26807a6d154-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "441594326",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9410b88a53c9a50712d4a249edb1ea8e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2129-State-Highway-206-R-Unadilla-NY-13849/441594326_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "2129 State Highway 206 #R, Unadilla, NY 13849",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 42.24227,
+        "longitude": -75.376686
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "47 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441594326,
+          "streetAddress": "2129 State Highway 206 #R",
+          "zipcode": "13849",
+          "city": "Unadilla",
+          "state": "NY",
+          "latitude": 42.24227,
+          "longitude": -75.376686,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 4076635000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# R",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 4076635000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "4a9e8149",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

@@ -1,0 +1,741 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "441833887",
+      "id": "441833887",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2hsw8trv07rqc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9630b421a8fb067e0598d5cdc7c4bba2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/east-aurora-ny/hickory-hill-estates/988bcn/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200+/mo",
+      "unformattedPrice": 1200,
+      "address": "Hickory Hill Estates, 427 Mill Rd, East Aurora, NY 14052",
+      "addressStreet": "427 Mill Rd #2B-1BA-950SQFT",
+      "addressCity": "East Aurora",
+      "addressState": "NY",
+      "addressZipcode": "14052",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 42.756958,
+        "longitude": -78.6319
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441833887,
+          "streetAddress": "427 Mill Rd #2B-1BA-950SQFT",
+          "zipcode": "14052",
+          "city": "East Aurora",
+          "state": "NY",
+          "latitude": 42.756958,
+          "longitude": -78.6319,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 38,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 3361132000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2B-1Ba-950Sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9630b421a8fb067e0598d5cdc7c4bba2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37c607828c567f5dbd13b58c9abc3946-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/acf01462b2560b8967a2875b0061e580-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8c3eb44874455be7a2855daf0093d3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad1964352a8a6a3ca915094711bc3fc5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8a25e9a6817b00662813fe1693fade0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c61d97aac17de5ffb6332502b6ea05be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4d241ffa608b3066de512e7f5d672cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd5f02a72a6aecad37a26dfe2e358409-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2096957138",
+      "id": "2096957138",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2f1ftr2r62znh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/aa7deb1ba1d44d7cf8cef38c2e46cc4c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/187-Olean-St-2-East-Aurora-NY-14052/2096957138_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "187 Olean St #2, East Aurora, NY 14052",
+      "addressStreet": "187 Olean St #2",
+      "addressCity": "East Aurora",
+      "addressState": "NY",
+      "addressZipcode": "14052",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.762726,
+        "longitude": -78.60844
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "23 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2096957138,
+          "streetAddress": "187 Olean St #2",
+          "zipcode": "14052",
+          "city": "East Aurora",
+          "state": "NY",
+          "latitude": 42.762726,
+          "longitude": -78.60844,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 23,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1730,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 2062881000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa7deb1ba1d44d7cf8cef38c2e46cc4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02c81f85acfff8c76dc0ac85e3520501-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/857d03a92f294bfbe5849b967f580378-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a5b7c399e2006a50150a4967da6b6f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ca023e562b0a4740c3c9755c658911b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51f4ffaac56d0e9c89f888bd0c84b009-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/365f43b6815598039bc328c6df964602-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f39bf7a85f58aebd249ea4112036130-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27942154a6d9090ef480a3f9e0a02d88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecc935b5a9b080801ec95f511f93449d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56dfb4af8a08edcd8b6af6da105a77c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc2034e488e7f93a81aa2496d90c1c82-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2060370056",
+      "id": "2060370056",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ypn1m0bxvfgb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0661ce1c906e7b890b681c13472b1e74-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/38-Walnut-St-1-East-Aurora-NY-14052/2060370056_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "38 Walnut St #1, East Aurora, NY 14052",
+      "addressStreet": "38 Walnut St #1",
+      "addressCity": "East Aurora",
+      "addressState": "NY",
+      "addressZipcode": "14052",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.766945,
+        "longitude": -78.61961
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060370056,
+          "streetAddress": "38 Walnut St #1",
+          "zipcode": "14052",
+          "city": "East Aurora",
+          "state": "NY",
+          "latitude": 42.766945,
+          "longitude": -78.61961,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1219,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 265993000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-21 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0661ce1c906e7b890b681c13472b1e74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36d86b09df1f31f6e5cb76f88b7d8a68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52f5d3d62482f22bac28ad0a5b358a6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/994f591fad870ded3f40cccbe7ce1a42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5e7deaec519f73d7c8a7791755d5074-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2de773bace754b5e3107ee549b5e98da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5fab92205fc1425b0bb4b3f700f98ed0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f667112f06139d4ea280f8fc0dc0af20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f635cbfc836c4582afdc4b7574b72ed6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8aa6444e7e7922366aed8fa38fb30842-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e03096565468cd57f21f47a6f47d6cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f736f33afed75cfec436efe94fce76d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a4835fe54d01979ab5e58bbe937f437-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.76698--78.60758",
+      "id": "42.76698--78.60758",
+      "providerListingId": "122d7t4e2hnay",
+      "imgSrc": "https://photos.zillowstatic.com/fp/79929a8ab5c74aa1ea0cdb5c58d909bc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/42.76698,-78.60758_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "28R Olean St, East Aurora, NY",
+      "addressStreet": "28R Olean St ",
+      "addressCity": "East Aurora",
+      "addressState": "NY",
+      "addressZipcode": "14052",
+      "units": [
+        {
+          "price": "$2,650+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "latLong": {
+        "latitude": 42.76698,
+        "longitude": -78.60758
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/79929a8ab5c74aa1ea0cdb5c58d909bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8148ef3a1ffdde108deaf33b47e5c34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85d57b621bdcfe014e5ab40dc6f44103-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e796e7c8eed2ec87963d080d52110b1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b83e3230ad235eb5e412abb5dc4b501-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8afc32424a9bda245e76ec516f6a3940-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/710633ddca62953c711291a89a313fa2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56bb592f43225415a73d87d593d1c90f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b7678c4f2a63d3c588a013b618f3413-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5f87ac219a7cfb7d36861cd059b0a80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1163898dacbe0b0d1d4cecd6f183f278-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a83333389d6002a17fe75952ca7c30b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1c44a562977ecde00aaf609f69220c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/428e7e6911ad85658cb6e229a9f2453d-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "2060585917",
+      "id": "2060585917",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "xw6z8v0cfgdb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2f9a73dddbb9426200ad4165ead956c5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/sun-diet-estates-llc.-297-1-east-aurora-ny-988bGR/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,850+/mo",
+      "unformattedPrice": 1850,
+      "address": "Sun Diet Estates, LLC. - 297 - 1, 297 Cazenovia St UNIT 1, East Aurora, NY 14052",
+      "addressStreet": "297 Cazenovia St UNIT 1",
+      "addressCity": "East Aurora",
+      "addressState": "NY",
+      "addressZipcode": "14052",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1280,
+      "latLong": {
+        "latitude": 42.761993,
+        "longitude": -78.62384
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060585917,
+          "streetAddress": "297 Cazenovia St UNIT 1",
+          "zipcode": "14052",
+          "city": "East Aurora",
+          "state": "NY",
+          "latitude": 42.761993,
+          "longitude": -78.62384,
+          "price": 1850.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1280.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1849,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1850.0,
+          "timeOnZillow": 1976994000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Sun Diet Estates, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f9a73dddbb9426200ad4165ead956c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bd8ac525ff0819352f06523d9773718-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/237fe4bd94651ba9444aa56c4f7565f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df7d47322d3a51f94414fcf1c0e7c0bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e980c37381f87898571348fc3fe86ea2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/311b1edfca28c0aa8d671775d79827d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cdd28e911a9e3290dc756d082998483-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ab9e708b3d3a2d0f61aceb912d0cd74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96b7a89c40b9f6d26bd934a740fb267f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83a44b294f76ac259c15be3da112b4e9-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30269939",
+      "id": "30269939",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "jkberzv66xex",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c654133fb221e580a7819fbc5838740e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/765-Oakwood-Ave-East-Aurora-NY-14052/30269939_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,450/mo",
+      "unformattedPrice": 2450,
+      "address": "765 Oakwood Ave, East Aurora, NY 14052",
+      "addressStreet": "765 Oakwood Ave",
+      "addressCity": "East Aurora",
+      "addressState": "NY",
+      "addressZipcode": "14052",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1632,
+      "latLong": {
+        "latitude": 42.76534,
+        "longitude": -78.6065
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "88 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30269939,
+          "streetAddress": "765 Oakwood Ave",
+          "zipcode": "14052",
+          "city": "East Aurora",
+          "state": "NY",
+          "latitude": 42.76534,
+          "longitude": -78.6065,
+          "price": 2450.0,
+          "datePriceChanged": 1725865200000,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1632.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 88,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 499800,
+          "rentZestimate": 2551,
+          "listing_sub_type": {},
+          "priceReduction": "$125 (Sep 9)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2450.0,
+          "priceChange": -125,
+          "timeOnZillow": 7606737000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 333333.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 499800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: HUNT Real Estate Corporation",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c654133fb221e580a7819fbc5838740e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8fb07cab91317f02150a86e565415b18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e81005ec6b2b53d6eafaa6a71211ae0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/caaf3dbb64f48e0f72c01ebb1c4d9ca9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d48b940b3ecec17269a56738624c3eef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d4546c733009aa5faad808d2d009a7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed6563f5226f4d0d7585cbf6cae880de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/002fe9a8f3696d56cd17c33cf787af7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1c29a241a28dca81eb2a560c7c8329b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1324bd93415d48ffcd498621d50cf27b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f4db8d23d90bd514f4e321ce866662e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5400b20b7ead100ac945e44f4a28f282-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "70ed005"
+}

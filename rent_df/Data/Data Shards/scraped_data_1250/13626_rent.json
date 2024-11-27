@@ -1,0 +1,424 @@
+{
+  "listResults": [
+    {
+      "zpid": "43.852898--75.79629",
+      "id": "43.852898--75.79629",
+      "providerListingId": "4r8m7phkkyhda",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9c7df39cddd0695d124b64449ab4c730-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/43.852898,-75.79629_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "29613 Nys Rte, Watertown, NY",
+      "addressStreet": "29613 Nys Rte # 8",
+      "addressCity": "Watertown",
+      "addressState": "NY",
+      "addressZipcode": "13601",
+      "units": [
+        {
+          "price": "$700+",
+          "beds": "0",
+          "roomForRent": false
+        },
+        {
+          "price": "$775+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,100+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2389496002,
+      "latLong": {
+        "latitude": 43.852898,
+        "longitude": -75.79629
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c7df39cddd0695d124b64449ab4c730-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c60a95f5288324a62e39c1b67cfb10d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/487c6e192f3900967269e331d4f02001-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8955adf04fce796afd75913ba7cc5346-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1be90f219c3b499f28da8b23936eab3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8bb042ff1e35e6321c8fd4ee0ce8828-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e9bc73052fd06994392ff5ad37df6f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41b59f3246a5c9fe5c8ed6708467999d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6300e94163145ef13be75c7a248fab5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da0801c9c68eaf36d75357aea4ea7bc5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f9ab0f6ef35389761bc6641b7c6c158-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/515eea6fc20efa6638a9ae2afa560c54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d4d69c4c6062962901fd9c99c25fb5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/478638c9cc41ff98633e955f4fd838d6-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "2056109948",
+      "id": "2056109948",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4y3fevf3ch109",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=43.84190368652344,-75.7037353515625&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=RtzE5tVstak3edpBSCDQkhvRnfw=",
+      "detailUrl": "https://www.zillow.com/b/9861-nys-rt-12-copenhagen-ny-BdSRkL/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "9861 NYS Rt 12, 9861 Nys Rte #F, Copenhagen, NY 13626",
+      "addressStreet": "9861 Nys Rte #F",
+      "addressCity": "Copenhagen",
+      "addressState": "NY",
+      "addressZipcode": "13626",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=43.84190368652344,-75.7037353515625&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=hjMHcZK7c7X2QFNlk7o0kVezIgM=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=43.84190368652344,-75.7037353515625&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=6AaSy6EmajW_h2tsVzr5Xb-6GIo=",
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 43.841904,
+        "longitude": -75.703735
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056109948,
+          "streetAddress": "9861 Nys Rte #F",
+          "zipcode": "13626",
+          "city": "Copenhagen",
+          "state": "NY",
+          "latitude": 43.841904,
+          "longitude": -75.703735,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 76,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1203,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 6641307000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# F",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: The Taylor Mansion LLC",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "plid": "4r8m7phkkyhda",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9c7df39cddd0695d124b64449ab4c730-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/43.852898,-75.79629_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$700+/mo",
+      "address": "29613 Nys Rte, Watertown, NY",
+      "minBeds": 0,
+      "minBaths": 1.0,
+      "minArea": 300,
+      "lotId": 2389496002,
+      "latLong": {
+        "latitude": 43.852898,
+        "longitude": -75.79629
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago"
+      },
+      "buildingId": "43.852898--75.79629",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 782142000,
+      "unitCount": 3,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2056109948",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=43.84190368652344,-75.7037353515625&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=RtzE5tVstak3edpBSCDQkhvRnfw=",
+      "detailUrl": "/b/9861-nys-rt-12-copenhagen-ny-BdSRkL/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "9861 Nys Rte #F, Copenhagen, NY 13626",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=43.84190368652344,-75.7037353515625&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=hjMHcZK7c7X2QFNlk7o0kVezIgM=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=43.84190368652344,-75.7037353515625&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=6AaSy6EmajW_h2tsVzr5Xb-6GIo=",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 43.841904,
+        "longitude": -75.703735
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056109948,
+          "streetAddress": "9861 Nys Rte #F",
+          "zipcode": "13626",
+          "city": "Copenhagen",
+          "state": "NY",
+          "latitude": 43.841904,
+          "longitude": -75.703735,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1203,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 6641307000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# F",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: The Taylor Mansion LLC",
+      "timeOnZillow": 6641307000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "43.93055--75.58985",
+      "id": "43.93055--75.58985",
+      "providerListingId": "581tgkvj6q1h1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d356a3c21e188f2c1e56df7410b6b56c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/jefferson-house-carthage-ny-C5DxSD/",
+      "statusType": "FOR_RENT",
+      "statusText": "Jefferson House",
+      "address": "32596 State Highway 26, Carthage, NY",
+      "addressStreet": "32596 State Highway 26 # 33",
+      "addressCity": "Carthage",
+      "addressState": "NY",
+      "addressZipcode": "13619",
+      "units": [
+        {
+          "price": "$775+",
+          "beds": "1",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2560859668,
+      "latLong": {
+        "latitude": 43.93055,
+        "longitude": -75.58985
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Jefferson House",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d356a3c21e188f2c1e56df7410b6b56c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d35f231012d5e224478c7155ad936e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f078e0e84e4ef4b598de4a6af68eafc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e85c0a25fd2c57888c7616dca22794bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37b8fed50ab04c0ba56daa55b762093e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/468c0656be8be34063de282e7529a85b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33648a2751504c3371346ac4101d06e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11682930a9296d06749de9f4c2a694da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/009489d59a3cc96211b2abde6bef1fe0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ea021670fc47ad7fe8d2615b10e8a1b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71bc5f958d5d73dac0a0f38a659d177f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6186b5312820e581bc9bb48d575d4c8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cdc1128464495f9c77128c3dd8bedd46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68f12ea11d0a80047b9355926a072cd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc2f4cf22c47b44f5645271eb1cea120-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23dd60da73a52f7f02ef574cdbd6f8d7-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    }
+  ],
+  "resultsHash": "4f6726c7",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "43e9baa9"
+}

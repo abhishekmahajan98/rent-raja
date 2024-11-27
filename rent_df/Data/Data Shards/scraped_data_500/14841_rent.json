@@ -1,0 +1,103 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "42.467316--76.86784",
+      "id": "42.467316--76.86784",
+      "providerListingId": "g4xdt5srjcpx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/492282eb33fdeb05e304f895c601cbf6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/3690-la-bourgade-ln-burdett-ny-BDwwDW/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "3690 La Bourgade Ln, Burdett, NY",
+      "addressStreet": "3690 La Bourgade Ln # 3720",
+      "addressCity": "Burdett",
+      "addressState": "NY",
+      "addressZipcode": "14818",
+      "units": [
+        {
+          "price": "$1,795+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,095+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2322852767,
+      "latLong": {
+        "latitude": 42.467316,
+        "longitude": -76.86784
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/492282eb33fdeb05e304f895c601cbf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e53effedb6b3b64f2828cc04b7a5b84e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65d09199caaf3a7cd6af338711f45051-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa80b8801ca38ec703d45befc12d1ac3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5fcfe7c5919003975adc6187f3267aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8da8f45054440d275d00877eab72f3b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b71135b3239c4662b38eb7a69fa5602-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e89922caa4ff46a841290f4ac39ca37c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afd9800c3472f004710b03dfb92e7306-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f115afa883688cc43d7df199567e07f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/883b64d56ce821dbe907ee373b1b8ae1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/707a2cf0a21b7ede5ee19595b7ebb519-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9adf917605690f4193da2f9b82f3643a-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "281758d8"
+}

@@ -1,0 +1,2151 @@
+{
+  "listResults": [
+    {
+      "zpid": "442727384",
+      "id": "442727384",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "38y2262rzd2eg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9d38323e35f928829b956521de1e706b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/699-Jersey-Ave-12-Greenwood-Lake-NY-10925/442727384_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,600/mo",
+      "unformattedPrice": 2600,
+      "address": "699 Jersey Ave #1&2, Greenwood Lake, NY 10925",
+      "addressStreet": "699 Jersey Ave #1&2",
+      "addressCity": "Greenwood Lake",
+      "addressState": "NY",
+      "addressZipcode": "10925",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 625,
+      "latLong": {
+        "latitude": 41.224026,
+        "longitude": -74.297295
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442727384,
+          "streetAddress": "699 Jersey Ave #1&2",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.224026,
+          "longitude": -74.297295,
+          "price": 2600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 625.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 432548000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1&2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Ridge & Valley RE Corp",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d38323e35f928829b956521de1e706b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c144ba5afef365cd9f6294248b1e8f1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1e76ff951701df55a83688e3bbeef9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/acfa4fdf1ce2f7bb175dc29602d9aa12-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e87cdd98e7ecb2f1992d7f1716157eb-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442508573",
+      "id": "442508573",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "19zkp5xhwmnvb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9f328c776484db03ee345db02df94693-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/620-Jersey-Ave-APT-21-Greenwood-Lake-NY-10925/442508573_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "620 Jersey Ave APT 21, Greenwood Lake, NY 10925",
+      "addressStreet": "620 Jersey Ave APT 21",
+      "addressCity": "Greenwood Lake",
+      "addressState": "NY",
+      "addressZipcode": "10925",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 41.218502,
+        "longitude": -74.304306
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442508573,
+          "streetAddress": "620 Jersey Ave APT 21",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.218502,
+          "longitude": -74.304306,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 1282265000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 21",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-23 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f328c776484db03ee345db02df94693-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/718a333d1f6786c45a4850edb75e5b56-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7736a2e602813bfe80c9c764d8115640-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ef49b855ff156455f547f50fd8f343b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc55a1ac9c3769202292f8f0e6a4e8fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70ed216b0bd7afff0a71ddd0ed8c9810-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31868672",
+      "id": "31868672",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2a352vqfand31",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b8887ffe0f40c7a3801b4059b6d2f950-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/46-Woods-Rd-Greenwood-Lake-NY-10925/31868672_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,595/mo",
+      "unformattedPrice": 3595,
+      "address": "46 Woods Rd, Greenwood Lake, NY 10925",
+      "addressStreet": "46 Woods Rd",
+      "addressCity": "Greenwood Lake",
+      "addressState": "NY",
+      "addressZipcode": "10925",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1528,
+      "latLong": {
+        "latitude": 41.1916,
+        "longitude": -74.30743
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31868672,
+          "streetAddress": "46 Woods Rd",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.1916,
+          "longitude": -74.30743,
+          "price": 3595.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1528.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 82,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2891,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3595.0,
+          "timeOnZillow": 7102288000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 410800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": true,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Ridge & Valley RE Corp",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8887ffe0f40c7a3801b4059b6d2f950-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fe810bcbc1024f67c0eeaadce57c817-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d403ac3b96ef22ab5fd101c65710f3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05ad086cd1a3893c5cb9c9f7b5fe4661-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9eb341f44bf001e602576a97054b1bae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81527ae347b45a34a9f1d6d26d2d8978-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc1031fdfb91569a1e3b8996f901c662-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/436104b58322c99ac340786a35ffb9d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d4502ccb609a935965cf490ea36608b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe8db025975bedba1521667aeee25723-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/446ec4d63ba1b925f925072b1ef54141-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ffbadd0f8cfc826b6d40b4d14c94572-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ee611cb8eec5732dc61b5d261632bb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ed9e56c1178818126a73afbfeec917e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/395741ceeee760cf0ad60a450fb290d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ccd502f169b7077670620dd549d63ae8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9b6be24f35aa03fc6be811ef11ca701-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c00d8defd07e119fbfe3322c576bf97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1533539a36217c241ab90a6906743c6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a631a79c66135b08007616831962a03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/916786e9c37180810eac52bd8c97d5c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24f9b59e3f2d8153033553f8d7683d2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8607efbed9af5bc6146a70db13567dcd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/445707f782b8a52b4988dbb374964c00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a37a4e122abf41f03f6bdcb6d8f4530b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a6ffdbfd14773b68d743011b179df5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91660c959e65e47dbe1c03e1dfc5a933-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0de5180d1a85b1c1f654b81cb5aa1de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb96cdea030b7c86a168e3f965f94631-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d747d2ead6ee0d24767619d09a552299-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e93d0c7a5c933b5ada65297b38c79f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0615d1d7301d6ce9b340a47b7002ab3b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441823675",
+      "id": "441823675",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "57bwfxfe4k9k0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5161f6a0fcf54bd29d3c69571bcde81e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/14-Felter-St-APT-1-Greenwood-Lake-NY-10925/441823675_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "14 Felter St APT 1, Greenwood Lake, NY 10925",
+      "addressStreet": "14 Felter St APT 1",
+      "addressCity": "Greenwood Lake",
+      "addressState": "NY",
+      "addressZipcode": "10925",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 41.222187,
+        "longitude": -74.29536
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441823675,
+          "streetAddress": "14 Felter St APT 1",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.222187,
+          "longitude": -74.29536,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 3394422000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5161f6a0fcf54bd29d3c69571bcde81e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/448e1d4113fa57c761b44a8569e53213-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91d106dfad8975ebcfd72a9bf3ddb64d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c3412686be7f840b6707979cd0c1318-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e275279596f65cb2cae5ba23eee6ed78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b9e1b835b1d5f45dd3db7b1e17bbf60-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2099585760",
+      "id": "2099585760",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5cmtgq99mx6te",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5ef7fc29aed2b95f931dee55f91f6364-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3-Shore-Dr-APT-6-Greenwood-Lake-NY-10925/2099585760_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "3 Shore Dr APT 6, Greenwood Lake, NY 10925",
+      "addressStreet": "3 Shore Dr APT 6",
+      "addressCity": "Greenwood Lake",
+      "addressState": "NY",
+      "addressZipcode": "10925",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 41.22731,
+        "longitude": -74.28654
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2099585760,
+          "streetAddress": "3 Shore Dr APT 6",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.22731,
+          "longitude": -74.28654,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2028,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 1460263000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 6",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Howard Hanna Rand Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ef7fc29aed2b95f931dee55f91f6364-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c46ba227ef2c7ffe437704043905adb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9f663ecf104d7e7d52ad9bdf847c133-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cd3a98dc96f02e469027a328d363519-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bacbf1bc63f7fc98dba56d1b16e2b4fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1114216fb061c08a1e37930898c72306-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5bc351ffd8f239eea709414155920b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f3e41370ed7ffa9f02b9d89fbfc2191-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a6d3b6a3e5112e28befd678258f9409-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2afc1363aa0c60ca43574256f978192-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8108ad66582757462e667bbb70de765-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbf6cbfa537523cfffecc3344736fce7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7941048d707791b078e6a1e3efbcb5c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d1610ce6e0cd8e075a8016ccf059bef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30f0e3ab78b45ab830bb48da2ee9da89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8518694f10bb82261637c48b4834bd3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfb7acaa300fb79921ac8552024a9312-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc7ad5b2428cf99a665c537e2902d9b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/237d61f845bf31158993458bafc7da71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f54864115028baa76b88adc0889647e-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "41.221848--74.28513",
+      "id": "41.221848--74.28513",
+      "providerListingId": "3cw9wxv6f0mms",
+      "imgSrc": "https://photos.zillowstatic.com/fp/55c378bd18a8a0c737bbb9e52ed43ab7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/34-pine-hill-dr-greenwood-lake-ny-5vf4n2/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "34 Pine Hill Dr, Greenwood Lake, NY",
+      "addressStreet": "34 Pine Hill Dr Unit 2F",
+      "addressCity": "Greenwood Lake",
+      "addressState": "NY",
+      "addressZipcode": "10925",
+      "units": [
+        {
+          "price": "$1,875+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,300+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1104848423,
+      "latLong": {
+        "latitude": 41.221848,
+        "longitude": -74.28513
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/55c378bd18a8a0c737bbb9e52ed43ab7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9dd05859f4e5d5c7630a479f21d8b0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be8db600ce54052cfe6ed303192e2f23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6350111b4286cf6b9687fe2db3f53580-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13c838156db00584e6852fbbf9420af2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f97a2d6e32db27d88a626cefdccc5d3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c7a888a7b874c97b7aee0122d304a0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1071d81c3f5cde33c110b3c341dd6747-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a6924eb65e584db1f5eb158d7d60233-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aae6fdbf0e0d3265670f6c0561bb65f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36d2e2999af2795cf5e74dcf10cfe5e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f9a1558dca96c330f6f2ef486e1fbbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b888256afadd3743e5e793919fd0c253-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6306a33366f869aabf769e646e3b59ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93f7332e1ac04e08759afa7ed370a6e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17bafa96e6e82941856d86394d985a36-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "2080353559",
+      "id": "2080353559",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "6q3n4388v1tr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ad05f807962a35d6f4df35bd84b947dd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/242-Cascade-Rd-Warwick-NY-10990/2080353559_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,300/mo",
+      "unformattedPrice": 2300,
+      "address": "242 Cascade Rd, Warwick, NY 10990",
+      "addressStreet": "242 Cascade Rd",
+      "addressCity": "Warwick",
+      "addressState": "NY",
+      "addressZipcode": "10990",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 41.214886,
+        "longitude": -74.333954
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2080353559,
+          "streetAddress": "242 Cascade Rd",
+          "zipcode": "10990",
+          "city": "Warwick",
+          "state": "NY",
+          "latitude": 41.214886,
+          "longitude": -74.333954,
+          "price": 2300.0,
+          "datePriceChanged": 1732176000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 20,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 239000,
+          "rentZestimate": 2561,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "priceChange": -50,
+          "timeOnZillow": 1753005000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 239000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: BHG Real Estate Green Team",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad05f807962a35d6f4df35bd84b947dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7f56e6e0d9bb72f67623e7acbb20f82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f65e8f9b757318b18586bf13acc08e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b5c9fdc15b98fba6322329652753172-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55d3874a4257724c170f097e0fbc8a19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d2ba0a8176bb33a07c839d2e3dbc6f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edb12b7ca910a52d7d197efea8ab5426-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7229f1dd8c72a8c1d0f5e622893c147-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b4a47cc470c39b59326d202156c7931-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/641cb0097ec7f291e45366c7b1ede63f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1408e857d35bc6a68ad098a5833929d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02e4f042c8c65ef064aac581e8f8a44d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea57cf9541a4eb9855a09db41d3c4676-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8574296faebcddde8f76aa1eb7f3b525-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbfc20543265fad85756814f6562b401-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0369728ecb3f015fbf00790118507d64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b2af7801f631f0ca0e2c29abfe319f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9277b56887ff66d7c38adfac0544bbf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b146c57ed9520b6e498f9ec9e39ae296-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce07ee0dd21cda3c07d9b84ed5bfd4b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d7b232384debf76294d04d4b5251fd4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/678e88cfb287f29e3df43777a8bec7fd-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31861275",
+      "id": "31861275",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "auytfv4zwzeu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8462dbb1dbae7dd04c6de221393b682b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/9-Polk-Ave-Greenwood-Lake-NY-10925/31861275_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,600/mo",
+      "unformattedPrice": 2600,
+      "address": "9 Polk Ave, Greenwood Lake, NY 10925",
+      "addressStreet": "9 Polk Ave",
+      "addressCity": "Greenwood Lake",
+      "addressState": "NY",
+      "addressZipcode": "10925",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1495,
+      "latLong": {
+        "latitude": 41.21752,
+        "longitude": -74.29068
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "52 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31861275,
+          "streetAddress": "9 Polk Ave",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.21752,
+          "longitude": -74.29068,
+          "price": 2600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1495.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 52,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 342100,
+          "rentZestimate": 2578,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 4511240000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 304900.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 342100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: HomeSmart Homes & Estates",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8462dbb1dbae7dd04c6de221393b682b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/349bfd3c7927b292c8fdee1fdcfdb2c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44222636018570ddffba5411c1a61acc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/250fcc755469bffce6fd836e0bd3a7cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3773b31d362673781da30bf9598f37fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/809cfd1a92179b23b130223449312b52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/224f637614d1d6d312f90f51f4171533-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81f357633f57adfbe9335e765c13c040-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e71e9462c0f0f000da6ad449ec9dfdb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e31052958829601bcffe9e5957221b7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f7960dc41f1279e85f5f5024277a603-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0690dbddce418cd618ca88b4ed9c1272-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a06c10b067f0ffd72168b80f8543abb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/028e4f149f617b3cbfea2fb2874bfdef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3abb1fca236a0fa072c012e3d8095ae7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36b7e7acac732197839425185f68f2ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/095c712286e22c7d9a574be2c8b80740-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef473d0b03586b38b91afff4671786d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b634dea9693bbbcfc7c8ca83da103d36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed307004d5f024939f0bc3e54d233545-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6af5cb1bbfbee17bedad75db8f15cd42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81ab0abeca454b50efb7ad1aaca50b1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2849fc90f4151376ffaf1c71ba0b1ef3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bdc5203941d36ed1e2093bf3c1ee12f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/738bd999f7f697d7cc2810f7ee1c0b30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d16805fc04c5c0df4301d6e629c87530-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39ab065003876698197036a1eb50256f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b70130d5239356ef61545d17ea4ba542-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2090310100",
+      "id": "2090310100",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1vjv460sp8ret",
+      "imgSrc": "https://photos.zillowstatic.com/fp/976b8b03095039f4c4cc44fbef4a957f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/724A-Jersey-Ave-Greenwood-Lake-NY-10925/2090310100_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,100/mo",
+      "unformattedPrice": 1100,
+      "address": "724A Jersey Ave, Greenwood Lake, NY 10925",
+      "addressStreet": "724A Jersey Ave",
+      "addressCity": "Greenwood Lake",
+      "addressState": "NY",
+      "addressZipcode": "10925",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.223835,
+        "longitude": -74.30014
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2090310100,
+          "streetAddress": "724A Jersey Ave",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.223835,
+          "longitude": -74.30014,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1241,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 1640012000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Terrie O'Connor Realtors",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/976b8b03095039f4c4cc44fbef4a957f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2893a5acdb68faf29aba1412c7ff966-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab409479895cd3773348f9df031c18e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9a07e6589888b335924099f028b36a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d1fb1a92722f8ba23d012f5241fbfeb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89e6eaee4b59ae789fd8fbdf2d4fb6b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57b4ff5ad5ee025d11e3f84b351a268a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0e1bc8f21126ae61d65ea735ae3321a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbf9bd9eff506507b67e0c0741ef8051-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/658f52be3569b6d4c590425eb5c57458-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a4e9272d1ab8553648d53f79ad0c13d-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2094101356",
+      "id": "2094101356",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "20w5gg2vw1gk4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/534acffef8950179aaff772f89806e78-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/653-Jersey-Ave-Greenwood-Lake-NY-10925/2094101356_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "653 Jersey Ave, Greenwood Lake, NY 10925",
+      "addressStreet": "653 Jersey Ave",
+      "addressCity": "Greenwood Lake",
+      "addressState": "NY",
+      "addressZipcode": "10925",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.22171,
+        "longitude": -74.30319
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "61 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2094101356,
+          "streetAddress": "653 Jersey Ave",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.22171,
+          "longitude": -74.30319,
+          "price": 1600.0,
+          "datePriceChanged": 1730530800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 61,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1592,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 2)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "priceChange": -200,
+          "timeOnZillow": 5284946000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: ARC Realty 1 in Sales",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/534acffef8950179aaff772f89806e78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a62bbd3e3752826b709742b19413f57b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c05f3f1dee32d3bcb6812cbd7c4eb138-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1be3775a9f92352152c0aa396acf9f8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1caffff20823ae6d19ddc93ba74035bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0944cf1137aeb76baf9b9c9c0cd6e03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/099163a7570ab484b49841e10f8187d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ab0bff85b566fbe7364d765d72916a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9f0521499b4411026a1d7296b79e0fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0f6872f96db8d9534cd0db1fc0dd826-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/baefb2eed2edcb9b5cee002a13c305fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f350ccdd2f2bf711ab0895705aa1313-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442727384",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9d38323e35f928829b956521de1e706b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/699-Jersey-Ave-12-Greenwood-Lake-NY-10925/442727384_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,600/mo",
+      "priceLabel": "$2.6K",
+      "address": "699 Jersey Ave #1&2, Greenwood Lake, NY 10925",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 625,
+      "latLong": {
+        "latitude": 41.224026,
+        "longitude": -74.297295
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442727384,
+          "streetAddress": "699 Jersey Ave #1&2",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.224026,
+          "longitude": -74.297295,
+          "price": 2600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 625.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 432548000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1&2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Ridge & Valley RE Corp",
+      "timeOnZillow": 432548000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442508573",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9f328c776484db03ee345db02df94693-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/620-Jersey-Ave-APT-21-Greenwood-Lake-NY-10925/442508573_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,300/mo",
+      "priceLabel": "$1.3K",
+      "address": "620 Jersey Ave APT 21, Greenwood Lake, NY 10925",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 41.218502,
+        "longitude": -74.304306
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442508573,
+          "streetAddress": "620 Jersey Ave APT 21",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.218502,
+          "longitude": -74.304306,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 1282265000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 21",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-23 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1282265000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31868672",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b8887ffe0f40c7a3801b4059b6d2f950-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/46-Woods-Rd-Greenwood-Lake-NY-10925/31868672_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,595/mo",
+      "priceLabel": "$3.6K",
+      "address": "46 Woods Rd, Greenwood Lake, NY 10925",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1528,
+      "latLong": {
+        "latitude": 41.1916,
+        "longitude": -74.30743
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31868672,
+          "streetAddress": "46 Woods Rd",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.1916,
+          "longitude": -74.30743,
+          "price": 3595.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1528.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2891,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3595.0,
+          "timeOnZillow": 7102288000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 410800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": true,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Ridge & Valley RE Corp",
+      "timeOnZillow": 7102288000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441823675",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5161f6a0fcf54bd29d3c69571bcde81e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/14-Felter-St-APT-1-Greenwood-Lake-NY-10925/441823675_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "14 Felter St APT 1, Greenwood Lake, NY 10925",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 41.222187,
+        "longitude": -74.29536
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441823675,
+          "streetAddress": "14 Felter St APT 1",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.222187,
+          "longitude": -74.29536,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 3394422000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 3394422000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2099585760",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5ef7fc29aed2b95f931dee55f91f6364-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3-Shore-Dr-APT-6-Greenwood-Lake-NY-10925/2099585760_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "3 Shore Dr APT 6, Greenwood Lake, NY 10925",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 41.22731,
+        "longitude": -74.28654
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2099585760,
+          "streetAddress": "3 Shore Dr APT 6",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.22731,
+          "longitude": -74.28654,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2028,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 1460263000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 6",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Howard Hanna Rand Realty",
+      "timeOnZillow": 1460263000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "plid": "3cw9wxv6f0mms",
+      "imgSrc": "https://photos.zillowstatic.com/fp/55c378bd18a8a0c737bbb9e52ed43ab7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/34-pine-hill-dr-greenwood-lake-ny-5vf4n2/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$1,875+/mo",
+      "address": "34 Pine Hill Dr, Greenwood Lake, NY",
+      "minBeds": 2,
+      "minBaths": 1.0,
+      "minArea": 900,
+      "lotId": 1104848423,
+      "latLong": {
+        "latitude": 41.221848,
+        "longitude": -74.28513
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "41.221848--74.28513",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 1719437000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2080353559",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ad05f807962a35d6f4df35bd84b947dd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/242-Cascade-Rd-Warwick-NY-10990/2080353559_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,300/mo",
+      "priceLabel": "$2.3K",
+      "address": "242 Cascade Rd, Warwick, NY 10990",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 41.214886,
+        "longitude": -74.333954
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2080353559,
+          "streetAddress": "242 Cascade Rd",
+          "zipcode": "10990",
+          "city": "Warwick",
+          "state": "NY",
+          "latitude": 41.214886,
+          "longitude": -74.333954,
+          "price": 2300.0,
+          "datePriceChanged": 1732176000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 239000,
+          "rentZestimate": 2561,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "priceChange": -50,
+          "timeOnZillow": 1753005000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: BHG Real Estate Green Team",
+      "timeOnZillow": 1753005000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "31861275",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8462dbb1dbae7dd04c6de221393b682b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/9-Polk-Ave-Greenwood-Lake-NY-10925/31861275_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,600/mo",
+      "priceLabel": "$2.6K",
+      "address": "9 Polk Ave, Greenwood Lake, NY 10925",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1495,
+      "latLong": {
+        "latitude": 41.21752,
+        "longitude": -74.29068
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "52 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31861275,
+          "streetAddress": "9 Polk Ave",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.21752,
+          "longitude": -74.29068,
+          "price": 2600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1495.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 342100,
+          "rentZestimate": 2578,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 4511240000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 304900.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: HomeSmart Homes & Estates",
+      "timeOnZillow": 4511240000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2090310100",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/976b8b03095039f4c4cc44fbef4a957f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/724A-Jersey-Ave-Greenwood-Lake-NY-10925/2090310100_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,100/mo",
+      "priceLabel": "$1.1K",
+      "address": "724A Jersey Ave, Greenwood Lake, NY 10925",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.223835,
+        "longitude": -74.30014
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2090310100,
+          "streetAddress": "724A Jersey Ave",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.223835,
+          "longitude": -74.30014,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1241,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 1640012000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Terrie O'Connor Realtors",
+      "timeOnZillow": 1640012000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2094101356",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/534acffef8950179aaff772f89806e78-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/653-Jersey-Ave-Greenwood-Lake-NY-10925/2094101356_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,600/mo",
+      "priceLabel": "$1.6K",
+      "address": "653 Jersey Ave, Greenwood Lake, NY 10925",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.22171,
+        "longitude": -74.30319
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "61 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2094101356,
+          "streetAddress": "653 Jersey Ave",
+          "zipcode": "10925",
+          "city": "Greenwood Lake",
+          "state": "NY",
+          "latitude": 41.22171,
+          "longitude": -74.30319,
+          "price": 1600.0,
+          "datePriceChanged": 1730530800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1592,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 2)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "priceChange": -200,
+          "timeOnZillow": 5284946000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: ARC Realty 1 in Sales",
+      "timeOnZillow": 5284946000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "44e34864",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

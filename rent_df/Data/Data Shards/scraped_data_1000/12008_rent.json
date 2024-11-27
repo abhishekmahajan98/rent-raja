@@ -1,0 +1,1264 @@
+{
+  "listResults": [
+    {
+      "zpid": "2054475618",
+      "id": "2054475618",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2zk2f4uveve22",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1de681e13a8fa127185a3f809372c8af-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/330-Alplaus-Ave-A-Alplaus-NY-12008/2054475618_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,295/mo",
+      "unformattedPrice": 1295,
+      "address": "330 Alplaus Ave #A, Alplaus, NY 12008",
+      "addressStreet": "330 Alplaus Ave #A",
+      "addressCity": "Alplaus",
+      "addressState": "NY",
+      "addressZipcode": "12008",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.8556,
+        "longitude": -73.8978
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054475618,
+          "streetAddress": "330 Alplaus Ave #A",
+          "zipcode": "12008",
+          "city": "Alplaus",
+          "state": "NY",
+          "latitude": 42.8556,
+          "longitude": -73.8978,
+          "price": 1295.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1091,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "timeOnZillow": 1982786000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Julie & Co Realty LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1de681e13a8fa127185a3f809372c8af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d421df80c72757d6fcb64ab04c713e67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23c14a51c4abe9e2c5c7316694738a79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2ec2c3c68d10a03954604de3e869448-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3767b38b3783c845720f0c52dadeb72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e79b2f4318dbd388a59e7f0ddc943eef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edd036b293cc6f8aba2159a6cbe1df20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f150a3c92538aaacc5564844b4a009b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b6c8af1c19be6e51dca8985d573801a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0f8a8b625e59ee47ddb9e864aab501f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2054475618",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1de681e13a8fa127185a3f809372c8af-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/330-Alplaus-Ave-A-Alplaus-NY-12008/2054475618_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,295/mo",
+      "priceLabel": "$1.3K",
+      "address": "330 Alplaus Ave #A, Alplaus, NY 12008",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.8556,
+        "longitude": -73.8978
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054475618,
+          "streetAddress": "330 Alplaus Ave #A",
+          "zipcode": "12008",
+          "city": "Alplaus",
+          "state": "NY",
+          "latitude": 42.8556,
+          "longitude": -73.8978,
+          "price": 1295.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1091,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "timeOnZillow": 1982786000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Julie & Co Realty LLC",
+      "timeOnZillow": 1982786000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "42.834328--73.90999",
+      "id": "42.834328--73.90999",
+      "providerListingId": "4ma2xzrzf16cv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b21b05bc8f9ce14469f7c532af4dd5c4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/niskayuna-ny/niskayuna-gardens/5gjh9Z/",
+      "statusType": "FOR_RENT",
+      "statusText": "Niskayuna Gardens",
+      "address": "1187 Hillside Ave, Schenectady, NY",
+      "addressStreet": "1187 Hillside Ave # c112fd840",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12309",
+      "units": [
+        {
+          "price": "$1,329+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,529+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1041863900,
+      "latLong": {
+        "latitude": 42.834328,
+        "longitude": -73.90999
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Niskayuna Gardens",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b21b05bc8f9ce14469f7c532af4dd5c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb212a6b34dd471a8a467b34fc695043-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ff8bce2bf5c90e41726dd4b844e4648-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9935de68717efded685781e53af0eb0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39a431861b95d4e424e32f9f8466c3b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50a68a149aa4d5c597a9437d370b6b6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9278c6f0674857cc70075caf0aeda5d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7c42365cec493069b445731533ca4a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/abbb5b7c6a3ac5173684dbca9628a73b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c3f83186ccb81561d157a1f1a19e4a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c461549a750e4643c6fd966f6b466a1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00f0d3dc6c893f03c1113ee595c02eb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/707756051e10141635f1e8af82e6d391-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f1b605e813785d3ffdffb9541cb21ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58567bcc05d9c06db9fd10ba2b5cbe58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63774820ff012f891fd2adfaae580cd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93c323418cbece028f09fa8112f48382-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 7,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "42.826256--73.90622",
+      "id": "42.826256--73.90622",
+      "providerListingId": "2ceu4ehsdd687",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9578c1b22884a580871ab1063404e47e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/schenectady-ny/hampshire/5XrfVy/",
+      "statusType": "FOR_RENT",
+      "statusText": "Hampshire",
+      "address": "2150 Rosa Rd, Schenectady, NY",
+      "addressStreet": "2150 Rosa Rd # 132",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12309",
+      "units": [
+        {
+          "price": "$1,165+",
+          "beds": "0",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,350+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,535+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1002212237,
+      "latLong": {
+        "latitude": 42.826256,
+        "longitude": -73.90622
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Hampshire",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9578c1b22884a580871ab1063404e47e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4bc542e3357067beed9190e0416531a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/652fc7809a9f1a8dfc7116e7d3d7357f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1578e043ed8cad971457a07d2ed2056d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f73d2be905aaf2137baeefde2e5e0cd8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7329e723e2da5d52302454b07c53ac9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ed68d38e34baadd040a066533775b75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2932875ba3ef378a20a6aa22130acd40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ac76251ec243ce756c5ab3b1610c0d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e994f4a69b18cc6761daf149308016e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3812a0daed3c2a2f725f10996086f72d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf99b58acccce40e6108e4bce47f5ea3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53a8131a7c370cfae475caf94ddb9df9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99fee65a3debac10c739d6f6cf636b79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/760e374cf6d5ccdae1b71c67779ea5fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ef4b06f8f5ff1cfa94be71fe32ce11a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba0c6510ef567d621793b9ecdbec437f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a318a50db923286b47a9d010437353c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a466e46898121b748c1bfcbd68b8ad54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57f360d2784ea45c0958d84cb22ed0eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aad95c6ca1ff70f3fb1838bcfe420a5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/579402768893cd4699184b1bf1a942ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f6573bd9b8b7e5d4fe46ee93ce459ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f15f2d2d5f40f3121f3883bd61daba5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7487b7fb3564c1a9c71a2c3151763631-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb3457a268ffdbfae72c92d1007fc0f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9928da83670e51cb51fe18d74853071-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76f25fe34f66f28b4892acf426fd6ba6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12f2b1dfb5f81f0b6b9a61df60aa8fb4-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "42.831245--73.90045",
+      "id": "42.831245--73.90045",
+      "providerListingId": "582d8bts2vvpg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/215931a3d0305dc7da3fef605cbcb225-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/niskayuna-ny/willowbrook/Chq9DJ/",
+      "statusType": "FOR_RENT",
+      "statusText": "Willowbrook",
+      "address": "1503 Hillside Ave, Schenectady, NY",
+      "addressStreet": "1503 Hillside Ave # 2B-2Ba-950Sqft",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12309",
+      "units": [
+        {
+          "price": "$1,395+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,700+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,845+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2743003746,
+      "latLong": {
+        "latitude": 42.831245,
+        "longitude": -73.90045
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Willowbrook",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/215931a3d0305dc7da3fef605cbcb225-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a99ea0a89b60f922d0d5170f1bc2a47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6e848d01f4a32bad380070f59716d97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06d55111ed19b1328ff70a81c1e84f23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45ef311966834bf30451516041fe155b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/720ffac27f67f3bc2b76d8ab5b33ad06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4238923e4976713d202d0c3bce3ed3ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25afd5242becd2b07f6d496ca47bcfc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83f46d872927dd0a1bf3807182b2d6c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41b13cb6d5aaaaf0631c8da9ce0d5c5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d273cf401864df080509e91e1f0f8429-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10827f71f044f000025945872427ee60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32d8db7742e39f769b7ee0e226321e76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb9c036a31078860c7acb2c182539f82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59dbb8100b274434b33c0895724b0453-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c337e517dfe58e19faf2ab74da2a2d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/408d0c0c567da11fa9aea13d92bf1ebd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22a638043a41b5605b89d7d6d4ba07b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d10e9763090d88995ea8f85b4629df8-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "42.8699--73.93607",
+      "id": "42.8699--73.93607",
+      "providerListingId": "1611e968mjpmu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b281d5324a86604839f18831a8d6df11-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/42.8699,-73.93607_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "Indian Brook Apartments",
+      "address": "74 Van Buren Rd, Schenectady, NY",
+      "addressStreet": "74 Van Buren Rd # f6c2b4bd3",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12302",
+      "units": [
+        {
+          "price": "$1,450+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "latLong": {
+        "latitude": 42.8699,
+        "longitude": -73.93607
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "isSaved": false,
+      "buildingName": "Indian Brook Apartments",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b281d5324a86604839f18831a8d6df11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/499b23dcfa55e229d42fc23b258242b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68dd7de20a8864d0655a2254580dc0e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2c132d1fafa19b1608fe99851d948b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed09fa9293b31ca3936009134bfd44e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c046ea8ee57ff871b09e01a58a124807-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e968c972a9f3f3a8a128456d8cb4c072-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c4899500d1941b951851b1f3d58223e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ba913be88dbb24bc68576f545d74bdf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31794fc80e1ff67516552cc5edaa7749-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f20bf8b8b01127d1d8b6bce88d4485f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7d8a3dfcad7b638b28ac52dfa58cd2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67e618ac9232a8907881e336f828e56e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22f458595b91d6e3393f28890bb3df83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a38a5fec06e8658036bf38385e517a1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14c98500527c0c50385a42068f98bd70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/716ad25536cb0df2cd76febf7ba02c57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc8085bad12c7878ed5a463b261975ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/708e66f3e83913855c6a172f9ce36275-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 4,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "201946932",
+      "id": "201946932",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4cm6mph1m96vm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8dfd50f612ef63a8a9249ee9845aa757-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1200-Hillside-Ave-Schenectady-NY-12309/201946932_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,895/mo",
+      "unformattedPrice": 1895,
+      "address": "1200 Hillside Ave, Schenectady, NY 12309",
+      "addressStreet": "1200 Hillside Ave",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12309",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1300,
+      "latLong": {
+        "latitude": 42.83313,
+        "longitude": -73.90951
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 201946932,
+          "streetAddress": "1200 Hillside Ave",
+          "zipcode": "12309",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.83313,
+          "longitude": -73.90951,
+          "price": 1895.0,
+          "datePriceChanged": 1731830400000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1860,
+          "listing_sub_type": {},
+          "priceReduction": "$30 (Nov 17)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1895.0,
+          "priceChange": -30,
+          "timeOnZillow": 1349331000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 134000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dfd50f612ef63a8a9249ee9845aa757-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22b16f40936fcaaa070d0af03ed9e2a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8ace180022afe4329913d6bfd2e60d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da63758ad8996d38228c40d275d58ff4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f948e6a826bc71cbbd00bfae51636a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74a75e2c9eb18f081c094ef94466a633-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fec5d832e08ec6a7c6fc917546ce512d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e99eb3716b7559228901bf905d9af46a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1e1a856c08e8b24618189e4fcbd3f13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c49feef12e7aeaaa72dc907700a89ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39d9558d83051fd20b0e426a9d46818a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06aeb23f233c95966ce7f370c5defd1b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aca5e5aa5020991034da455598567214-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442328281",
+      "id": "442328281",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ye89kegrnx0d",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8cd966f5352b9248f48714db4f998f6a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/201-Maple-Avenue-Ext-2-Schenectady-NY-12302/442328281_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "201 Maple Avenue Ext #2, Schenectady, NY 12302",
+      "addressStreet": "201 Maple Avenue Ext #2",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12302",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 3.0,
+      "area": 2500,
+      "latLong": {
+        "latitude": 42.868404,
+        "longitude": -73.90734
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442328281,
+          "streetAddress": "201 Maple Avenue Ext #2",
+          "zipcode": "12302",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.868404,
+          "longitude": -73.90734,
+          "price": 3000.0,
+          "datePriceChanged": 1731398400000,
+          "bathrooms": 3.0,
+          "bedrooms": 5.0,
+          "livingArea": 2500.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 20,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 397700,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Nov 12)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "priceChange": -300,
+          "timeOnZillow": 1789113000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 397700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cd966f5352b9248f48714db4f998f6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74fe44765dd7f242b3b94dacd3e62f14-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea85e585559e8d1debc3f81aa729dcef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7031f248a58b1f45d4ff163ab5ba4ad8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b64b3ff271583c2f04167e9ab3085e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1dad69f5f6c320b47b1108cf701b62ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f1c7ea9ebf0ed2f407855be547d50a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f655e31bc7296e49bb9b130028e093f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/836c6b8df150cb53fea002055db17384-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c21922b666a03bea5307ae7d059b40ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9933f87974b594fc1c7b7db7b3e7a553-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e27cc3b513937ea4ec85526740d894a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/095f2c7e399f5735c2ec6fc5c64ca543-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442406236",
+      "id": "442406236",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3tndwfxyuzrvv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f27ffd574911c7b8ca93a781b7573013-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/810-Gerling-St-FLOOR-2-Schenectady-NY-12308/442406236_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "810 Gerling St FLOOR 2, Schenectady, NY 12308",
+      "addressStreet": "810 Gerling St FLOOR 2",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12308",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.82759,
+        "longitude": -73.91971
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442406236,
+          "streetAddress": "810 Gerling St FLOOR 2",
+          "zipcode": "12308",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.82759,
+          "longitude": -73.91971,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 1518511000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-06 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f27ffd574911c7b8ca93a781b7573013-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/289439f3371282011648bf5efc82006b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af0b4e6eec09e424afb664be6fc7702c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8ac661d879d14d97880a30bcf6d5eb0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f7358fee4d7b72187047650971b507c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f82c1450a06d2731f9e1f6ed31b9f455-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6e52097c493bd89753b02919efe8aa7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44ce8439755ae795d7647ab5e092c24b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9db558c652226b2e8abe9800a6c40ef6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edfb35dc5a220b48133ea10c77ff1d56-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd59139ae729f798e3ac521854ab7072-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75bf7f872b41ea0356cea370b77bf473-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d43d675d63f22bd4896544f8e1fb585c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2b9479552a66bde364dc9908ade0cd7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2008a4d06fffff7e8cc05a9a3b8c5544-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.83651--73.91673",
+      "id": "42.83651--73.91673",
+      "providerListingId": "5abemme9uss37",
+      "imgSrc": "https://photos.zillowstatic.com/fp/02934ed63fb6750f7ad5491102e43ef0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/42.83651,-73.91673_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "541D Northend Dr, Schenectady, NY",
+      "addressStreet": "541D Northend Dr # 4102",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12308",
+      "units": [
+        {
+          "price": "$1,515+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,625+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2743006692,
+      "latLong": {
+        "latitude": 42.83651,
+        "longitude": -73.91673
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/02934ed63fb6750f7ad5491102e43ef0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec6173e3015cb3af9fd7098b60b90f3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8b673ba0670ce7620ea349968ef1349-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c5e92d1a3d5157caf6fd6441b4f59c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b8c98b7153ef7751c24d8b896268f50-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bc621eef3b2caa14a673c79af63737e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b746a3eca07415e0aa65886f0c329d83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0af52ef4c51e7b28f7df0f856d9e17e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d68a230aede76ee4c7478dbd55836df1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a720af0aa5fcc07932b69ee4d0d3716-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcb2e8c7a54ef175dda45ddbe74941a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73373f41e00e886506ce1f35b9bde45d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf9d52c1a09c3b2a000a7a643c89dfe5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4198bb5af5790ccd063181614710c276-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/251851a29221ac2cbb1a8fa91a1cfc05-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c84074a02bde6619a62da5293adb9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b20d3547eb4db3fd54808b196998efab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7262aa66acc591d6db3972be6ac0a121-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6b305420c21c3535ce0d5beb0ad6aed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/623b04fea5d08c32e2d0afa77968312a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff7b396d55a42332e8cb07311e7123cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b570747a1786f5f235da3ccc4cd64922-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69cbc841d709ce1ed4e1bd7dcf975ba5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa3cd34c04d87a1dac7328f78f17953b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41408e6c271f75d6f4901dcc31bc3375-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    }
+  ],
+  "resultsHash": "1f6b3147",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1363fa0b"
+}

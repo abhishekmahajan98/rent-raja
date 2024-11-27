@@ -1,0 +1,179 @@
+{
+  "listResults": [
+    {
+      "zpid": "439308243",
+      "id": "439308243",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1t2rqxnnea196",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.717506408691406,-78.00360870361328&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=ttsqEcvqYVX1HnSqMJO_UQ3kt9k=",
+      "detailUrl": "https://www.zillow.com/homedetails/55-S-Main-St-Perry-NY-14530/439308243_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$750+/mo",
+      "unformattedPrice": 750,
+      "address": "55 South Main Street - 110, 55 S Main St, Perry, NY 14530",
+      "addressStreet": "55 S Main St",
+      "addressCity": "Perry",
+      "addressState": "NY",
+      "addressZipcode": "14530",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.717506408691406,-78.00360870361328&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=WpH_4vkLxRyv_Zfjv_ndcVTnNHs=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.717506408691406,-78.00360870361328&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=cbc9lGB8LXe3LGGXkUabaUpC3y0=",
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.717506,
+        "longitude": -78.00361
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439308243,
+          "streetAddress": "55 S Main St",
+          "zipcode": "14530",
+          "city": "Perry",
+          "state": "NY",
+          "latitude": 42.717506,
+          "longitude": -78.00361,
+          "price": 750.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 51,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 750.0,
+          "timeOnZillow": 4469969000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Supergoose Management, LLC",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "439308243",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.717506408691406,-78.00360870361328&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=ttsqEcvqYVX1HnSqMJO_UQ3kt9k=",
+      "detailUrl": "/homedetails/55-S-Main-St-Perry-NY-14530/439308243_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$750+/mo",
+      "priceLabel": "$750",
+      "address": "55 S Main St, Perry, NY 14530",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.717506408691406,-78.00360870361328&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=WpH_4vkLxRyv_Zfjv_ndcVTnNHs=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.717506408691406,-78.00360870361328&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=cbc9lGB8LXe3LGGXkUabaUpC3y0=",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.717506,
+        "longitude": -78.00361
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439308243,
+          "streetAddress": "55 S Main St",
+          "zipcode": "14530",
+          "city": "Perry",
+          "state": "NY",
+          "latitude": 42.717506,
+          "longitude": -78.00361,
+          "price": 750.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 750.0,
+          "timeOnZillow": 4469969000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Supergoose Management, LLC",
+      "timeOnZillow": 4469969000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "f348af1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

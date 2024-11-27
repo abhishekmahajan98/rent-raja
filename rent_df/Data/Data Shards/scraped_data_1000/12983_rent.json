@@ -1,0 +1,504 @@
+{
+  "listResults": [
+    {
+      "zpid": "30429703",
+      "id": "30429703",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "a7e5vrrcg322",
+      "imgSrc": "https://photos.zillowstatic.com/fp/694dc680831b5f89651a1ad2767ff099-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Lake-Placid-NY-12946/30429703_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "(undisclosed Address), Lake Placid, NY 12946",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Lake Placid",
+      "addressState": "NY",
+      "addressZipcode": "12946",
+      "isUndisclosedAddress": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1210,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30429703,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12946",
+          "city": "Lake Placid",
+          "state": "NY",
+          "price": 3000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1210.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 27,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 528200,
+          "rentZestimate": 2079,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 2402775000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 528200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/694dc680831b5f89651a1ad2767ff099-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/688472bdb9945fe9783018f613424815-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6176f6e961c022c0a716cf31e9d6ec3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bfe8d653d6cffee262eb2b66d70c83e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe9269776ea5c1b20dca508e6e18c012-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442601152",
+      "id": "442601152",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4azb77mvrtpzw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e24d4cb399cc8c10abf427d7c463a796-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/77-Will-Rogers-Dr-12-Saranac-Lake-NY-12983/442601152_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$895/mo",
+      "unformattedPrice": 895,
+      "address": "77 Will Rogers Dr #12, Saranac Lake, NY 12983",
+      "addressStreet": "77 Will Rogers Dr #12",
+      "addressCity": "Saranac Lake",
+      "addressState": "NY",
+      "addressZipcode": "12983",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 44.3108,
+        "longitude": -74.11279
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442601152,
+          "streetAddress": "77 Will Rogers Dr #12",
+          "zipcode": "12983",
+          "city": "Saranac Lake",
+          "state": "NY",
+          "latitude": 44.3108,
+          "longitude": -74.11279,
+          "price": 895.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 895.0,
+          "timeOnZillow": 854206000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 12",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e24d4cb399cc8c10abf427d7c463a796-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84fc91ba2951aba3e1a737a36c38cb94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3ae2d206dfcbf59449743c55d548cbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c16e8c7c1c0e63f6fa72a3683c864555-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c1ee46af94f5e3b44ad78f8c61c0409-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442652494",
+      "id": "442652494",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "56rpe4jkza9c5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/379272fde6da58d5e91f057c8bd3a39a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/322-Ray-Brook-Rd-10-Ray-Brook-NY-12977/442652494_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "322 Ray Brook Rd #10, Ray Brook, NY 12977",
+      "addressStreet": "322 Ray Brook Rd #10",
+      "addressCity": "Ray Brook",
+      "addressState": "NY",
+      "addressZipcode": "12977",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 44.298355,
+        "longitude": -74.08236
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442652494,
+          "streetAddress": "322 Ray Brook Rd #10",
+          "zipcode": "12977",
+          "city": "Ray Brook",
+          "state": "NY",
+          "latitude": 44.298355,
+          "longitude": -74.08236,
+          "price": 1400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 775917000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 10",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/379272fde6da58d5e91f057c8bd3a39a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b136d817afdf1360a8e1dd5109491051-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40855192196736dd7c3e7103f99b198e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f17bd556c2d8af82e572745b9fca67af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3621511ef5cecdcfd64851571769402-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c3d82f6c7ed49133cc10bcb5fc6d329-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb01d798776ee69d1f8dac29d09cc12b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442601152",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e24d4cb399cc8c10abf427d7c463a796-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/77-Will-Rogers-Dr-12-Saranac-Lake-NY-12983/442601152_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$895/mo",
+      "priceLabel": "$895",
+      "address": "77 Will Rogers Dr #12, Saranac Lake, NY 12983",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 44.3108,
+        "longitude": -74.11279
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442601152,
+          "streetAddress": "77 Will Rogers Dr #12",
+          "zipcode": "12983",
+          "city": "Saranac Lake",
+          "state": "NY",
+          "latitude": 44.3108,
+          "longitude": -74.11279,
+          "price": 895.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 895.0,
+          "timeOnZillow": 854206000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 12",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "visited": false,
+      "timeOnZillow": 854206000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442652494",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/379272fde6da58d5e91f057c8bd3a39a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/322-Ray-Brook-Rd-10-Ray-Brook-NY-12977/442652494_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,400/mo",
+      "priceLabel": "$1.4K",
+      "address": "322 Ray Brook Rd #10, Ray Brook, NY 12977",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 44.298355,
+        "longitude": -74.08236
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442652494,
+          "streetAddress": "322 Ray Brook Rd #10",
+          "zipcode": "12977",
+          "city": "Ray Brook",
+          "state": "NY",
+          "latitude": 44.298355,
+          "longitude": -74.08236,
+          "price": 1400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 775917000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 10",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "visited": false,
+      "timeOnZillow": 775917000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "45a05e20",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

@@ -1,0 +1,205 @@
+{
+  "listResults": [
+    {
+      "zpid": "2053038686",
+      "id": "2053038686",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "rngqupe500qs",
+      "imgSrc": "https://photos.zillowstatic.com/fp/524f50eb7471e34a953cb1f6428f8ffe-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/201-west-main-street-2-brownville-ny-9PQ5Pk/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850+/mo",
+      "unformattedPrice": 850,
+      "address": "201 West Main Street - 2, 201 W Main St, Brownville, NY 13615",
+      "addressStreet": "201 W Main St #2",
+      "addressCity": "Brownville",
+      "addressState": "NY",
+      "addressZipcode": "13615",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 44.001785,
+        "longitude": -75.98587
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053038686,
+          "streetAddress": "201 W Main St #2",
+          "zipcode": "13615",
+          "city": "Brownville",
+          "state": "NY",
+          "latitude": 44.001785,
+          "longitude": -75.98587,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 892,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 934520000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Monument Property Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/524f50eb7471e34a953cb1f6428f8ffe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd2cdf59517a8280d58a7684573d0909-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0edd05d3a97c87d78f12e4ea67bad227-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4dff34e044a2b597c37b7475bf01da6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33de00eea4f95f6c9ab78691d962661b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c689f59196659b6ae736d900b5fb976f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2053038686",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/524f50eb7471e34a953cb1f6428f8ffe-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/201-west-main-street-2-brownville-ny-9PQ5Pk/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$850+/mo",
+      "priceLabel": "$850",
+      "address": "201 W Main St, Brownville, NY 13615",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 44.001785,
+        "longitude": -75.98587
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053038686,
+          "streetAddress": "201 W Main St #2",
+          "zipcode": "13615",
+          "city": "Brownville",
+          "state": "NY",
+          "latitude": 44.001785,
+          "longitude": -75.98587,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 892,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 934520000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Monument Property Group",
+      "timeOnZillow": 934520000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "1c856c86",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

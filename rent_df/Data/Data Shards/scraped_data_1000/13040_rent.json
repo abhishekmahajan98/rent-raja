@@ -1,0 +1,157 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "442587651",
+      "id": "442587651",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "a971ps2pxak1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6f59c660a855581a91d868c0e67f2994-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2-Cortland-St-APT-1-Marathon-NY-13803/442587651_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,025/mo",
+      "unformattedPrice": 1025,
+      "address": "2 Cortland St APT 1, Marathon, NY 13803",
+      "addressStreet": "2 Cortland St APT 1",
+      "addressCity": "Marathon",
+      "addressState": "NY",
+      "addressZipcode": "13803",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1300,
+      "latLong": {
+        "latitude": 42.441975,
+        "longitude": -76.032196
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442587651,
+          "streetAddress": "2 Cortland St APT 1",
+          "zipcode": "13803",
+          "city": "Marathon",
+          "state": "NY",
+          "latitude": 42.441975,
+          "longitude": -76.032196,
+          "price": 1025.0,
+          "datePriceChanged": 1732089600000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$25 (Nov 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1025.0,
+          "priceChange": -25,
+          "timeOnZillow": 911113000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f59c660a855581a91d868c0e67f2994-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5d435dc3e2d2dd67a1f7e99d390d7a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c875b8563500fd23d3372a5d188b6c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcc3317aaa4463b42aa4a57594f264a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/315726d76aa6e892bfe71eab4e7ce5ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4da2faaab086673a997ba96c1089397e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/361e9cfc3139ae2ab97621a4b5737fca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4baea7306b65fdad61cc147c2758d82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bff85e07041280ce11dec612f20897ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da2e6d925f8624440c94783b8a96f600-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c319ecf2ccb358b9ef5be83f686ab247-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9aa3434f2a1feb71a261b14f6416ecc5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbd96b3a03ddec522469e73a06c48994-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/750157e9ceb4fb6db865ece59fbfcc64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f42219a2d2f15e6dc17b1ffb7dfd205e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d79f36bc43e8d6bf7d2dfa487216d3c-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "15c4f4d1"
+}

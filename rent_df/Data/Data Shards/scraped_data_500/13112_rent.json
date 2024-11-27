@@ -1,0 +1,895 @@
+{
+  "listResults": [
+    {
+      "zpid": "31784405",
+      "id": "31784405",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4tmdf96dycep2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/edd14a8ef7369cb77c78f9bdff8e965c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8-Lanyard-Ln-Baldwinsville-NY-13027/31784405_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "8 Lanyard Ln, Baldwinsville, NY 13027",
+      "addressStreet": "8 Lanyard Ln",
+      "addressCity": "Baldwinsville",
+      "addressState": "NY",
+      "addressZipcode": "13027",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 1670,
+      "latLong": {
+        "latitude": 43.15292,
+        "longitude": -76.36742
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31784405,
+          "streetAddress": "8 Lanyard Ln",
+          "zipcode": "13027",
+          "city": "Baldwinsville",
+          "state": "NY",
+          "latitude": 43.15292,
+          "longitude": -76.36742,
+          "price": 2800.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 1670.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 312800,
+          "rentZestimate": 2539,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "timeOnZillow": 141490000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 236842.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 312800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-21 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: DynaMax Realty Inc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/edd14a8ef7369cb77c78f9bdff8e965c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d670d4e1fda64d5bb9b3ae54edf7a926-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ccedfbe4b1db08266c200632de711f71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a42f32368f8df577f23b1de0dd7b9e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e990acd26123fa08a7099f8530dbe78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4196c5f3ea96256aa4f0fdbdb2ddc4c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46c101e474b7acabb917de51d16643be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2fcb932f1e92a636b2ddf3951d2453b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca260f1d0eb864c92b6fc5543cde5ccd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ba746695a95d9b15b0195e4f022d9a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/948cc81f5367ab492dbea4bce04f90b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a4593f3f9f6cf9a51228042f1397c32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71a3242fe989a543f063e1c2f78551ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59a77a0fecf670b54e8472ffbb515167-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1f05273c42c5873bda86b993e509f88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a7496f59b57c000d1df801359455965-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0ccdf4b8282e5bbfc43eeba9cc50adc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2362146b0fb08442aa978667c3194bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31bf351ded585093f507e81677104720-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7d424073e3166efd28940dc63c13cb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be811b55eb703d1062964d7286f3ee5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bbae29ee8332a24f35731da387da84e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/434b50c4db88b132d1e4071638ccf8a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e698fb98d032f7f180cedfd7d817e8e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0103400b753f2a71f487ac47fffa9a30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc6fe03910470451ac63338a9bd129da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf6ef44793cd5b767e315a59e9207be5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/176b71748492f97caaa4d9dd04836523-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c00ebfd1ba49b4c8d269a1b0c410397-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e59a04b0371ad1c1c30818b61f92886d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c047b44c4202dccbc0c66b4102b975c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd5f84cf593221ca53f858f84cb04773-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a553468da1691bf7292caf14d18ec0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2929abf2f5f1e046d1d5affe2048a4f4-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "31784405",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/edd14a8ef7369cb77c78f9bdff8e965c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/8-Lanyard-Ln-Baldwinsville-NY-13027/31784405_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,800/mo",
+      "priceLabel": "$2.8K",
+      "address": "8 Lanyard Ln, Baldwinsville, NY 13027",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 1670,
+      "latLong": {
+        "latitude": 43.15292,
+        "longitude": -76.36742
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31784405,
+          "streetAddress": "8 Lanyard Ln",
+          "zipcode": "13027",
+          "city": "Baldwinsville",
+          "state": "NY",
+          "latitude": 43.15292,
+          "longitude": -76.36742,
+          "price": 2800.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 1670.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 312800,
+          "rentZestimate": 2539,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "timeOnZillow": 141490000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 236842.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-21 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: DynaMax Realty Inc",
+      "timeOnZillow": 141490000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "43.151104--76.34447",
+      "id": "43.151104--76.34447",
+      "providerListingId": "2kwyhf4f01fde",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2f5b538b1c39583a9a46c24c97edde31-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/baldwinsville-ny/the-landings-at-meadowood-apartment-homes/Cgss6L/",
+      "statusType": "FOR_RENT",
+      "statusText": "The Landings at Meadowood Apartment Homes",
+      "address": "111 Pebblewood Ln, Baldwinsville, NY",
+      "addressStreet": "111 Pebblewood Ln   # 315-06",
+      "addressCity": "Baldwinsville",
+      "addressState": "NY",
+      "addressZipcode": "13027",
+      "units": [
+        {
+          "price": "$1,640+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,775+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2737557986,
+      "latLong": {
+        "latitude": 43.151104,
+        "longitude": -76.34447
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "SPECIAL_OFFER",
+        "text": "Special Offer"
+      },
+      "isSaved": false,
+      "buildingName": "The Landings at Meadowood Apartment Homes",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f5b538b1c39583a9a46c24c97edde31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26f6ae26488879a1cd8d943b92bfc361-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f437c3a74de579244a79be1248dffe42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2af940b6b61006ba9fe14cf52a157f79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cacde0d86e8b17d98f91304c866ca545-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5858f75de8de37225b670df1b9755ee7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d6260a8bc0dfc5d3ba9bbc3484c42c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b69a27cc66a84ca476b4a55705e6d6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2254f0b6949254e372efffb356dcc2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8000704f709f3d1fc78f31c8a9d8e229-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2d5247aa9922106f6281f34ecd04d42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cc2bb6b59be009e698d799061506b22-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfcb1a47ce5cf75e3d555fbdf678cc96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96a0a7aaa765b91b41888c6bac2fba73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1883fdca706580f5f4a316923b619b7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf0feccacf92079ee5934a2ee1879b30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/680b44900bb0cff0b56b5add9c1c87c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9365f2493f66aaefb2ce0b1b82759810-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6f68baea9b9b05e7d5969ff3585b002-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5b7c7a6e3f4615130b9229f4bc49636-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 4,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "43.16743--76.36169",
+      "id": "43.16743--76.36169",
+      "providerListingId": "2zb6xfvcz7vm0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/00313d01c6884ba545b6c1a6d001fe22-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/43.16743,-76.36169_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "44 Florentine Cir, Baldwinsville, NY",
+      "addressStreet": "44 Florentine Cir ",
+      "addressCity": "Baldwinsville",
+      "addressState": "NY",
+      "addressZipcode": "13027",
+      "units": [
+        {
+          "price": "$2,208+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,375+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "latLong": {
+        "latitude": 43.16743,
+        "longitude": -76.36169
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/00313d01c6884ba545b6c1a6d001fe22-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92a11f06f42f96356ef34059d2ab8daf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0df6758e20e62c7db51f798345b1d058-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8adb037ecee0e68daa77ebecc5b28b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba0e422d421ae6b2c310d8ad8a806cbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11513dd3a4f460b2f1d8636c6b64ff30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8230afa5f8aa638bf29999a69e49e6dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1908cd1687a30375f8971e450b80c79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cda477327d1a0ac27b137dd2b0cb9a6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c20debb7adc17a2084522e5eee2b073-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57a257ef1472e593da205628caba70c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2a4af5242d1f5f89e490e0298dfbb03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75a053fb2c39ac3e2a0c461eaba24942-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eaa3cbbf284caaab7cbf09757f60a57a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c96b295153586c76d59b63f089ed1ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0ef59080e022c114af259930a4a523c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f91ff07e840730ee1c998a2b8c75b432-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/074b24893567606c984a99c4f9d3b643-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19159e2b667b73ec70af5836a0cbe16d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aefe34d01ddd5c24d43b7703c418d600-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/952bd33aac72741511ae56fb1dc44f5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eafef284605c73ff67bfdebcfe931ca0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f08f90b962c303aef528ec33c516f472-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b117d877e91b19343616f30ea4f4e463-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a62695982ab213fb8bb5bd5192c9dcb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5de32ddcc4a9edabc0c8a98156e6a5fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e2443ad55dd729b8ddbbd93889e2bda-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 6,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "442583990",
+      "id": "442583990",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "p9sgjgb85j4n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0972e275c596debd8e4eeb684811c32a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/20-McHarrie-St-FLOOR-1-Baldwinsville-NY-13027/442583990_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,050/mo",
+      "unformattedPrice": 1050,
+      "address": "20 McHarrie St FLOOR 1, Baldwinsville, NY 13027",
+      "addressStreet": "20 McHarrie St FLOOR 1",
+      "addressCity": "Baldwinsville",
+      "addressState": "NY",
+      "addressZipcode": "13027",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 875,
+      "latLong": {
+        "latitude": 43.153675,
+        "longitude": -76.33858
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442583990,
+          "streetAddress": "20 McHarrie St FLOOR 1",
+          "zipcode": "13027",
+          "city": "Baldwinsville",
+          "state": "NY",
+          "latitude": 43.153675,
+          "longitude": -76.33858,
+          "price": 1050.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 875.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1050.0,
+          "timeOnZillow": 887474000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-02 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0972e275c596debd8e4eeb684811c32a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e2b7d3cc19a66d27238c9366bb5f822-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/186da42f120071efc8b97b8ae4873371-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67476f7aa6e9a040e1fb010e5736395d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d240defa893c4bce14a82a968447e49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/774305ba0a78b7accca7a96c5cf76691-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd0505f93cb07a8daba8195a58a325c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/303ec66c49248b81d8c04745b925a804-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32c361e9ceae6b3ce14881eaf9d1d307-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31782856",
+      "id": "31782856",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2aw7m14ch2kvj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/50cb582e0e96764eaf071ee568871a61-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Baldwinsville-NY-13027/31782856_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "(undisclosed Address), Baldwinsville, NY 13027",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Baldwinsville",
+      "addressState": "NY",
+      "addressZipcode": "13027",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 918,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31782856,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13027",
+          "city": "Baldwinsville",
+          "state": "NY",
+          "price": 2800.0,
+          "datePriceChanged": 1732262400000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 918.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 171700,
+          "rentZestimate": 1959,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 22)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -200,
+          "timeOnZillow": 717388000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 171700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/50cb582e0e96764eaf071ee568871a61-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2090944834",
+      "id": "2090944834",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5gjsb7s9uqfzt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e355ed24f02cb54a42f9536d74ab4928-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/16-Daisy-Ln-Weedsport-NY-13166/2090944834_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,225/mo",
+      "unformattedPrice": 1225,
+      "address": "16 Daisy Ln, Weedsport, NY 13166",
+      "addressStreet": "16 Daisy Ln",
+      "addressCity": "Weedsport",
+      "addressState": "NY",
+      "addressZipcode": "13166",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 980,
+      "latLong": {
+        "latitude": 43.023464,
+        "longitude": -76.49405
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2090944834,
+          "streetAddress": "16 Daisy Ln",
+          "zipcode": "13166",
+          "city": "Weedsport",
+          "state": "NY",
+          "latitude": 43.023464,
+          "longitude": -76.49405,
+          "price": 1225.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 980.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 131200,
+          "rentZestimate": 1474,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1225.0,
+          "timeOnZillow": 907157000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 131200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-13 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e355ed24f02cb54a42f9536d74ab4928-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc284aea5c152faf6b5f851f962ad469-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bd5cda581f172a1247568dd90fdb148-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/312df32cd6e60f9644b87592f4a26b01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/978953341ae9a9a12fcc88d80c8f7f72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba0dc06c3fb17c800b35b9de48fe1106-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca956182e9f79941b68a5d63f42aa405-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b500563c7ae2641cba639c9eb6eb2d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cc83c7612b3ee658328b22d8cb13817-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a0a072a06d2b26e928c5380df34fb91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc03ab0859cc8cf67332bdd968023b03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25ce8fb582ce1087225ecdd9b7488325-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c612c960000cd24d4652e5f62dbb9719-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0e6453a03823e4711f4cd847a0dbc80-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "32f562e3",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "26834ba"
+}

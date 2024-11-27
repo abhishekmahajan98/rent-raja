@@ -1,0 +1,428 @@
+{
+  "listResults": [
+    {
+      "zpid": "299665912",
+      "id": "299665912",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "233ad4zz98d7e",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2dfc51884b20637c026632172fe0cf9e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2035-Kehoe-Rd-Clayville-NY-13322/299665912_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,750/mo",
+      "unformattedPrice": 1750,
+      "address": "2035 Kehoe Rd, Clayville, NY 13322",
+      "addressStreet": "2035 Kehoe Rd",
+      "addressCity": "Clayville",
+      "addressState": "NY",
+      "addressZipcode": "13322",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1260,
+      "latLong": {
+        "latitude": 42.961025,
+        "longitude": -75.232704
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 299665912,
+          "streetAddress": "2035 Kehoe Rd",
+          "zipcode": "13322",
+          "city": "Clayville",
+          "state": "NY",
+          "latitude": 42.961025,
+          "longitude": -75.232704,
+          "price": 1750.0,
+          "datePriceChanged": 1732089600000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1260.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1666,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "priceChange": -50,
+          "timeOnZillow": 2205635000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 86614.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dfc51884b20637c026632172fe0cf9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/94c13d3cf795ea2b9f0ef0c1e0fb5307-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bea9ab02c3e151a44f5f75fa84f1403-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d106729d790aad7788af2c832137f97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f78d009311688f646f6ab191b34fb422-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10218fbcdeddf164dfa499d3f133f1fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31c7e51f115fda83f87e8fb657a69358-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00d95276eb12090bc8bad422dc967d9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c93606576197a7250b56907ee384f456-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/925f97f3ab135a81d9f2d32d6950dd65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43aab9a8cc33e67281e1529f6f7233d3-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "299665912",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2dfc51884b20637c026632172fe0cf9e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2035-Kehoe-Rd-Clayville-NY-13322/299665912_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,750/mo",
+      "priceLabel": "$1.8K",
+      "address": "2035 Kehoe Rd, Clayville, NY 13322",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1260,
+      "latLong": {
+        "latitude": 42.961025,
+        "longitude": -75.232704
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 299665912,
+          "streetAddress": "2035 Kehoe Rd",
+          "zipcode": "13322",
+          "city": "Clayville",
+          "state": "NY",
+          "latitude": 42.961025,
+          "longitude": -75.232704,
+          "price": 1750.0,
+          "datePriceChanged": 1732089600000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1260.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1666,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "priceChange": -50,
+          "timeOnZillow": 2205635000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 86614.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2205635000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "352067651",
+      "id": "352067651",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1uwvtv3827m6c",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f0b3a96417cedd85b05b6de5ee2734b2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2888-Oneida-St-1-Sauquoit-NY-13456/352067651_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "2888 Oneida St #1, Sauquoit, NY 13456",
+      "addressStreet": "2888 Oneida St #1",
+      "addressCity": "Sauquoit",
+      "addressState": "NY",
+      "addressZipcode": "13456",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 43.00258,
+        "longitude": -75.25746
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 352067651,
+          "streetAddress": "2888 Oneida St #1",
+          "zipcode": "13456",
+          "city": "Sauquoit",
+          "state": "NY",
+          "latitude": 43.00258,
+          "longitude": -75.25746,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 21,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 169400,
+          "rentZestimate": 1615,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 1852853000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 169400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Weichert Realtors",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0b3a96417cedd85b05b6de5ee2734b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6efc4c091ef693eff6e267e756525f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bab927e8757640a0df4bdcd3cbfa22ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39dc992be53d831aa37a135e5b7884a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a363b81098238aae8bbeeffb03c5325-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/678f12b75785f6ce39f4291d8600b09a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b67bf8db89ffc8f61d51662eaed484d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e9a548813dd2c9544f6e7be2fc2c819-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba2df7973cdd62c0a7de2b360888e2b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f26877e20269993e56f47f48b7dd7099-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cdd3ea8306b1087e9f9779e8637a5475-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29bc3743707be87a886fb728cf3aa022-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6848b81524f0f0ac8708643b12337f16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a6a9768e599edec41c822261790d53d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6e7409e0cd7c60459599c3d98531b69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e043cf75ede885934018454f63d85994-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad8f3b1a3211c63cddb87087ea11109f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcac732fb5c8d831774457f3d65767d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a65e9cb19660fa8b5d9213ba99a255b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb1ad68522e7500cc6b5a9d510f40c1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/602f9e395d73a4b3de5e519be74f55ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2aeba18cabc57bbccd18d1ba39da1012-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fd8437613b8f681dd7dafaeb1c285ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/627567d340cf61565a69cc4a6a8b0e02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f11cb7a0a68a50f67b2d704b9fab967d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a621e7d13045692962437a1f4b2882a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/defcff7ad27264223cda7b80355dc339-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9520b965d88d2bd78a2e385f3f1b2ceb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2533517eafd72430a69c8119b2cee656-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dbc71f4b89dd4ddc250c19a75f536e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63bdf4dc496acd5e8c06332c6fd5919c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56c6cbf4e67319c1cee227275cd42f40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e73de2b0f565d85eb79022e413da99cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c046e2ff82d8be88d893d45350b3b4fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/980e15d5e4cda513b24a10756571fce9-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "3cfb77f6",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "4acca110"
+}

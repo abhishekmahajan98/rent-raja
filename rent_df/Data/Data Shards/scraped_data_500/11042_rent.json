@@ -1,0 +1,1296 @@
+{
+  "listResults": [
+    {
+      "zpid": "442126557",
+      "id": "442126557",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5ft5ynskft43r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6ddeb7ce9b81768dc6ed907dfc6f72c5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/0-Lake-Rd-Great-Neck-NY-11020/442126557_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$9,900/mo",
+      "unformattedPrice": 9900,
+      "address": "0 Lake Rd, Great Neck, NY 11020",
+      "addressStreet": "0 Lake Rd",
+      "addressCity": "Great Neck",
+      "addressState": "NY",
+      "addressZipcode": "11020",
+      "isUndisclosedAddress": false,
+      "beds": 6,
+      "baths": 4.0,
+      "area": 3700,
+      "latLong": {
+        "latitude": 40.760517,
+        "longitude": -73.71008
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442126557,
+          "streetAddress": "0 Lake Rd",
+          "zipcode": "11020",
+          "city": "Great Neck",
+          "state": "NY",
+          "latitude": 40.760517,
+          "longitude": -73.71008,
+          "price": 9900.0,
+          "datePriceChanged": 1731657600000,
+          "bathrooms": 4.0,
+          "bedrooms": 6.0,
+          "livingArea": 3700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 26,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1846500,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 9900.0,
+          "priceChange": 800,
+          "timeOnZillow": 2271845000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1846500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ddeb7ce9b81768dc6ed907dfc6f72c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56830e2d0eb5f0dbd8fcb363061db10d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22fbc5060581e8c614833f110c3ac219-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ca5496423547d57d6c09907dd3db05b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf303f3d01c2a35955924f6809aae842-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62b326bd491573d0a235002b44ce93dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/507026d934c5b2a920b7d69525bc62ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c275cc0020d3d0ac23fcdcec6b19d0d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442126557",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6ddeb7ce9b81768dc6ed907dfc6f72c5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/0-Lake-Rd-Great-Neck-NY-11020/442126557_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$9,900/mo",
+      "priceLabel": "$9.9K",
+      "address": "0 Lake Rd, Great Neck, NY 11020",
+      "isNewYorkState": true,
+      "beds": 6,
+      "baths": 4.0,
+      "area": 3700,
+      "latLong": {
+        "latitude": 40.760517,
+        "longitude": -73.71008
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442126557,
+          "streetAddress": "0 Lake Rd",
+          "zipcode": "11020",
+          "city": "Great Neck",
+          "state": "NY",
+          "latitude": 40.760517,
+          "longitude": -73.71008,
+          "price": 9900.0,
+          "datePriceChanged": 1731657600000,
+          "bathrooms": 4.0,
+          "bedrooms": 6.0,
+          "livingArea": 3700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1846500,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 9900.0,
+          "priceChange": 800,
+          "timeOnZillow": 2271845000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2271845000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "32099368",
+      "id": "32099368",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "18dwu2wcanrqd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a8d8f18782a1f6d6eb472a30eec85c94-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/25111-82nd-Ave-Jamaica-NY-11426/32099368_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,700/mo",
+      "unformattedPrice": 4700,
+      "address": "25111 82nd Ave, Jamaica, NY 11426",
+      "addressStreet": "25111 82nd Ave",
+      "addressCity": "Jamaica",
+      "addressState": "NY",
+      "addressZipcode": "11426",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 1273,
+      "latLong": {
+        "latitude": 40.739777,
+        "longitude": -73.71754
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32099368,
+          "streetAddress": "25111 82nd Ave",
+          "zipcode": "11426",
+          "city": "Jamaica",
+          "state": "NY",
+          "latitude": 40.739777,
+          "longitude": -73.71754,
+          "price": 4700.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 1273.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 868800,
+          "rentZestimate": 4320,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4700.0,
+          "timeOnZillow": 774625000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 736000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 868800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8d8f18782a1f6d6eb472a30eec85c94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47a6ee5fe908d1b15da064f1920153b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5509567d51498503517588e74ac9d505-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3add831bd1ab7f154b147cb2533dcfb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e0518d7e8192d466787fcbf4086fe5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f6249fc1e6a620aa6de4f37d0721a0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2daa20544ee6f3d644751f737e21bbb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b7ea706408bbe71dc3cf1dad34f7fbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a84cfc64e2b35741e2e0acc5e20e6d1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c609c5db467f572fcb342104a04bf6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ff365989502287260f713b2166447d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a4aaf16624a60b74212e36f2ca3cb00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79424512a2443b473ad787480cc82c04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e89b693a8f01f940c8ae5c205d963bf7-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2123303859",
+      "id": "2123303859",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "513ze11b1k0bw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/26b4fc47e059820b459da1d854b4bf75-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/24510-Grand-Central-Pkwy-APT-4A-Bellerose-NY-11426/2123303859_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,475/mo",
+      "unformattedPrice": 2475,
+      "address": "24510 Grand Central Pkwy APT 4A, Bellerose, NY 11426",
+      "addressStreet": "24510 Grand Central Pkwy APT 4A",
+      "addressCity": "Bellerose",
+      "addressState": "NY",
+      "addressZipcode": "11426",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.750423,
+        "longitude": -73.72632
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2123303859,
+          "streetAddress": "24510 Grand Central Pkwy APT 4A",
+          "zipcode": "11426",
+          "city": "Bellerose",
+          "state": "NY",
+          "latitude": 40.750423,
+          "longitude": -73.72632,
+          "price": 2475.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2807,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2475.0,
+          "timeOnZillow": 645930000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 4A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-16 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: DALLAL",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/26b4fc47e059820b459da1d854b4bf75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6aa0066100f141aedfafa1dbab974bb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c53798ec1f2fc82f7fa4d1ba76d572f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb525bb7bce51312943db55c0e578e55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdeb92bf243944de8a3b7bd1a2d8039d-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31099070",
+      "id": "31099070",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "18rwt097xdqmy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1cf473865d67be7f55ef26fbcd5a2da2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/181-Old-Courthouse-Rd-New-Hyde-Park-NY-11040/31099070_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$6,500/mo",
+      "unformattedPrice": 6500,
+      "address": "181 Old Courthouse Rd, New Hyde Park, NY 11040",
+      "addressStreet": "181 Old Courthouse Rd",
+      "addressCity": "New Hyde Park",
+      "addressState": "NY",
+      "addressZipcode": "11040",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 3047,
+      "latLong": {
+        "latitude": 40.759014,
+        "longitude": -73.6745
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31099070,
+          "streetAddress": "181 Old Courthouse Rd",
+          "zipcode": "11040",
+          "city": "New Hyde Park",
+          "state": "NY",
+          "latitude": 40.759014,
+          "longitude": -73.6745,
+          "price": 6500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 3047.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1491800,
+          "rentZestimate": 6008,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 6500.0,
+          "timeOnZillow": 1595088000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 897000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1491800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-05 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cf473865d67be7f55ef26fbcd5a2da2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65ae7a2c1fabf322dbc0e5b64e451b7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52998821f693bcfcfc4de257b0aef42c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/659aa6e895d96670bf780d0e4c719be0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebb4f04ef363b9c15af0c90c82a4f8e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6de81823d904252a4cff7682d4f132aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18743f9407ce7b557562a522db8b01ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b236265ac4acaa3367729f65e3f23c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a87d082a18c9e3330d8ec968a9f8574-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/727dbbebcae8aeecd931d9389a27b954-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f87ad9fa068ff1a4748d7986e208f8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0b32bc945586eba47292a274ce26cb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69bc7bebd80be0446428d6c8ec2d3d68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae836b832402ab55202c53c620563bd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5eb404a6fbe702885895b1e3d2eff9ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/628772b4b0ee537a99148c6afdd0664c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a21d9dd27d01d8ec6b66329688fb8af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7633d8b8d5834bff5176dd5de5c20834-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442750320",
+      "id": "442750320",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4b478s3xpyg74",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d9f818126191d49f1454282d1a2d9baa-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/254-03-58th-Ave-2-Little-Neck-NY-11362/442750320_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,200/mo",
+      "unformattedPrice": 3200,
+      "address": "254-03 58th Ave #2, Little Neck, NY 11362",
+      "addressStreet": "254-03 58th Ave #2",
+      "addressCity": "Little Neck",
+      "addressState": "NY",
+      "addressZipcode": "11362",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.76167,
+        "longitude": -73.72605
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442750320,
+          "streetAddress": "254-03 58th Ave #2",
+          "zipcode": "11362",
+          "city": "Little Neck",
+          "state": "NY",
+          "latitude": 40.76167,
+          "longitude": -73.72605,
+          "price": 3200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 269029000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-21 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Mae Equities",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9f818126191d49f1454282d1a2d9baa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69f2ede1f93dae08c8a3ec72cbefad80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f1be4c4a988fb79790f2555d72377fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d8ff58c62a36b200f56e68d5e2774ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b21a2afa1d77d6a6a16d8fd7c475f0a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/abc0589cb1920f990664be4450fad905-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27a17fd944e7f3f5f0e5131c2252ee3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f62e5dd877c94bb1a0225403af31c769-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13e6c5e72edb4efa75e783b7c575bf3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54ccf3f0be557b7df6af962e8188a2f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdc1cd82b36d270b33ce57628728f039-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c9758490a34cf4f81d3bc8cf301136d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce5249f54b8b226dec055a280e766fe7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5dddc2482d0e83280f4abbb353ba03b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67b7d9b4142009de5e41d1c23ae51a04-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31098525",
+      "id": "31098525",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3pvnh2wve6bdg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/361349025e070633155922893c4195f3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/183-Robby-Ln-New-Hyde-Park-NY-11040/31098525_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,400/mo",
+      "unformattedPrice": 5400,
+      "address": "183 Robby Ln, New Hyde Park, NY 11040",
+      "addressStreet": "183 Robby Ln",
+      "addressCity": "New Hyde Park",
+      "addressState": "NY",
+      "addressZipcode": "11040",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1930,
+      "latLong": {
+        "latitude": 40.762733,
+        "longitude": -73.67643
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31098525,
+          "streetAddress": "183 Robby Ln",
+          "zipcode": "11040",
+          "city": "New Hyde Park",
+          "state": "NY",
+          "latitude": 40.762733,
+          "longitude": -73.67643,
+          "price": 5400.0,
+          "datePriceChanged": 1727074800000,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1930.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 27,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1246200,
+          "rentZestimate": 5058,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Sep 23)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5400.0,
+          "priceChange": -200,
+          "timeOnZillow": 2360652000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 745000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1246200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Laffey Real Estate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/361349025e070633155922893c4195f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f75c27e0b8ed9bb4d62f76597d39e57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/add2905c6cefa7effa530fc3c9db5476-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7719f793195b553238353d28f6550cad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/876b9b70b23708d60fd60478718be500-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fb5de145299843a55e6ff7297c9508c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d6ecd92fb08d7e3506c407cf4f083ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2564f9a9c471fa3d6e2a0574244e6553-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cd5a6ad5a1e463fd1e609abe8a48875-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33f5ef55648bd9b8a06c4fbc2dcb7f86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5bafd1719e5137ca22ca0a6be9d735e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23899ee4e258b20bc1b3d891cc6dff13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3046c7787bbb1e59cdcd9a0df0307f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40c28214dfcc39cc35a7ada7351252cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dba8330589412d27a197dbe0fdc5e52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/487ae804cce3a48bc5b41d75b48d70fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d7437c8873c8ea14852232d3aef423d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66f9fe37800c7f9903d74fcdd5e106d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0314ad0244c635344444ed7cd1418f30-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2090086533",
+      "id": "2090086533",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1by68mb479zjj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5a3ea871902118b85f4e1b6c35ba4178-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/26167-Langston-Ave-1-Glen-Oaks-NY-11004/2090086533_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,900/mo",
+      "unformattedPrice": 1900,
+      "address": "26167 Langston Ave #1, Glen Oaks, NY 11004",
+      "addressStreet": "26167 Langston Ave #1",
+      "addressCity": "Glen Oaks",
+      "addressState": "NY",
+      "addressZipcode": "11004",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.753216,
+        "longitude": -73.71627
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2090086533,
+          "streetAddress": "26167 Langston Ave #1",
+          "zipcode": "11004",
+          "city": "Glen Oaks",
+          "state": "NY",
+          "latitude": 40.753216,
+          "longitude": -73.71627,
+          "price": 1900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2133,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "timeOnZillow": 42769000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: VORO LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a3ea871902118b85f4e1b6c35ba4178-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad164ebbd0c39ae12bb22aae89d56648-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c335a2a3b7697af67dcaa70faa836e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21b915361c783ade301d19002a14309e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00282f10ccb08a38977b16ccfbc6e7f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf05d4b3cec0dadbf940de25ff35132e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69b169a6c50736911945597e750f38bf-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "245463186",
+      "id": "245463186",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4fw6aq60avqjg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4fe2644af5f7ef389cb54e9b3886e018-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5440-Little-Neck-Pkwy-Little-Neck-NY-11362/245463186_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,250/mo",
+      "unformattedPrice": 2250,
+      "address": "5440 Little Neck Pkwy, Little Neck, NY 11362",
+      "addressStreet": "5440 Little Neck Pkwy",
+      "addressCity": "Little Neck",
+      "addressState": "NY",
+      "addressZipcode": "11362",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 40.765755,
+        "longitude": -73.72587
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 245463186,
+          "streetAddress": "5440 Little Neck Pkwy",
+          "zipcode": "11362",
+          "city": "Little Neck",
+          "state": "NY",
+          "latitude": 40.765755,
+          "longitude": -73.72587,
+          "price": 2250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2502,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2250.0,
+          "timeOnZillow": 522424000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 26115000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Keller William",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4fe2644af5f7ef389cb54e9b3886e018-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e1a68afe0d8588d2a116dc980fac7ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c08d6113e63d43e12389bfbdd6d46808-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb45c44cd081f86452ec661348b58300-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62ce114c6ec396774c1baf91c1fede5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2854f37fcc96db377d95f291cf9bf7ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2da5a6df81e73b8b362180ca54605d4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b652b23d3f1a1e4c974900db85f2e6b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dd9f92267218bc6197208564c13f082-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ca8468a225bd2030addbad20b1b5adc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73c936977bfb90d93c734b639be7a159-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f31d3ab973e059fb01a52380c1b77354-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82f7fc38e8d7abf2f6545f43b3bd33ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1b773f8af062eaa1e3fc9174915bb18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af4ea2faf0b2893f4975009f2dfa1a75-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2059003414",
+      "id": "2059003414",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2d1mbyfgjpdcc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f8b1a2e3890e53eb074fb44341dc591e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Glen-Oaks-NY-11004/2059003414_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "(undisclosed Address), Glen Oaks, NY 11004",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Glen Oaks",
+      "addressState": "NY",
+      "addressZipcode": "11004",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2059003414,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11004",
+          "city": "Glen Oaks",
+          "state": "NY",
+          "price": 2500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2166,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 364074000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Team Raj Jaggi - VORO",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8b1a2e3890e53eb074fb44341dc591e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/579c2ba4953ce474b15ca968cab14338-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42b57cb19bb2b1235cb54a8ca749bb61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17576d1acb4d1c5cc98150ab2e7585d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aae10e1440755b21dc060b4a5fdc6e18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11ea317a40e1a1231eabff510d8710fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f92cb5b45d8ff97223e830585371544-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d541b18161a0a3024fd634404df459b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ee841498900ced54dc2b0f29e81cf6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cbf88a12982c2805cdc3fe1eac978d6-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1ced5c6d",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "6e080b19"
+}

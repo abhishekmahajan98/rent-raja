@@ -1,0 +1,854 @@
+{
+  "listResults": [
+    {
+      "zpid": "66522653",
+      "id": "66522653",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "vhk8g77gzjqs",
+      "imgSrc": "https://photos.zillowstatic.com/fp/614039df9a6251196aff83072b7e6f51-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/145-Flintlock-Way-APT-A-Yorktown-Heights-NY-10598/66522653_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "145 Flintlock Way APT A, Yorktown Heights, NY 10598",
+      "addressStreet": "145 Flintlock Way APT A",
+      "addressCity": "Yorktown Heights",
+      "addressState": "NY",
+      "addressZipcode": "10598",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 913,
+      "latLong": {
+        "latitude": 41.32745,
+        "longitude": -73.79583
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 66522653,
+          "streetAddress": "145 Flintlock Way APT A",
+          "zipcode": "10598",
+          "city": "Yorktown Heights",
+          "state": "NY",
+          "latitude": 41.32745,
+          "longitude": -73.79583,
+          "price": 3000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 913.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 331900,
+          "rentZestimate": 2728,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 3398412000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 331900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Coldwell Banker Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/614039df9a6251196aff83072b7e6f51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2d8c3fc9710ef3e16a5ea7fb572de3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/408509cc20fe0bc1b307768f42987a00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/daa5308ec85efc72803d5da1983a93a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c6309c1038369a69a98b64b13cdc797-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b1b3549c8a66a1fd1b7dbee69c99a14-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/277e80ae4d8a09c7c4cf5abb2cb3d2e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6335efa78d81bfdb24442f5c8f2c56d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fb4192f90e33af22f32afbcb346275d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40ed6a70cad31ccec35c4546206da76e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63eb6cef18fd45f050d5c89b018dab7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04f3d379dc4740340bb772c58c22f17f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5023794ba6b804396668383257c784d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04040ab033c4047db32600cb346a89a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61fd403cb43391b26e8e1e1ad35ad532-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cda0f5c130d5f1863d2367d7e4ed5b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1975dbc16d9ff7bbd1b6ef31d3e5cc38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7d84b243a9ed124747531725f482063-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d91e0350c388e66e1b5607c9cff1881-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4b4557298d426539f0e1734f2dbef7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/094a8cd4b15875364138a1757bfe0bd4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37ea67537eb98fa806bc94968bb99fd0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfefb8d5e6fbbd55bfa7458b25a62d87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1740781d1960e9c2511a894e55274525-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/193895684a7fd185ba6d936ca6af4571-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17dddd88fe5235951409bf1037d73e36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be284cf14fdf444e10e481cb1ffeac60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db06f3e621da6fc35d469c2e425af4a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c89079af5ea254f3ff3b17586ada464-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5dd6db44d23ceeabb2249f4415baf466-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b25dc958fa4ecb6d619a0ed650e976a-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "299054979",
+      "id": "299054979",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "tzbaanndcsa2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/037e8f78f7f998878ff830811167f7ec-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/165-Carriage-Ct-APT-C-Yorktown-Heights-NY-10598/299054979_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "165 Carriage Ct APT C, Yorktown Heights, NY 10598",
+      "addressStreet": "165 Carriage Ct APT C",
+      "addressCity": "Yorktown Heights",
+      "addressState": "NY",
+      "addressZipcode": "10598",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 41.32926,
+        "longitude": -73.79649
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 299054979,
+          "streetAddress": "165 Carriage Ct APT C",
+          "zipcode": "10598",
+          "city": "Yorktown Heights",
+          "state": "NY",
+          "latitude": 41.32926,
+          "longitude": -73.79649,
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 850.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 310900,
+          "rentZestimate": 2552,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 2165522000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 2008.0,
+          "unit": "Apt C",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 310900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Yorktown Brokerage",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/037e8f78f7f998878ff830811167f7ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b40011896013874c5a1e1b8d68515d3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a995638033acdcf7c1b6d3b375de6bcb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df1fe9a0f44fb3a0c54d6d78ef88a375-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6733d485926cb53a7c7f0c3809efccc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e3f2a67c94910865a218c3ae5a9588c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3f4dd6f0f7c0da4875044760efcbf93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb9a9a6f68ac797b04d883b916b431ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0881294ebdb091c19ad171a7e31a4d14-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/262ba0c4b3ddf89598fbfab99bcb31c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18b5933545b577c2f3607d865ddbacb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9884aa74908359c2b9d7830c6f40a96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18dcd0b9b828afe37ee5812b30624538-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbbab42f2ee70cebdc56afe07fdb6d43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13b186a78187842b68f07f447ac50d69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5ac396ccf5367d2399bd639ad1d4f07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/311fcdd25a140f79c80a3a3559407769-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4d8ba23d02c5493612a507fa6c71975-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab273c825bdfcad5cdc06bcfaca6d57b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3243dfe82e5c8ea310e4c0181da1378b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9079f6d0d713bacb5efd142406bb3602-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30bb3706b9cb1b8c26c9226ee4113aa2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cae42fd85bfb87ad5ba373a3d7f44fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4196be0435045d2a18432b45a46325f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af401e6a823c446fa2b0616f847258a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f5d21b435bb4e24a310fdba8bef5275-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "66522653",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/614039df9a6251196aff83072b7e6f51-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/145-Flintlock-Way-APT-A-Yorktown-Heights-NY-10598/66522653_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "price": "$3,000/mo",
+      "priceLabel": "$3.0K",
+      "address": "145 Flintlock Way APT A, Yorktown Heights, NY 10598",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 913,
+      "latLong": {
+        "latitude": 41.32745,
+        "longitude": -73.79583
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 66522653,
+          "streetAddress": "145 Flintlock Way APT A",
+          "zipcode": "10598",
+          "city": "Yorktown Heights",
+          "state": "NY",
+          "latitude": 41.32745,
+          "longitude": -73.79583,
+          "price": 3000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 913.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 331900,
+          "rentZestimate": 2728,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 3398412000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Coldwell Banker Realty",
+      "timeOnZillow": 3398412000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "299054979",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/037e8f78f7f998878ff830811167f7ec-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/165-Carriage-Ct-APT-C-Yorktown-Heights-NY-10598/299054979_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "price": "$2,200/mo",
+      "priceLabel": "$2.2K",
+      "address": "165 Carriage Ct APT C, Yorktown Heights, NY 10598",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 41.32926,
+        "longitude": -73.79649
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 299054979,
+          "streetAddress": "165 Carriage Ct APT C",
+          "zipcode": "10598",
+          "city": "Yorktown Heights",
+          "state": "NY",
+          "latitude": 41.32926,
+          "longitude": -73.79649,
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 850.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 310900,
+          "rentZestimate": 2552,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 2165522000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 2008.0,
+          "unit": "Apt C",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Yorktown Brokerage",
+      "timeOnZillow": 2165522000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "441881985",
+      "id": "441881985",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "gtjm3hwjttcs",
+      "imgSrc": "https://photos.zillowstatic.com/fp/af396ba3e630acc662738a745c801167-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/30-Perch-Dr-2-Mahopac-NY-10541/441881985_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,600/mo",
+      "unformattedPrice": 3600,
+      "address": "30 Perch Dr #2, Mahopac, NY 10541",
+      "addressStreet": "30 Perch Dr #2",
+      "addressCity": "Mahopac",
+      "addressState": "NY",
+      "addressZipcode": "10541",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 41.346928,
+        "longitude": -73.79108
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "36 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441881985,
+          "streetAddress": "30 Perch Dr #2",
+          "zipcode": "10541",
+          "city": "Mahopac",
+          "state": "NY",
+          "latitude": 41.346928,
+          "longitude": -73.79108,
+          "price": 3600.0,
+          "datePriceChanged": 1729494000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 36,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "priceChange": 100,
+          "timeOnZillow": 3187563000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/af396ba3e630acc662738a745c801167-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc4e926ede77cfbc8aa1903c541aa920-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cb154a801e1f56c50bbf37fd28bc47a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a33268d4c0bb76a68ed175edce1c7825-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9e4a811381af8c0b87a835dd7fa3b41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9471601404d1f8edc89de4da06a0b2ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfbaa3632fa1597623dbfe7352049cba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a7e94a04da740e27b44de9be154e05e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72de03a24d81db3017774afe74b5cc15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af965d725f9314dd281bd72f7d5a2349-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6dd0253610ca4c06a974addf6486d77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7f2eed1c8830d18151435c112dfe677-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89342e41be2e0a35668b8019013af62b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca42c33cbc0cd2293dc9e14d7a006269-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12fbb668849371adca77256a6459215c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df5e63613320470f142a812a04963552-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13c3bab27d9089bc1b092976ec3a5396-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/287d3195a47518809bedd09999918ab4-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "299055132",
+      "id": "299055132",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1xrad2j1rqcd0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f812500d959bd113ae48374579b3807a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/110-Village-Rd-APT-C-Yorktown-Heights-NY-10598/299055132_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "countryCurrency": "$",
+      "price": "$2,900/mo",
+      "unformattedPrice": 2900,
+      "address": "110 Village Rd APT C, Yorktown Heights, NY 10598",
+      "addressStreet": "110 Village Rd APT C",
+      "addressCity": "Yorktown Heights",
+      "addressState": "NY",
+      "addressZipcode": "10598",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.32508,
+        "longitude": -73.79849
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "23 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 299055132,
+          "streetAddress": "110 Village Rd APT C",
+          "zipcode": "10598",
+          "city": "Yorktown Heights",
+          "state": "NY",
+          "latitude": 41.32508,
+          "longitude": -73.79849,
+          "price": 2900.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 23,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 440900,
+          "rentZestimate": 3185,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2900.0,
+          "timeOnZillow": 2036755000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 3075.0,
+          "unit": "Apt C",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 440900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Coldwell Banker Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f812500d959bd113ae48374579b3807a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4568c7f72a576d61cd485c8d81c509d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/617ea0cfaa70a308a4b4a4afcb593da7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b77e5c2d2ba930fadf98a7359f8735f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2d6553bc9676a5adce845620f528873-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60ba48a7667281ec8bc543d8bd66b8bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e134d7723d4ec1e936766d661cf21308-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b666d9e8ecd7111f7a4bcf821b01086-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03b1cd733829e707a817d67d24e57626-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75e212b812bd2ef06db197044ba2feed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3afb85e8e905fe2c2259463b0a97886d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b57fe2b8f2083d7b396542e019c56b56-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36b54398a9bbaeb683eac34c2cf44886-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f862ee63aa1260a08d093965cf2ae22-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3a2957b04c50c9297ce131fbce81310-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d0303804ff24a47c1fa69be53b2373b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15c5008ffd315b13b46d3a5538447a4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/855a1f5aa2608d494e8a8287ef9ad614-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c72a11f28b57629ebfb503592035a598-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/255d151f39b66b5dc5d0333eb26c8368-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff4471bc43cfe228fa4620c17644f813-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3beed106681879f7b1adf82f36848eeb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27b5688fe3f3daf2a2540aeb2debd834-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d75ebef6c7bdf19a33ba29d9092a919-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fa2bb01a576c1633704c533e7abe0a3-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "518abe20",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "39ab15c3"
+}

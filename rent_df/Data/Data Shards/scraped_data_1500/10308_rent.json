@@ -1,0 +1,5008 @@
+{
+  "listResults": [
+    {
+      "zpid": "442436584",
+      "id": "442436584",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5a0uehtake8e",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d38d2cd83f98e23251a53426365ca506-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/41-Highland-Rd-1-Staten-Island-NY-10308/442436584_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,499/mo",
+      "unformattedPrice": 3499,
+      "address": "41 Highland Rd #1, Staten Island, NY 10308",
+      "addressStreet": "41 Highland Rd #1",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1350,
+      "latLong": {
+        "latitude": 40.550716,
+        "longitude": -74.14355
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442436584,
+          "streetAddress": "41 Highland Rd #1",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.550716,
+          "longitude": -74.14355,
+          "price": 3499.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1350.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3499.0,
+          "timeOnZillow": 1470627000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d38d2cd83f98e23251a53426365ca506-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/668d6a094a642ef79c3be4c19c9abaf9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ce8aff876d228ba0ad9b3223268641e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95074551348654cbc93a9f3506f38752-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9b2454ca7eeb16053c4fb6d9fe89cce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/48c7ed5a3d5076f88774e94e6c61e01a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c090705ab28af08f3e2b9821af4b690-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d7bcbb48fe93073bb504b1db4eb5ed4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d4036ff2323fba74eae0a59010bef41-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "40.545925--74.163795",
+      "id": "40.545925--74.163795",
+      "providerListingId": "2jfugn7ybc44",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ac464db2f79bce73c275d86462ecca16-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/374-wilson-ave-staten-island-ny-98M4/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "374 Wilson Ave, Staten Island, NY",
+      "addressStreet": "374 Wilson Ave # 3",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10312",
+      "units": [
+        {
+          "price": "$2,250+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 838784,
+      "latLong": {
+        "latitude": 40.545925,
+        "longitude": -74.163795
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac464db2f79bce73c275d86462ecca16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2ef1b5b73253955ac2f79218ecc7aad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0c1d59afea3199cbd1ef92b8aad505e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a53975f3d77d0049c54a48f1ddc3ea7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16fca8b5626702a1fd3910f6032a7087-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31b371ecedc9c360ba518a440a9147a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b86ec4794c7167540c50cb424f1dbdb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db021921a8a37c242dfe956ffdde5870-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f0f7eaf21ae54ed470d5b1b17ca1bdf-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "440376975",
+      "id": "440376975",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "23hy0n02nxxx5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/06b5ee357c431368b7433f6ed083d330-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/117-Bay-Ter-FLOOR-1-Staten-Island-NY-10306/440376975_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,700/mo",
+      "unformattedPrice": 3700,
+      "address": "117 Bay Ter FLOOR 1, Staten Island, NY 10306",
+      "addressStreet": "117 Bay Ter FLOOR 1",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10306",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2040,
+      "latLong": {
+        "latitude": 40.554756,
+        "longitude": -74.13584
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440376975,
+          "streetAddress": "117 Bay Ter FLOOR 1",
+          "zipcode": "10306",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.554756,
+          "longitude": -74.13584,
+          "price": 3700.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2040.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3700.0,
+          "timeOnZillow": 185446000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Coldwell Banker Advantage",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/06b5ee357c431368b7433f6ed083d330-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c3c419c578b670f9dc97a1ffd1d6367-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0373eb22998c244aa16daf5af4f9035e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80dae5f6ff40762213e4cb4db3f4a954-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d42934b552080a3b2ed279ffc824a363-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/069e6f0d8fcf77be6c23ef92ed37badf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ea90827757f51efbb5f664c7a3adfc5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b1a39dcf9995f4d9050d230b379d398-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55c87b0cb17d27c5f350783bf92b146b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/074f25c7ebbc1bb844c6f7f92b4fb311-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "40.546146--74.14243",
+      "id": "40.546146--74.14243",
+      "providerListingId": "2hbbkxua1hzja",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3939572e7fd00951b1df15958e439601-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/3825-hylan-blvd-staten-island-ny-94cL/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "3825 Hylan Blvd, Staten Island, NY",
+      "addressStreet": "3825 Hylan Blvd Floor 2",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "units": [
+        {
+          "price": "$3,600+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 829831,
+      "latLong": {
+        "latitude": 40.546146,
+        "longitude": -74.14243
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3939572e7fd00951b1df15958e439601-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/874803fdc7e4c16b6b0f0a1b96d2c1ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/502507e2e271eead77bcc58ca9f0d125-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67d8a81becadbc07b062b5e9dd12517f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f1323f9bbe21aaf7829661bd31520eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc814f1181a67aa06a36e40ebab1a870-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85d94f13f2991773be396f693b6dc793-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "2086505801",
+      "id": "2086505801",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "580mn17q2s828",
+      "imgSrc": "https://photos.zillowstatic.com/fp/288b771545e58d3ddce1ea670a8d042e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/36-N-Rhett-Ave-FL-1ST-Staten-Island-NY-10308/2086505801_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "36 N Rhett Ave FL 1ST, Staten Island, NY 10308",
+      "addressStreet": "36 N Rhett Ave FL 1ST",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.55294,
+        "longitude": -74.15294
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2086505801,
+          "streetAddress": "36 N Rhett Ave FL 1ST",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.55294,
+          "longitude": -74.15294,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2434,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 230320000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Fl 1ST",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Ashford Homes",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/288b771545e58d3ddce1ea670a8d042e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8ed528557455c694265e25428347a03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58403436660c81987d9611e86c126961-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1bd4d5ad1710cf247b75dabe3c26a6db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f09d09cd67f30f15545f30e819c97a21-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/872776e34242638d5f4c57cc37088cf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae5f4edded43a361bb51205f5809225e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6dbca1314cee06251a62545cbb4aa12b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f048d8e4c186d1a1ff2dbf89bfbff32a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89185c05e197bcb2085d5aa881473c1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b7fa745f3d9576d65f6b5cd4e6f7e57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c4a1b94e9177be09890cd4d5e66a4e2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442730412",
+      "id": "442730412",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "31j8bjncjgx9e",
+      "imgSrc": "https://photos.zillowstatic.com/fp/112b03c53f287f4adabe517d49647219-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/579-Armstrong-Ave-FLOOR-1-Staten-Island-NY-10308/442730412_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "579 Armstrong Ave FLOOR 1, Staten Island, NY 10308",
+      "addressStreet": "579 Armstrong Ave FLOOR 1",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 40.548534,
+        "longitude": -74.159546
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442730412,
+          "streetAddress": "579 Armstrong Ave FLOOR 1",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.548534,
+          "longitude": -74.159546,
+          "price": 2100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 417438000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/112b03c53f287f4adabe517d49647219-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/462acd6ca2a2066df319491b2c4aed66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44251f395367386ac366392dd2eae7df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d512140d332d398cc3be92f7b41d5fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e094305a0182e809eb344deccda900a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46a7da655f3d125ac17cbe21a8ee0c0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/007cf06bc7463ff579cf9b9c059c991b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32349174",
+      "id": "32349174",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2y41dqhdjrnf4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/36142a0c946c9a56a8dd48a5b7fd7775-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/26-Heinz-Ave-Staten-Island-NY-10308/32349174_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,700/mo",
+      "unformattedPrice": 3700,
+      "address": "26 Heinz Ave, Staten Island, NY 10308",
+      "addressStreet": "26 Heinz Ave",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 4.0,
+      "area": 1300,
+      "latLong": {
+        "latitude": 40.53796,
+        "longitude": -74.148384
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32349174,
+          "streetAddress": "26 Heinz Ave",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.53796,
+          "longitude": -74.148384,
+          "price": 3700.0,
+          "bathrooms": 4.0,
+          "bedrooms": 3.0,
+          "livingArea": 1300.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 657600,
+          "rentZestimate": 3294,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3700.0,
+          "timeOnZillow": 698203000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 655000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 657600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Toscana Property LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/36142a0c946c9a56a8dd48a5b7fd7775-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9be38c1f8d1897ef57ddc1e2a193faaa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21b47c3926a9ed7ad4f708d5206468ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ec0eb6131c04a4e0b304322ecc780b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdbf44aca9264aab33239e62bf470164-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc1ab19381c32fe16d31aee997dc6f5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ab68fc5ee2caa11889389f656b74617-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3306c5c940675fe3970c229035560d0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b84e7c6963f733e23864937f8e5f130-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e345e3f88eab69a5c7399284aa4d8a2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2796e45d3462d1c7a2b375e250d5203d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/252df12344b1ee9fc2fa1c44e15443b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/807447bb25ec3b25fa194113c11f4c13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d9fd059245d53a59a9ac9ed11d36e24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b50ac99268b7e6ca690c8de7f53a3fc-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442691479",
+      "id": "442691479",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4zpvhrg1nz0mc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d6b7f653511c5ab047007db97bb80ff4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Staten-Island-NY-10308/442691479_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "(undisclosed Address), Staten Island, NY 10308",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442691479,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 546018000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Exclusive Properties Realty Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6b7f653511c5ab047007db97bb80ff4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dea965827bc192fd9828c76eb052fa4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c28e0a53949144af864aebd45c3f0d20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e18d5ee0adf5e9ea2caec810398de58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bacb25b3ba37d04be61bb7b32faa18dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72b65f239af49cdb2325bf31a9f77e3f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "349578474",
+      "id": "349578474",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3bdp6pajxpkkp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/91a04b85d45e2c505ab562ce7599a8c8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Staten-Island-NY-10308/349578474_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,300/mo",
+      "unformattedPrice": 2300,
+      "address": "(undisclosed Address), Staten Island, NY 10308",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 349578474,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "price": 2300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2281,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "timeOnZillow": 3395540000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Ben Bay Realty Co. Of Staten Island",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/91a04b85d45e2c505ab562ce7599a8c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef9cc08e75da89d7faa6970d945a70e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98ec90e823a64b1ff90e1fced0f5daee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e988681a58fedf75200340798bfa7263-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d15ac09f212a3a8e5e2305261051d0c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e02507a2bca49601856f3002b14c3f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/261915231a2629a17b40d81e0ac93f0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9d9d22a1edcc0e86307efb310ea7028-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57c271fa6e8bf35b12ed7ffa6c041f93-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442683281",
+      "id": "442683281",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "17hcurmrvutcx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6f0d35fe17539e1a3eabd48d4335f3d5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/203-Gurley-Ave-1-Staten-Island-NY-10308/442683281_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "203 Gurley Ave #1, Staten Island, NY 10308",
+      "addressStreet": "203 Gurley Ave #1",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.56132,
+        "longitude": -74.15619
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442683281,
+          "streetAddress": "203 Gurley Ave #1",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.56132,
+          "longitude": -74.15619,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 651761000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Ashford Homes",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f0d35fe17539e1a3eabd48d4335f3d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee8dc614d96186a8ffb032b8a404b473-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e3dc4d89de4480abde58eca77606c1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8ca7c9464645d0127ab0315db67ee46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/acc045dd5c2d48e949e3146cc0000fa2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "347926230",
+      "id": "347926230",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "vy4j6hsn0suq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5abd5c6496d1f80e398607aee02d18d1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/23-Bay-Ter-Staten-Island-NY-10306/347926230_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "23 Bay Ter, Staten Island, NY 10306",
+      "addressStreet": "23 Bay Ter",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10306",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.55661,
+        "longitude": -74.138176
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 347926230,
+          "streetAddress": "23 Bay Ter",
+          "zipcode": "10306",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.55661,
+          "longitude": -74.138176,
+          "price": 2200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2552,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 1289429000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Staten Island Premiere Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5abd5c6496d1f80e398607aee02d18d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca72d14d702f41cf2c4b759a533fd4d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ff6a6d2909a8af197ec1c0fd1a48fb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61d03c62683a8c6896d40bc541867dda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ee0d54980ad9c8173cb8c0e35505540-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68c9f8dfceee4fb12cf32f5f742d7c20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44ac1373f201c6bc770fe9a365339112-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ccbcd4f9b18c87e992734610a5246ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/badbbd9c17ba8a10d7407f3c7d7ea021-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c24f7b81d37010d39d4f5a638e89ad9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7aef8f2a109ddd41ed57e381a3e8ffd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1da7fcae1aad017e01502077c75c547a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad13d46b2c9982a47d1b3d135b53b21e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac1e6d83fce680e0ac612115ac346fa1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7912c5259357be19ecf6b97101b3454d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81cb5478d02499679edb913b12fbba70-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442660434",
+      "id": "442660434",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "58pkgkgsjjmz6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/173058a095a0fc9c01de01528ff4abec-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/360-Robinson-Ave-2-Staten-Island-NY-10312/442660434_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,300/mo",
+      "unformattedPrice": 3300,
+      "address": "360 Robinson Ave #2, Staten Island, NY 10312",
+      "addressStreet": "360 Robinson Ave #2",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10312",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 40.542263,
+        "longitude": -74.156624
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442660434,
+          "streetAddress": "360 Robinson Ave #2",
+          "zipcode": "10312",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.542263,
+          "longitude": -74.156624,
+          "price": 3300.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3300.0,
+          "timeOnZillow": 782517000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Homes r us realty of NY",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/173058a095a0fc9c01de01528ff4abec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13204073e0f355d9e29c74d469f546bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df028f62a36fb379578aad9c3399f78f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea52dd0a87ec479d8750376eba19649e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42652185603163ae4b8d388b7078034e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a700141651164c523b56ec877f802e9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db1d7a3ad34a368be902f25a04be4870-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5bfa77b6d7d3e0f6abc9a879bfba1a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c17a1ffeb38941bbb57bce9674c6ac9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1900fbbd343a7de2f03bf75857f1db6b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32354339",
+      "id": "32354339",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2d5cuqf4swgv6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/10d3b20ef79f6d52eff2c69856449e97-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Staten-Island-NY-10308/32354339_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,250/mo",
+      "unformattedPrice": 2250,
+      "address": "(undisclosed Address), Staten Island, NY 10308",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32354339,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "price": 2250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2248,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2250.0,
+          "timeOnZillow": 440626000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: KMS REALTY GROUP INC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/10d3b20ef79f6d52eff2c69856449e97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95c7812b8f66a894930a5657c5e07655-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e02e0229f1c1bf4de9b8c1da9fd8a67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6448be1a4e29e944f4a153df5e7f070-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fe284cf772941b9787322a562700ef9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be6413a1505036aabbe27c581545cba8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4bbd24459f972ac19ff8f74d062bc23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eba35898492eb376ffc50f4170393083-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00311843a11b0ae3bdb102908bf3d45b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80df6a0a851dc4ffbdbe69d68df23311-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/826634b1f7af28cb7ddd3516a6b1a396-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6140eeb37bfd7f4399a49b0b1020d88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0370130e14c208f767527351e958de49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33d75fdd7f0d8b120d4ad061f323d4be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10792b2e2105150d33262f95b0a598fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9b2c8ed6be8186afbee531be0b2ca6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edf97cd1d46e65378c6e0e2420916deb-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32353805",
+      "id": "32353805",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5cdf93d3p488m",
+      "imgSrc": "https://photos.zillowstatic.com/fp/33873b9ea89e56fc461694f5dda1850f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/270-Cortelyou-Ave-Staten-Island-NY-10312/32353805_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "270 Cortelyou Ave, Staten Island, NY 10312",
+      "addressStreet": "270 Cortelyou Ave",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10312",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1108,
+      "latLong": {
+        "latitude": 40.552628,
+        "longitude": -74.16338
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32353805,
+          "streetAddress": "270 Cortelyou Ave",
+          "zipcode": "10312",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.552628,
+          "longitude": -74.16338,
+          "price": 3000.0,
+          "datePriceChanged": 1732089600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1108.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 677100,
+          "rentZestimate": 3157,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "priceChange": -200,
+          "timeOnZillow": 1403166000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 623000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 677100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/33873b9ea89e56fc461694f5dda1850f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2f734599cf8e8def662abbf4c0c3f55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4d31a73bc1e735dac72dc95dd4328e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7c4b901d46fa7d3bc2f87bc4f23d175-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83bc83684a3a4b8a24cf99e0ff708ee8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f730c833a94fcc5e6b0f6c2ba5bb91d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f9bb45ba9029035cecbcb1724850a1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5552e287da4b3517b616299ef72f2fe7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6665156acbcb20f27c5a4e0e845001af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73e3961d1b0e32ad70944dfad92d9e4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4049630659b897f355debdb937aed094-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65f403d831fd93461f79dd299ba4e79d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f9a584b2326cb804f4f459733f82c03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44172ed49b1894bd5b7faccaba7be031-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2060435706",
+      "id": "2060435706",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2sta5n4whkbnh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8b59aef0d25b38be81695b6143fbdf10-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/393-Gurley-Ave-FLOOR-2-Staten-Island-NY-10308/2060435706_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,300/mo",
+      "unformattedPrice": 2300,
+      "address": "393 Gurley Ave FLOOR 2, Staten Island, NY 10308",
+      "addressStreet": "393 Gurley Ave FLOOR 2",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 870,
+      "latLong": {
+        "latitude": 40.560253,
+        "longitude": -74.162094
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060435706,
+          "streetAddress": "393 Gurley Ave FLOOR 2",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.560253,
+          "longitude": -74.162094,
+          "price": 2300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 870.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 33,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2320,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "timeOnZillow": 2873483000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Ashford Homes",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b59aef0d25b38be81695b6143fbdf10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d918dc1eacda0fab3e479d4bf1b31ff7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98aa38c15758bc1053995fc21d4227a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4c1edadbd346e99ebc36e8903a2d16c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7adfac32e739c8f7937724e8c2540eb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c736e07b408ccc8658a2984709d628d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecfd7532c0001c8b6491e25cc596efb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b57550660f78b1508f1f87cfb528438-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59962ab52954f489746291232d3aefdb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea3c59eb7e8b5e435dc2afc9230382ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/694cfabe14cd1f7b9d2bb02cce4261af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/254df16c413a1a30531d7877d3149afb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2a6f255426c0075ca9e1b30268b6074-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b65fbe368b514d74c806a2fe84b0e45a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32341632",
+      "id": "32341632",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "283tzuz90k9sq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/859c3177b1897037575154121502faf9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/180-Tanglewood-Dr-Staten-Island-NY-10308/32341632_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,100/mo",
+      "unformattedPrice": 3100,
+      "address": "180 Tanglewood Dr, Staten Island, NY 10308",
+      "addressStreet": "180 Tanglewood Dr",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1501,
+      "latLong": {
+        "latitude": 40.564606,
+        "longitude": -74.14906
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "57 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32341632,
+          "streetAddress": "180 Tanglewood Dr",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.564606,
+          "longitude": -74.14906,
+          "price": 3100.0,
+          "datePriceChanged": 1731830400000,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1501.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 57,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 722300,
+          "rentZestimate": 3262,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 17)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3100.0,
+          "priceChange": -200,
+          "timeOnZillow": 4936907000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 817000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 722300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-04 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/859c3177b1897037575154121502faf9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/877cde4f7bb42637e087f797edcea4cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71e32c61a11a27a05d25b0d45569e84c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c31b5a9a6f6ede84a03183f55e7bfefb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1566d56fc26d4e571682df0a5a2d9292-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb6d6305b3cb9d12f86b683914e876bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe5b6f197c392dc9ea1204a7ebf28612-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4adf9b04da1105247c8a3ca48f6d55cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b405e7e7b1f130612d9403dfe37da327-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a403f4b7f5cf0a2048ab23e89fcb5e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4f94ac5e66147b81245f00567489f10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5249fb629812c2f366cee454185c605-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441951026",
+      "id": "441951026",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3epar2t2efw23",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f87e4842f7f29bab876db9de9cf9e70d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Staten-Island-NY-10308/441951026_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "(undisclosed Address), Staten Island, NY 10308",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 820,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "34 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441951026,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 820.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 34,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 2950746000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Staten Island Premiere Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f87e4842f7f29bab876db9de9cf9e70d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ac7c4a3f42562058074481154266c10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81e114958f5255f269c11db2a1cc8fe7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68abf2b170498adaa3a2ffcad202528f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4391ebe36271ca229f437a44c93f614-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f209a34dcdc991f980dce6faf79e2a45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37dc4061229221d7eafb8a848ebbb41c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8be4ed437aefb1e579e5739a3e9efa5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15a8fdc85b02049f750dacae51175010-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442315519",
+      "id": "442315519",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1dp2tq2jdm2as",
+      "imgSrc": "https://photos.zillowstatic.com/fp/07533e227d21678a0e167fd469452ac0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/109-Ridgecrest-Ave-FLOOR-1-Staten-Island-NY-10312/442315519_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "109 Ridgecrest Ave FLOOR 1, Staten Island, NY 10312",
+      "addressStreet": "109 Ridgecrest Ave FLOOR 1",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10312",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.536877,
+        "longitude": -74.15638
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442315519,
+          "streetAddress": "109 Ridgecrest Ave FLOOR 1",
+          "zipcode": "10312",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.536877,
+          "longitude": -74.15638,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 1929598000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-02 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/07533e227d21678a0e167fd469452ac0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5eddbf755254bf1d36133561dd9e18f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "403852973",
+      "id": "403852973",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "37xx2vbsg4af2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8c6b63db1bb3781539f242deca7b0c93-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Staten-Island-NY-10312/403852973_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "(undisclosed Address), Staten Island, NY 10312",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10312",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 403852973,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10312",
+          "city": "Staten Island",
+          "state": "NY",
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 587213000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c6b63db1bb3781539f242deca7b0c93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/077612240c821e1790d0eef9d1b6a3bb-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2060127671",
+      "id": "2060127671",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3s5jgygr4egvb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a92b845850d852976721b519b6bdacd9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/128-Blythe-Pl-FLOOR-1-Staten-Island-NY-10306/2060127671_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,850/mo",
+      "unformattedPrice": 1850,
+      "address": "128 Blythe Pl FLOOR 1, Staten Island, NY 10306",
+      "addressStreet": "128 Blythe Pl FLOOR 1",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10306",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 770,
+      "latLong": {
+        "latitude": 40.563107,
+        "longitude": -74.13833
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "75 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060127671,
+          "streetAddress": "128 Blythe Pl FLOOR 1",
+          "zipcode": "10306",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.563107,
+          "longitude": -74.13833,
+          "price": 1850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 770.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 75,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1905,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1850.0,
+          "timeOnZillow": 6564673000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Ashford Homes",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a92b845850d852976721b519b6bdacd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05686c2003d518e58fb367ca08c0110f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/adf113a22142250afa484ad0a4779b14-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8619798b96df6bfeae022d423d732d9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2813a15e29b74965c7cd7e4b0448706-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1304afcfe490385dc84cf0284021786-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a8b951e1599a313f1918a4f6b75748d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/521cac228a0e7ba87763fb389292614e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2493ca70e3ddbe556f177cc9efeadc9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a7e86e11fd79379c6ffc6da2061afa2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d206e9458e98656d3e912d63f8789c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6f60dbaf557a4e318f2e937bb9bc9f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11a9d56325518e2e851d6f80c60666c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/519585da30b7650014453072763c68c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/375d3f46efa68f2b220a962323b5d166-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442692086",
+      "id": "442692086",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1409xgt947rkm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8abb7c8d24723268f38c062330681f85-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/514-Leverett-Ave-FLOOR-1-Staten-Island-NY-10308/442692086_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,464/mo",
+      "unformattedPrice": 3464,
+      "address": "514 Leverett Ave FLOOR 1, Staten Island, NY 10308",
+      "addressStreet": "514 Leverett Ave FLOOR 1",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.55535,
+        "longitude": -74.1628
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442692086,
+          "streetAddress": "514 Leverett Ave FLOOR 1",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.55535,
+          "longitude": -74.1628,
+          "price": 3464.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3464.0,
+          "timeOnZillow": 542565000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Affordable Housing",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8abb7c8d24723268f38c062330681f85-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c64d00afafb5a1feb97b98148f2cf4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fef1a66d6964222a71f90c8d4320d63d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bd908d8e245ccc8c0574f563d29fe14-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5e13c23f0bd36b81b4f54cbb09cbb10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/263742e24465cb0025ba862dc94194ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ade368cbfe159de70c7cfc4f38a66856-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b520e4b4d04e1541587214f905317776-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "143771027",
+      "id": "143771027",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "10xxjqxy2zuze",
+      "imgSrc": "https://photos.zillowstatic.com/fp/55a16e6e8ba7fcb84059e43bf13d5086-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3974-Amboy-Rd-Staten-Island-NY-10308/143771027_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$7,800/mo",
+      "unformattedPrice": 7800,
+      "address": "3974 Amboy Rd, Staten Island, NY 10308",
+      "addressStreet": "3974 Amboy Rd",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 0.0,
+      "latLong": {
+        "latitude": 40.550564,
+        "longitude": -74.15007
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "46 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 143771027,
+          "streetAddress": "3974 Amboy Rd",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.550564,
+          "longitude": -74.15007,
+          "price": 7800.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 0.0,
+          "bedrooms": 0.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 46,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 5457,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 7800.0,
+          "priceChange": -200,
+          "timeOnZillow": 4016468000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 2914000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: RE/MAX Edge",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/55a16e6e8ba7fcb84059e43bf13d5086-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8487828cf38eabe0e3756a46e8616e7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bcc899e9db1314513cb8519cad59352-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79036c6d5d26e6c27df7e3392888b8c4-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32354499",
+      "id": "32354499",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4k058psbhunhz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/75e3501d263939ebe8a51522692a6960-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/433-Barlow-Ave-Staten-Island-NY-10308/32354499_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,200/mo",
+      "unformattedPrice": 3200,
+      "address": "433 Barlow Ave, Staten Island, NY 10308",
+      "addressStreet": "433 Barlow Ave",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1455,
+      "latLong": {
+        "latitude": 40.55807,
+        "longitude": -74.16246
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32354499,
+          "streetAddress": "433 Barlow Ave",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.55807,
+          "longitude": -74.16246,
+          "price": 3200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1455.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3285,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 1060581000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 737000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Homes R Us Realty of NY, Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/75e3501d263939ebe8a51522692a6960-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e36c3faead55ba1c682e09890325878a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87905df80873b8b8b9eced652b5413da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/202bb7a80c21648437a3e729af498fa9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e64dfbcb447f962a20b20e9094fdb30f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3065ee15661b24c198b43b776cc5d8ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd8c4945073e047c3db4bc3be47f5582-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95173b88a60a5dfa75e0869c1ab54408-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8628f492c5ddf04e4ae55749943ab245-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1da579d72464bc90195b3d46b5ff4c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53ab8b4cb40ddbc17dabc1f0682f9b93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4f8698a3fd4352c12c7646575e664fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7448d1d28af9cc97325938bc383c229e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1ac1b7e4eb96b4f1005156dc9d2cbe0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11f4fef55d333cb70d851b9eda38d55f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/893736529c94232420f8f556f2d9b1fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87daea004a05e7580d77dddd4c45b9d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5da26bd0927f71cc8b97979661e56135-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "351640471",
+      "id": "351640471",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3cdvg49nbte75",
+      "imgSrc": "https://photos.zillowstatic.com/fp/60029044bac16c6541ead059387e0658-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4163-Amboy-Rd-C-Staten-Island-NY-10308/351640471_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,875/mo",
+      "unformattedPrice": 1875,
+      "address": "4163 Amboy Rd #C, Staten Island, NY 10308",
+      "addressStreet": "4163 Amboy Rd #C",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 768,
+      "latLong": {
+        "latitude": 40.548782,
+        "longitude": -74.15554
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 351640471,
+          "streetAddress": "4163 Amboy Rd #C",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.548782,
+          "longitude": -74.15554,
+          "price": 1875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 768.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 26,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1813,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1875.0,
+          "timeOnZillow": 2329804000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# C",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Castle Gardens LLCEnter a company name",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/60029044bac16c6541ead059387e0658-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6bd3a34ec496ccb6f5c359ee10ebddd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f8e697baa6c04a9561b79605037b478-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/857583484797943d2516003f073d1448-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8f48f57161c80aed52ce5af6e2892e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/631598e550714191064cd407935c9877-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0deced428e9a68bae1b091cd8b8904b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441149188",
+      "id": "441149188",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3w9x8xsva5b0a",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d63a017492dface6b640261e04ab32dd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/0-Oceanview-Pl-Staten-Island-NY-10308/441149188_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,575/mo",
+      "unformattedPrice": 1575,
+      "address": "0 Oceanview Pl, Staten Island, NY 10308",
+      "addressStreet": "0 Oceanview Pl",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.543583,
+        "longitude": -74.15025
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "53 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441149188,
+          "streetAddress": "0 Oceanview Pl",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.543583,
+          "longitude": -74.15025,
+          "price": 1575.0,
+          "datePriceChanged": 1731398400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 53,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 542100,
+          "listing_sub_type": {},
+          "priceReduction": "$75 (Nov 12)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1575.0,
+          "priceChange": -75,
+          "timeOnZillow": 4590910000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "lotAreaValue": 9583.2,
+          "lotAreaUnit": "sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 542100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: NextHome Prestige",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d63a017492dface6b640261e04ab32dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e1aefd3eee38d62bf1b46b401786c9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63bc659a1ae3cf07fdadbc5248708402-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c9967901f373a56d931a9eff5839ff3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d511354a70c521d8ea433663f37a93da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/464d0de988aea2f19b3ccb87055fb65c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27bf4e06a558f41c93aec4a67b4d97df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88fee5baa33df0578bb4aa6a062f31a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17ac19dfe61f829f39254444e6b9707b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dce8be71db6136d4cfe84afe03039e3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba3f11972d204a5d3b1fa1741f4d2238-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32341452",
+      "id": "32341452",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1c0b9wmsc0x2n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/517eddf5bec80c7c69281795c16d5d89-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/170-Sandalwood-Dr-Staten-Island-NY-10308/32341452_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "170 Sandalwood Dr, Staten Island, NY 10308",
+      "addressStreet": "170 Sandalwood Dr",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.5602,
+        "longitude": -74.14533
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32341452,
+          "streetAddress": "170 Sandalwood Dr",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.5602,
+          "longitude": -74.14533,
+          "price": 2100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 26,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 721900,
+          "rentZestimate": 2382,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 2258059000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 713000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 721900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: NextHome Prestige",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/517eddf5bec80c7c69281795c16d5d89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e3a6d6416a67ac9703a617742f6d72f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80e13d9e54258aace2f7dba641a667cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd526883b5a9a302251af1fa8d25bcff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/840473579d3981fdada714e160265d67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6744b2ad250b8434247b0a1265ca897-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a70d1c520865f2fdb7b313e5e9eff7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f40b26ad7fee6873770e207f472c68c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95d73a1aa2419892830fbcb1c453b48e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83b40dcf433d862c9b37915bc68beb64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b048f671aea4c3fa833ce134a3588b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9ebdbef919a63d1ece2ab4ad21f37db-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2077531203",
+      "id": "2077531203",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "xguq9cmvgk3u",
+      "imgSrc": "https://photos.zillowstatic.com/fp/85d2ceac902de742d1a65d51b99ce164-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/161-Fieldway-Ave-FLOOR-1-Staten-Island-NY-10308/2077531203_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,700/mo",
+      "unformattedPrice": 2700,
+      "address": "161 Fieldway Ave FLOOR 1, Staten Island, NY 10308",
+      "addressStreet": "161 Fieldway Ave FLOOR 1",
+      "addressCity": "Staten Island",
+      "addressState": "NY",
+      "addressZipcode": "10308",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 40.548893,
+        "longitude": -74.14031
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2077531203,
+          "streetAddress": "161 Fieldway Ave FLOOR 1",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.548893,
+          "longitude": -74.14031,
+          "price": 2700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 27,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 888700,
+          "rentZestimate": 2594,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "timeOnZillow": 2413713000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 888700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-27 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Robert Defalco Realty Inc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/85d2ceac902de742d1a65d51b99ce164-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4e82476533b8ef6ed9d9ad4271f4baa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac02bb35101fab59ca0ff89ce962322a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/170343a53fea62b153b60db4cf95517c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f733f7ca8b7c9b75a131d78d405f969-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f39c8f11cf7780062beb81f120c56c2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6769469e55d34b6086e1e8220633aeb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41ec8fca8bb3ac1781cde713e66c3a84-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c937740165c4ea4fcbdc3cfe0ffcab92-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442436584",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d38d2cd83f98e23251a53426365ca506-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/41-Highland-Rd-1-Staten-Island-NY-10308/442436584_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,499/mo",
+      "priceLabel": "$3.5K",
+      "address": "41 Highland Rd #1, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1350,
+      "latLong": {
+        "latitude": 40.550716,
+        "longitude": -74.14355
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442436584,
+          "streetAddress": "41 Highland Rd #1",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.550716,
+          "longitude": -74.14355,
+          "price": 3499.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1350.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3499.0,
+          "timeOnZillow": 1470627000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1470627000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "2jfugn7ybc44",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ac464db2f79bce73c275d86462ecca16-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/374-wilson-ave-staten-island-ny-98M4/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$2,250+/mo",
+      "address": "374 Wilson Ave, Staten Island, NY",
+      "minBeds": 2,
+      "minBaths": 1.0,
+      "lotId": 838784,
+      "latLong": {
+        "latitude": 40.545925,
+        "longitude": -74.163795
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "40.545925--74.163795",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 423495000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "440376975",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/06b5ee357c431368b7433f6ed083d330-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/117-Bay-Ter-FLOOR-1-Staten-Island-NY-10306/440376975_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,700/mo",
+      "priceLabel": "$3.7K",
+      "address": "117 Bay Ter FLOOR 1, Staten Island, NY 10306",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2040,
+      "latLong": {
+        "latitude": 40.554756,
+        "longitude": -74.13584
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440376975,
+          "streetAddress": "117 Bay Ter FLOOR 1",
+          "zipcode": "10306",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.554756,
+          "longitude": -74.13584,
+          "price": 3700.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2040.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3700.0,
+          "timeOnZillow": 185446000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Coldwell Banker Advantage",
+      "timeOnZillow": 185446000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "2hbbkxua1hzja",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3939572e7fd00951b1df15958e439601-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/3825-hylan-blvd-staten-island-ny-94cL/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$3,600+/mo",
+      "address": "3825 Hylan Blvd, Staten Island, NY",
+      "minBeds": 3,
+      "minBaths": 1.0,
+      "minArea": 1100,
+      "lotId": 829831,
+      "latLong": {
+        "latitude": 40.546146,
+        "longitude": -74.14243
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "40.546146--74.14243",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 1756264000,
+      "unitCount": 3,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2086505801",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/288b771545e58d3ddce1ea670a8d042e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/36-N-Rhett-Ave-FL-1ST-Staten-Island-NY-10308/2086505801_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,400/mo",
+      "priceLabel": "$2.4K",
+      "address": "36 N Rhett Ave FL 1ST, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.55294,
+        "longitude": -74.15294
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2086505801,
+          "streetAddress": "36 N Rhett Ave FL 1ST",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.55294,
+          "longitude": -74.15294,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2434,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 230320000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Fl 1ST",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Ashford Homes",
+      "timeOnZillow": 230320000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442730412",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/112b03c53f287f4adabe517d49647219-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/579-Armstrong-Ave-FLOOR-1-Staten-Island-NY-10308/442730412_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,100/mo",
+      "priceLabel": "$2.1K",
+      "address": "579 Armstrong Ave FLOOR 1, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 40.548534,
+        "longitude": -74.159546
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442730412,
+          "streetAddress": "579 Armstrong Ave FLOOR 1",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.548534,
+          "longitude": -74.159546,
+          "price": 2100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 417438000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "visited": false,
+      "timeOnZillow": 417438000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32349174",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/36142a0c946c9a56a8dd48a5b7fd7775-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/26-Heinz-Ave-Staten-Island-NY-10308/32349174_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,700/mo",
+      "priceLabel": "$3.7K",
+      "address": "26 Heinz Ave, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 4.0,
+      "area": 1300,
+      "latLong": {
+        "latitude": 40.53796,
+        "longitude": -74.148384
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32349174,
+          "streetAddress": "26 Heinz Ave",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.53796,
+          "longitude": -74.148384,
+          "price": 3700.0,
+          "bathrooms": 4.0,
+          "bedrooms": 3.0,
+          "livingArea": 1300.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 657600,
+          "rentZestimate": 3294,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3700.0,
+          "timeOnZillow": 698203000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 655000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Toscana Property LLC",
+      "timeOnZillow": 698203000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442683281",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6f0d35fe17539e1a3eabd48d4335f3d5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/203-Gurley-Ave-1-Staten-Island-NY-10308/442683281_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "203 Gurley Ave #1, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.56132,
+        "longitude": -74.15619
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442683281,
+          "streetAddress": "203 Gurley Ave #1",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.56132,
+          "longitude": -74.15619,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 651761000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Ashford Homes",
+      "timeOnZillow": 651761000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "347926230",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5abd5c6496d1f80e398607aee02d18d1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/23-Bay-Ter-Staten-Island-NY-10306/347926230_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,200/mo",
+      "priceLabel": "$2.2K",
+      "address": "23 Bay Ter, Staten Island, NY 10306",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.55661,
+        "longitude": -74.138176
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 347926230,
+          "streetAddress": "23 Bay Ter",
+          "zipcode": "10306",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.55661,
+          "longitude": -74.138176,
+          "price": 2200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2552,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 1289429000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Staten Island Premiere Properties",
+      "timeOnZillow": 1289429000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442660434",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/173058a095a0fc9c01de01528ff4abec-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/360-Robinson-Ave-2-Staten-Island-NY-10312/442660434_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,300/mo",
+      "priceLabel": "$3.3K",
+      "address": "360 Robinson Ave #2, Staten Island, NY 10312",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 40.542263,
+        "longitude": -74.156624
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442660434,
+          "streetAddress": "360 Robinson Ave #2",
+          "zipcode": "10312",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.542263,
+          "longitude": -74.156624,
+          "price": 3300.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3300.0,
+          "timeOnZillow": 782517000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Homes r us realty of NY",
+      "timeOnZillow": 782517000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32353805",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/33873b9ea89e56fc461694f5dda1850f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/270-Cortelyou-Ave-Staten-Island-NY-10312/32353805_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,000/mo",
+      "priceLabel": "$3.0K",
+      "address": "270 Cortelyou Ave, Staten Island, NY 10312",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1108,
+      "latLong": {
+        "latitude": 40.552628,
+        "longitude": -74.16338
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32353805,
+          "streetAddress": "270 Cortelyou Ave",
+          "zipcode": "10312",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.552628,
+          "longitude": -74.16338,
+          "price": 3000.0,
+          "datePriceChanged": 1732089600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1108.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 677100,
+          "rentZestimate": 3157,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "priceChange": -200,
+          "timeOnZillow": 1403166000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 623000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1403166000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2060435706",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8b59aef0d25b38be81695b6143fbdf10-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/393-Gurley-Ave-FLOOR-2-Staten-Island-NY-10308/2060435706_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,300/mo",
+      "priceLabel": "$2.3K",
+      "address": "393 Gurley Ave FLOOR 2, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 870,
+      "latLong": {
+        "latitude": 40.560253,
+        "longitude": -74.162094
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060435706,
+          "streetAddress": "393 Gurley Ave FLOOR 2",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.560253,
+          "longitude": -74.162094,
+          "price": 2300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 870.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2320,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "timeOnZillow": 2873483000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Ashford Homes",
+      "timeOnZillow": 2873483000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32341632",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/859c3177b1897037575154121502faf9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/180-Tanglewood-Dr-Staten-Island-NY-10308/32341632_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,100/mo",
+      "priceLabel": "$3.1K",
+      "address": "180 Tanglewood Dr, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1501,
+      "latLong": {
+        "latitude": 40.564606,
+        "longitude": -74.14906
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "57 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32341632,
+          "streetAddress": "180 Tanglewood Dr",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.564606,
+          "longitude": -74.14906,
+          "price": 3100.0,
+          "datePriceChanged": 1731830400000,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1501.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 722300,
+          "rentZestimate": 3262,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 17)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3100.0,
+          "priceChange": -200,
+          "timeOnZillow": 4936907000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 817000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-04 00:00:00",
+      "visited": false,
+      "timeOnZillow": 4936907000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442315519",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/07533e227d21678a0e167fd469452ac0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/109-Ridgecrest-Ave-FLOOR-1-Staten-Island-NY-10312/442315519_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,600/mo",
+      "priceLabel": "$1.6K",
+      "address": "109 Ridgecrest Ave FLOOR 1, Staten Island, NY 10312",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.536877,
+        "longitude": -74.15638
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442315519,
+          "streetAddress": "109 Ridgecrest Ave FLOOR 1",
+          "zipcode": "10312",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.536877,
+          "longitude": -74.15638,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 1929598000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-02 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1929598000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2060127671",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a92b845850d852976721b519b6bdacd9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/128-Blythe-Pl-FLOOR-1-Staten-Island-NY-10306/2060127671_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,850/mo",
+      "priceLabel": "$1.9K",
+      "address": "128 Blythe Pl FLOOR 1, Staten Island, NY 10306",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 770,
+      "latLong": {
+        "latitude": 40.563107,
+        "longitude": -74.13833
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "75 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060127671,
+          "streetAddress": "128 Blythe Pl FLOOR 1",
+          "zipcode": "10306",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.563107,
+          "longitude": -74.13833,
+          "price": 1850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 770.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1905,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1850.0,
+          "timeOnZillow": 6564673000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Ashford Homes",
+      "timeOnZillow": 6564673000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442692086",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8abb7c8d24723268f38c062330681f85-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/514-Leverett-Ave-FLOOR-1-Staten-Island-NY-10308/442692086_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,464/mo",
+      "priceLabel": "$3.5K",
+      "address": "514 Leverett Ave FLOOR 1, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.55535,
+        "longitude": -74.1628
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442692086,
+          "streetAddress": "514 Leverett Ave FLOOR 1",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.55535,
+          "longitude": -74.1628,
+          "price": 3464.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3464.0,
+          "timeOnZillow": 542565000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Affordable Housing",
+      "timeOnZillow": 542565000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "143771027",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/55a16e6e8ba7fcb84059e43bf13d5086-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3974-Amboy-Rd-Staten-Island-NY-10308/143771027_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$7,800/mo",
+      "priceLabel": "$7.8K",
+      "address": "3974 Amboy Rd, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 0.0,
+      "latLong": {
+        "latitude": 40.550564,
+        "longitude": -74.15007
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "46 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 143771027,
+          "streetAddress": "3974 Amboy Rd",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.550564,
+          "longitude": -74.15007,
+          "price": 7800.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 0.0,
+          "bedrooms": 0.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 5457,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 7800.0,
+          "priceChange": -200,
+          "timeOnZillow": 4016468000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 2914000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: RE/MAX Edge",
+      "timeOnZillow": 4016468000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "32354499",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/75e3501d263939ebe8a51522692a6960-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/433-Barlow-Ave-Staten-Island-NY-10308/32354499_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,200/mo",
+      "priceLabel": "$3.2K",
+      "address": "433 Barlow Ave, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1455,
+      "latLong": {
+        "latitude": 40.55807,
+        "longitude": -74.16246
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32354499,
+          "streetAddress": "433 Barlow Ave",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.55807,
+          "longitude": -74.16246,
+          "price": 3200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1455.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3285,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 1060581000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 737000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Homes R Us Realty of NY, Inc.",
+      "timeOnZillow": 1060581000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "351640471",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/60029044bac16c6541ead059387e0658-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/4163-Amboy-Rd-C-Staten-Island-NY-10308/351640471_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,875/mo",
+      "priceLabel": "$1.9K",
+      "address": "4163 Amboy Rd #C, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 768,
+      "latLong": {
+        "latitude": 40.548782,
+        "longitude": -74.15554
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 351640471,
+          "streetAddress": "4163 Amboy Rd #C",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.548782,
+          "longitude": -74.15554,
+          "price": 1875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 768.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1813,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1875.0,
+          "timeOnZillow": 2329804000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# C",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Castle Gardens LLCEnter a company name",
+      "timeOnZillow": 2329804000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441149188",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d63a017492dface6b640261e04ab32dd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/0-Oceanview-Pl-Staten-Island-NY-10308/441149188_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,575/mo",
+      "priceLabel": "$1.6K",
+      "address": "0 Oceanview Pl, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.543583,
+        "longitude": -74.15025
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "53 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441149188,
+          "streetAddress": "0 Oceanview Pl",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.543583,
+          "longitude": -74.15025,
+          "price": 1575.0,
+          "datePriceChanged": 1731398400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 542100,
+          "listing_sub_type": {},
+          "priceReduction": "$75 (Nov 12)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1575.0,
+          "priceChange": -75,
+          "timeOnZillow": 4590910000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "lotAreaValue": 9583.2,
+          "lotAreaUnit": "sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: NextHome Prestige",
+      "timeOnZillow": 4590910000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "32341452",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/517eddf5bec80c7c69281795c16d5d89-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/170-Sandalwood-Dr-Staten-Island-NY-10308/32341452_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,100/mo",
+      "priceLabel": "$2.1K",
+      "address": "170 Sandalwood Dr, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.5602,
+        "longitude": -74.14533
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32341452,
+          "streetAddress": "170 Sandalwood Dr",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.5602,
+          "longitude": -74.14533,
+          "price": 2100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 721900,
+          "rentZestimate": 2382,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 2258059000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 713000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: NextHome Prestige",
+      "timeOnZillow": 2258059000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2077531203",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/85d2ceac902de742d1a65d51b99ce164-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/161-Fieldway-Ave-FLOOR-1-Staten-Island-NY-10308/2077531203_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,700/mo",
+      "priceLabel": "$2.7K",
+      "address": "161 Fieldway Ave FLOOR 1, Staten Island, NY 10308",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 40.548893,
+        "longitude": -74.14031
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2077531203,
+          "streetAddress": "161 Fieldway Ave FLOOR 1",
+          "zipcode": "10308",
+          "city": "Staten Island",
+          "state": "NY",
+          "latitude": 40.548893,
+          "longitude": -74.14031,
+          "price": 2700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 888700,
+          "rentZestimate": 2594,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "timeOnZillow": 2413713000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-27 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Robert Defalco Realty Inc",
+      "timeOnZillow": 2413713000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "1badbc04",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

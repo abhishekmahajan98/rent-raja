@@ -1,0 +1,148 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "2081478384",
+      "id": "2081478384",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4e90xjb6hrk36",
+      "imgSrc": "https://photos.zillowstatic.com/fp/14698f04914f1b6b830ece8c5941a0cd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/507-Ohio-St-APT-2-Medina-NY-14103/2081478384_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$875/mo",
+      "unformattedPrice": 875,
+      "address": "507 Ohio St APT 2, Medina, NY 14103",
+      "addressStreet": "507 Ohio St APT 2",
+      "addressCity": "Medina",
+      "addressState": "NY",
+      "addressZipcode": "14103",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.219795,
+        "longitude": -78.396576
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2081478384,
+          "streetAddress": "507 Ohio St APT 2",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.219795,
+          "longitude": -78.396576,
+          "price": 875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 795,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 875.0,
+          "timeOnZillow": 183269000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-25 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/14698f04914f1b6b830ece8c5941a0cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f828ac5f0e8e7fd6cff19246160a101e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/284904d191d93a5545b9972c7fb0131f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ea6c17edee49b137a528acf6b83e87b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8747fd4f5f3150f36c3c72acf072aaf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/482b3289842d2db95fe4d2bf7fc8a27f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99426a27d5dea27abbde6174e7db9646-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/619c3070911a882a75e387a3fd11bd8b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2518756919cf6e800d04e8d3ad2b1026-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9f6f8ca471a6a7ea2ed6945444ab767-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a00789404dab6c129e82d7c31e24bc0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/543e027528147a8fef77c6f41c2eee87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffeff7378faa8be0b8c1e2c698b7f869-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bec40e4b6feb14cd06808e52f2b587ec-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "47a2a730"
+}

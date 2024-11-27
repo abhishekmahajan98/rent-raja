@@ -1,0 +1,1099 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "163616884",
+      "id": "163616884",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4sqqp0rcshex5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/83981ab10d43162a032c38857f8de2d6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Southfields-NY-10975/163616884_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,250/mo",
+      "unformattedPrice": 2250,
+      "address": "(undisclosed Address), Southfields, NY 10975",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Southfields",
+      "addressState": "NY",
+      "addressZipcode": "10975",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 163616884,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10975",
+          "city": "Southfields",
+          "state": "NY",
+          "price": 2250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2169,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2250.0,
+          "timeOnZillow": 532608000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/83981ab10d43162a032c38857f8de2d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cffac4cf9760abfa06f8493b764644b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c9ff1da384059f69f8b937877928c0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04dcfb733e9f9e133ed409b4eec8dd32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6af45893b4047f6fe91a108a10eadd3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d05da95610bba74478cec39b4ef9fe2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/889c24083e287edd80d1c35323d55d31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c4d551e90726f1d7a5492182fb1b200-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8df513733b7681863dd85947924143e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4b6d9612f77bd2022f1e3e90e448a32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/452fbd7146764054dc9ab759bb71c695-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5e3d8fee341cdf4c7dab4e4a319ede2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5de1cb13e446f79797a40aaeccf5733c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f0cc352cdaf64e361e5be65fcc5449f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/394732a471ce565179df4006a3c9f1ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/336ed17f51a6f894c18b772bc6417991-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1bff5375ea27bdf0d695b3504bc5e3be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4c57b27f2d94fb39ba70bcdac94547e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2023a8e88bc83e15573bc48c01c9547-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd91e71d929916349eddefc6e9fccaf2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd595d00e305bc7d50a6292dac2e7b67-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31825535",
+      "id": "31825535",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4qpe53jy10bdy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/09448cd5ea14afa7d949fd2e6c9b94e3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/21-Amy-Todt-Dr-Monroe-NY-10950/31825535_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,600/mo",
+      "unformattedPrice": 3600,
+      "address": "21 Amy Todt Dr, Monroe, NY 10950",
+      "addressStreet": "21 Amy Todt Dr",
+      "addressCity": "Monroe",
+      "addressState": "NY",
+      "addressZipcode": "10950",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1844,
+      "latLong": {
+        "latitude": 41.302135,
+        "longitude": -74.17572
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31825535,
+          "streetAddress": "21 Amy Todt Dr",
+          "zipcode": "10950",
+          "city": "Monroe",
+          "state": "NY",
+          "latitude": 41.302135,
+          "longitude": -74.17572,
+          "price": 3600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1844.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 495300,
+          "rentZestimate": 3387,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "timeOnZillow": 424840000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 464100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 495300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Preferred",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/09448cd5ea14afa7d949fd2e6c9b94e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61e9fc653f590f86586385ee8a9cd641-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9470cfa415dcef582d76ca930c6cad99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90c08ad9e8b846a64f28be4d8fcbbd08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09e73c0586d13335c3e8fa18e122fd2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32000e3083dcf17c4ce018377222eccd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7366abe7c7b2f45aaf3ba807556c891a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4da2bcbb270289601e74b99f05479dab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/703e9bffe16bc808227786c9669a50fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/425bebc6f4fe5e3e023303efababd1bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/761a621ed78f4be097f260eed0419b11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/999fcd09d68506f4299879fa9a556a39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/971086fc2ed5104292fc74a774f456e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/984bc2732e3e56a75dedde6a0bbf6aec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d321d395afbace8f1c63ebc41f7478a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12c1cd079d925b966da3e2a6863cdf32-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31829803",
+      "id": "31829803",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2pnuh5d0ueeas",
+      "imgSrc": "https://photos.zillowstatic.com/fp/88d953d5c76e5c4d4cb32bed161d6ef4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/7-Heritage-Dr-UNIT-A-Harriman-NY-10926/31829803_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "7 Heritage Dr UNIT A, Harriman, NY 10926",
+      "addressStreet": "7 Heritage Dr UNIT A",
+      "addressCity": "Harriman",
+      "addressState": "NY",
+      "addressZipcode": "10926",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1022,
+      "latLong": {
+        "latitude": 41.3042,
+        "longitude": -74.152534
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31829803,
+          "streetAddress": "7 Heritage Dr UNIT A",
+          "zipcode": "10926",
+          "city": "Harriman",
+          "state": "NY",
+          "latitude": 41.3042,
+          "longitude": -74.152534,
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1022.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 241000,
+          "rentZestimate": 2182,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 1982989000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 179400.0,
+          "unit": "Unit A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 241000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-23 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Howard Hanna",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/88d953d5c76e5c4d4cb32bed161d6ef4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f211243dfef9933280124ad18ce7bb98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e411b8f249c70b384c18271b970a1c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd6baf0cb0b07713d375c518aed0c836-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d6245363ae60e89cdb6726754658475-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a5908d0136245917e28d3075608c3c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5840d68c87c5ac861c9c920109cf63ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5dadcaaf54759a1d866e0e08782336c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/032bae27161e314d26d6c72a6b553bb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a490a20827bb22e8857f82b04754fe5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4aef0a881fdf7b65546b27a68c3cc05f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60de3612bdb3639d265c5ac21f6bde7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e78b9333c152264f09675ea22e883c6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c29c2b36499c27353445770b6c3aed49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12b2a01b53c4f1e9c3e923d0716b7b42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99ccaec1bff251e8b99cde671f217fda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ffbcd8052a4a6f1e87ebddcf226333d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3244afed76101ac3ec54df9bb53d35d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28d9589f55ddce43dc0e49136675ee09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6456c08b60bdd769f61d19ceb68a6a27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc1193a520f7a19135e98d2056abe5b0-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31829369",
+      "id": "31829369",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "tv3dh230pnyf",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c53ad1310eab67f76da5f0ef522ad868-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/9-Blythelea-Rd-Monroe-NY-10950/31829369_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,400/mo",
+      "unformattedPrice": 3400,
+      "address": "9 Blythelea Rd, Monroe, NY 10950",
+      "addressStreet": "9 Blythelea Rd",
+      "addressCity": "Monroe",
+      "addressState": "NY",
+      "addressZipcode": "10950",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1580,
+      "latLong": {
+        "latitude": 41.29168,
+        "longitude": -74.16642
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31829369,
+          "streetAddress": "9 Blythelea Rd",
+          "zipcode": "10950",
+          "city": "Monroe",
+          "state": "NY",
+          "latitude": 41.29168,
+          "longitude": -74.16642,
+          "price": 3400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1580.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 436700,
+          "rentZestimate": 3384,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3400.0,
+          "timeOnZillow": 509254000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 274100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 436700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: eXp Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c53ad1310eab67f76da5f0ef522ad868-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc2eedf99f55990e01fca4b5b3f0ffe4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e287952f62883c7cfd89bfec12bdff9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85755a9e9b85fde2140abee99e2f575c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edb5f7937e39011926cfc28125b8d569-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8bbb60d280a612d285c87f0863e16c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8a76fa722c86fa92dccda87f64e0036-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/babf8a72364d769ff6b44e4c677d1710-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57ae4d9f885ce0faaba706df6ffec490-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e2b38a5087cfb92ef645161b10abfd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd467d7b9bc03684b69040f5bc6da1c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/faabc4521080970b87595ccdebae144a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d74a293fda9e1ca3b90fe7dd89d2d609-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca54d09932858496e0d0150928bf5797-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60b37f6898bb0a76b94e3b360db917ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72d7ba6e0edddf698b60ccf60d184e87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ba5cbd8b5541682d8e0321693cb710f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29b949b2e0483c34ec89abab1447110f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e94363b75a6e50ee9e202c169f85932e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40770aa1b0c3ef8cc857b1cc885ee9a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e449c81971c5327f51a12f0e50c8a6dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c16db77fab20d3c4bf861679dd0e1dd1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fbd782ae66871c7abcf922ecb31b785-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac5d7841fd61c51d2e5c38932b2828ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/261d7541450e3b9f0ce03a071cda11e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12852d06be3fa9007f72789b5f79f53c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/579780eebbea9847e0e459f6f8b9c4e8-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "31829995",
+      "id": "31829995",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3jyrwdhtacx3q",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=41.305320739746094,-74.16149139404297&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=_R_02eKCMO3u6_gh_kpdjsQrQsM=",
+      "detailUrl": "https://www.zillow.com/homedetails/39-Berwynn-Rd-4-A-Harriman-NY-10926/31829995_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "countryCurrency": "$",
+      "price": "$1,700/mo",
+      "unformattedPrice": 1700,
+      "address": "39 Berwynn Rd #4-A, Harriman, NY 10926",
+      "addressStreet": "39 Berwynn Rd #4-A",
+      "addressCity": "Harriman",
+      "addressState": "NY",
+      "addressZipcode": "10926",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=41.305320739746094,-74.16149139404297&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=hGlA4gYKCWKHyGctJmFBYnTHOhw=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=41.305320739746094,-74.16149139404297&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=9R-YdfBua4_r5P0HaI6IJSJRiAU=",
+      "beds": 1,
+      "baths": 1.0,
+      "area": 767,
+      "latLong": {
+        "latitude": 41.30532,
+        "longitude": -74.16149
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31829995,
+          "streetAddress": "39 Berwynn Rd #4-A",
+          "zipcode": "10926",
+          "city": "Harriman",
+          "state": "NY",
+          "latitude": 41.30532,
+          "longitude": -74.16149,
+          "price": 1700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 767.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 21,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 193200,
+          "rentZestimate": 1706,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 1881529000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 143600.0,
+          "unit": "# 4-A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 193200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "439564378",
+      "id": "439564378",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3h1ec09mw4mae",
+      "imgSrc": "https://photos.zillowstatic.com/fp/56cbcebb32e3f67c1ae5625b626c615d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/416-Silver-Maples-Dr-Harriman-NY-10926/439564378_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,850/mo",
+      "unformattedPrice": 2850,
+      "address": "416 Silver Maples Dr, Harriman, NY 10926",
+      "addressStreet": "416 Silver Maples Dr",
+      "addressCity": "Harriman",
+      "addressState": "NY",
+      "addressZipcode": "10926",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1344,
+      "latLong": {
+        "latitude": 41.301903,
+        "longitude": -74.14824
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "65 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439564378,
+          "streetAddress": "416 Silver Maples Dr",
+          "zipcode": "10926",
+          "city": "Harriman",
+          "state": "NY",
+          "latitude": 41.301903,
+          "longitude": -74.14824,
+          "price": 2850.0,
+          "datePriceChanged": 1731398400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1344.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 65,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 12)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2850.0,
+          "priceChange": -50,
+          "timeOnZillow": 5616301000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Howard Hanna Rand Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/56cbcebb32e3f67c1ae5625b626c615d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1e5e7d94ab61958c74bd775bb045d88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba49be5544843ec082375e4d8edbad9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f957847081e5de62abea64f8c083c59c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80fc1bc2fd269ac7d682278730982768-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bc7adf97550389091afa1f9b309fcde-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5f6b6e4323d3391ff270b3e43eff459-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b37ed4a378bc9060d8f52639df7c3e16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15f7bd46c7d8d47901b982a377f6cb76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c925aa55b33beea5deba44a247bf0720-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c982c2bfa3d23af02de02836b95d2dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/355ae54a354b928a6036b358497bf3ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/816a7c8ef55fafc680f571d90c77e3ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee169e196c2b9e31b05bfbe7730ac925-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/788078468102d8cb22687769962da7f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df540bd24928cd7a03e13cfacf25abbf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/763a04ed6a0b6981b4be1f6207c3f23b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/492c9929457e2720584fc1af7764e249-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2c3dacc26735c35f9499c8c57903380-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b9f96682b30b269ad60166ecc91820a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e920f6c068d173bf982cfa3c0e30d588-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24d3437da1a524c2d8105c826c5659c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/105c0d0817dd817dca27550c58e74eaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9a408dd9be45079fbfda7fc3a4fe0e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69a0c0610e036c4cf49ee3ef649b7b5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df208686bb7ecd39a60d6eace5e6774f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90cf9f64bc10e6027396a57bf35d87a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9611599f86a22c183a83f28b3ce986da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc3039159950d20e7aa209398f3b945f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f53f2eff0e360a8a4c409c31253c82a-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "31853240",
+      "id": "31853240",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2e7j6teru9w70",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0057d0664bd7e2af689602e29350bd6e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/205-Old-Mill-Rd-Southfields-NY-10975/31853240_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "205 Old Mill Rd, Southfields, NY 10975",
+      "addressStreet": "205 Old Mill Rd",
+      "addressCity": "Southfields",
+      "addressState": "NY",
+      "addressZipcode": "10975",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 886,
+      "latLong": {
+        "latitude": 41.2475,
+        "longitude": -74.175934
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "93 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31853240,
+          "streetAddress": "205 Old Mill Rd",
+          "zipcode": "10975",
+          "city": "Southfields",
+          "state": "NY",
+          "latitude": 41.2475,
+          "longitude": -74.175934,
+          "price": 2500.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 886.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 93,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 266100,
+          "rentZestimate": 2234,
+          "listing_sub_type": {},
+          "priceReduction": "$95 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "priceChange": -95,
+          "timeOnZillow": 8105033000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 266100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: ARC Realty 1 in Sales",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0057d0664bd7e2af689602e29350bd6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df96f44d5ad7961fde55eb2cdf9660ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80cee66cccd4238e848c66069163507b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3cf7406d134bd2438c3af3cc3288dbf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90ccb5179d52df2b1ac2ea76975888d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e555b1033a6e379274fdba0972900ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b101f7b5ebdd14e862b1ea3794ef978-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a61c1dc4e4602ec4d55ad27a2e2a701d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/49a4cf8f21a642b542bdd06ad9ebe710-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/134f61b712683ba067040ee0f78d024b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbcd5978e856d2c4078a99de75477011-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/041d90d1f7eedc08214687f4ee4cc75d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6a09e409c48734d059736998f4dc80e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2144b16f3c35a05d5f3bedd1ed5c11d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2739ce85c1d21a8d78b78d000abef7c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/843a30b309c358e51369274dabea9362-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2150293667b7c36eb3ce301286232403-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28014327d9bbc53bcbec4e0ebad80382-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b907962d1d1ddf0ae39888fc85b4331e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e727f5712dd400dccfd872a62267677-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea8e18b85f30365d18f38356be0a0c78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e99b8762a3bbcb87b023269c6a960b14-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bfc751af29f45c5f0e13dfbd674ee69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d5ce871905f419760dede184024f28b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca5e9ad682da26e1aec720f38a115b99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecae773cecc4b366602afd2042b2b08f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9d47152a5b7cedc713ad4e5ee6bf8ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a3ea6331bf4a82b3412c13ad1e6c8a3-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "45c68160"
+}

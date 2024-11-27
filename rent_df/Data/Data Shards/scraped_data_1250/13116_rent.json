@@ -1,0 +1,918 @@
+{
+  "listResults": [
+    {
+      "zpid": "442257143",
+      "id": "442257143",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4md2pjztvcyzx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6efb7897802ad990788fa5dd214ee7be-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Minoa-NY-13116/442257143_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "(undisclosed Address), Minoa, NY 13116",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Minoa",
+      "addressState": "NY",
+      "addressZipcode": "13116",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "23 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442257143,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13116",
+          "city": "Minoa",
+          "state": "NY",
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 23,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 2071262000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-31 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6efb7897802ad990788fa5dd214ee7be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e856b029b983ad7363b1e0bffd5dbc3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f92a8f6c600f616616587d8faf2741d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28d515b3b0c7150b7d72c98d7ae86a19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c87e669b8872dd6e197bdd338dc15f4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/48bf7d27d2e24f2f4b423c80360bc372-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1bb0873908600bcab698962c05080b29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0e5a57c4878c464c438ab54c2977a06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cf4221a0426194c3c36f4924662160c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/707f50059182e904eebefd806a97d5ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d4af217f463b25565e3d26b77cc8ffa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad5a390ec683bda8cd35dc0a96e4ce07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1312553f19cc84f188390675345aa176-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fafd37a4f69bdf2b80a6263ec2b0a50c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8ce720adf39ec578ecb030b85572988-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31747876",
+      "id": "31747876",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "21p7rwzt092zd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/12a54a04a061378d0317d91169b48ba9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/238-William-St-Minoa-NY-13116/31747876_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,575/mo",
+      "unformattedPrice": 1575,
+      "address": "238 William St, Minoa, NY 13116",
+      "addressStreet": "238 William St",
+      "addressCity": "Minoa",
+      "addressState": "NY",
+      "addressZipcode": "13116",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 801,
+      "latLong": {
+        "latitude": 43.07081,
+        "longitude": -76.0087
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31747876,
+          "streetAddress": "238 William St",
+          "zipcode": "13116",
+          "city": "Minoa",
+          "state": "NY",
+          "latitude": 43.07081,
+          "longitude": -76.0087,
+          "price": 1575.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 801.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 139100,
+          "rentZestimate": 1632,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1575.0,
+          "timeOnZillow": 442883000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 80600.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 139100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-25 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/12a54a04a061378d0317d91169b48ba9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9d61d96e61fdeeb16bf898086f9a34b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac19c3b65c860ffcf2efe7651a4437c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87286e4ef20239bc48a4b6a7ede371ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77e9704032a2a528f7c6da53e279f483-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb5843864a280aed86ae0fc24675b6e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5a58c48dcfe667331f60634b67826d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3da3e572439f0cba44aa184b18855018-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa4c6f6cfad7af2fe00b4d4cfc5304e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2fa9758722917fa55c274854e7fcaaa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c96ce27c431136ac36d34ff75baebc4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb2b79311d0c575a7ba400a7f5a0c40e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ab6938d751ee947b4b84bbeb595edcf-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31747770",
+      "id": "31747770",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2gwd9abg8ncx0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/417c36fdd09cc01ee273e834bd8175be-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/204-S-Main-St-Minoa-NY-13116/31747770_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,550/mo",
+      "unformattedPrice": 1550,
+      "address": "204 S Main St, Minoa, NY 13116",
+      "addressStreet": "204 S Main St",
+      "addressCity": "Minoa",
+      "addressState": "NY",
+      "addressZipcode": "13116",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 43.072716,
+        "longitude": -76.00293
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31747770,
+          "streetAddress": "204 S Main St",
+          "zipcode": "13116",
+          "city": "Minoa",
+          "state": "NY",
+          "latitude": 43.072716,
+          "longitude": -76.00293,
+          "price": 1550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 232000,
+          "rentZestimate": 1833,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 1030219000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 195800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 232000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Cousineau Property Management LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/417c36fdd09cc01ee273e834bd8175be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b48d706445da49578866e93ef1b9147a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8dab3077604f39b5020b03cff2a9ea1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfc8c18d95b7a61e62df703afe1a43a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0025633071ce3fffa06b020156af1693-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ede4e8a382224a8365caa3148eb6c935-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/256e381ca872c08c0c7add14366bc4b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b3297e81d5cebf082719d349173c92d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e11bc59197f061925f08b1c3e657359-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1dde6383e1e4e9ab08f29e1d7c7aa08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4c9e31036b1250a08ddbc2e6f023161-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc32010a4190d2970984dcd94b4e8701-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/797e0ad3385878e0148e2b17ac28dd2c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e27f26bde355a05881634d5420a5c995-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bfda2b259d26e4c02a50ba290c6aeb0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5a320c6a88aacf0c798d007f277f2c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c976e99b09f9ed69419aff7ec15bd754-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc8bd7a985f2044ce0723042fd1aa01a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20ffaa791b2711a755445e5168a8c9f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/165e0366c64eeb6bf58c1ac6291678a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b64b60f99c5747e941e989f474e08886-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1e2316d85b6deb11dc4ef4938e57a61-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "31747876",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/12a54a04a061378d0317d91169b48ba9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/238-William-St-Minoa-NY-13116/31747876_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,575/mo",
+      "priceLabel": "$1.6K",
+      "address": "238 William St, Minoa, NY 13116",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 801,
+      "latLong": {
+        "latitude": 43.07081,
+        "longitude": -76.0087
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31747876,
+          "streetAddress": "238 William St",
+          "zipcode": "13116",
+          "city": "Minoa",
+          "state": "NY",
+          "latitude": 43.07081,
+          "longitude": -76.0087,
+          "price": 1575.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 801.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 139100,
+          "rentZestimate": 1632,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1575.0,
+          "timeOnZillow": 442883000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 80600.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-25 00:00:00",
+      "visited": false,
+      "timeOnZillow": 442883000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31747770",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/417c36fdd09cc01ee273e834bd8175be-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/204-S-Main-St-Minoa-NY-13116/31747770_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,550/mo",
+      "priceLabel": "$1.6K",
+      "address": "204 S Main St, Minoa, NY 13116",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 43.072716,
+        "longitude": -76.00293
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31747770,
+          "streetAddress": "204 S Main St",
+          "zipcode": "13116",
+          "city": "Minoa",
+          "state": "NY",
+          "latitude": 43.072716,
+          "longitude": -76.00293,
+          "price": 1550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 232000,
+          "rentZestimate": 1833,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 1030219000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 195800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Cousineau Property Management LLC",
+      "timeOnZillow": 1030219000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "31750067",
+      "id": "31750067",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "11cdcu9cfxn7k",
+      "imgSrc": "https://photos.zillowstatic.com/fp/48023e70b8c0de9c0e54e3f874c38fc2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/101-Hadden-Ln-East-Syracuse-NY-13057/31750067_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "101 Hadden Ln, East Syracuse, NY 13057",
+      "addressStreet": "101 Hadden Ln",
+      "addressCity": "East Syracuse",
+      "addressState": "NY",
+      "addressZipcode": "13057",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1368,
+      "latLong": {
+        "latitude": 43.060482,
+        "longitude": -76.021164
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31750067,
+          "streetAddress": "101 Hadden Ln",
+          "zipcode": "13057",
+          "city": "East Syracuse",
+          "state": "NY",
+          "latitude": 43.060482,
+          "longitude": -76.021164,
+          "price": 2200.0,
+          "datePriceChanged": 1731830400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1368.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 27,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 226800,
+          "rentZestimate": 2275,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 17)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "priceChange": -100,
+          "timeOnZillow": 2409047000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 151000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 226800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/48023e70b8c0de9c0e54e3f874c38fc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c2225142cba20c6b342e26c14594e1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d99e311b92db8d92aec7ea3ba6b283f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6af8230632f4d47a634e44624d10f16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/397c26568ac4e3b8c0737237ec492d16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f67300016936b62162369b9675084e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8615f6b29e40e0862b3778993d861385-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c7dc6d22a3ed4c35c49e41176ef609c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89e26af6dcf2d61f21ef6ca604b07066-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c836cc74afd5296bd01923822bf9088-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3dfd31e364ec08bc147cadc228581e9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d95cb6ce729e8486aa6ac41384e5615-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5c8a2f357d0bba5d99a83ae5670ee4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0ea703fbcda2fa0a5b3d573bbe24ac8-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2089961573",
+      "id": "2089961573",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4udtbeqc3n4e0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f1f574b29233ecff83260cb0a5db709c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/East-Syracuse-NY-13057/2089961573_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,800/mo",
+      "unformattedPrice": 4800,
+      "address": "(undisclosed Address), East Syracuse, NY 13057",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "East Syracuse",
+      "addressState": "NY",
+      "addressZipcode": "13057",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "55 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2089961573,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13057",
+          "city": "East Syracuse",
+          "state": "NY",
+          "price": 4800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 55,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 251900,
+          "rentZestimate": 2176,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4800.0,
+          "timeOnZillow": 4769304000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 251900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1f574b29233ecff83260cb0a5db709c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce548f53a0c7a91c79088d4ae0beb4eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33538ad64c5484a16664dd5486e79c9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87e7a25290d94cc11abcbf3d45414a03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6e3eae11d9fcb4d43754b3122078dc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f52df225b5a15f70848e3b51b98d214-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23eea8db66e652d61f37c3c2e18b5b3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc843493fa40a0c85b186aca1b3e02ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9810b0e1f54c9d938d6ce3dc8064e8a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59d8e9beb55d8d024e35bf13c11619cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8021d399ab7d05d74b837344694eb411-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed58b69515c798bfdedd52d196385e57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcb517467e19b481ca4e48839bc3fcb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9830599a285eb2e4a8339a6a435bea11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7886db6ade0521ce0fc69313b3a798fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8c449be68088a870bbc3c77f48bf2ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7670128a9a1783b5e22d6a39771ea1bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e216ca651530943cbcb94219c2fa5222-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2305592d016247c0afb96e0f084c392-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44ce4795adedb14e2a1eeef40110fa34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4b021051ce997a5d88323aa726b8c06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9cb5b9f8b108f6985ee28a6737343da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/628b181d20df491172e69c572b074848-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08183ce45617318f81794360254b726c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddf5fcc9a342527a20f0f8a581ad047d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35c5635aef747e478517fe501a357a88-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "3729ebba",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "719b7a00"
+}

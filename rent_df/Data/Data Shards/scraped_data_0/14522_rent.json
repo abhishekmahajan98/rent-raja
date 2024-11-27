@@ -1,0 +1,1622 @@
+{
+  "listResults": [
+    {
+      "zpid": "343579225",
+      "id": "343579225",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "bmnwqw921m4w",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4552ae199e29c43c31240b03e8634bdf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/222-Fayette-St-90FBE958E-Palmyra-NY-14522/343579225_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,295+/mo",
+      "unformattedPrice": 1295,
+      "address": "Swiss Chalet Apartments, 222 Fayette St, Palmyra, NY 14522",
+      "addressStreet": "222 Fayette St #90FBE958E",
+      "addressCity": "Palmyra",
+      "addressState": "NY",
+      "addressZipcode": "14522",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 43.060154,
+        "longitude": -77.228165
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 343579225,
+          "streetAddress": "222 Fayette St #90FBE958E",
+          "zipcode": "14522",
+          "city": "Palmyra",
+          "state": "NY",
+          "latitude": 43.060154,
+          "longitude": -77.228165,
+          "price": 1295.0,
+          "datePriceChanged": 1728370800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 264,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1362,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "priceChange": 45,
+          "timeOnZillow": 22820260000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 90fbe958e",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Gerber Apartments",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4552ae199e29c43c31240b03e8634bdf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/467ab1a24b5ea57668fa02d0cfe40659-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46c8f60e5fd155b5e07d519dd869639c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01151a0cd4d09dc042a2be05f2a61ddc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17923b57553d384be1840d372f3ec6e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2211f489bece6de316b54bd07cfe3f96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/296f64c0900d83e8f2449034805de242-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07647c82e12d49173156ddbb55100a9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28ebc864f0cc13b9159c3478b4b00d9f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442120109",
+      "id": "442120109",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ar462s6a646e",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7df97525cf51dc9ce28b1c90ad1ee65f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3527-Vienna-St-6-Palmyra-NY-14522/442120109_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,595/mo",
+      "unformattedPrice": 1595,
+      "address": "3527 Vienna St #6, Palmyra, NY 14522",
+      "addressStreet": "3527 Vienna St #6",
+      "addressCity": "Palmyra",
+      "addressState": "NY",
+      "addressZipcode": "14522",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.058796,
+        "longitude": -77.21077
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442120109,
+          "streetAddress": "3527 Vienna St #6",
+          "zipcode": "14522",
+          "city": "Palmyra",
+          "state": "NY",
+          "latitude": 43.058796,
+          "longitude": -77.21077,
+          "price": 1595.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 26,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1595.0,
+          "timeOnZillow": 2268491000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 6",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Borderline Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7df97525cf51dc9ce28b1c90ad1ee65f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5916506dcc9776bf80178d41c0da166-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7919aad5c7a810edfa85ba175fdf1ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0331fa92e582bcbea62f99b4d403442-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/475e3fb3d960c16cb18d076b2f5e302b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/794a66cc70e1eb32e90c5fbf92a9c42a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8c6bd8a519527b374517b807b6aeb8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/455199663f623a135a033ed550def3e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8eaa65be351cc5779ea656da087bbab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8ced9b5d7be7f4ab98ab2e3d330be57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00378bbbe6c112a0a92b2d77a6ef1512-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e08c9902d15a6506f08738ad50f986f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/351439123e0fe43aad2d82067ff1f307-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ccdf07f3d5d634d5965ff4754550dd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7af77fd64128faf4b210be4c734b0435-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5dd9f6ba736714007519770d08095ccb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e70f9d947fcc1ae7670e81b66554a6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfbdd1396d3b31af0f0122937b0ad01a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d21a5053a47f5f311d77d404993a47c-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442689498",
+      "id": "442689498",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "48p43jdqxvg9q",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b3f33ae3b992366aeb5dec94fe87fdd4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/328-330-W-Main-St-2-Palmyra-NY-14522/442689498_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "328-330 W Main St #2, Palmyra, NY 14522",
+      "addressStreet": "328-330 W Main St #2",
+      "addressCity": "Palmyra",
+      "addressState": "NY",
+      "addressZipcode": "14522",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.063515,
+        "longitude": -77.24094
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442689498,
+          "streetAddress": "328-330 W Main St #2",
+          "zipcode": "14522",
+          "city": "Palmyra",
+          "state": "NY",
+          "latitude": 43.063515,
+          "longitude": -77.24094,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 490045000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3f33ae3b992366aeb5dec94fe87fdd4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ac2f6cb23cb3764f0db2d1255287f7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9e4f467f2b4f6114bf015ff496a710d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95fe7b43c1365ded91b802b1e32f833d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ac2ba6c14f81d2c33d4a6fea88a8ad5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b36c44caba8f703a69f2c69ed5bddd9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31c2f77b8b2452efe3054cc809873862-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c72ad9df1fcd44a5a3d69882ee983fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0348c3d0ec33cfaebe93c3f65f2cd6f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/392e9f1e685206cc3dfb48208b03318c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d8e4246d5c062921998fad3fab965d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2fce14b1c3ced436b768288819b4fa0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8c4f06f8f9dab0204980a083acc612a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440663598",
+      "id": "440663598",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3f3mvvr320dvq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/54e1d5c4e2f80b2897a9fffe3947d298-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Macedon-NY-14502/440663598_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "(undisclosed Address), Macedon, NY 14502",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Macedon",
+      "addressState": "NY",
+      "addressZipcode": "14502",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "63 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440663598,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "14502",
+          "city": "Macedon",
+          "state": "NY",
+          "price": 1300.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 63,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "priceChange": -200,
+          "timeOnZillow": 5465753000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/54e1d5c4e2f80b2897a9fffe3947d298-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/364eff694bd9d0725b3def36fb76ea89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ab40ffd1922fa013e893d30b2e91e4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4fff4d9265daaabed72f18f4661b8f03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5db1be0f5b497c32d8130aae878b5921-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f663d757e56174f193d62c4786c4d33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46f3f21632b600f0a1405f15e3fd2bc1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a90bbe1c1b1ff4d821d95294b7fcb62a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05ed1807f7b56fe2919957ffd9319e5d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2095887524",
+      "id": "2095887524",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "68a95p3avts9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/841da10958945b2dca2e33bc97593ee3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/133-Washington-St-Palmyra-NY-14522/2095887524_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "133 Washington St, Palmyra, NY 14522",
+      "addressStreet": "133 Washington St",
+      "addressCity": "Palmyra",
+      "addressState": "NY",
+      "addressZipcode": "14522",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1860,
+      "latLong": {
+        "latitude": 43.061863,
+        "longitude": -77.23599
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2095887524,
+          "streetAddress": "133 Washington St",
+          "zipcode": "14522",
+          "city": "Palmyra",
+          "state": "NY",
+          "latitude": 43.061863,
+          "longitude": -77.23599,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1860.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1888,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 1371105000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/841da10958945b2dca2e33bc97593ee3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/010ad8f84403ac1745cb562cd3e5b8d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a4f42b40351504736e753b5196ab15b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16915c85123972f7ea0d85769ddbf7e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10ac43acdc2c1ab41de4df003bcd1c10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eaa848eb89f4e615c474104c86d60513-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e93ff77886152fd2ec8482710f71a552-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1911a3079c4953ef9b110c0184768ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83120dcc4b50d237f9c154706894d7f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d946274ebfe5acb2a77f651efe715a3-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440984396",
+      "id": "440984396",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5241q72zy6ms1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/44360a724bfce26ef5a090c0e2680d1c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/316-E-Main-St-2-Palmyra-NY-14522/440984396_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,095/mo",
+      "unformattedPrice": 1095,
+      "address": "316 E Main St #2, Palmyra, NY 14522",
+      "addressStreet": "316 E Main St #2",
+      "addressCity": "Palmyra",
+      "addressState": "NY",
+      "addressZipcode": "14522",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 697,
+      "latLong": {
+        "latitude": 43.063164,
+        "longitude": -77.22905
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "53 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440984396,
+          "streetAddress": "316 E Main St #2",
+          "zipcode": "14522",
+          "city": "Palmyra",
+          "state": "NY",
+          "latitude": 43.063164,
+          "longitude": -77.22905,
+          "price": 1095.0,
+          "datePriceChanged": 1730358000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 697.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 53,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 31)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1095.0,
+          "priceChange": -100,
+          "timeOnZillow": 4582169000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/44360a724bfce26ef5a090c0e2680d1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35c1b4d7970b49a3e4c03cddce754e61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c50b9ba2f256fc8a81ba40b754542ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b111904356cd63ac5fee8b1b1602b0d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6a223ce4d185eb38c11be8d588d29c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/138c6e9e033dd25a6d293ef40da3a845-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87932c4100b3cd46eb96ddbeda509b9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78977e299b384d422a979eaecbd3ebf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/beec3add4bd046b6ef6e9374bd650762-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/acd9a341d86ed8fc8cc893ce3c290e17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d720dcb6753d6c3b19af42ed41e8c13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60a16c874894920335a075a8da7f13f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bdd904465a0d21477b60e9f749b30bf-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2061856443",
+      "id": "2061856443",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2ufn292bk0j91",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e5abdb47befa17fed89cbaebc468df63-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1950-State-Route-31-1-60-Macedon-NY-14502/2061856443_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$550/mo",
+      "unformattedPrice": 550,
+      "address": "1950 State Route 31 #1-60, Macedon, NY 14502",
+      "addressStreet": "1950 State Route 31 #1-60",
+      "addressCity": "Macedon",
+      "addressState": "NY",
+      "addressZipcode": "14502",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 715,
+      "latLong": {
+        "latitude": 43.068226,
+        "longitude": -77.28038
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "138 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061856443,
+          "streetAddress": "1950 State Route 31 #1-60",
+          "zipcode": "14502",
+          "city": "Macedon",
+          "state": "NY",
+          "latitude": 43.068226,
+          "longitude": -77.28038,
+          "price": 550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 715.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 138,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 966,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 550.0,
+          "timeOnZillow": 11939683000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1-60",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Lakeview Health Services, Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5abdb47befa17fed89cbaebc468df63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85cdb40aed9aff3e79e2cd4c6ca619d6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442033633",
+      "id": "442033633",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "qq943zyud0jn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/41e495b180fd8d05b86b5288f449440c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/palmyra-ny/park-hill-apartments/5XqG27/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,520/mo",
+      "unformattedPrice": 1520,
+      "address": "Park Hill Apartments, 250 Johnson St #14737172, Palmyra, NY 14522",
+      "addressStreet": "250 Johnson St #14737172",
+      "addressCity": "Palmyra",
+      "addressState": "NY",
+      "addressZipcode": "14522",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 860,
+      "latLong": {
+        "latitude": 43.06019,
+        "longitude": -77.22398
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442033633,
+          "streetAddress": "250 Johnson St #14737172",
+          "zipcode": "14522",
+          "city": "Palmyra",
+          "state": "NY",
+          "latitude": 43.06019,
+          "longitude": -77.22398,
+          "price": 1520.0,
+          "datePriceChanged": 1732176000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 860.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 29,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1520.0,
+          "priceChange": 71,
+          "timeOnZillow": 2586352000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 14737172",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-25 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Barrington Residential",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/41e495b180fd8d05b86b5288f449440c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd9307764436523951dfc4e8e4ad8dae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ba31cb5b60df22aeaff111dede151a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eae054acdc304cb34e90b67402012a1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66fc81768224b97a11eb0d999a8cfe3f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3137cb81f02107ab919bc4d76c3c761-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eecfb77eb353f8b4b3082a5922df1556-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c68dcc5aa2009cb30fa6da0409e310c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8986864608b55385249b6499c09f60fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3d57fdc1c1b726fb99d6f5298751ced-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69cf2f9d0e19308c12627b0caa078107-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "343579225",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4552ae199e29c43c31240b03e8634bdf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/222-Fayette-St-90FBE958E-Palmyra-NY-14522/343579225_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,295+/mo",
+      "priceLabel": "$1.3K",
+      "address": "222 Fayette St, Palmyra, NY 14522",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 43.060154,
+        "longitude": -77.228165
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 343579225,
+          "streetAddress": "222 Fayette St #90FBE958E",
+          "zipcode": "14522",
+          "city": "Palmyra",
+          "state": "NY",
+          "latitude": 43.060154,
+          "longitude": -77.228165,
+          "price": 1295.0,
+          "datePriceChanged": 1728370800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1362,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "priceChange": 45,
+          "timeOnZillow": 22820260000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 90fbe958e",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Gerber Apartments",
+      "timeOnZillow": 22820260000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "442120109",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7df97525cf51dc9ce28b1c90ad1ee65f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3527-Vienna-St-6-Palmyra-NY-14522/442120109_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,595/mo",
+      "priceLabel": "$1.6K",
+      "address": "3527 Vienna St #6, Palmyra, NY 14522",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.058796,
+        "longitude": -77.21077
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442120109,
+          "streetAddress": "3527 Vienna St #6",
+          "zipcode": "14522",
+          "city": "Palmyra",
+          "state": "NY",
+          "latitude": 43.058796,
+          "longitude": -77.21077,
+          "price": 1595.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1595.0,
+          "timeOnZillow": 2268491000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 6",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Borderline Properties",
+      "timeOnZillow": 2268491000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    },
+    {
+      "zpid": "442689498",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b3f33ae3b992366aeb5dec94fe87fdd4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/328-330-W-Main-St-2-Palmyra-NY-14522/442689498_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,150/mo",
+      "priceLabel": "$1.2K",
+      "address": "328-330 W Main St #2, Palmyra, NY 14522",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.063515,
+        "longitude": -77.24094
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442689498,
+          "streetAddress": "328-330 W Main St #2",
+          "zipcode": "14522",
+          "city": "Palmyra",
+          "state": "NY",
+          "latitude": 43.063515,
+          "longitude": -77.24094,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 490045000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "visited": false,
+      "timeOnZillow": 490045000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2095887524",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/841da10958945b2dca2e33bc97593ee3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/133-Washington-St-Palmyra-NY-14522/2095887524_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "133 Washington St, Palmyra, NY 14522",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1860,
+      "latLong": {
+        "latitude": 43.061863,
+        "longitude": -77.23599
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2095887524,
+          "streetAddress": "133 Washington St",
+          "zipcode": "14522",
+          "city": "Palmyra",
+          "state": "NY",
+          "latitude": 43.061863,
+          "longitude": -77.23599,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1860.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1888,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 1371105000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1371105000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "440984396",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/44360a724bfce26ef5a090c0e2680d1c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/316-E-Main-St-2-Palmyra-NY-14522/440984396_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,095/mo",
+      "priceLabel": "$1.1K",
+      "address": "316 E Main St #2, Palmyra, NY 14522",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 697,
+      "latLong": {
+        "latitude": 43.063164,
+        "longitude": -77.22905
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "53 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440984396,
+          "streetAddress": "316 E Main St #2",
+          "zipcode": "14522",
+          "city": "Palmyra",
+          "state": "NY",
+          "latitude": 43.063164,
+          "longitude": -77.22905,
+          "price": 1095.0,
+          "datePriceChanged": 1730358000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 697.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 31)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1095.0,
+          "priceChange": -100,
+          "timeOnZillow": 4582169000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 4582169000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2061856443",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e5abdb47befa17fed89cbaebc468df63-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1950-State-Route-31-1-60-Macedon-NY-14502/2061856443_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$550/mo",
+      "priceLabel": "$550",
+      "address": "1950 State Route 31 #1-60, Macedon, NY 14502",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 715,
+      "latLong": {
+        "latitude": 43.068226,
+        "longitude": -77.28038
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "138 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061856443,
+          "streetAddress": "1950 State Route 31 #1-60",
+          "zipcode": "14502",
+          "city": "Macedon",
+          "state": "NY",
+          "latitude": 43.068226,
+          "longitude": -77.28038,
+          "price": 550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 715.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 966,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 550.0,
+          "timeOnZillow": 11939683000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1-60",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Lakeview Health Services, Inc.",
+      "timeOnZillow": 11939683000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442033633",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/41e495b180fd8d05b86b5288f449440c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/palmyra-ny/park-hill-apartments/5XqG27/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,520/mo",
+      "priceLabel": "$1.5K",
+      "address": "250 Johnson St #14737172, Palmyra, NY 14522",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 860,
+      "latLong": {
+        "latitude": 43.06019,
+        "longitude": -77.22398
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442033633,
+          "streetAddress": "250 Johnson St #14737172",
+          "zipcode": "14522",
+          "city": "Palmyra",
+          "state": "NY",
+          "latitude": 43.06019,
+          "longitude": -77.22398,
+          "price": 1520.0,
+          "datePriceChanged": 1732176000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 860.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1520.0,
+          "priceChange": 71,
+          "timeOnZillow": 2586352000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 14737172",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-25 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Barrington Residential",
+      "timeOnZillow": 2586352000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "3ab006b9",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

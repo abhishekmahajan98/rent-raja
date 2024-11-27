@@ -1,0 +1,1531 @@
+{
+  "listResults": [
+    {
+      "zpid": "31801534",
+      "id": "31801534",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2tbytsywj5p0y",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a07ff4eed079003a05460280e286e18f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/7-Revere-Rd-Monroe-NY-10950/31801534_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "7 Revere Rd, Monroe, NY 10950",
+      "addressStreet": "7 Revere Rd",
+      "addressCity": "Monroe",
+      "addressState": "NY",
+      "addressZipcode": "10950",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1060,
+      "latLong": {
+        "latitude": 41.395966,
+        "longitude": -74.14189
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31801534,
+          "streetAddress": "7 Revere Rd",
+          "zipcode": "10950",
+          "city": "Monroe",
+          "state": "NY",
+          "latitude": 41.395966,
+          "longitude": -74.14189,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1060.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 305900,
+          "rentZestimate": 2274,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 796148000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 261800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 305900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Awesome Properties Inc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a07ff4eed079003a05460280e286e18f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbededc4e5a13fe075680a6fb620a0d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca5949b6fb48bf7a71a2082536c1886e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/566ad783eabb4ec2958db8effee13a20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5b6c9faeb08d6dc58d079586dea6e3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53e728df74cd432331ce88dbfeda13f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3efdd01aa25051043a1557f73f53903c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c477859c2736e3567ddd902d38c02ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f50df98180377dac5ae41592de04596c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22a0b2353a8f40d44d6fccd1f7a65ff3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/081448d2cf0e316bd7afee11144017c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0888a241fe99b5dccb04d116c446d951-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b93898fa92b3f67e1fc9e725ba06eba7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/753a153f466b7f1839e0f85fe37b31c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06cb5521aa16e017ea7577a9fc00a0bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dec87b7d66c21a69f9e2680669e94b2c-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31801492",
+      "id": "31801492",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1819xkcs1kss4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e29a4822c9ee04dd9f3eab8423cd6323-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/16-Sunrise-Trl-Monroe-NY-10950/31801492_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,950/mo",
+      "unformattedPrice": 1950,
+      "address": "16 Sunrise Trl, Monroe, NY 10950",
+      "addressStreet": "16 Sunrise Trl",
+      "addressCity": "Monroe",
+      "addressState": "NY",
+      "addressZipcode": "10950",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 930,
+      "latLong": {
+        "latitude": 41.394276,
+        "longitude": -74.141335
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31801492,
+          "streetAddress": "16 Sunrise Trl",
+          "zipcode": "10950",
+          "city": "Monroe",
+          "state": "NY",
+          "latitude": 41.394276,
+          "longitude": -74.141335,
+          "price": 1950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 930.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 259500,
+          "rentZestimate": 2267,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 877259000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 213700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 259500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Realty, First in New York",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e29a4822c9ee04dd9f3eab8423cd6323-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6116d81639baf74bfbc7f2bfb71ca48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67a10c4c79d4c935861772b3a0c26430-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc503443e53971f3904eaae8db086268-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1934204bc833a15b419972c66c4ad0c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ff6f1733e19c9ecb7c90c2a145ef868-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ddc407ba8a1587af82295705885aba3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbb560dc4232bf1031414dec59c6f925-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7021c0421d53b563616637acfd0d4ad3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce0998f9b42b4d38c5fdb5ed4b61a28c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/665972f93cc7a2740d324e340de82058-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1dd60e1c47002a25b5676e0f32264451-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1adafa04da2b2568e281fe4497232b89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/016e040d9a3bbff86b37cac8d53d0b0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eab1eb9bace191db13ee47c59b297a6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db06a3f2bd76ab2adfcb8f767ee340dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34e7f943575c9b2bc7223148453a1e4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df87f4dc632a37895f543c524f414aa1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9eace8ce0e926a097f9b799193fa237-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c4ad0c66dd9ce86d5463df557c568fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f1269f00091bb8eebabc60b8f830590-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/768f4bbead8b6d6ab7a98ec7e90ef2e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e27596d0c16581f122f45e0d0261649-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0dbbad63f011a0150e63891912025c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36f16020c32b3044d565ad058740f8f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/550d9bc4163c3a5ddccda815c9e31c90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8904570c9b693c8dccaef7e84b5c9d7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "121370177",
+      "id": "121370177",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "z1psf302apmv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/641228d996cc77c57f29b93f033eef91-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4-Hillside-Cv-New-Windsor-NY-12553/121370177_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "4 Hillside Cv, New Windsor, NY 12553",
+      "addressStreet": "4 Hillside Cv",
+      "addressCity": "New Windsor",
+      "addressState": "NY",
+      "addressZipcode": "12553",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 970,
+      "latLong": {
+        "latitude": 41.437805,
+        "longitude": -74.11472
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "137 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 121370177,
+          "streetAddress": "4 Hillside Cv",
+          "zipcode": "12553",
+          "city": "New Windsor",
+          "state": "NY",
+          "latitude": 41.437805,
+          "longitude": -74.11472,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 970.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 137,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2124,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 11890199000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 926000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/641228d996cc77c57f29b93f033eef91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/493f4c442af664a9f6f41cc6e4efd42e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/711c124b0fdf16a3e408258bd9e26013-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8dfbe544d856bf969e4a72340313a4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6656f914b15c87083012465977decce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b2b81cd67ff7f898a57d37fab7310c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b6ae8e4ae714153d2d9dacbfa77b04d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b16f345402fad648c7ab14e957df48de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd110c2dc047839baf3c8149d96dff66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d158ef278d7fe6e6e34981d1e27b551c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ce6f2a3070405c7f76148ad68c5927a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b80ffad77d53c708870b98eacf27a57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f43d37aa82f75794a23cbf1cfc5aeef6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46615517b742b6965b21a5c17221d5e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86aa4d2a43d28698f58f4693631cd317-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b3b21982fe73de3fbd2a2d1769aec84-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b63f6182a5fdb76ca69c10f61bd48142-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f44b7e1df1feaf7bca1a5fde4d339c3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8d8ba7951097e2def41f31f70fd24d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c6c3f88a1dd9df93f55332fac7a2bcb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6581ae3da6eb40baa6f75251ace18fb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59641e86fd19aa989a4484ace4e0ed5c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef9bfd7c2f00492859663d4ed8f7ccd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56ccab85ff5903cfe963917667b98c5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0dddf2052fc86da9cf4c88e01407c125-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d633810ed0d9d837c3fa74f218d0a7e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ec58d840f804551494ed3762ac6760e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f85b9624e64230cc2b9c2c71ebeb91ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c16c2e3166c91986a4da114ab210cf3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9245e2977ec94571496a234e5117a96c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f04f5fb09f9c40bc4d9d67be516cbd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b49745598a73b72b4d693780453ce9a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58f8293e60d1abc078912724a6f104e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b523e096cdf21e0a0b9ff84aebf956c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2e57fe147c801aa749b841af5c941e3-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31808568",
+      "id": "31808568",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "eta0nuvcn8z7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0df6a6bf55592b3601e1f985fdfd718e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8-Carl-Pl-New-Windsor-NY-12553/31808568_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,950/mo",
+      "unformattedPrice": 2950,
+      "address": "8 Carl Pl, New Windsor, NY 12553",
+      "addressStreet": "8 Carl Pl",
+      "addressCity": "New Windsor",
+      "addressState": "NY",
+      "addressZipcode": "12553",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 41.43624,
+        "longitude": -74.105255
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "65 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31808568,
+          "streetAddress": "8 Carl Pl",
+          "zipcode": "12553",
+          "city": "New Windsor",
+          "state": "NY",
+          "latitude": 41.43624,
+          "longitude": -74.105255,
+          "price": 2950.0,
+          "datePriceChanged": 1729321200000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 65,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 484200,
+          "rentZestimate": 2969,
+          "listing_sub_type": {},
+          "priceReduction": "$350 (Oct 19)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2950.0,
+          "priceChange": -350,
+          "timeOnZillow": 5618467000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 363200.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 484200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams NY Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0df6a6bf55592b3601e1f985fdfd718e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a378b40888f3bf418aa88fca0747382e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6536040f574f51f79a15eb64dbd1a81d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa04f0f8cba3711ddae8caa6dfe71714-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e4622face1c7b25bd579003bd011aaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35c47a1f7768bfb897a4856a92797bc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f27e795df8949d414fad8e0bb4284b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d362358323e2310910b3d37b57ca95ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5b45aaa50f363ac2915fa017a245f3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57d55cdf7b65e176d0ab668c37baf00e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/245bef28640ee39c6be38632862394da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffb9047760e4472dcc28e696c0283231-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bec6d955cbd5a8c8a744e60e123a0a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6c508803484f426215788e24913ef91-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "31801534",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a07ff4eed079003a05460280e286e18f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/7-Revere-Rd-Monroe-NY-10950/31801534_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,400/mo",
+      "priceLabel": "$2.4K",
+      "address": "7 Revere Rd, Monroe, NY 10950",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1060,
+      "latLong": {
+        "latitude": 41.395966,
+        "longitude": -74.14189
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31801534,
+          "streetAddress": "7 Revere Rd",
+          "zipcode": "10950",
+          "city": "Monroe",
+          "state": "NY",
+          "latitude": 41.395966,
+          "longitude": -74.14189,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1060.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 305900,
+          "rentZestimate": 2274,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 796148000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 261800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Awesome Properties Inc",
+      "timeOnZillow": 796148000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31801492",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e29a4822c9ee04dd9f3eab8423cd6323-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/16-Sunrise-Trl-Monroe-NY-10950/31801492_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,950/mo",
+      "priceLabel": "$2.0K",
+      "address": "16 Sunrise Trl, Monroe, NY 10950",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 930,
+      "latLong": {
+        "latitude": 41.394276,
+        "longitude": -74.141335
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31801492,
+          "streetAddress": "16 Sunrise Trl",
+          "zipcode": "10950",
+          "city": "Monroe",
+          "state": "NY",
+          "latitude": 41.394276,
+          "longitude": -74.141335,
+          "price": 1950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 930.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 259500,
+          "rentZestimate": 2267,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 877259000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 213700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Realty, First in New York",
+      "timeOnZillow": 877259000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "121370177",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/641228d996cc77c57f29b93f033eef91-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/4-Hillside-Cv-New-Windsor-NY-12553/121370177_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "4 Hillside Cv, New Windsor, NY 12553",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 970,
+      "latLong": {
+        "latitude": 41.437805,
+        "longitude": -74.11472
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "137 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 121370177,
+          "streetAddress": "4 Hillside Cv",
+          "zipcode": "12553",
+          "city": "New Windsor",
+          "state": "NY",
+          "latitude": 41.437805,
+          "longitude": -74.11472,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 970.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2124,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 11890199000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 926000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 11890199000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31808568",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0df6a6bf55592b3601e1f985fdfd718e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/8-Carl-Pl-New-Windsor-NY-12553/31808568_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,950/mo",
+      "priceLabel": "$3.0K",
+      "address": "8 Carl Pl, New Windsor, NY 12553",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 41.43624,
+        "longitude": -74.105255
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "65 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31808568,
+          "streetAddress": "8 Carl Pl",
+          "zipcode": "12553",
+          "city": "New Windsor",
+          "state": "NY",
+          "latitude": 41.43624,
+          "longitude": -74.105255,
+          "price": 2950.0,
+          "datePriceChanged": 1729321200000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 484200,
+          "rentZestimate": 2969,
+          "listing_sub_type": {},
+          "priceReduction": "$350 (Oct 19)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2950.0,
+          "priceChange": -350,
+          "timeOnZillow": 5618467000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 363200.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams NY Realty",
+      "timeOnZillow": 5618467000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "31799072",
+      "id": "31799072",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1bqdastfr942",
+      "imgSrc": "https://photos.zillowstatic.com/fp/108c534d33d02508dbdf325ad470d3f9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3-Yarmouth-Ct-Washingtonville-NY-10992/31799072_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "3 Yarmouth Ct, Washingtonville, NY 10992",
+      "addressStreet": "3 Yarmouth Ct",
+      "addressCity": "Washingtonville",
+      "addressState": "NY",
+      "addressZipcode": "10992",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2970,
+      "latLong": {
+        "latitude": 41.438477,
+        "longitude": -74.15258
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31799072,
+          "streetAddress": "3 Yarmouth Ct",
+          "zipcode": "10992",
+          "city": "Washingtonville",
+          "state": "NY",
+          "latitude": 41.438477,
+          "longitude": -74.15258,
+          "price": 4500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2970.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 660200,
+          "rentZestimate": 4358,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 279371000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 572700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 660200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Cronin & Company Real Esate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/108c534d33d02508dbdf325ad470d3f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db31db92779c319246cf9fc60f94d534-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5051aed0383e0d1d3f65e97c63a870fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1672a8c4c6efba528ea43c287009c3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17823e5c8f7165ff1ee22894b7c1d8be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd4a12b1b1d4a2c95e24eb98b8e2dc23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e31c8a814eb061879fe56178527f843-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/409c476ee09cdb36be758fec595d7512-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db8904a0c21517fb8a7384850c3f41cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9686c7ba15f299dba3c4f45641d2f5be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/959c987501911e349e1d40b68c310e25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d91b3ddcd27ca12cd7f1741807fbef0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6684a36b61884471d7de4cf526beb9d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/063039d69c3e3f9041e091a74f47af70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d878bf24e0e3c61c1cfe45303aeb490f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67bfefdb68940ad1f8946f9e6589c5e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb7ff0211b49983604fe1ec8ef3f1f09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bae39128fe099799f01062c4f278a9dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f72e478013b4759f625eb5174db28d2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e8b241317c359f12bfaae9017055a70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92646654adde35efb0abdcb40429d8bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/986e08f0ebc0c2af9c566dbcce633dec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bfc9ce94349ffecc726552b8e8b57f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97fe40110ad928cc081b7f6a7942f019-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/908801306190765f1031323b275bd20f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b041aac387d383dea6035131459e187c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa3d111a36496ed95118a70fc8e0db3f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27627f9c003d95dff1ef435955bf250d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6295dfb555cd5f5121a386ef258b385-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/addf60a1964319ac2138c9a1fbc2fa4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1da9776edbf9b20984575d775733dd0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a82f2a49db36cdd8fe4bc690bd3382b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3cfee096aecb086e071f4e488c02f17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2db322e6101c23f3a83b01a16dbe4e0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71ae64acdc4645bf64e480fe561acf20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce74a44a2a80d776aa06eb274ac1683f-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31802321",
+      "id": "31802321",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4v2eyv2hwc305",
+      "imgSrc": "https://photos.zillowstatic.com/fp/efc58cd80d48e3d4e320094d7ce8062f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/19-Oakwood-Trl-S-Monroe-NY-10950/31802321_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "19 Oakwood Trl S, Monroe, NY 10950",
+      "addressStreet": "19 Oakwood Trl S",
+      "addressCity": "Monroe",
+      "addressState": "NY",
+      "addressZipcode": "10950",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 41.382996,
+        "longitude": -74.13787
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31802321,
+          "streetAddress": "19 Oakwood Trl S",
+          "zipcode": "10950",
+          "city": "Monroe",
+          "state": "NY",
+          "latitude": 41.382996,
+          "longitude": -74.13787,
+          "price": 2100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 192600,
+          "rentZestimate": 2262,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 1302279000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 176100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 192600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/efc58cd80d48e3d4e320094d7ce8062f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1a7c18a6165e8699441c991f92c542b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/331bb80f4037c69a1c2a957db49b4ce6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f8012eb49f982b6468fb0b125b1e9a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6fb2fef38a16bebebfaecab2f82a370-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/986cf1cb38efd3343966476568aa6348-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76a8e927a491bd16e280d6df3d492a5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/efb297ce7b8b903d9b669a4328bed5e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/523c1ec55374df0938e88b4aeb8ac046-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2056741320",
+      "id": "2056741320",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4hpv6dugbcjps",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a4556556f64c517e83e1fc53e810e4a5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4-Jaques-Dr-Washingtonville-NY-10992/2056741320_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,750/mo",
+      "unformattedPrice": 3750,
+      "address": "4 Jaques Dr, Washingtonville, NY 10992",
+      "addressStreet": "4 Jaques Dr",
+      "addressCity": "Washingtonville",
+      "addressState": "NY",
+      "addressZipcode": "10992",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1833,
+      "latLong": {
+        "latitude": 41.435226,
+        "longitude": -74.155716
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056741320,
+          "streetAddress": "4 Jaques Dr",
+          "zipcode": "10992",
+          "city": "Washingtonville",
+          "state": "NY",
+          "latitude": 41.435226,
+          "longitude": -74.155716,
+          "price": 3750.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1833.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 24,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 461100,
+          "rentZestimate": 3573,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3750.0,
+          "timeOnZillow": 2123835000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "lotAreaValue": 7405.200000000001,
+          "lotAreaUnit": "sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 461100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Howard Hanna Rand Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4556556f64c517e83e1fc53e810e4a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a33c1b661e25213233ba55a849225e38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d5c61fb37a3bbab4d1c6d3e209cbf66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc5782c7b079506c5acf7ae301b750d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/495c8e956c1d2fa1276f0b611528286c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6be446f9391939b9432e0bb020feb886-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13394cd217caa75f247a7a9ab60bb99f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e2b1328fe5c0c9ec6a5341ce4792828-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98cd3b754e9ff4aaefd834b74bb1ee96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42fdb1b4d0ec40b61362379ca3b9b697-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa19fd9dc2f4593b292fe8386dda9320-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa6f2ae5bd565189e22ad8023e1d509b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86efa83308337e8c9374340b263cbc76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1397419328a685e9e28a14d9d45d5c03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f45b25c4689eec6266386fcbfa17b85f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c09e9fd1911acf741465050288e78609-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bf860875888b1815005fcdff76601cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e866cadddf4aceb789bc101e32d1d9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/492702bde778ff854303fc37d0ca012c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e042e45502238e2eed805832855568a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e49e31f55db9a490df987ffe59f1d50c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d872a1f3136ec1ab3be27f9f44edb34e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcf9dc75e4920be2fa00fa02fdbaf558-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c9ec4158d608bb5c96746cf15a9026c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/019cb76bfcb13de49d2e55c829ab5daf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7fc077998dd600371b5f38b1ee5a51d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e9e7a011f6977e002c2ce0875ed3294-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb985b16cc0bdc7d1170f2cf6e5d8f2c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/daac90c13f7fa20647d15f422dc625f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c01b80232062e7358ee449929d232213-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "6ec8bd28",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "69654fd7"
+}

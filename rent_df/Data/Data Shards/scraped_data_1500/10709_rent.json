@@ -1,0 +1,4970 @@
+{
+  "listResults": [
+    {
+      "zpid": "441209448",
+      "id": "441209448",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "56qnm26tkt2rt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4d64195984b362b58b26f730200af032-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/eastchester-ny/40-jackson-ave-luxury-55+-community/BTWnwx/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,813+/mo",
+      "unformattedPrice": 2813,
+      "address": "40 Jackson Ave - Luxury 55+ Community, 40 Jackson Ave, Eastchester, NY 10709",
+      "addressStreet": "40 Jackson Ave #2B-1BA-1000SQFT",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.950684,
+        "longitude": -73.820045
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441209448,
+          "streetAddress": "40 Jackson Ave #2B-1BA-1000SQFT",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.950684,
+          "longitude": -73.820045,
+          "price": 2813.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 51,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2813.0,
+          "timeOnZillow": 4411483000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2B-1Ba-1000Sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Berkshire Hathaway HS NYP",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d64195984b362b58b26f730200af032-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cf92700e83e78478d7eb901efa08cf3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d2016331ede6f06f71247f31f052822-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f1cf388fc10fec4857ad246a737891d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13c0d06c2cb26873593a447edc1d6785-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0412473b46acdb0a2364928b08cb27e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d2560b80beffccfa7f25e1448bcb2cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4594d6ea3f640b4ffbcda53f200e5929-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a57f4e8be5741bac96c6840aef800976-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4f530e93e9704465cd8ad0042aaf36e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ead74f1fef81add3d9abd06e0629127d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7be17bbf2a4ff43e556715b5d7487efa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/718ff10a1ce72a3a98cd9f72ea417f04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a76d40d8c45597de0fabcd56f456698-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77029ff5abedb23ec627da83e0587220-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb0f21db13c459040614c6283318739d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b1b6a9c7461265564e8a3e1212f3daf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16bc6267d43459c506d596bdbc012f82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/991cb727125c5a7183d165c12ba1c040-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6635d1cdb9f4dafaba10540bf536f1c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c846ed6d0c1df1579bc183eb5881027-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b89cd53da53716cf300f18bbd85c954c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5dd5922a616d75812e5e907ca886e4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96a9f4aa763ed00494a5946d683ce26c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8cf946418d318f976d6b2fc4551b7cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc64db5c85ac6c214f22a09b537cc9de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcb7fed5855ae98772290a66ea1cb748-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/627c8beb6341c4e68f78a78aa4a8871c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45d08e548dd4816fff56502ab868ba22-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a6a38bfa528720560989ae00de096e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/763b494546f07e539672e299f7a8c4b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a99db0f803c3500ed4f8d9f71e047c8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0857487563820fd8b0befe574e5661ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/acd88be3a4274ff77825938d75286e75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44879566dc7cb0d3c68228ecf6c1aa4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36e146e21fa4300c41f0039506f81524-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9c335a1f1c9c14e83dad3735cb682eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11a8051ba86281da7ecc27e3edc6ad07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eddf5e21b011b94584881fb4ef9c36e6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2056305002",
+      "id": "2056305002",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2bwhprcptuqys",
+      "imgSrc": "https://photos.zillowstatic.com/fp/41e85daac6e93910d1b61670cbefedfd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/507-White-Plains-Rd-APT-1A-Eastchester-NY-10709/2056305002_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,495/mo",
+      "unformattedPrice": 2495,
+      "address": "507 White Plains Rd APT 1A, Eastchester, NY 10709",
+      "addressStreet": "507 White Plains Rd APT 1A",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 675,
+      "latLong": {
+        "latitude": 40.959732,
+        "longitude": -73.81241
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056305002,
+          "streetAddress": "507 White Plains Rd APT 1A",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.959732,
+          "longitude": -73.81241,
+          "price": 2495.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 675.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2286,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2495.0,
+          "timeOnZillow": 1049221000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/41e85daac6e93910d1b61670cbefedfd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4df2a5b4b3a730010484f8cbec9cb0ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12222857eec32e336b574c18846794a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a04802c2b6523b39b0b8609045ab898-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bf873af237cc5c9b93285cd9cd3de2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb2f54ceab64a44edc113a0d8f60b4b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f715597b7c38a839fb86b08c7fe96ef9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a42ebb84621c393ba80611517b3369a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7628a6017d4b0b409ce6fc108203e38c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e99bde5be2aa4ad99addc13a0d97818-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9230266a2e917bf984c9fca4f22f1e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72a55db706f60f0abbfc70c031c3ecb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a5b11f55fc946c31fa830b83f6ef4ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d16d3da5f2e90c494cb0caf16f2b2696-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46346ede4c55fb7f2c93c731d1454857-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2069205824",
+      "id": "2069205824",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3cmtsc56zwetm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bfeab4d8b41884ae98a7828b1f1016a7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/308-Columbus-Ave-Tuckahoe-NY-10707/2069205824_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "308 Columbus Ave, Tuckahoe, NY 10707",
+      "addressStreet": "308 Columbus Ave",
+      "addressCity": "Tuckahoe",
+      "addressState": "NY",
+      "addressZipcode": "10707",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 40.959255,
+        "longitude": -73.819786
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2069205824,
+          "streetAddress": "308 Columbus Ave",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.959255,
+          "longitude": -73.819786,
+          "price": 2800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 168,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2444,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "timeOnZillow": 14578708000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfeab4d8b41884ae98a7828b1f1016a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0fd8582ff4482783766099dc349af612-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd9e525d9a17d5ed831d751ef9d3815d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da9b5c2410a411fba48fb99543c39e60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b1a74fabaa28a6a6feb297d82d7b17c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d06166734a4b26a61fb5e27f4290ffb6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b6cd125c0aad63add9fa84615adc8be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d206a7f6022198320adca1430a632ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e31fdd9087893bc5f3dfc76185f8d9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf236edff4b5e4c8c5cb4cb7f690231c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db8766ccdb1bb820e3d5ebe081340aab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46e2522a12cd7adcb18e780904cec427-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab1335810d9f3de90de48a3d342ef089-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cfe0378efc9ed3d878b94bf7c25496a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9952b96dcd0a746ebbeff3ff2dfa402d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98202f2714dd4765e8343405ef7da07e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/715de02754dda1078fbca7d1fd48788e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db571bebd98ce2269a193b659129b8fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0268e55724d17314fffeadf99c9ff01c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/793c516d6aee0d7cf13a18e606bdcfe8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2f64bfebfd5cfd84f75210949c81749-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3a8264646e9538fa1f19d8441c98e6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33fc7efaa110b157d3b883103096e270-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfba3d69c518dfd9f8b7d9c5ce094b1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52eed0d139510c425f50cc20cd1b4829-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8b6c335f3d111e3bedbfafb811539c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0dea8679e1db5be23947d321855f0a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ae72f00f52009ee539e8fad173cd1af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2e41a1810fad52ac9788af3aae03ce7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73497e5afb1de4f0e222e32040ceba49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57611e9e05d809db41483039a7db29e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c24d350856bf846328de86bbae5fca41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec23971d1bd65019b3c65c8164a9bcbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08de1b1a5713fdc21b5a545c94c4ea9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fa2394adf7b9cdd5f96ccf3f20fa91c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0ad76ce8f62ff76062497e78c8a7f12-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d2a187820fc520e0c332a867dc4de77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8d622ef63872c39d2e4a2b648f4ba7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e50570deea44697c912175a71e4745e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac6006e47cf902380e2c076bf23c5d06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cc450415bd06a9af1e86a76fef8afb5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d97d0d40f71484a7243fc8ba26199d08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec5dbb6b3c90ce97a3f4345a1580689e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8fd38694aa72b979f3c12adb66b22d15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3ac1fa34e79d405fa63c2d1ab152cc4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7369b6d6bf80e8ee3e8c55214b72415a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd8c3c4fb673150097045b3f6aa7a73b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a7e4ba93e94bcd73c83255786a5669d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4d2a4e5d3b5a595cf1876dc3541a442-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/512b62f00781d8edcba3e336b549595f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7781b510a6c41c79f2a50c200421c84d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d4672fac19fe6e7d2dcc2af381f9fa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21f13116e9da8b04ff1345d7d0b31473-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b704121f1b0fd6a72ca73285d63c1d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f2c88a10975c0f6208ec36d852778b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7364ffbba34a8dced241b2414a68dfb0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/235abc313e0b47e84e4d969de9004d59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9bdb5e37b4532a6c4844aaf45edfbb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f37e49c01bbf58691903f43475aef57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7df8b51b643b75b4927e4be4ac6ad221-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e46a65f67c97b2b8fcb42a5ce775e0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5176efd80653b145feec59b33f91ee0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf84b9cb4f8c725362baf0fed26ac504-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "33016286",
+      "id": "33016286",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ssg7h4gymxfu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/107083115d35a7cc1898320df97c0e59-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/297-Main-St-Eastchester-NY-10709/33016286_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,375/mo",
+      "unformattedPrice": 4375,
+      "address": "297 Main St, Eastchester, NY 10709",
+      "addressStreet": "297 Main St",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 40.952957,
+        "longitude": -73.816536
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 33016286,
+          "streetAddress": "297 Main St",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.952957,
+          "longitude": -73.816536,
+          "price": 4375.0,
+          "datePriceChanged": 1731398400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 919700,
+          "rentZestimate": 4575,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4375.0,
+          "priceChange": 100,
+          "timeOnZillow": 1068204000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 11400.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 919700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/107083115d35a7cc1898320df97c0e59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3231c7b8bfd47474d2211f5bad6cdd5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b82cbfe72cce21d1baad5c0d7bc4ea2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23429afab4ccaf66fce10dc4fac88e89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13d15a92f80bb55aee41fe0d23a4d291-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4a738ea6f1711dfab43ebaf921cdef4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69e5d0fe292fc54ef3f1b4834cb13083-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/158b4157a583caf057e981fe44598e2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05311ad4130a2c1fa4dc147a249657a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5569c1649fd79d46b94ded2176e70f72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e040a70ed301525d8d311e101d0cd00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7159e13390228f76fbbc0e2f28ce012-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2122620679",
+      "id": "2122620679",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3gutdpkfg8ucs",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c214eee5ec47f5ad29da6ae12a814fae-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Tuckahoe-NY-10707/2122620679_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$4,000/mo",
+      "unformattedPrice": 4000,
+      "address": "(undisclosed Address), Tuckahoe, NY 10707",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Tuckahoe",
+      "addressState": "NY",
+      "addressZipcode": "10707",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2122620679,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "price": 4000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 55,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 4338,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 4755976000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Home Sweet Home Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c214eee5ec47f5ad29da6ae12a814fae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f3b280f2d9cf9a7c42a7f69ab344420-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40d96f68edfd6c748182fb790b2e1a85-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ece764f58cab4c25971ba163027c0ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d177161dfd0ba2dd18dfa18219995fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7393362b50b201cfbc7b619b9a25c053-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6812a1f03d483695d49f2b29e807c69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a28c069c39d7fd7903ece6a69c8fcc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c6c35b13f6e7bafba1d06c8dab3f8b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c3d0357a2a9308d929f9b6bee3b82cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b0b4165916543149e1165ff5176c590-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/94e4f661c76267b18c29693222bb2a68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e65853ad4341f8db44d5fe2d8d0a30d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c73aa1b2dae9a4275bab1b20819d1f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d61750675fe9fdf04c1a1f5e8a0ce70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85004f637b0c9d23c7ec94b6c9e43476-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d359d47b4c160998fb733c34e52b1cbd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/064e574f4b02bee1dfd9ea832d9ef323-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2103828579",
+      "id": "2103828579",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3ru5zruzbh9ec",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b9bafced38c5d671aeacdf71c732627c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/16-Hall-Pl-APT-3A-Eastchester-NY-10709/2103828579_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "16 Hall Pl APT 3A, Eastchester, NY 10709",
+      "addressStreet": "16 Hall Pl APT 3A",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.95677,
+        "longitude": -73.81677
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2103828579,
+          "streetAddress": "16 Hall Pl APT 3A",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.95677,
+          "longitude": -73.81677,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2246,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 1554802000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-06 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9bafced38c5d671aeacdf71c732627c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/408f10b8978ce0b9d7519ca00d1e4f91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5ac7789cac551e904ed4fb468dda12e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84d2b75cac8fc535f71318d807c44d46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0393f2c9263a1037bab247652bc632a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442690443",
+      "id": "442690443",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2hr85cd8hasyk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bf417e08a38262c8fe3619f7838555c9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/52-Rogers-St-2F-Tuckahoe-NY-10707/442690443_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "52 Rogers St #2F, Tuckahoe, NY 10707",
+      "addressStreet": "52 Rogers St #2F",
+      "addressCity": "Tuckahoe",
+      "addressState": "NY",
+      "addressZipcode": "10707",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 40.951252,
+        "longitude": -73.82183
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442690443,
+          "streetAddress": "52 Rogers St #2F",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.951252,
+          "longitude": -73.82183,
+          "price": 3000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 562283000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2F",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf417e08a38262c8fe3619f7838555c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/381afd565b4b1ce9538fa26f57f56ad4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1691c63c9ac1368996925b19ce7acabb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9282aede4ff874712acfaf782168beb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a53827f2408b7b5eaf6971e00dacf8b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbdc86ae910900dce969084e2c6cc2a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c409242f957af19db3f6da983a5a1558-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5913227888328ce21042fb4174049f61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34b2131e94f403e741a18d6d3af7b07d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebdd09d4c147d4ae4b6fc3857ee4ef3c-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2055936095",
+      "id": "2055936095",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2m84hz1s3zs06",
+      "imgSrc": "https://photos.zillowstatic.com/fp/dcd938bd0f85e1b0635c5c309d074c24-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/374-Columbus-Ave-FLOOR-2-Tuckahoe-NY-10707/2055936095_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,250/mo",
+      "unformattedPrice": 3250,
+      "address": "374 Columbus Ave FLOOR 2, Tuckahoe, NY 10707",
+      "addressStreet": "374 Columbus Ave FLOOR 2",
+      "addressCity": "Tuckahoe",
+      "addressState": "NY",
+      "addressZipcode": "10707",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 40.961464,
+        "longitude": -73.81882
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055936095,
+          "streetAddress": "374 Columbus Ave FLOOR 2",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.961464,
+          "longitude": -73.81882,
+          "price": 3250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3755,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3250.0,
+          "timeOnZillow": 1068599000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcd938bd0f85e1b0635c5c309d074c24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5f6b42ed16fe7ec08964d6885131d3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/913d20b1a90d3eb96d863ecabd070e0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a07c52ee5e04c6b9ffc1ed38c1bc7c8-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2070827959",
+      "id": "2070827959",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5byy14sb89d9j",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bcde831a9725b120e9ec36856cc3168f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Eastchester-NY-10709/2070827959_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$5,600/mo",
+      "unformattedPrice": 5600,
+      "address": "(undisclosed Address), Eastchester, NY 10709",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2070827959,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "price": 5600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 233,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 5378,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5600.0,
+          "timeOnZillow": 20135173000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Home Sweet Home Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcde831a9725b120e9ec36856cc3168f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440748953",
+      "id": "440748953",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4y3c3wjvgwffz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9f6eabe1941f53a33df53fb2543a82fb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-Cedar-Pl-FLOOR-1-Eastchester-NY-10709/440748953_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$4,999/mo",
+      "unformattedPrice": 4999,
+      "address": "10 Cedar Pl FLOOR 1, Eastchester, NY 10709",
+      "addressStreet": "10 Cedar Pl FLOOR 1",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 40.959965,
+        "longitude": -73.81449
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440748953,
+          "streetAddress": "10 Cedar Pl FLOOR 1",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.959965,
+          "longitude": -73.81449,
+          "price": 4999.0,
+          "bathrooms": 2.0,
+          "bedrooms": 5.0,
+          "livingArea": 1700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4999.0,
+          "timeOnZillow": 1070528000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Fleetwood Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f6eabe1941f53a33df53fb2543a82fb-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2082124327",
+      "id": "2082124327",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "21z7f5vmgr6zp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3fc107d0e45bb18ac02190474ff35af0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Tuckahoe-NY-10707/2082124327_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,850/mo",
+      "unformattedPrice": 2850,
+      "address": "(undisclosed Address), Tuckahoe, NY 10707",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Tuckahoe",
+      "addressState": "NY",
+      "addressZipcode": "10707",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "34 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082124327,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "price": 2850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 34,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2825,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2850.0,
+          "timeOnZillow": 3011818000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fc107d0e45bb18ac02190474ff35af0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bbe836d8f6f4fe48b14a51c481df920-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df9db77ff653cbd8207cf344afaaccb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65ca9cb50d03e11d5b051d59d394880b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2134287344",
+      "id": "2134287344",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "cy7dwy54bcdm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e8f6928e44f78d7a78a18cf1962347ad-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/36-Lincoln-Ave-2-Tuckahoe-NY-10707/2134287344_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,600/mo",
+      "unformattedPrice": 3600,
+      "address": "36 Lincoln Ave #2, Tuckahoe, NY 10707",
+      "addressStreet": "36 Lincoln Ave #2",
+      "addressCity": "Tuckahoe",
+      "addressState": "NY",
+      "addressZipcode": "10707",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1184,
+      "latLong": {
+        "latitude": 40.95905,
+        "longitude": -73.81859
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2134287344,
+          "streetAddress": "36 Lincoln Ave #2",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.95905,
+          "longitude": -73.81859,
+          "price": 3600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1184.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3206,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "timeOnZillow": 280979000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Compass Greater NY, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8f6928e44f78d7a78a18cf1962347ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/117f628372e76c72b007907eaea5963d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19071a5b55e8c782c208d666dc3df7ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0497feacee48bea0af038ef63db5eb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da0fbfc7bbd336ed3aa60e7b5242f8b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3e9f58d84c6b5a301204501367898b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72be8f6347df8e063a094ae1ada7d494-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9aacdfb9f8f0a2b8ce5a5a6575e23b7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d47cab4dc286367816d51885265cb963-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af8163b3971c2e211a0c61b53cc75f9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f7fe9ff5abeb36afaf7ab3c5ecf82ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55c0c1211ae2c1d4a931611f6790a5d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/149f5658ead090d9f4e3f5db464f828d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38dd46f2ea42d1b28944d60b223b9a1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d87e243c3e8d50ebf497a4df56696d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/858461b92364eef8aec75f4fac4283f3-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2092648963",
+      "id": "2092648963",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "g05r99wy8bxe",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f49f512c00f36b47b404c39c8a8281f3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-Oakridge-Pl-APT-5A-Eastchester-NY-10709/2092648963_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,495/mo",
+      "unformattedPrice": 2495,
+      "address": "10 Oakridge Pl APT 5A, Eastchester, NY 10709",
+      "addressStreet": "10 Oakridge Pl APT 5A",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 577,
+      "latLong": {
+        "latitude": 40.956894,
+        "longitude": -73.81113
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2092648963,
+          "streetAddress": "10 Oakridge Pl APT 5A",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.956894,
+          "longitude": -73.81113,
+          "price": 2495.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 577.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 266300,
+          "rentZestimate": 2287,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2495.0,
+          "timeOnZillow": 1277236000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 5A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 266300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices New York Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f49f512c00f36b47b404c39c8a8281f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/205bc0d6a0c674d6bd9427e95b69aebe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7f955dde974c1afdab703d4ebfe2bd7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04dd33fa8f05d9861f4d482073fe3f57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55d0d434a382d40b53f856bc0ffca693-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/222bde225a15b3a06a09571d3efe0a95-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab2a21f7651d01b9fbee5353e80644ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce4557c978207fee6fae8afa164ecd83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9fab49b959c1be45addd9fa67e626ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf8d88231150398b12f9c922a4c9276c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e78508cce15733d03b4064e17e72b46f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08ed2ba865cd0d58af6c4f2aa1ac8134-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f9289ad1a08abf095c1683903fb9a9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5be6ff57f19bab6a5fb50207851294c5-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442455573",
+      "id": "442455573",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3aw6yg6d9pze3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e7f53721ff65c17406afa923fc164b2e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Eastchester-NY-10709/442455573_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "(undisclosed Address), Eastchester, NY 10709",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442455573,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 1393842000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Harborview Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7f53721ff65c17406afa923fc164b2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07708c95535f03f69bfbc5fb995f2550-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aad821187718824639d885077cd961c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79b77b6247eb5cc513c10561e8dff81a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8698e90ee5eea4f288e6be49e0cba46e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a9b264f669b1c6f8db4367f618dec7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b2582458e2a607b250152469cc848f2-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "347973266",
+      "id": "347973266",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "11fq4515ms9yv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c256a2757f9b06c312531933c3761662-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Tuckahoe-NY-10707/347973266_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,635/mo",
+      "unformattedPrice": 2635,
+      "address": "(undisclosed Address), Tuckahoe, NY 10707",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Tuckahoe",
+      "addressState": "NY",
+      "addressZipcode": "10707",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 347973266,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "price": 2635.0,
+          "datePriceChanged": 1730358000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2287,
+          "listing_sub_type": {},
+          "priceReduction": "$439 (Oct 31)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2635.0,
+          "priceChange": -439,
+          "timeOnZillow": 2621427000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Harborview Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c256a2757f9b06c312531933c3761662-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04d93c87a4e9babbf0435049f9bc0d25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16f568ea6ff18023af1bfd890cec7c1b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2069633890",
+      "id": "2069633890",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "12s4za9uagrwn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c26bd38b7a9bba855a6ecb973fbf7016-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/37-Chestnut-St-FLOOR-2-Tuckahoe-NY-10707/2069633890_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "37 Chestnut St FLOOR 2, Tuckahoe, NY 10707",
+      "addressStreet": "37 Chestnut St FLOOR 2",
+      "addressCity": "Tuckahoe",
+      "addressState": "NY",
+      "addressZipcode": "10707",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 40.953564,
+        "longitude": -73.82224
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "51 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2069633890,
+          "streetAddress": "37 Chestnut St FLOOR 2",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.953564,
+          "longitude": -73.82224,
+          "price": 2800.0,
+          "datePriceChanged": 1730098800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 51,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 519100,
+          "rentZestimate": 3050,
+          "listing_sub_type": {},
+          "priceReduction": "$95 (Oct 28)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -95,
+          "timeOnZillow": 4420062000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 519100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices New York Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c26bd38b7a9bba855a6ecb973fbf7016-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f0724f1f43ec79c0ebc458f273a7fed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ea26976f5fcf44617de93c59267084a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c12c0bd05cecb0da993462a34bbfa590-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8313b58ff3e2976305fc8ff1f11a29f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f27684c4484816e420bd17f2aa54cfe4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c40541f2ceca29de23ce1fe2ba9386d3-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2069632385",
+      "id": "2069632385",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "193ds9fyadmrk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9721c7dd297368fd54dfe04ad562acf0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/29-Orchard-St-FLOOR-2-Eastchester-NY-10709/2069632385_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,395/mo",
+      "unformattedPrice": 3395,
+      "address": "29 Orchard St FLOOR 2, Eastchester, NY 10709",
+      "addressStreet": "29 Orchard St FLOOR 2",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1348,
+      "latLong": {
+        "latitude": 40.958435,
+        "longitude": -73.81221
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2069632385,
+          "streetAddress": "29 Orchard St FLOOR 2",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.958435,
+          "longitude": -73.81221,
+          "price": 3395.0,
+          "datePriceChanged": 1729839600000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1348.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 44,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 639900,
+          "rentZestimate": 3595,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 25)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3395.0,
+          "priceChange": -100,
+          "timeOnZillow": 3869260000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 639900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices New York Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9721c7dd297368fd54dfe04ad562acf0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c741ae2dfb67cc21de78d74816de7a46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89073159a0822d3124ee85fdf2d2853a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6ececd3e5f251a0b8d00beea636ded5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d7b725a3ea62fbfdfe2f83459580cc4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ba2a84a38464e1dccbbd2f6924b7b83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a133924ae67d867c1aa3ce8840e27aa7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0eac9f95d1bb1d20c82d0ce664fa5733-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88b26a2fc9bbb49ed96c90f3893a4e5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8ff036947e72b95a731a7149651ffe3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/063ba554c865a8736514cee3f7c8787b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73e436f945e528cbc25db37b1d007c6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6dd00f60c9adc34caed734a5ea6e1404-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54bef9deac66f6df50e7f094018f50fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27cd22e2a8e7e0b46817b9052d855f4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe4640a20b5a7b5de4ae6557b40df57f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2653791bb195a5c8c991adb4ebffd561-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c24d5881a3ac3372cecf36614c82069-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70b1152034e84a6371b1fdce699c31ec-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2061677619",
+      "id": "2061677619",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3buwn2cur06u2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/97dbf765e5bcb7ac23239d04e4a63702-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/31-Edgewood-Ln-FLOOR-1-Bronxville-NY-10708/2061677619_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,950/mo",
+      "unformattedPrice": 3950,
+      "address": "31 Edgewood Ln FLOOR 1, Bronxville, NY 10708",
+      "addressStreet": "31 Edgewood Ln FLOOR 1",
+      "addressCity": "Bronxville",
+      "addressState": "NY",
+      "addressZipcode": "10708",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 40.941437,
+        "longitude": -73.81849
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "37 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061677619,
+          "streetAddress": "31 Edgewood Ln FLOOR 1",
+          "zipcode": "10708",
+          "city": "Bronxville",
+          "state": "NY",
+          "latitude": 40.941437,
+          "longitude": -73.81849,
+          "price": 3950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 37,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 910500,
+          "rentZestimate": 4995,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3950.0,
+          "timeOnZillow": 3232212000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 910500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: White Plains Brokerage",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/97dbf765e5bcb7ac23239d04e4a63702-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb551025a30829cce31291ed2d6f9792-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f171ab244a61acb82f4ed74d69298fc9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed9a1753198aad358bc335560d93bdd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/caf4ec7515399f1132011426b869a86d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53ee0ec0dca55dbd09a16c3cebe1ad27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcdb1bf3136a0fb886053628cc431eb6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2f9417f65e2b95970193887f9e10c37-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db047d218e9f36e4b8ac33fbff294c0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8354b677e36928c16c04dfd79e0c773d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e3abedbe9ad5d3d93be0055cbf77b80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4da17a64d05b622c78837a33bead863-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c223b484073de4606e893dc44ad2d4e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bbb3056f4aeaf8d76cf0b1425f40161-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "33016700",
+      "id": "33016700",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "36zxmubu63zt2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3e3daf40b5093339d75f9d5c58876752-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/87-Stebbins-Ave-Eastchester-NY-10709/33016700_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,000/mo",
+      "unformattedPrice": 5000,
+      "address": "87 Stebbins Ave, Eastchester, NY 10709",
+      "addressStreet": "87 Stebbins Ave",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {
+        "latitude": 40.94705,
+        "longitude": -73.81287
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "37 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 33016700,
+          "streetAddress": "87 Stebbins Ave",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.94705,
+          "longitude": -73.81287,
+          "price": 5000.0,
+          "datePriceChanged": 1730530800000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 37,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 945800,
+          "rentZestimate": 5297,
+          "listing_sub_type": {},
+          "priceReduction": "$1,000 (Nov 2)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5000.0,
+          "priceChange": -1000,
+          "timeOnZillow": 3214014000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 16450.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 945800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices New York Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e3daf40b5093339d75f9d5c58876752-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5d00c8c62dfe7bfbdd90d5cdc245195-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a9eaea6e1e8523160d2adfd199624db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65b5dcd761fe54c27b73c54f43dd89b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dd5747ce36485a74dc062684c63626a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b388714bd5d3982488912040aeed494-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa93e2f8f8860c4daf7dfef9d9d37302-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd8b311a69ff5ad1147eb024d1f1ff37-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e9dc59919e558b0a8b0049daab80c97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/159a57958dd2dd5a48f4badd3fd165c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4b108b7114521010a9052ab72938d1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e3b54678764d31bf230dbbf82889afe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a695dc3860d51bc850a0347b82575209-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b3093d2dfa79750d95464d612b9c636-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20342c70144db5cb262e2edea96948a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7612067e7800db6c571a73fdedabfa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/370f0292baf2c1103dc2f2260c12b84a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffce813d7f4f5cd24a1b2a18c44e0136-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dfa768f29f59bfc8b0f29122d948bae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f88b874d271b87dd305010c4356a845-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20b6b7bf1b358e1a23ee4826d9ca91fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9041cb8152a1c98f582b0199e259846c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db252ec58de159aab07cf1938b3946c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47417ad791c26ffec1dadce3bb0c5bf0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef6d4ea6f7c8f68dcad3ea430e32b9df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/445355f45a948b23adfd345e2d6ddc29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2d77964ad1844c4245f931b25719652-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33fc6570ffff8600e60314d0a004a840-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac94a6a259ee6856aad3567fb6d43d79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14717b006dc757c37445787c523e1b22-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e136b357aba9c11b722968fa336e826-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e4458c84ab68432ec99bfd7afdecc2d-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440232501",
+      "id": "440232501",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "52p27gqyrp5kk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b900be4fdbcf9b181ada2d0627e182f9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/62-Crescent-Pl-APT-1B-Tuckahoe-NY-10707/440232501_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,350/mo",
+      "unformattedPrice": 2350,
+      "address": "62 Crescent Pl APT 1B, Tuckahoe, NY 10707",
+      "addressStreet": "62 Crescent Pl APT 1B",
+      "addressCity": "Tuckahoe",
+      "addressState": "NY",
+      "addressZipcode": "10707",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 535,
+      "latLong": {
+        "latitude": 40.957504,
+        "longitude": -73.81898
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "74 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440232501,
+          "streetAddress": "62 Crescent Pl APT 1B",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.957504,
+          "longitude": -73.81898,
+          "price": 2350.0,
+          "datePriceChanged": 1732262400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 535.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 74,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 22)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "priceChange": -50,
+          "timeOnZillow": 6414254000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Coldwell Banker Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b900be4fdbcf9b181ada2d0627e182f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4e22846fabece206d2e22759f906f77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9431fd366ab058eceab9624ed732906-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b012ce57b0bb7f414b8b5c3aba6b3f4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cb0ffa779779c17ef059efd6a73fee7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1dbddf412d384c7ac325291136006e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9f339b7c7a3446089e882723be88e02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54dca4d87c5eee88c4125a68cfcce411-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9adb4b20a559bf23483457ddb52a7910-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2092843230",
+      "id": "2092843230",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3f67ak37aew43",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5f13fac6311c62e2dae31bf013d8b478-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/60-Crescent-Pl-APT-1G-Tuckahoe-NY-10707/2092843230_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,250/mo",
+      "unformattedPrice": 3250,
+      "address": "60 Crescent Pl APT 1G, Tuckahoe, NY 10707",
+      "addressStreet": "60 Crescent Pl APT 1G",
+      "addressCity": "Tuckahoe",
+      "addressState": "NY",
+      "addressZipcode": "10707",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1050,
+      "latLong": {
+        "latitude": 40.956947,
+        "longitude": -73.81821
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "60 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2092843230,
+          "streetAddress": "60 Crescent Pl APT 1G",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.956947,
+          "longitude": -73.81821,
+          "price": 3250.0,
+          "datePriceChanged": 1732089600000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1050.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 60,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2954,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3250.0,
+          "priceChange": -50,
+          "timeOnZillow": 5204119000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1G",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Coldwell Banker Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f13fac6311c62e2dae31bf013d8b478-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23157e3142e6c4fe8b4dad75390df46a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d83bfa6fb6cca6289f6c004b6947c78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11ee5d334b2c7c1c07a520e7fd329c8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ecab5375d6927e9e77ccb1fa688ce07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/947ade7f25d2517d49c7b14a22c53191-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db6ef8fe250aaf3e28e630290b07463a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4396b0e1ce08bb3ca61ccff1ba2db1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36652dab8767e6f5ceaa2b91cae3e6d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a48754378c781afa95b581f6b3054e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2214a8e3f88c89101ebfd604f88baa59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5638d0312821f1a81248d8974a205c39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/439fa1498b46af7bc90b4303ceeb514b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8daadd67e038192a3031fc2ee36c9569-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93b14f746bf1c350b276c86367d738ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d808500d9e06409c6f839857e92c1fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b9d5824300c3ad50d5a90461580bc4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/520b089ee3ab74c17a758795038e907c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/679886ccf9c905e808d8495db2443add-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/efac92e231da52bd046613596735334f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4272850dd275db9eaf4ea5a89684939-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75aacfb5e10e9c234241e5bfd0d5ff85-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6089ac505ffe59cafb2903c35dd297f4-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "33016719",
+      "id": "33016719",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "34zaadsujcaqq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4534d1a7729135bff392750a8e0b1f04-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/27-Summit-St-Eastchester-NY-10709/33016719_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,300/mo",
+      "unformattedPrice": 5300,
+      "address": "27 Summit St, Eastchester, NY 10709",
+      "addressStreet": "27 Summit St",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1587,
+      "latLong": {
+        "latitude": 40.946274,
+        "longitude": -73.813515
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "94 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 33016719,
+          "streetAddress": "27 Summit St",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.946274,
+          "longitude": -73.813515,
+          "price": 5300.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1587.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 94,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 957500,
+          "rentZestimate": 5571,
+          "listing_sub_type": {},
+          "priceReduction": "$700 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5300.0,
+          "priceChange": -700,
+          "timeOnZillow": 8131648000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 8700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 957500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices New York Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4534d1a7729135bff392750a8e0b1f04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09a1ca94217c6f8f6c82d7547f023b23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f09acb7ff293fd9696edf0a4daba42c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72514e8ee69bbcb998ed61e8dfa8ad06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cca0ff48b2e2f0f58571687b475a89f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4231c71a4dfbfa8aded0a36921b74eea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b45d3c28d392a7d32c42b3f4e57d4b82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3e0daf4108740e2081ac0310ec02a57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c688ef301c7d547efab51a1ff888c2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/776a70d9387194a477a9ca8e9c3cbcab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67bf5e2c7d890250e130f1d2202bce81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b680ff29da833a1e6bd936e3e1b37f4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfd34c5420d952e36d2c0d622828e0d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d8799889f79b350ea037716939edaa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d4db1f45926ffe2e7e2eacc74803c9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39efffd3790b1f19b111942031a60a6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c53577f4ca7cdcdbf7a152b41f0d5377-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ab54f1e6be7c5e6b24f14dcca6ad6d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8879feed34bb2ca84d46b827e3d7b0f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47350663ab7fad98f58869a9d1989b2c-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "347973203",
+      "id": "347973203",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4rcvzxc6bvfjc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/04d93c87a4e9babbf0435049f9bc0d25-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Tuckahoe-NY-10707/347973203_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$5,138/mo",
+      "unformattedPrice": 5138,
+      "address": "(undisclosed Address), Tuckahoe, NY 10707",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Tuckahoe",
+      "addressState": "NY",
+      "addressZipcode": "10707",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "80 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 347973203,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "price": 5138.0,
+          "datePriceChanged": 1730358000000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 80,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3577,
+          "listing_sub_type": {},
+          "priceReduction": "$147 (Oct 31)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5138.0,
+          "priceChange": -147,
+          "timeOnZillow": 6919840000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Harborview Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/04d93c87a4e9babbf0435049f9bc0d25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c256a2757f9b06c312531933c3761662-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16f568ea6ff18023af1bfd890cec7c1b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2057662943",
+      "id": "2057662943",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1vmxtfhbxbgs2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/86e93c5dec14194b06a6a715967a5e38-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/eastchester-ny/elide-house-(2-park)/5XrT9P/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,395/mo",
+      "unformattedPrice": 2395,
+      "address": "Elide House (2 Park), 2 Park Ave APT 3H, Eastchester, NY 10709",
+      "addressStreet": "2 Park Ave APT 3H",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 550,
+      "latLong": {
+        "latitude": 40.95663,
+        "longitude": -73.81515
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057662943,
+          "streetAddress": "2 Park Ave APT 3H",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.95663,
+          "longitude": -73.81515,
+          "price": 2395.0,
+          "datePriceChanged": 1720422000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 550.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 171,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2206,
+          "listing_sub_type": {},
+          "priceReduction": "",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2395.0,
+          "priceChange": -200,
+          "timeOnZillow": 14797524000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3H",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/86e93c5dec14194b06a6a715967a5e38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f169cebcfcd34a0a56af3c725f01e9a6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2133226647",
+      "id": "2133226647",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2ytvtzyh0cs30",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c6a869108a26e09427e52752c15b82a0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/eastchester-ny/elide-house-505/5YW8Vf/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,149/mo",
+      "unformattedPrice": 3149,
+      "address": "Elide House 505, 505 White Plains Rd #2A, Eastchester, NY 10709",
+      "addressStreet": "505 White Plains Rd #2A",
+      "addressCity": "Eastchester",
+      "addressState": "NY",
+      "addressZipcode": "10709",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 40.959328,
+        "longitude": -73.81264
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2133226647,
+          "streetAddress": "505 White Plains Rd #2A",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.959328,
+          "longitude": -73.81264,
+          "price": 3149.0,
+          "datePriceChanged": 1721977200000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 121,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3048,
+          "listing_sub_type": {},
+          "priceReduction": "",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3149.0,
+          "priceChange": -46,
+          "timeOnZillow": 10467729000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6a869108a26e09427e52752c15b82a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4298c6bdf43e2e7eb16f31e8ff94b37d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "441209448",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4d64195984b362b58b26f730200af032-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/eastchester-ny/40-jackson-ave-luxury-55+-community/BTWnwx/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,813+/mo",
+      "priceLabel": "$2.8K",
+      "address": "40 Jackson Ave, Eastchester, NY 10709",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.950684,
+        "longitude": -73.820045
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441209448,
+          "streetAddress": "40 Jackson Ave #2B-1BA-1000SQFT",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.950684,
+          "longitude": -73.820045,
+          "price": 2813.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2813.0,
+          "timeOnZillow": 4411483000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2B-1Ba-1000Sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Berkshire Hathaway HS NYP",
+      "timeOnZillow": 4411483000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "2056305002",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/41e85daac6e93910d1b61670cbefedfd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/507-White-Plains-Rd-APT-1A-Eastchester-NY-10709/2056305002_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,495/mo",
+      "priceLabel": "$2.5K",
+      "address": "507 White Plains Rd APT 1A, Eastchester, NY 10709",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 675,
+      "latLong": {
+        "latitude": 40.959732,
+        "longitude": -73.81241
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056305002,
+          "streetAddress": "507 White Plains Rd APT 1A",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.959732,
+          "longitude": -73.81241,
+          "price": 2495.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 675.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2286,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2495.0,
+          "timeOnZillow": 1049221000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1049221000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2069205824",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bfeab4d8b41884ae98a7828b1f1016a7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/308-Columbus-Ave-Tuckahoe-NY-10707/2069205824_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,800/mo",
+      "priceLabel": "$2.8K",
+      "address": "308 Columbus Ave, Tuckahoe, NY 10707",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 40.959255,
+        "longitude": -73.819786
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2069205824,
+          "streetAddress": "308 Columbus Ave",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.959255,
+          "longitude": -73.819786,
+          "price": 2800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2444,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "timeOnZillow": 14578708000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 14578708000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "33016286",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/107083115d35a7cc1898320df97c0e59-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/297-Main-St-Eastchester-NY-10709/33016286_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,375/mo",
+      "priceLabel": "$4.4K",
+      "address": "297 Main St, Eastchester, NY 10709",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 40.952957,
+        "longitude": -73.816536
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 33016286,
+          "streetAddress": "297 Main St",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.952957,
+          "longitude": -73.816536,
+          "price": 4375.0,
+          "datePriceChanged": 1731398400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 919700,
+          "rentZestimate": 4575,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4375.0,
+          "priceChange": 100,
+          "timeOnZillow": 1068204000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 11400.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1068204000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2103828579",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b9bafced38c5d671aeacdf71c732627c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/16-Hall-Pl-APT-3A-Eastchester-NY-10709/2103828579_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,400/mo",
+      "priceLabel": "$2.4K",
+      "address": "16 Hall Pl APT 3A, Eastchester, NY 10709",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.95677,
+        "longitude": -73.81677
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2103828579,
+          "streetAddress": "16 Hall Pl APT 3A",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.95677,
+          "longitude": -73.81677,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2246,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 1554802000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-06 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1554802000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442690443",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bf417e08a38262c8fe3619f7838555c9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/52-Rogers-St-2F-Tuckahoe-NY-10707/442690443_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,000/mo",
+      "priceLabel": "$3.0K",
+      "address": "52 Rogers St #2F, Tuckahoe, NY 10707",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 40.951252,
+        "longitude": -73.82183
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442690443,
+          "streetAddress": "52 Rogers St #2F",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.951252,
+          "longitude": -73.82183,
+          "price": 3000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 562283000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2F",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 562283000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2055936095",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/dcd938bd0f85e1b0635c5c309d074c24-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/374-Columbus-Ave-FLOOR-2-Tuckahoe-NY-10707/2055936095_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,250/mo",
+      "priceLabel": "$3.3K",
+      "address": "374 Columbus Ave FLOOR 2, Tuckahoe, NY 10707",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 40.961464,
+        "longitude": -73.81882
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055936095,
+          "streetAddress": "374 Columbus Ave FLOOR 2",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.961464,
+          "longitude": -73.81882,
+          "price": 3250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3755,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3250.0,
+          "timeOnZillow": 1068599000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1068599000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "440748953",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9f6eabe1941f53a33df53fb2543a82fb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/10-Cedar-Pl-FLOOR-1-Eastchester-NY-10709/440748953_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$4,999/mo",
+      "priceLabel": "$5.0K",
+      "address": "10 Cedar Pl FLOOR 1, Eastchester, NY 10709",
+      "isNewYorkState": true,
+      "beds": 5,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 40.959965,
+        "longitude": -73.81449
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440748953,
+          "streetAddress": "10 Cedar Pl FLOOR 1",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.959965,
+          "longitude": -73.81449,
+          "price": 4999.0,
+          "bathrooms": 2.0,
+          "bedrooms": 5.0,
+          "livingArea": 1700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4999.0,
+          "timeOnZillow": 1070528000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Fleetwood Realty",
+      "timeOnZillow": 1070528000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2134287344",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e8f6928e44f78d7a78a18cf1962347ad-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/36-Lincoln-Ave-2-Tuckahoe-NY-10707/2134287344_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,600/mo",
+      "priceLabel": "$3.6K",
+      "address": "36 Lincoln Ave #2, Tuckahoe, NY 10707",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1184,
+      "latLong": {
+        "latitude": 40.95905,
+        "longitude": -73.81859
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2134287344,
+          "streetAddress": "36 Lincoln Ave #2",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.95905,
+          "longitude": -73.81859,
+          "price": 3600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1184.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3206,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "timeOnZillow": 280979000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Compass Greater NY, LLC",
+      "timeOnZillow": 280979000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2092648963",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f49f512c00f36b47b404c39c8a8281f3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/10-Oakridge-Pl-APT-5A-Eastchester-NY-10709/2092648963_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,495/mo",
+      "priceLabel": "$2.5K",
+      "address": "10 Oakridge Pl APT 5A, Eastchester, NY 10709",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 577,
+      "latLong": {
+        "latitude": 40.956894,
+        "longitude": -73.81113
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2092648963,
+          "streetAddress": "10 Oakridge Pl APT 5A",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.956894,
+          "longitude": -73.81113,
+          "price": 2495.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 577.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 266300,
+          "rentZestimate": 2287,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2495.0,
+          "timeOnZillow": 1277236000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 5A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices New York Properties",
+      "timeOnZillow": 1277236000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2069633890",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c26bd38b7a9bba855a6ecb973fbf7016-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/37-Chestnut-St-FLOOR-2-Tuckahoe-NY-10707/2069633890_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,800/mo",
+      "priceLabel": "$2.8K",
+      "address": "37 Chestnut St FLOOR 2, Tuckahoe, NY 10707",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 40.953564,
+        "longitude": -73.82224
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "51 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2069633890,
+          "streetAddress": "37 Chestnut St FLOOR 2",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.953564,
+          "longitude": -73.82224,
+          "price": 2800.0,
+          "datePriceChanged": 1730098800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 519100,
+          "rentZestimate": 3050,
+          "listing_sub_type": {},
+          "priceReduction": "$95 (Oct 28)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -95,
+          "timeOnZillow": 4420062000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices New York Properties",
+      "timeOnZillow": 4420062000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2069632385",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9721c7dd297368fd54dfe04ad562acf0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/29-Orchard-St-FLOOR-2-Eastchester-NY-10709/2069632385_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,395/mo",
+      "priceLabel": "$3.4K",
+      "address": "29 Orchard St FLOOR 2, Eastchester, NY 10709",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1348,
+      "latLong": {
+        "latitude": 40.958435,
+        "longitude": -73.81221
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2069632385,
+          "streetAddress": "29 Orchard St FLOOR 2",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.958435,
+          "longitude": -73.81221,
+          "price": 3395.0,
+          "datePriceChanged": 1729839600000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1348.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 639900,
+          "rentZestimate": 3595,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 25)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3395.0,
+          "priceChange": -100,
+          "timeOnZillow": 3869260000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices New York Properties",
+      "timeOnZillow": 3869260000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2061677619",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/97dbf765e5bcb7ac23239d04e4a63702-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/31-Edgewood-Ln-FLOOR-1-Bronxville-NY-10708/2061677619_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,950/mo",
+      "priceLabel": "$4.0K",
+      "address": "31 Edgewood Ln FLOOR 1, Bronxville, NY 10708",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 40.941437,
+        "longitude": -73.81849
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "37 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061677619,
+          "streetAddress": "31 Edgewood Ln FLOOR 1",
+          "zipcode": "10708",
+          "city": "Bronxville",
+          "state": "NY",
+          "latitude": 40.941437,
+          "longitude": -73.81849,
+          "price": 3950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 910500,
+          "rentZestimate": 4995,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3950.0,
+          "timeOnZillow": 3232212000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: White Plains Brokerage",
+      "timeOnZillow": 3232212000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "33016700",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3e3daf40b5093339d75f9d5c58876752-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/87-Stebbins-Ave-Eastchester-NY-10709/33016700_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$5,000/mo",
+      "priceLabel": "$5.0K",
+      "address": "87 Stebbins Ave, Eastchester, NY 10709",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {
+        "latitude": 40.94705,
+        "longitude": -73.81287
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "37 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 33016700,
+          "streetAddress": "87 Stebbins Ave",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.94705,
+          "longitude": -73.81287,
+          "price": 5000.0,
+          "datePriceChanged": 1730530800000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 945800,
+          "rentZestimate": 5297,
+          "listing_sub_type": {},
+          "priceReduction": "$1,000 (Nov 2)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5000.0,
+          "priceChange": -1000,
+          "timeOnZillow": 3214014000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 16450.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices New York Properties",
+      "timeOnZillow": 3214014000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "440232501",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b900be4fdbcf9b181ada2d0627e182f9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/62-Crescent-Pl-APT-1B-Tuckahoe-NY-10707/440232501_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,350/mo",
+      "priceLabel": "$2.4K",
+      "address": "62 Crescent Pl APT 1B, Tuckahoe, NY 10707",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 535,
+      "latLong": {
+        "latitude": 40.957504,
+        "longitude": -73.81898
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "74 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440232501,
+          "streetAddress": "62 Crescent Pl APT 1B",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.957504,
+          "longitude": -73.81898,
+          "price": 2350.0,
+          "datePriceChanged": 1732262400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 535.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 22)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "priceChange": -50,
+          "timeOnZillow": 6414254000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Coldwell Banker Realty",
+      "timeOnZillow": 6414254000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2092843230",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5f13fac6311c62e2dae31bf013d8b478-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/60-Crescent-Pl-APT-1G-Tuckahoe-NY-10707/2092843230_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,250/mo",
+      "priceLabel": "$3.3K",
+      "address": "60 Crescent Pl APT 1G, Tuckahoe, NY 10707",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1050,
+      "latLong": {
+        "latitude": 40.956947,
+        "longitude": -73.81821
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "60 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2092843230,
+          "streetAddress": "60 Crescent Pl APT 1G",
+          "zipcode": "10707",
+          "city": "Tuckahoe",
+          "state": "NY",
+          "latitude": 40.956947,
+          "longitude": -73.81821,
+          "price": 3250.0,
+          "datePriceChanged": 1732089600000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1050.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2954,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3250.0,
+          "priceChange": -50,
+          "timeOnZillow": 5204119000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1G",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Coldwell Banker Realty",
+      "timeOnZillow": 5204119000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "33016719",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4534d1a7729135bff392750a8e0b1f04-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/27-Summit-St-Eastchester-NY-10709/33016719_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$5,300/mo",
+      "priceLabel": "$5.3K",
+      "address": "27 Summit St, Eastchester, NY 10709",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1587,
+      "latLong": {
+        "latitude": 40.946274,
+        "longitude": -73.813515
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "94 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 33016719,
+          "streetAddress": "27 Summit St",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.946274,
+          "longitude": -73.813515,
+          "price": 5300.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1587.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 957500,
+          "rentZestimate": 5571,
+          "listing_sub_type": {},
+          "priceReduction": "$700 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5300.0,
+          "priceChange": -700,
+          "timeOnZillow": 8131648000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 8700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices New York Properties",
+      "timeOnZillow": 8131648000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2057662943",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/86e93c5dec14194b06a6a715967a5e38-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/eastchester-ny/elide-house-(2-park)/5XrT9P/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,395/mo",
+      "priceLabel": "$2.4K",
+      "address": "2 Park Ave APT 3H, Eastchester, NY 10709",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 550,
+      "latLong": {
+        "latitude": 40.95663,
+        "longitude": -73.81515
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057662943,
+          "streetAddress": "2 Park Ave APT 3H",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.95663,
+          "longitude": -73.81515,
+          "price": 2395.0,
+          "datePriceChanged": 1720422000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 550.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2206,
+          "listing_sub_type": {},
+          "priceReduction": "",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2395.0,
+          "priceChange": -200,
+          "timeOnZillow": 14797524000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3H",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 14797524000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "2133226647",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c6a869108a26e09427e52752c15b82a0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/eastchester-ny/elide-house-505/5YW8Vf/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,149/mo",
+      "priceLabel": "$3.1K",
+      "address": "505 White Plains Rd #2A, Eastchester, NY 10709",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 40.959328,
+        "longitude": -73.81264
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2133226647,
+          "streetAddress": "505 White Plains Rd #2A",
+          "zipcode": "10709",
+          "city": "Eastchester",
+          "state": "NY",
+          "latitude": 40.959328,
+          "longitude": -73.81264,
+          "price": 3149.0,
+          "datePriceChanged": 1721977200000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3048,
+          "listing_sub_type": {},
+          "priceReduction": "",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3149.0,
+          "priceChange": -46,
+          "timeOnZillow": 10467729000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 10467729000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "322c21af",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

@@ -1,0 +1,2344 @@
+{
+  "listResults": [
+    {
+      "zpid": "442702948",
+      "id": "442702948",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4735pxmmk5gxx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9db149a0a23604dfd97801e26ee21721-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/108-Washington-St-APT-1-Gloversville-NY-12078/442702948_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$990/mo",
+      "unformattedPrice": 990,
+      "address": "108 Washington St APT 1, Gloversville, NY 12078",
+      "addressStreet": "108 Washington St APT 1",
+      "addressCity": "Gloversville",
+      "addressState": "NY",
+      "addressZipcode": "12078",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.049374,
+        "longitude": -74.33955
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442702948,
+          "streetAddress": "108 Washington St APT 1",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.049374,
+          "longitude": -74.33955,
+          "price": 990.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 990.0,
+          "timeOnZillow": 441663000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9db149a0a23604dfd97801e26ee21721-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57b169af5aea1af680332b9da4852b26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef317abf6c85d0115de775ec45602ab3-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2067308807",
+      "id": "2067308807",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "gqgpevc4a395",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0cbac592e9cc7ad6143dfbe23b016896-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/131-Bushnell-Rd-1-Mayfield-NY-12117/2067308807_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,650/mo",
+      "unformattedPrice": 1650,
+      "address": "131 Bushnell Rd #1, Mayfield, NY 12117",
+      "addressStreet": "131 Bushnell Rd #1",
+      "addressCity": "Mayfield",
+      "addressState": "NY",
+      "addressZipcode": "12117",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 43.156475,
+        "longitude": -74.21689
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2067308807,
+          "streetAddress": "131 Bushnell Rd #1",
+          "zipcode": "12117",
+          "city": "Mayfield",
+          "state": "NY",
+          "latitude": 43.156475,
+          "longitude": -74.21689,
+          "price": 1650.0,
+          "datePriceChanged": 1731052800000,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 38,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1230,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 8)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "priceChange": -50,
+          "timeOnZillow": 3327453000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cbac592e9cc7ad6143dfbe23b016896-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/543cca03700ee761180302b83bca1509-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5685ebaffcbbe46e59e7763b2571f889-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93c535ec9c041e33f42a254a8b22217c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f8afbe507b5a9a87624e58dcb4fce20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b13ab348f76db3f1fa6b1e66da8b93e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cdc18af50cebff6e27c8eac89721f925-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0fef8408189ca523384699e11e15b6a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90060db7e435ae82180d0001ddab8b6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95ce0405c30ff52c4e847807ca244fe0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8464f3e640597525d0bb33a1c9ab4dab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc51d4cd5d89a1bd318f7c156b02a548-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f61f59ed80aa86ec0e80ed563959946-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65c7e5a44892ce83f783817a253f4a9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0e3112f2651e13b116fbc60c610f5eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ae39937dcc2b2c277a39f4c09289444-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb0412d5ef50adc566971f4327841c59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/94e8ba1aabd0a6c92fff0ea55e5ef6bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c187dbc30987799b3401a031e4a494f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/febc9f3a6f7ab187d822e9a6773567ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce6bf0e87babc94df82d602e252f5132-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "43.056057--74.35451",
+      "id": "43.056057--74.35451",
+      "providerListingId": "ts8xvhnnx8gn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/99bb5a86f567d972580025f566398c5c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/10-highland-ter-gloversville-ny-97t7LQ/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "10 Highland Ter, Gloversville, NY",
+      "addressStreet": "10 Highland Ter Unit 2",
+      "addressCity": "Gloversville",
+      "addressState": "NY",
+      "addressZipcode": "12078",
+      "units": [
+        {
+          "price": "$1,400+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2011222464,
+      "latLong": {
+        "latitude": 43.056057,
+        "longitude": -74.35451
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/99bb5a86f567d972580025f566398c5c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2145d58d403ab44bc153fd2ad81777e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0c17ece0ef25f8629d5d7666080532c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0525a144c3f5003c2305eed39c0304a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc2805d57c02a6de4d3819856575f6c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fe5c9aaeb2453b5e9147e0f35869048-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c445ef183159833e1aa14131c1863c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d60a287d30c9fa8b43f6ca8c367f9e43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3072ce86ed254e6185d06553c95b49a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66a91f0bf9189167ec164ff72024d016-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c381587ba0a6a271de67850a0691d104-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4854a98ac7781fa83298f145cb53a75f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a994fe3e4699cb11852514d13cea7d28-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "30455408",
+      "id": "30455408",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "322jm91wasarv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/95fdb7f0f64ba2c0ba87cd16f3197119-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/83-Prospect-Ave-Gloversville-NY-12078/30455408_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "83 Prospect Ave, Gloversville, NY 12078",
+      "addressStreet": "83 Prospect Ave",
+      "addressCity": "Gloversville",
+      "addressState": "NY",
+      "addressZipcode": "12078",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 2.0,
+      "area": 2196,
+      "latLong": {
+        "latitude": 43.053616,
+        "longitude": -74.336136
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30455408,
+          "streetAddress": "83 Prospect Ave",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.053616,
+          "longitude": -74.336136,
+          "price": 2000.0,
+          "datePriceChanged": 1723878000000,
+          "bathrooms": 2.0,
+          "bedrooms": 5.0,
+          "livingArea": 2196.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 130,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 68600,
+          "rentZestimate": 1988,
+          "listing_sub_type": {},
+          "priceReduction": "",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "priceChange": -300,
+          "timeOnZillow": 11259350000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 70212.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 68600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Excelsior Development",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/95fdb7f0f64ba2c0ba87cd16f3197119-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ba162465e34f2ba10d007f67b4dd65d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01ca823c0132d5973b0089a3731a0826-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9877b8c58a4e95607438253505a9f76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/280f7c8977d02a2f141b3687a9eb9525-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17e16ed75e9118185035a978e440e910-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3d0b45e5abef6f3ba9a0140742ea771-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f18533de1dd5626b2635418708125bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34fe376289f548605a7651949d838f01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc93f10a9850ff78debf447a8c0fc114-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c5bac5332e5ca22d4feeecdd99fea07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c64d5889f2ffe793ab4cf2c6b8c0c9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8fe5a33deb6ad736c2b932284bc4bf48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b110856a199881da00b98439375e4b5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4aae42044d72a8f28663b5bfa0478f31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a361d61fa36f7ba1d2184b91e3c9522f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442759110",
+      "id": "442759110",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2f3ewqgav5v00",
+      "imgSrc": "https://photos.zillowstatic.com/fp/aa56ae38d66041b72577b18fcca54a6a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/74-Grand-St-APT-4-Gloversville-NY-12078/442759110_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,100/mo",
+      "unformattedPrice": 1100,
+      "address": "74 Grand St APT 4, Gloversville, NY 12078",
+      "addressStreet": "74 Grand St APT 4",
+      "addressCity": "Gloversville",
+      "addressState": "NY",
+      "addressZipcode": "12078",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 43.05486,
+        "longitude": -74.348274
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442759110,
+          "streetAddress": "74 Grand St APT 4",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.05486,
+          "longitude": -74.348274,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 219357000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa56ae38d66041b72577b18fcca54a6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b19da9d4c3971f71258257d901b54976-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cbd3d6053619c538d17f34713a02d29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf8ab1a84c87387b4714faf78f54db62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ed4f0778a8b911aca8ed0c8e3b28cf1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c7bf6624b75718985d3d503181acef0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1132341027feb4ed99180361be139800-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e2487ac8446763c1c934f3d16afb17b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8eccaea72f74ab4f415f4a152f917273-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c4c68cb3629c3c905a001af3741f3bc-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "43.050716--74.34609",
+      "id": "43.050716--74.34609",
+      "providerListingId": "tqdwjuweentz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fc29e883b8a763f3f1adc73dfb0e7e41-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/10-w-fulton-st-gloversville-ny-9PPGqR/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "10 W Fulton St, Gloversville, NY",
+      "addressStreet": "10 W  Fulton St Apt 3",
+      "addressCity": "Gloversville",
+      "addressState": "NY",
+      "addressZipcode": "12078",
+      "units": [
+        {
+          "price": "$900+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2089124086,
+      "latLong": {
+        "latitude": 43.050716,
+        "longitude": -74.34609
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc29e883b8a763f3f1adc73dfb0e7e41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/167350f0a00b232bf295f554d3b4ca07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56f5e7876886ee4a8215daf686a77fcb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e19d55de20cbf9914ea095a51e5eec15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bf61a0e6cf56cab10c79c7e24458c3f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/997798f99d1a282d1c0ceece659af792-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6e963855fbdb8ee9b8b1717ab63e927-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "440361526",
+      "id": "440361526",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1k3834wf188qg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b3b25020b082073378b20dcb070eab99-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/114-Bleecker-St-APT-2-Gloversville-NY-12078/440361526_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$550/mo",
+      "unformattedPrice": 550,
+      "address": "114 Bleecker St APT 2, Gloversville, NY 12078",
+      "addressStreet": "114 Bleecker St APT 2",
+      "addressCity": "Gloversville",
+      "addressState": "NY",
+      "addressZipcode": "12078",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.054348,
+        "longitude": -74.34636
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "70 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440361526,
+          "streetAddress": "114 Bleecker St APT 2",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.054348,
+          "longitude": -74.34636,
+          "price": 550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 70,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 550.0,
+          "timeOnZillow": 6078374000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Eagle Property Management, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3b25020b082073378b20dcb070eab99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54401e329d7a928e7f9ba216be0ba04e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcd1ad57dab3f17be2d1c19fa3ab2cef-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "43.045753--74.34273",
+      "id": "43.045753--74.34273",
+      "providerListingId": "jqz1n0s9s98k",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1295bf4b957106b6a08049edb75d782d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/43.045753,-74.34273_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "11-204 Fremont St, Gloversville, NY",
+      "addressStreet": "11-204 Fremont St ",
+      "addressCity": "Gloversville",
+      "addressState": "NY",
+      "addressZipcode": "12078",
+      "units": [
+        {
+          "price": "$995+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,650+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "latLong": {
+        "latitude": 43.045753,
+        "longitude": -74.34273
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1295bf4b957106b6a08049edb75d782d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13276094f0d0a97fbea70a7e90f3263c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/faff1dfe757efe265913676ece3b84cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf04f5d1b9ac7cec4bd0b41633d8d547-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55f8375e2ec6bafd4dc236b615f17d80-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "442692518",
+      "id": "442692518",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "qkanrnf8jx1m",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7ddd6c3f49d70a3c4d08fdfdd4dce74c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Gloversville-NY-12078/442692518_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850/mo",
+      "unformattedPrice": 850,
+      "address": "(undisclosed Address), Gloversville, NY 12078",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Gloversville",
+      "addressState": "NY",
+      "addressZipcode": "12078",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442692518,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 472755000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ddd6c3f49d70a3c4d08fdfdd4dce74c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b27d2a40fe2ff5c24d11de950b8e5b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dba960e4be6ef96d889599db4140231-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20ab0e3be1e9c295cece13b4eed2ef1b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6cdcdf73de7269ea26eec9d207714bf1-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442067764",
+      "id": "442067764",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5gdq70p64vrct",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1295bf4b957106b6a08049edb75d782d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/11102-Fremont-St-102-Gloversville-NY-12078/442067764_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,325/mo",
+      "unformattedPrice": 1325,
+      "address": "11102 Fremont St #102, Gloversville, NY 12078",
+      "addressStreet": "11102 Fremont St #102",
+      "addressCity": "Gloversville",
+      "addressState": "NY",
+      "addressZipcode": "12078",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.052166,
+        "longitude": -74.34393
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442067764,
+          "streetAddress": "11102 Fremont St #102",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.052166,
+          "longitude": -74.34393,
+          "price": 1325.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 29,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1325.0,
+          "timeOnZillow": 2563353000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 102",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-25 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1295bf4b957106b6a08049edb75d782d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c196e6377f584b65fa758d7ec1122c72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef54b32c24dc173964dd363b50d45a04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0504091ee0dc91e3154c565c76f8dd6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ec8e82a6a026455eef0a95b6039ef45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f205d88f74b8f056250d8c4df6355580-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cf658161e617b3a58d5a56703de0e66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b2dabe6a7a9b542fcb6c7c7837bf54f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb9e9655e649ae8717000d072b58d491-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9e80f605ce71128653695879b772db4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6e084378a46e324dc953ff71ff0e28f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a47b8eef3376851e136c536dd993de5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aab0814ef94c6c128f4bb4eab4ca6d20-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2109999683",
+      "id": "2109999683",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1cguns0weunv2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/58967db33298c23d413250fcc8c7ca01-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4-Fruit-St-2-Gloversville-NY-12078/2109999683_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "4 Fruit St #2, Gloversville, NY 12078",
+      "addressStreet": "4 Fruit St #2",
+      "addressCity": "Gloversville",
+      "addressState": "NY",
+      "addressZipcode": "12078",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 43.05575,
+        "longitude": -74.35231
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "40 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2109999683,
+          "streetAddress": "4 Fruit St #2",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.05575,
+          "longitude": -74.35231,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 40,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 976,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 3494525000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Daisy Rentals",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/58967db33298c23d413250fcc8c7ca01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebd522588aec35be322b9727de4fa623-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01991c59fe3064c8e4ef65ddd9ab7bd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa4f5f0c8d9b9b280144bd3deee4b3c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c4bb89635005fde79dd3e49fd8ba1d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/196b3439f01d180fcd283a1aadb9a145-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ccb1c324f2e3bb87ba739c699e269b9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a9966c3b9f98936c3badcffa41a2182-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76655c7d6a923452bc121a37feeadd78-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441714795",
+      "id": "441714795",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "hg5jqucpfhn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a83f767a64223326184cbeb3a19e01ad-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/76-e-fulton-street-gloversville-ny-9PPHVt/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "76 E Fulton Street, 76 E Fulton St #2B-1BA, Gloversville, NY 12078",
+      "addressStreet": "76 E Fulton St #2B-1BA",
+      "addressCity": "Gloversville",
+      "addressState": "NY",
+      "addressZipcode": "12078",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.050488,
+        "longitude": -74.34132
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441714795,
+          "streetAddress": "76 E Fulton St #2B-1BA",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.050488,
+          "longitude": -74.34132,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 44,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 3856117000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2B-1BA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Gateway Property Solutions, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a83f767a64223326184cbeb3a19e01ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/307c6d5d1d7d3571a143d8855c747030-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5add44614f10943fd8826ebc4551b51e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/645a4aa033a790b5793717d278dc0b46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c10a4449a80d23a0e90c7e66d05d8a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/def9694b671c9cf98888973b7e650432-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84827aa1f306387f1d943e93adb7d7aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/534194fff8cc8eaf7e141e60db0678cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1d8041c58ba519207fd1f04e66c9732-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b953ca74ab4d3136201884b2e20c1858-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5083139a0cbdaf787cb5c32a1631520d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "417107616",
+      "id": "417107616",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4rp0jn3rpuqu6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e05edd0fdb11b56d3f57482331ad2072-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/89-Woodside-Ave-2-UNIT-1-Gloversville-NY-12078/417107616_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850/mo",
+      "unformattedPrice": 850,
+      "address": "89 Woodside Ave 2-UNIT 1, Gloversville, NY 12078",
+      "addressStreet": "89 Woodside Ave 2-UNIT 1",
+      "addressCity": "Gloversville",
+      "addressState": "NY",
+      "addressZipcode": "12078",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 43.047638,
+        "longitude": -74.35413
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "71 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 417107616,
+          "streetAddress": "89 Woodside Ave 2-UNIT 1",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.047638,
+          "longitude": -74.35413,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 71,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 6134835000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "2-unit 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Patriot Property Services",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e05edd0fdb11b56d3f57482331ad2072-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2757fd0098487ee10334e072c68af9c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f53f43b664e45bd2414ccfc626feebcf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bd52db562ea79522db969bac015e355-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/699fec02e5d4fa15377ffe4e0f183579-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/394a44086555abe19b6550e5f784862e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac963d77d06e04d6530bdd9bf4954d41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7919132483b593491bfe4e7b6b4644e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa10054f50e27a57f7715a149ea8a36a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e767c59a8ab1dbe80da3892367eec30a-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442702948",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9db149a0a23604dfd97801e26ee21721-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/108-Washington-St-APT-1-Gloversville-NY-12078/442702948_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$990/mo",
+      "priceLabel": "$990",
+      "address": "108 Washington St APT 1, Gloversville, NY 12078",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.049374,
+        "longitude": -74.33955
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442702948,
+          "streetAddress": "108 Washington St APT 1",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.049374,
+          "longitude": -74.33955,
+          "price": 990.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 990.0,
+          "timeOnZillow": 441663000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 441663000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2067308807",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0cbac592e9cc7ad6143dfbe23b016896-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/131-Bushnell-Rd-1-Mayfield-NY-12117/2067308807_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,650/mo",
+      "priceLabel": "$1.7K",
+      "address": "131 Bushnell Rd #1, Mayfield, NY 12117",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 43.156475,
+        "longitude": -74.21689
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2067308807,
+          "streetAddress": "131 Bushnell Rd #1",
+          "zipcode": "12117",
+          "city": "Mayfield",
+          "state": "NY",
+          "latitude": 43.156475,
+          "longitude": -74.21689,
+          "price": 1650.0,
+          "datePriceChanged": 1731052800000,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1230,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 8)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "priceChange": -50,
+          "timeOnZillow": 3327453000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 3327453000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "ts8xvhnnx8gn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/99bb5a86f567d972580025f566398c5c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/10-highland-ter-gloversville-ny-97t7LQ/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$1,400+/mo",
+      "address": "10 Highland Ter, Gloversville, NY",
+      "minBeds": 2,
+      "minBaths": 1.0,
+      "minArea": 1421,
+      "lotId": 2011222464,
+      "latLong": {
+        "latitude": 43.056057,
+        "longitude": -74.35451
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "43.056057--74.35451",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 11301886000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    },
+    {
+      "zpid": "30455408",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/95fdb7f0f64ba2c0ba87cd16f3197119-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/83-Prospect-Ave-Gloversville-NY-12078/30455408_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "83 Prospect Ave, Gloversville, NY 12078",
+      "isNewYorkState": true,
+      "beds": 5,
+      "baths": 2.0,
+      "area": 2196,
+      "latLong": {
+        "latitude": 43.053616,
+        "longitude": -74.336136
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30455408,
+          "streetAddress": "83 Prospect Ave",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.053616,
+          "longitude": -74.336136,
+          "price": 2000.0,
+          "datePriceChanged": 1723878000000,
+          "bathrooms": 2.0,
+          "bedrooms": 5.0,
+          "livingArea": 2196.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 68600,
+          "rentZestimate": 1988,
+          "listing_sub_type": {},
+          "priceReduction": "",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "priceChange": -300,
+          "timeOnZillow": 11259350000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 70212.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Excelsior Development",
+      "timeOnZillow": 11259350000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    },
+    {
+      "zpid": "442759110",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/aa56ae38d66041b72577b18fcca54a6a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/74-Grand-St-APT-4-Gloversville-NY-12078/442759110_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,100/mo",
+      "priceLabel": "$1.1K",
+      "address": "74 Grand St APT 4, Gloversville, NY 12078",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 43.05486,
+        "longitude": -74.348274
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442759110,
+          "streetAddress": "74 Grand St APT 4",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.05486,
+          "longitude": -74.348274,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 219357000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 219357000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "tqdwjuweentz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fc29e883b8a763f3f1adc73dfb0e7e41-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/10-w-fulton-st-gloversville-ny-9PPGqR/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$900+/mo",
+      "address": "10 W Fulton St, Gloversville, NY",
+      "minBeds": 2,
+      "minBaths": 1.0,
+      "lotId": 2089124086,
+      "latLong": {
+        "latitude": 43.050716,
+        "longitude": -74.34609
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "43.050716--74.34609",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 987190000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "440361526",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b3b25020b082073378b20dcb070eab99-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/114-Bleecker-St-APT-2-Gloversville-NY-12078/440361526_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$550/mo",
+      "priceLabel": "$550",
+      "address": "114 Bleecker St APT 2, Gloversville, NY 12078",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.054348,
+        "longitude": -74.34636
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "70 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440361526,
+          "streetAddress": "114 Bleecker St APT 2",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.054348,
+          "longitude": -74.34636,
+          "price": 550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 550.0,
+          "timeOnZillow": 6078374000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Eagle Property Management, LLC",
+      "timeOnZillow": 6078374000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "jqz1n0s9s98k",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1295bf4b957106b6a08049edb75d782d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/43.045753,-74.34273_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$995+/mo",
+      "address": "11-204 Fremont St, Gloversville, NY",
+      "minBeds": 1,
+      "minBaths": 2.0,
+      "latLong": {
+        "latitude": 43.045753,
+        "longitude": -74.34273
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago"
+      },
+      "buildingId": "43.045753--74.34273",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 395477000,
+      "unitCount": 3,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442067764",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1295bf4b957106b6a08049edb75d782d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/11102-Fremont-St-102-Gloversville-NY-12078/442067764_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,325/mo",
+      "priceLabel": "$1.3K",
+      "address": "11102 Fremont St #102, Gloversville, NY 12078",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.052166,
+        "longitude": -74.34393
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442067764,
+          "streetAddress": "11102 Fremont St #102",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.052166,
+          "longitude": -74.34393,
+          "price": 1325.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1325.0,
+          "timeOnZillow": 2563353000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 102",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-25 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2563353000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2109999683",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/58967db33298c23d413250fcc8c7ca01-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/4-Fruit-St-2-Gloversville-NY-12078/2109999683_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "4 Fruit St #2, Gloversville, NY 12078",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 43.05575,
+        "longitude": -74.35231
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "40 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2109999683,
+          "streetAddress": "4 Fruit St #2",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.05575,
+          "longitude": -74.35231,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 976,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 3494525000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Daisy Rentals",
+      "timeOnZillow": 3494525000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "441714795",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a83f767a64223326184cbeb3a19e01ad-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/76-e-fulton-street-gloversville-ny-9PPHVt/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "76 E Fulton St #2B-1BA, Gloversville, NY 12078",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.050488,
+        "longitude": -74.34132
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441714795,
+          "streetAddress": "76 E Fulton St #2B-1BA",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.050488,
+          "longitude": -74.34132,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 3856117000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2B-1BA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Gateway Property Solutions, LLC",
+      "timeOnZillow": 3856117000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "zpid": "417107616",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e05edd0fdb11b56d3f57482331ad2072-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/89-Woodside-Ave-2-UNIT-1-Gloversville-NY-12078/417107616_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$850/mo",
+      "priceLabel": "$850",
+      "address": "89 Woodside Ave 2-UNIT 1, Gloversville, NY 12078",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 43.047638,
+        "longitude": -74.35413
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "71 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 417107616,
+          "streetAddress": "89 Woodside Ave 2-UNIT 1",
+          "zipcode": "12078",
+          "city": "Gloversville",
+          "state": "NY",
+          "latitude": 43.047638,
+          "longitude": -74.35413,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 6134835000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "2-unit 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Patriot Property Services",
+      "timeOnZillow": 6134835000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "743c975c",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

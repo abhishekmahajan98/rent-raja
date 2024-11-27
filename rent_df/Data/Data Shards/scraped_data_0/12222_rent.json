@@ -1,0 +1,1462 @@
+{
+  "listResults": [
+    {
+      "zpid": "29711678",
+      "id": "29711678",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "47vezpzdktvp0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/289c454636eb475f469b8e1418f7287b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5-Upper-Hillcrest-Ave-Albany-NY-12203/29711678_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,600/mo",
+      "unformattedPrice": 2600,
+      "address": "5 Upper Hillcrest Ave, Albany, NY 12203",
+      "addressStreet": "5 Upper Hillcrest Ave",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12203",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.677605,
+        "longitude": -73.82939
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29711678,
+          "streetAddress": "5 Upper Hillcrest Ave",
+          "zipcode": "12203",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.677605,
+          "longitude": -73.82939,
+          "price": 2600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 4.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 219800,
+          "rentZestimate": 2516,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 194117000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 141176.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 219800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/289c454636eb475f469b8e1418f7287b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c964b2528fb70931e52d5a04700ceb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1504143ab4597a1107d1a771640103b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cc2e35a099cfec560b3fac7f8533501-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e5e24a26a9cc138d4fd783d24d9cb00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bc706b88ec3e0a4cd2c62ac327a9674-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42d63fae817005bbebba60021ffd8b75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a06aa861ac3fcdefd8903f01b4121aac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c632ed3085df1cf390e5f1061a50cd3c-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "29711678",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/289c454636eb475f469b8e1418f7287b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/5-Upper-Hillcrest-Ave-Albany-NY-12203/29711678_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,600/mo",
+      "priceLabel": "$2.6K",
+      "address": "5 Upper Hillcrest Ave, Albany, NY 12203",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.677605,
+        "longitude": -73.82939
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29711678,
+          "streetAddress": "5 Upper Hillcrest Ave",
+          "zipcode": "12203",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.677605,
+          "longitude": -73.82939,
+          "price": 2600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 4.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 219800,
+          "rentZestimate": 2516,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 194117000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 141176.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 194117000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "442000968",
+      "id": "442000968",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "40an9d1965cx3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2cf0f887a2f88f7e6d14bbe2702ca9e7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/albany-ny/parkside-village/ChPqDx/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,950/mo",
+      "unformattedPrice": 1950,
+      "address": "Parkside Village, 572 Russell Rd #2GC, Albany, NY 12203",
+      "addressStreet": "572 Russell Rd #2GC",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12203",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1490,
+      "latLong": {
+        "latitude": 42.664883,
+        "longitude": -73.84294
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442000968,
+          "streetAddress": "572 Russell Rd #2GC",
+          "zipcode": "12203",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.664883,
+          "longitude": -73.84294,
+          "price": 1950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1490.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 31,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 2699886000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2GC",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: MariniServices",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cf0f887a2f88f7e6d14bbe2702ca9e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53ce191d16332d290930184b3cabc8f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82e4b96a4d1636ac68b3fffdbae33ecc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba228c0b1b23e84651d4b95f8bc30b98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f62bd45f1a4a420bd492b9720ff53ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/017726ff043db05101b5c04c533567b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3dc8440d39e5ffcac69cdf74b2b916c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff00a24db23abdc83fc9a45d95270791-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1ef17c8a30847790945304c01fd1a4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdbabdca9c49a1cf8517bf54f0f24cfe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4ef28b7d9bdef9c76c0c07eb65c8a93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a67981ea0c3378b95dd2f3cfbbb02699-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b97f281851fd0f9bd82257c997b7c3ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a8a898ddc5baf8b799204679f2d88cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/267547219478063059dce209a6bc4265-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5d2af9a00797004d416f5aadb7195ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37b2a34d4b5c1280d6009babd289baab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa62b3fee658ae6a937a2605e1059d17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b891f71ad95e82da30d99f4bc438c2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78ae583d2303f4169b9b3ec2a4f5b2e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac4e3bbb5cb600bdfc5f1402015a06c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbc3a59d630bdc1ec4cbfbee4530d665-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a26ab48b0a3d9ecf8612d59bcbe0b8aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ee90db336a15a12fe8aaf30efae0448-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b1100b54a9496b8d24b011434016c2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/151697208da8f4a05194e57ef55d69be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/939f2762fdf81e75de7d739775aff0b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edf101144ef871446b0af1f1640292b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c824576101f90927d2d764380f7c85eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/652fcb62a284215a5e56a0df6177c798-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/962a444c8ad5e229cdf567cbde03bf5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b49d3e0c62002029a85334742957b65a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e441c142f36741ffd3bbd8672cf8722e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7006301386db31bd2edaff4571619337-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90bd78677f9171675a7d5dcd1d094ef6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28144895ef3def94f31ac35fc8c1b5d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e94442382308542fb7d340667079c8b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f778b259ba37258683e73c9eaedb069-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c58c6470c1456550cfd26b50c849da3f-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.68323--73.8041",
+      "id": "42.68323--73.8041",
+      "providerListingId": "1gsaauspjfyss",
+      "imgSrc": "https://photos.zillowstatic.com/fp/902f723af134d2c352f20336e1fb8999-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/albany-ny/alexander-at-patroon-creek/5XmH4X/",
+      "statusType": "FOR_RENT",
+      "statusText": "Alexander at Patroon Creek",
+      "address": "255 Patroon Creek Blvd, Albany, NY",
+      "addressStreet": "255 Patroon Creek Blvd Apt 3345",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12206",
+      "units": [
+        {
+          "price": "$1,587+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,067+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1001694923,
+      "latLong": {
+        "latitude": 42.68323,
+        "longitude": -73.8041
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "SPECIAL_OFFER",
+        "text": "Special Offer"
+      },
+      "isSaved": false,
+      "buildingName": "Alexander at Patroon Creek",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/902f723af134d2c352f20336e1fb8999-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b7c55e1ef66a41bd8de72b748578987-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/619de6687415b6c1b50d98fad1bf1474-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5def3ec4c8f86740c4a3151958317c7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/539bf37eb278c312f1eec34cfd6fb77d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e261fd70f3ef7df4d659d135b440eb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41899e34afa52bcf9185c690b8ca963e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ac1e2b62eef18253217364ea2da123c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/515347550d03e516c0583d7f2b34275a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9a28f1408bab7c5720f6328207be380-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9af4054abd24dafb2ec67bcf60cb13c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ffeb24340c8999f3a2872d5400bdd08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25f634b61b6c5849ae1922c7dc01d2c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87980377b5409ed5fe14c76481493643-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/037edd1017d2e335f47f2059d4ec47b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aef00297770783c5aa3ae1aaeafde062-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1bd8e2ca0d3ded7acd67e9c470926fe1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4c260d59eaffcc30bc28b966681cc96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f668dd7eeeda29a2662084d262824f66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66c370172ee241d5ec685f73e91c86cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca0f08417a0bfb02be70eb0e745b3eef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c62affffd62915b7ba78aa939ead6a2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc97cf9656fc3c10069d9d4a7faf9d8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea3e2abf7af65820de8ea0eda99426c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2db1e821437d1a1c335b661716017c53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/593808b426454e0b2704361fd7c7f1c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/646519b2a3db64a064490b913d4c302e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e07d7f3e285a4fb82fcae63cc2dae5c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d34281311fca122e4337309dd68e8b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5264f3fe1d79386005e34417725ad5a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99c7a4c916ecbd49cfede56de4e84fe8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3adef5602fafc8847fd89249b74deed6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cacbc25abb369f2d43b30ef28d7e0ba2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75846dbb9d44c54ccbb17bcd09e889e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45aa50d0fae2d913e22c664592782719-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdb46f2f987c7c0a9d564349efb7aaf3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0e1472ff957f7d46ab77d8ddae17a62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e6b16dfaef1062fc7800397010d185d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9e1274be2ff913d29e563defc89d851-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15308dcd06ed2358e7ba536d4c7f1f90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8d06db42cf9da33e29b79c3caaa98f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/880f8edc4e4148dbc1950179ea6d8bcc-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 17,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "42.67988--73.84704",
+      "id": "42.67988--73.84704",
+      "providerListingId": "2vj3176hguq2x",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c9be1302ff646cf9fbff2e99b7341f7f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/albany-ny/woodlake/5YyjgQ/",
+      "statusType": "FOR_RENT",
+      "statusText": "Woodlake",
+      "address": "55 Woodlake Rd, Albany, NY",
+      "addressStreet": "55 Woodlake Rd # 291",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12203",
+      "units": [
+        {
+          "price": "$1,470+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,725+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1008690549,
+      "latLong": {
+        "latitude": 42.67988,
+        "longitude": -73.84704
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Woodlake",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9be1302ff646cf9fbff2e99b7341f7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3ff0d47186afe8749d2cb4598dadc18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60a6a32227012ce88c60ec494d526965-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/076117bd9d82b0e07e1635e910b87e1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a579586990d565d3a64a8162e67b0f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1affb4b06b59507bc56ddb345f98c6e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91b964f761f50d57b310f7939726ed5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff0c0f345b8d62a275501564f5ed7004-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b684b2dad4d3ebbfc623751207b4448-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/619dad8a53cc635d952d809b99ed67ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52d44a26b1b06bd519261a662b14fdaa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf51a2f95ad27484604c0284514aad12-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7939ebd5d46b023f0776626c4ce0fe7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1a29409cf3f6c3c9a3f67841aec17a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc408d6da9286cf8e0f768c354878814-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ff2166a88094ade9d197eddf1787451-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9039066b2ee9f352e82bb6109b9c2e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93b8441883d1857ae5c870a94ec1db7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d6cb566e9fda96f173c374dfd1972ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb98cd4c26b60c41588dd0fbc80c079d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27b7d36ca9304dc3826bc84f4767db16-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 5,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "42.665424--73.80879",
+      "id": "42.665424--73.80879",
+      "providerListingId": "57ve8bruae9vw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f66c9f94510d8ac8cf8eb851fc2b8e0f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/albany-ny/stonehenge/5XmW9X/",
+      "statusType": "FOR_RENT",
+      "statusText": "Stonehenge",
+      "address": "9 Circle Ln, Albany, NY",
+      "addressStreet": "9 Circle Ln # 251",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12203",
+      "units": [
+        {
+          "price": "$1,375+",
+          "beds": "0",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,535+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,675+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1001723980,
+      "latLong": {
+        "latitude": 42.665424,
+        "longitude": -73.80879
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Stonehenge",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f66c9f94510d8ac8cf8eb851fc2b8e0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e355721dc28ad20d362cce8392c6b00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e95c4e6ae7726840161f20f6687a421-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19f9b8c27e67535f88531c57bb1afd5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b94ae7e2f64c0902fc834aa839295c8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe6180bf4cae42f6f2c0c6fa022fca06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/278988b19f582ead56ef33d60e05e1d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/885cd61501561ced3dd3c5efaf98fb54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/057bb86044a6aaa04b087cfbc858394f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f2e44a66f7de4830bb1047c962447cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f95ad9d5ce03927e338ef40738898c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54d8d4c7e3e265d2c495ada31dbe8bc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb34029c5db694c7fb7f7f0b07b55ea1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19c213e1cc4dffa88aab2e589af7d1d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59b47d8aa9195a920b4d0a8ea9ef9768-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21ce0297e812c0de66faca72bba79e7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fea1a923f29333ece858e9c0be90bf0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e9339df1feeefe189e249b3bc7d0bbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7c5cc14619fc8c05975550fbbb6f56b-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 5,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "42.70376--73.81396",
+      "id": "42.70376--73.81396",
+      "providerListingId": "2bfb8wta6a1s4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2ee1a14d4a6bac8b9e837eb2b8b7ad2c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/albany-ny/towne-towers/5Xr3dR/",
+      "statusType": "FOR_RENT",
+      "statusText": "Towne Towers",
+      "address": "12 California Ave, Albany, NY",
+      "addressStreet": "12 California Ave # 281",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12205",
+      "units": [
+        {
+          "price": "$1,305+",
+          "beds": "0",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,465+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,715+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1002138123,
+      "latLong": {
+        "latitude": 42.70376,
+        "longitude": -73.81396
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Towne Towers",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ee1a14d4a6bac8b9e837eb2b8b7ad2c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa5aabb8108ff85e9e00651ff2bb511a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e22bc9a90fc431571762647215bbc8d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d0d64f40a5eac5850ed56281b6a41ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f8d265c3c860ef08d36ed909495af45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2db2acebe8c4f6a88262dd6f04ba89bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c11563bce09bb3e8b891a06dec69c6c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/372ff1c3f6fb0dd4c278e1d7b4a50410-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a02b81c0170860b024c980aaf7362282-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6faf8ae9ea4de59542a9cc616293b064-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 4,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "29711599",
+      "id": "29711599",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "126gajzfwgya8",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bfb81421ce8a082ef5627d3de1c09311-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2-E-Dillenbeck-Dr-Albany-NY-12203/29711599_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,575/mo",
+      "unformattedPrice": 1575,
+      "address": "2 E Dillenbeck Dr, Albany, NY 12203",
+      "addressStreet": "2 E Dillenbeck Dr",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12203",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.67426,
+        "longitude": -73.831764
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29711599,
+          "streetAddress": "2 E Dillenbeck Dr",
+          "zipcode": "12203",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.67426,
+          "longitude": -73.831764,
+          "price": 1575.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 195000,
+          "rentZestimate": 1696,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1575.0,
+          "timeOnZillow": 100832000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 128235.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 195000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-22 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfb81421ce8a082ef5627d3de1c09311-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50e0bb9ac3bd473c3dd68b48634c5c41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03cdf8a4e54ba985ddb8bd5759e27199-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0f8d8fbb5917a31bc94cf516db12b21-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de2bc4c316fe84e04194c76e4d37096a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/871b342b309ea81604b46f4862d4ebbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9da1d5fcd87848c05ee892dfa3dade6-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29640736",
+      "id": "29640736",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4uqdvzkmb8eyu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8e710624f32d020fadbf565fd526af0c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/54-Moreland-Ave-Albany-NY-12203/29640736_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "54 Moreland Ave, Albany, NY 12203",
+      "addressStreet": "54 Moreland Ave",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12203",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1447,
+      "latLong": {
+        "latitude": 42.669285,
+        "longitude": -73.82688
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29640736,
+          "streetAddress": "54 Moreland Ave",
+          "zipcode": "12203",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.669285,
+          "longitude": -73.82688,
+          "price": 2400.0,
+          "datePriceChanged": 1730966400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1447.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 24,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 300600,
+          "rentZestimate": 2568,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "priceChange": -200,
+          "timeOnZillow": 2144632000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 244247.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 300600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e710624f32d020fadbf565fd526af0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6629abc64f5e82f63eb0fe922b6632f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/866f6c8bbf63b89015ef7d4f4d4026bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f7d34df0108efc9a213385d0c76514f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51b7ccb1fe5eed921ea0e42b3b7c76ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e80e15794dc2e96217f030b6ffa40263-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8477ad4769d0679d27ab867865f42665-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/425f82eabf758e5401c5a5787eea6109-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59f4b75b1956eb09c0a4a72859f80eb0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f047254affeb5f812fb10795053324a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d4406c25b8ee695d4b3f5e9b41f6e15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ccf3cc8ac550a940f726bae5e0cfeef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d3fdef47e5636246d07ea6a6db9e38d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15bc0363b2a278b171386b9b08977956-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05db29381d6a6f5bb12d400ffbcc08c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0f58d2c17900d37a8c8e6594bfa9001-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a4409b538a724232c176df487defa09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc395fde0d60b92919c1805c6213c473-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d76097130f04ddf5b930c8846a4bb338-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d873b656d8daef25e14e78c6361812c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8d478cabd8b3f3ff6e880199bb63c70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88000ea2bb0799be59fec3b5f2e3bee0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/beeaa2733b64e28fcb8c18e088de024d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f7abd22251fbe02d1a4c1c7dc11108e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20f4642be806bdaa3cc138b0999c3e0c-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29639332",
+      "id": "29639332",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2e5n4kzquschs",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e95fb68897c9d3e62b7e59e512ab13f1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/135-Rosemont-St-Albany-NY-12203/29639332_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "135 Rosemont St, Albany, NY 12203",
+      "addressStreet": "135 Rosemont St",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12203",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1824,
+      "latLong": {
+        "latitude": 42.676617,
+        "longitude": -73.79937
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29639332,
+          "streetAddress": "135 Rosemont St",
+          "zipcode": "12203",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.676617,
+          "longitude": -73.79937,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1824.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 43,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 378900,
+          "rentZestimate": 2435,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 3768667000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 251306.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 378900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e95fb68897c9d3e62b7e59e512ab13f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54b77a03f7960abc5cffeb7fcb6ebae2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b29213fa5dfc92fc5d99efa59bd97215-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f28b6f31b86b77741465bbbe8c62533-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19fa3efe809501aedc508731c2346130-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f17b1d7a67bcbd6c74014872e40bf55b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a81e7afbfe75401f71029570d750321-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53c104cd024ca710c10130a7bf51d44e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db2cd6e3f19d779a13c3cb0f9d9f2c2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75107450cc18a59bb082174005e3886f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2603d159500248e41304eb1b0bd941d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/368f0340b31dae3cfaccab35ee0caa36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee515e87ea556d0ca789d0263c1eb300-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39d216aaed3fefb807027425c657ae97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/061b170d40ac7372d69537f6b9fb31ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfba0c89a77d5017c78a5fbc54b8ca34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5e11b35e32928ac617233f6c80ff1b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d3c7df45a9cd0274d85dd565823905c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e018ba4f1f4b84dfb32691b185ffb52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9642d776e064f8ac6f3232d19f803ebf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f0b3c47c305374542fe49975c23d58b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ccb15dd497643397ec4b6120ad2fd20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9caf1a1d266a4faa0c2a7bd5eab26c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7bf4f721ff485f7edfd0d65f8715953-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa5591cb00aac6f65b676bee89a02c88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab520a5c66056987a745028d34788d57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0089e50db453b2c7c095b528b221d28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3175bb5a9ee1e7104f8f3873c96aed52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3929d7eacd1255f05c3f42973e9916ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eec1736746571dbd970984f484f3471b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1ee5c05136676750c86d33226478f9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60ec90b0235eedb042f5b34510f2065f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e158337484247d674b530e01da714cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cbaf70935c7c294912434b9e32283ad-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "71e216c6",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1ed68f26"
+}

@@ -1,0 +1,1845 @@
+{
+  "listResults": [
+    {
+      "zpid": "440803790",
+      "id": "440803790",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3f1zs60azvdv4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ecc9fd0f2ac04af3ec46db6ad39eaac2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/181-Canal-St-2-Fort-Plain-NY-13339/440803790_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "181 Canal St #2, Fort Plain, NY 13339",
+      "addressStreet": "181 Canal St #2",
+      "addressCity": "Fort Plain",
+      "addressState": "NY",
+      "addressZipcode": "13339",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1350,
+      "latLong": {
+        "latitude": 42.93385,
+        "longitude": -74.62527
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440803790,
+          "streetAddress": "181 Canal St #2",
+          "zipcode": "13339",
+          "city": "Fort Plain",
+          "state": "NY",
+          "latitude": 42.93385,
+          "longitude": -74.62527,
+          "price": 1350.0,
+          "datePriceChanged": 1730358000000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1350.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 59,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "priceChange": 150,
+          "timeOnZillow": 5146913000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Excelsior Development",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecc9fd0f2ac04af3ec46db6ad39eaac2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb144d3744f9a3da6f5e687a1b153966-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c9bd1b767762ef366714f00cbec8088-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31061735",
+      "id": "31061735",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4n8q4t1n8vm63",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d4afe436d16382f4d9da9466a1882408-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/12-West-St-Saint-Johnsville-NY-13452/31061735_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,700/mo",
+      "unformattedPrice": 1700,
+      "address": "12 West St, Saint Johnsville, NY 13452",
+      "addressStreet": "12 West St",
+      "addressCity": "Saint Johnsville",
+      "addressState": "NY",
+      "addressZipcode": "13452",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 42.999737,
+        "longitude": -74.684296
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31061735,
+          "streetAddress": "12 West St",
+          "zipcode": "13452",
+          "city": "Saint Johnsville",
+          "state": "NY",
+          "latitude": 42.999737,
+          "longitude": -74.684296,
+          "price": 1700.0,
+          "datePriceChanged": 1727334000000,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 131,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 43200,
+          "rentZestimate": 1716,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Sep 26)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "priceChange": -200,
+          "timeOnZillow": 11330298000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 37634.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 43200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Excelsior Development",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4afe436d16382f4d9da9466a1882408-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67766183c222fd7974a4b7d8d5153893-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cd96614d50abcbc4abe0ea07381525a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f2eadc1e5668cde89b0354bc3d71243-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/369967369e650687640c5bd0bda4d780-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f104dec02e52f42d513bef54eeead107-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a399f1691e8bed65bf75b5449827a773-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbabde6d57db4b19a9bd57c0e14e8918-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2576b2e9ee1c9959836fcefa3a35bdda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b55119d67c5414a7f90bac2d0271fd77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b3ccc54fc57b4cfa0878e98c8c96dc8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5878588896beb9d871134524bef1753-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/381c317157c7f2f676b3a5e7cf9897c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2c8f9ecad623f497c135658b745448f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31061640",
+      "id": "31061640",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1qk53c3pxhrjg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/adcfc2a29c59817fcd9b72a8a3027338-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Saint-Johnsville-NY-13452/31061640_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "(undisclosed Address), Saint Johnsville, NY 13452",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Saint Johnsville",
+      "addressState": "NY",
+      "addressZipcode": "13452",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1794,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31061640,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13452",
+          "city": "Saint Johnsville",
+          "state": "NY",
+          "price": 1350.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1794.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1766,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 423326000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/adcfc2a29c59817fcd9b72a8a3027338-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e02b25dac190eb2a6d18ba82c56e65b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b62b94bbea59a3b3a3c2058c494c37c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1658234ed4ba08d4a0d7fa4f5200d27a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56191d7955953bee9b8932ea03f1391c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/130c9c44a8adcf2268f30a573351047b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17390ce1fd0fda255c53bce1d33d976a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72574a909a39edd19b933f61888d447f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9a0244fab2cbcca7e088ad4e11198ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8478c07f7188f27ac0948da2081e457e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b732bb2729913f7d45d5ca1b0b93f3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b5940f27d70734095555b3967972b9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69a21eaa1f0cd03f2400559392f3da5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c42f02b50e33d5f53e41ad2b74a26a25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcfa101b17306523614e60477f66e72d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "341104455",
+      "id": "341104455",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "58912xpn7gg1y",
+      "imgSrc": "https://photos.zillowstatic.com/fp/78a49f094593a2c1bd809484839938a2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/32-36-Division-St-3-Fort-Plain-NY-13339/341104455_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$750/mo",
+      "unformattedPrice": 750,
+      "address": "32-36 Division St #3, Fort Plain, NY 13339",
+      "addressStreet": "32-36 Division St #3",
+      "addressCity": "Fort Plain",
+      "addressState": "NY",
+      "addressZipcode": "13339",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 650,
+      "latLong": {
+        "latitude": 42.93131,
+        "longitude": -74.62379
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 341104455,
+          "streetAddress": "32-36 Division St #3",
+          "zipcode": "13339",
+          "city": "Fort Plain",
+          "state": "NY",
+          "latitude": 42.93131,
+          "longitude": -74.62379,
+          "price": 750.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 650.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1058,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 750.0,
+          "timeOnZillow": 466661000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: EXP Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/78a49f094593a2c1bd809484839938a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a637c38fc806417fcd04fa2fed868dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/993ed67911afd7c3220da264bf1c95f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a977107ce2a37885c69f6652454713c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfbb1ef8d34e62ecb4acb79e223cf0cf-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442554619",
+      "id": "442554619",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2dpbx79hhpjv9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7b4b9504679a4f88fa601e851039938c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1-W-Main-St-2-Saint-Johnsville-NY-13452/442554619_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$875/mo",
+      "unformattedPrice": 875,
+      "address": "1 W Main St #2, Saint Johnsville, NY 13452",
+      "addressStreet": "1 W Main St #2",
+      "addressCity": "Saint Johnsville",
+      "addressState": "NY",
+      "addressZipcode": "13452",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.998737,
+        "longitude": -74.67913
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442554619,
+          "streetAddress": "1 W Main St #2",
+          "zipcode": "13452",
+          "city": "Saint Johnsville",
+          "state": "NY",
+          "latitude": 42.998737,
+          "longitude": -74.67913,
+          "price": 875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 875.0,
+          "timeOnZillow": 1055350000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b4b9504679a4f88fa601e851039938c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91902905e6a7a6688f08461f02369ca3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/512d802db4d066c2030ff4a97d1683b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/095c55fb200c634d7e5a18925c303567-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d1a579bdac2d7e16d3d3b10c13b17c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa1a260572dc9c22e20d694c5c93fb7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3ea2c410025df954735b21c0daa031c-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2052939464",
+      "id": "2052939464",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "32t4vk5y8uata",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2f6a579b0cbc108eaff8a865a4082c4e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/70-Main-St-2-Fort-Plain-NY-13339/2052939464_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "70 Main St #2, Fort Plain, NY 13339",
+      "addressStreet": "70 Main St #2",
+      "addressCity": "Fort Plain",
+      "addressState": "NY",
+      "addressZipcode": "13339",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.93074,
+        "longitude": -74.62424
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2052939464,
+          "streetAddress": "70 Main St #2",
+          "zipcode": "13339",
+          "city": "Fort Plain",
+          "state": "NY",
+          "latitude": 42.93074,
+          "longitude": -74.62424,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 27,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1080,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 2403143000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f6a579b0cbc108eaff8a865a4082c4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c28544d84c762b236a556bb4ccb1b71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/939ae6a86ef348d8c1fd27f7a1ad10f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d279fdc360db434849df3f3b97da86a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22b4e05c8b2bde7cebcef2f7ed9a80d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d4e761ccd41678b1c764195c96cdf93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b305fb6bf0e44de6350baaccafa7c0d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31054930",
+      "id": "31054930",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "32yv9n3m5drnt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/23cd07a1c203feec32d2319b054ba340-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/167-Montgomery-St-Canajoharie-NY-13317/31054930_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "167 Montgomery St, Canajoharie, NY 13317",
+      "addressStreet": "167 Montgomery St",
+      "addressCity": "Canajoharie",
+      "addressState": "NY",
+      "addressZipcode": "13317",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2136,
+      "latLong": {
+        "latitude": 42.903507,
+        "longitude": -74.559654
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31054930,
+          "streetAddress": "167 Montgomery St",
+          "zipcode": "13317",
+          "city": "Canajoharie",
+          "state": "NY",
+          "latitude": 42.903507,
+          "longitude": -74.559654,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2136.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 121800,
+          "rentZestimate": 1566,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1377850000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 115500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 121800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Winzone Realty, Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/23cd07a1c203feec32d2319b054ba340-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64a75ae1c0c0e8f553c990dff5d1324b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6228a0d2a6dee3be4460c491e2382844-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96c10e71a83ffce6ea5a650094c15f61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef84af9b251844caabbad79a49c2cce3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/818090b7e618e0fe436cd0770a6e0dec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35b8375f07674d1ffea6f73c8c6494a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65c6039a8a14c0f7320086985e420d1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17c9a9dda898d5d8cf6090015d526c71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b87c27b7f92614253a74006e1bdf5136-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/535216e021070e1c7f6d9923bfd4b711-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c2dbfdada90e07faa217aeb124833e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75907d9f45827c161bb341c6f80ee44e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1aec8a5755b96a8a754fead5fdf91598-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcaed04350d7a4bb09b607317d7a4513-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bae566663918cf1df01f4c29f984d01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e667e3098eef1f7e04fdbb8469753fe7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/48059b1828ac2301b1a9252dd5a6989a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b23053f2466e308ce0575de1420ffba-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2054113451",
+      "id": "2054113451",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "39yhy5frwey0r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4de02030eafdcfc813f005213a23f614-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/181-Canal-St-UNIT-1-Fort-Plain-NY-13339/2054113451_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,595/mo",
+      "unformattedPrice": 1595,
+      "address": "181 Canal St UNIT 1, Fort Plain, NY 13339",
+      "addressStreet": "181 Canal St UNIT 1",
+      "addressCity": "Fort Plain",
+      "addressState": "NY",
+      "addressZipcode": "13339",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1475,
+      "latLong": {
+        "latitude": 42.93384,
+        "longitude": -74.62527
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054113451,
+          "streetAddress": "181 Canal St UNIT 1",
+          "zipcode": "13339",
+          "city": "Fort Plain",
+          "state": "NY",
+          "latitude": 42.93384,
+          "longitude": -74.62527,
+          "price": 1595.0,
+          "datePriceChanged": 1725346800000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1475.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 238,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1108,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1595.0,
+          "priceChange": 200,
+          "timeOnZillow": 20640164000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Excelsior Development",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4de02030eafdcfc813f005213a23f614-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20059659a3a762a56802b18b413b9406-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2008ebc1f4e9ebe9be3077d9358e75ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d90a4df86a9f7309a85745d3435ef051-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88b069b2ae723f07a5749e51b375fd00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8fd41727bdb53b78692ed6cc21527d76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d2d685e89bfccbbc1806ca558976f37-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f17350a2c6f16a580b30e09db12d534e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99361f3a5b56d868d6d243bc406f8422-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11b57a52176fe16fe12e6c09c5b0b8fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e9644136e0ad6738e96b45b1422b156-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de20c026adeb0bab9a0da853d5c43fee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b3261430d9645a4dbec2e843aaf9980-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e875dd81aa20e1fdca8d377a48b71925-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22161ff86d7b919cb1a50b7f10750768-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44191a65b9102c3c4c4d024c6121eb91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0257b6d2dabbf493832c80c5d608b5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2421ef887371909c86b1139d3a2a3e10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06bcbed0dbc5aaf95ed6d361be4505ac-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2092615689",
+      "id": "2092615689",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3zf64r0900tjt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1b500436f436b2b7f99c5630addda250-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/canajoharie-apartments-canajoharie-ny-5Xkyhy/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$870/mo",
+      "unformattedPrice": 870,
+      "address": "Canajoharie Apartments, 52 Maple Ave APT 13, Canajoharie, NY 13317",
+      "addressStreet": "52 Maple Ave APT 13",
+      "addressCity": "Canajoharie",
+      "addressState": "NY",
+      "addressZipcode": "13317",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.90193,
+        "longitude": -74.56784
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2092615689,
+          "streetAddress": "52 Maple Ave APT 13",
+          "zipcode": "13317",
+          "city": "Canajoharie",
+          "state": "NY",
+          "latitude": 42.90193,
+          "longitude": -74.56784,
+          "price": 870.0,
+          "datePriceChanged": 1729580400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 71,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 880,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 870.0,
+          "priceChange": 30,
+          "timeOnZillow": 6167811000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 13",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Laral Management Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b500436f436b2b7f99c5630addda250-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc6ccef05215d28ecc50a257eb49d725-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/315509bdc6f4eecfd3662a7057fb86cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c9bfb21b5ce6f5f740d9495c1f817ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9929925bfb2fd45cc76b79dea964f66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ccf077ffdac4764a9dc6d330efaa1b6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92d42870a6fc1735d4bd3083e54e99c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd280174d977237c2a6068479e02791d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/243cd4751567edc695f967c0d6fa06d9-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "440803790",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ecc9fd0f2ac04af3ec46db6ad39eaac2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/181-Canal-St-2-Fort-Plain-NY-13339/440803790_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,350/mo",
+      "priceLabel": "$1.4K",
+      "address": "181 Canal St #2, Fort Plain, NY 13339",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1350,
+      "latLong": {
+        "latitude": 42.93385,
+        "longitude": -74.62527
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440803790,
+          "streetAddress": "181 Canal St #2",
+          "zipcode": "13339",
+          "city": "Fort Plain",
+          "state": "NY",
+          "latitude": 42.93385,
+          "longitude": -74.62527,
+          "price": 1350.0,
+          "datePriceChanged": 1730358000000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1350.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "priceChange": 150,
+          "timeOnZillow": 5146913000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Excelsior Development",
+      "timeOnZillow": 5146913000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    },
+    {
+      "zpid": "31061735",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d4afe436d16382f4d9da9466a1882408-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/12-West-St-Saint-Johnsville-NY-13452/31061735_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,700/mo",
+      "priceLabel": "$1.7K",
+      "address": "12 West St, Saint Johnsville, NY 13452",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 42.999737,
+        "longitude": -74.684296
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31061735,
+          "streetAddress": "12 West St",
+          "zipcode": "13452",
+          "city": "Saint Johnsville",
+          "state": "NY",
+          "latitude": 42.999737,
+          "longitude": -74.684296,
+          "price": 1700.0,
+          "datePriceChanged": 1727334000000,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 43200,
+          "rentZestimate": 1716,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Sep 26)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "priceChange": -200,
+          "timeOnZillow": 11330298000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 37634.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Excelsior Development",
+      "timeOnZillow": 11330298000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    },
+    {
+      "zpid": "341104455",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/78a49f094593a2c1bd809484839938a2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/32-36-Division-St-3-Fort-Plain-NY-13339/341104455_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$750/mo",
+      "priceLabel": "$750",
+      "address": "32-36 Division St #3, Fort Plain, NY 13339",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 650,
+      "latLong": {
+        "latitude": 42.93131,
+        "longitude": -74.62379
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 341104455,
+          "streetAddress": "32-36 Division St #3",
+          "zipcode": "13339",
+          "city": "Fort Plain",
+          "state": "NY",
+          "latitude": 42.93131,
+          "longitude": -74.62379,
+          "price": 750.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 650.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1058,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 750.0,
+          "timeOnZillow": 466661000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: EXP Realty",
+      "timeOnZillow": 466661000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442554619",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7b4b9504679a4f88fa601e851039938c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1-W-Main-St-2-Saint-Johnsville-NY-13452/442554619_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$875/mo",
+      "priceLabel": "$875",
+      "address": "1 W Main St #2, Saint Johnsville, NY 13452",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.998737,
+        "longitude": -74.67913
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442554619,
+          "streetAddress": "1 W Main St #2",
+          "zipcode": "13452",
+          "city": "Saint Johnsville",
+          "state": "NY",
+          "latitude": 42.998737,
+          "longitude": -74.67913,
+          "price": 875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 875.0,
+          "timeOnZillow": 1055350000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1055350000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2052939464",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2f6a579b0cbc108eaff8a865a4082c4e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/70-Main-St-2-Fort-Plain-NY-13339/2052939464_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "70 Main St #2, Fort Plain, NY 13339",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.93074,
+        "longitude": -74.62424
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2052939464,
+          "streetAddress": "70 Main St #2",
+          "zipcode": "13339",
+          "city": "Fort Plain",
+          "state": "NY",
+          "latitude": 42.93074,
+          "longitude": -74.62424,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1080,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 2403143000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 2403143000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31054930",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/23cd07a1c203feec32d2319b054ba340-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/167-Montgomery-St-Canajoharie-NY-13317/31054930_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "167 Montgomery St, Canajoharie, NY 13317",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2136,
+      "latLong": {
+        "latitude": 42.903507,
+        "longitude": -74.559654
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31054930,
+          "streetAddress": "167 Montgomery St",
+          "zipcode": "13317",
+          "city": "Canajoharie",
+          "state": "NY",
+          "latitude": 42.903507,
+          "longitude": -74.559654,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2136.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 121800,
+          "rentZestimate": 1566,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1377850000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 115500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Winzone Realty, Inc.",
+      "timeOnZillow": 1377850000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2054113451",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4de02030eafdcfc813f005213a23f614-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/181-Canal-St-UNIT-1-Fort-Plain-NY-13339/2054113451_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,595/mo",
+      "priceLabel": "$1.6K",
+      "address": "181 Canal St UNIT 1, Fort Plain, NY 13339",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1475,
+      "latLong": {
+        "latitude": 42.93384,
+        "longitude": -74.62527
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054113451,
+          "streetAddress": "181 Canal St UNIT 1",
+          "zipcode": "13339",
+          "city": "Fort Plain",
+          "state": "NY",
+          "latitude": 42.93384,
+          "longitude": -74.62527,
+          "price": 1595.0,
+          "datePriceChanged": 1725346800000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1475.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1108,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1595.0,
+          "priceChange": 200,
+          "timeOnZillow": 20640164000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Excelsior Development",
+      "timeOnZillow": 20640164000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    },
+    {
+      "zpid": "2092615689",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1b500436f436b2b7f99c5630addda250-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/canajoharie-apartments-canajoharie-ny-5Xkyhy/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$870/mo",
+      "priceLabel": "$870",
+      "address": "52 Maple Ave APT 13, Canajoharie, NY 13317",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.90193,
+        "longitude": -74.56784
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2092615689,
+          "streetAddress": "52 Maple Ave APT 13",
+          "zipcode": "13317",
+          "city": "Canajoharie",
+          "state": "NY",
+          "latitude": 42.90193,
+          "longitude": -74.56784,
+          "price": 870.0,
+          "datePriceChanged": 1729580400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 880,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 870.0,
+          "priceChange": 30,
+          "timeOnZillow": 6167811000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 13",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Laral Management Inc.",
+      "timeOnZillow": 6167811000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "56f067b9",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

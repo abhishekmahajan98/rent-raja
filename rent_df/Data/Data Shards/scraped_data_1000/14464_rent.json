@@ -1,0 +1,215 @@
+{
+  "listResults": [
+    {
+      "zpid": "2057732979",
+      "id": "2057732979",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "bejqcy3d4tdk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d1fa6f3215417c23a8a7582d6abcf684-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/hamlin-ny/creekside-of-hamlin/BsRJP2/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,559/mo",
+      "unformattedPrice": 1559,
+      "address": "Creekside of Hamlin, 23 Roadside Dr #34, Hamlin, NY 14464",
+      "addressStreet": "23 Roadside Dr #34",
+      "addressCity": "Hamlin",
+      "addressState": "NY",
+      "addressZipcode": "14464",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1216,
+      "latLong": {
+        "latitude": 43.31406,
+        "longitude": -77.94068
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057732979,
+          "streetAddress": "23 Roadside Dr #34",
+          "zipcode": "14464",
+          "city": "Hamlin",
+          "state": "NY",
+          "latitude": 43.31406,
+          "longitude": -77.94068,
+          "price": 1559.0,
+          "datePriceChanged": 1688367600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1216.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 351,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1566,
+          "listing_sub_type": {},
+          "priceReduction": "",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1559.0,
+          "priceChange": -210,
+          "timeOnZillow": 30338924000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 34",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: HomeFirst",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1fa6f3215417c23a8a7582d6abcf684-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c703d2499077cff5697b120965ab7188-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73b9f966870b0cab682d3fd30603b0f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b407fc5a3b249ae9eb9b16e8132dfc76-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyPremium"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2057732979",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d1fa6f3215417c23a8a7582d6abcf684-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/hamlin-ny/creekside-of-hamlin/BsRJP2/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,559/mo",
+      "priceLabel": "$1.6K",
+      "address": "23 Roadside Dr #34, Hamlin, NY 14464",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1216,
+      "latLong": {
+        "latitude": 43.31406,
+        "longitude": -77.94068
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057732979,
+          "streetAddress": "23 Roadside Dr #34",
+          "zipcode": "14464",
+          "city": "Hamlin",
+          "state": "NY",
+          "latitude": 43.31406,
+          "longitude": -77.94068,
+          "price": 1559.0,
+          "datePriceChanged": 1688367600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1216.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1566,
+          "listing_sub_type": {},
+          "priceReduction": "",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1559.0,
+          "priceChange": -210,
+          "timeOnZillow": 30338924000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 34",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: HomeFirst",
+      "timeOnZillow": 30338924000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyPremium"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "3cfd423c",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

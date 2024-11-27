@@ -1,0 +1,2405 @@
+{
+  "listResults": [
+    {
+      "zpid": "2056101850",
+      "id": "2056101850",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "54zmbe63qb9rd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/68be7627580c62bed292f747607c259f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2-Meadowbrook-Cir-A2E66CA86-Fulton-NY-13069/2056101850_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,295+/mo",
+      "unformattedPrice": 1295,
+      "address": "Meadowbrook Estates, 2 Meadowbrook Cir, Fulton, NY 13069",
+      "addressStreet": "2 Meadowbrook Cir #A2E66CA86",
+      "addressCity": "Fulton",
+      "addressState": "NY",
+      "addressZipcode": "13069",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 955,
+      "latLong": {
+        "latitude": 43.329712,
+        "longitude": -76.437386
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056101850,
+          "streetAddress": "2 Meadowbrook Cir #A2E66CA86",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "latitude": 43.329712,
+          "longitude": -76.437386,
+          "price": 1295.0,
+          "datePriceChanged": 1728975600000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 955.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 72,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1289,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "priceChange": 20,
+          "timeOnZillow": 6242324000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# a2e66ca86",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/68be7627580c62bed292f747607c259f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7585c37242f9632c3daedb681f5f08ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/703ddafb41527d2fc109e3ca53efbddb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fc372c9d310d03b779235744eed8fe0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fde54d7da58048774c9cbd9e74105cd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5d1610dd5a1b8307bcf41cb80a7d639-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cb47c140da0a73cce26e7942874962f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df79bd75cd9c4bf92ffbdfe8123753f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17108883a74813d200c62b1a2b7a68f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e0ce1597bb9b3d6fe8e97f01d371754-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d09790b5bff2a78055c874269d2824c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fe25388301f572cd79cc79539cc72b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f08210280b7a8391bba9c81f5b7dc427-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0999e77104214e9a7c765301340d91fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb24a311f3fbfbde993f9840b889a00a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c85207a1d1edfba0ef3de098aa4c2908-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04012fbf996b48d6ddcb314cfbf51c31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df14edefbb5971a905e75d5d4a367ca3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cdf6c7d2e659e67f0ce0efe995bec5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24a77a2f6d1b0dc4735753f85a0c7a0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e7fcb6f24aa0381d72d02109a4f0fc5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f45df1b8cbbac93a757248a1e3d742a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fafacedbd68de8443515a58c2ef95c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29d8b54f97297fe8a985618b56db326c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d15eda2293637fdc0f8b115a7812b45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03671a2867b0d3aa4b3d2971910101e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d55a31a68b6179966b3172e9a502b41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c2d04808b687181f9dda31f63fb3162-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7feb77d05343ecf373ec7873f010b151-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0356031c2e5dea2ef9f0a61cc4e9435-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4be0791a61c94943515ae2d18838875-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba678555f0708adf44e433ab4c3cbd30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1750a32d386faa097edc619bbb564d34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6156078346e97f65819267677485a693-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2fa6a3ee182a1db474bf9281430d9836-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3ec600da05b720654476fe78c9e1c3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04e277a52415cc0d81688613d5bc9315-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b2c8d8a36164aa48d0cf5c9c1a395ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3c76eab7ec1892775a0813032ccbf65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52043b849d2f133e28e29a82f13d223f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/634c22630d226b8d580e0cba92848ff1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5d94583117d6a5f3fdffdd7758bb45a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04370096a88575e8d2f6859a929e6dbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90ca65e391e2126c089038b22069e421-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5806e2e2dff4a6aa3541ebc061899e2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/487a75f9b9e7f3840c7f667c4dbba6ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c216bc7c1a875c12c97c8772accab9cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d79ffb87a9ef305caab426ba47bc8fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18c49e65f6d8a7c51dc2508e274c32f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/414fe735623c6c56fdeec5ba203ee096-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d32d71a755ebf1712167458653d54258-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ca0e7160eaeab8e45f8076029a60acb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b0319a05584fa05553752f0938e2924-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442740969",
+      "id": "442740969",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4j8vyy3qy7g9g",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ab86f6aab906fb032fd11456d2eb7607-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/268-Gray-Rd-4-Oswego-NY-13126/442740969_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$765/mo",
+      "unformattedPrice": 765,
+      "address": "268 Gray Rd #4, Oswego, NY 13126",
+      "addressStreet": "268 Gray Rd #4",
+      "addressCity": "Oswego",
+      "addressState": "NY",
+      "addressZipcode": "13126",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.422707,
+        "longitude": -76.50752
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442740969,
+          "streetAddress": "268 Gray Rd #4",
+          "zipcode": "13126",
+          "city": "Oswego",
+          "state": "NY",
+          "latitude": 43.422707,
+          "longitude": -76.50752,
+          "price": 765.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 765.0,
+          "timeOnZillow": 365562000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab86f6aab906fb032fd11456d2eb7607-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/208012abcd8bddf65047707d4024d8c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f19ef5c746aa240220c38e9c01378dd5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/758d2c42cccccf89e40ce06141fd59d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28cc335a1048f4ecf9444ac3b916a485-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91dd1d6164e271eca6b8c896cb5150b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41e443a863149a0a8de00946ba513f6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/836d97692fed490f9d896c1819757f4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e2fec4363561c10a0b4a69d74510d88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/568deb6879e674e6a02e52a230e0687d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "53755297",
+      "id": "53755297",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1pujgkv3zm4rj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8d90455f3c7f2f2d5a67b4e8fd7edfeb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Fulton-NY-13069/53755297_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "(undisclosed Address), Fulton, NY 13069",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Fulton",
+      "addressState": "NY",
+      "addressZipcode": "13069",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1196,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53755297,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1196.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 86300,
+          "rentZestimate": 1459,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 1493896000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 86300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Century 21 Galloway",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d90455f3c7f2f2d5a67b4e8fd7edfeb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afdfdcac24c8ae3145ce1e862ac751b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa84aa1d7484e0cd383a98d2ea1f66e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/696a1cdfe11a98d46345b37fbba76eca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9db95f6247f1b3cc8f068abe50cf7b70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d449d4668910cdf872f613d43566bfc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f6b4fa5e1dbf9710d1abdf06fcb2b2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0c9d3bf41c506fd81cc4cf5b2b75035-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e74a6acceee96a57d84692d09676c67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/146719c5a90bd7e97332abe98ea94cb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/120d56ab2b7dddb51afc39345bb7583e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/caaef149f26853553f295ab2f3a02e71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ce1c828e68964c3e2ac91331e7d85f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ba11759df64274c9881ee36e17dca43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3b53bab6d9f13d82adec75a4664dd72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f72509b67ef6c54826e784ccb4c74d71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/48577b71b0690921392aa145422b19e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/928cf64c4f41acc6589de70dbe6b28f2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "53755822",
+      "id": "53755822",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "128t45guztgd6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2e515f04348982a625957aaea1976cec-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/216-S-2nd-St-Fulton-NY-13069/53755822_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "216 S 2nd St, Fulton, NY 13069",
+      "addressStreet": "216 S 2nd St",
+      "addressCity": "Fulton",
+      "addressState": "NY",
+      "addressZipcode": "13069",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 828,
+      "latLong": {
+        "latitude": 43.319427,
+        "longitude": -76.41375
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53755822,
+          "streetAddress": "216 S 2nd St",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "latitude": 43.319427,
+          "longitude": -76.41375,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 828.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 21,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 83300,
+          "rentZestimate": 1490,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1888512000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 61739.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 83300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-02 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e515f04348982a625957aaea1976cec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/401680a92f3405fcdd5b8041c60389ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e689ed71684aca704cff43c21cb13477-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55e296c3b6b7d93e0f82250ac2937481-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e9200b7a784896aab7aa7ff2167d7f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/622ad79dd869f14d99ffbf36c963e433-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7907cc60cd9327371840c4e03d4f1f19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c7b2055151c9c05314075bc6263a668-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7cc4bb8a4746ce84860267942b2e790f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a42d13ab906347818e43ff2c7b031673-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6c95794e9a0471b8426e73b8e18d970-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6365fb05efcbb6432da32590dc750170-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a599013ce8d418879582d84f082e3fa8-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2054750260",
+      "id": "2054750260",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3ckxaugbcw4mu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/78eb2eac9eed13318fa944fabb1cb43b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Fulton-NY-13069/2054750260_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "(undisclosed Address), Fulton, NY 13069",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Fulton",
+      "addressState": "NY",
+      "addressZipcode": "13069",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "32 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054750260,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 32,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1079,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 2795727000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Century 21 Galloway",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/78eb2eac9eed13318fa944fabb1cb43b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65eba8fdfa67f019e4595f4dae139344-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a13a73edb8e3bcdb5d6da6677b40f1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/702fdc2b464f85119f48f72638dd488e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/669e02b59de12ad092049d47c62ee258-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0124e122f9576d0c4eb16193517236ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6923341edccbdadcea5419ecfcf70d21-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e61acd09c79e0143cf822f2756492166-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f9f52005ca9909849264f3859aa9b12-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b4daa450738726a5d5fc23be306f2d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c72441d8de14891b946b524508ee742a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/339ecae6bb33fe313d8915f4ac030414-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441205397",
+      "id": "441205397",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1rad3n6nkf1zv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2d826d39ce8bbcf94f24c63463279b23-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Fulton-NY-13069/441205397_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$975/mo",
+      "unformattedPrice": 975,
+      "address": "(undisclosed Address), Fulton, NY 13069",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Fulton",
+      "addressState": "NY",
+      "addressZipcode": "13069",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "51 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441205397,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "price": 975.0,
+          "datePriceChanged": 1728284400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 51,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 975.0,
+          "priceChange": 25,
+          "timeOnZillow": 4423775000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Century 21 Galloway",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d826d39ce8bbcf94f24c63463279b23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a64ffb0819e77e479dd9829167510b6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ce72917acc8937ae8ee2caf576cd6c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3cdfc0097b020c8e33de683f0e6da1b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfaf4a6165ec4d09bf023694ac9fb907-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7279493ec24ac209e9c1eec891437846-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f80256c77934a474677d7ed2acf457d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ea8ce94dca0cdff1aecdbe4f084b4e7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "439935594",
+      "id": "439935594",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "b09x0znw7ya7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2c0e9c71396b81159ed4c94cb775f859-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Fulton-NY-13069/439935594_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$750/mo",
+      "unformattedPrice": 750,
+      "address": "(undisclosed Address), Fulton, NY 13069",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Fulton",
+      "addressState": "NY",
+      "addressZipcode": "13069",
+      "isUndisclosedAddress": true,
+      "beds": 0,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "82 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439935594,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "price": 750.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 82,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 750.0,
+          "timeOnZillow": 7085020000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Century 21 Galloway",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c0e9c71396b81159ed4c94cb775f859-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c42694c729cf87dd985cc61cd332bf12-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e719bf9491f040322b8010abe32dd0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/216c966bca81fc389a0708bf96da50ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71d7cb1895a5443992a6a7ddee76ea40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96762aaedb56212a936be7821d76cbc7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ad3aa5ef0d256624cd490451f287885-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440378321",
+      "id": "440378321",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3dzxa7u7h21km",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5f1ec72f69e0cc181ff40d0eb76b201e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/24-Lincoln-Ave-Oswego-NY-13126/440378321_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$800/mo",
+      "unformattedPrice": 800,
+      "address": "24 Lincoln Ave, Oswego, NY 13126",
+      "addressStreet": "24 Lincoln Ave",
+      "addressCity": "Oswego",
+      "addressState": "NY",
+      "addressZipcode": "13126",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 43.438484,
+        "longitude": -76.50967
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "70 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440378321,
+          "streetAddress": "24 Lincoln Ave",
+          "zipcode": "13126",
+          "city": "Oswego",
+          "state": "NY",
+          "latitude": 43.438484,
+          "longitude": -76.50967,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 70,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 6062437000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f1ec72f69e0cc181ff40d0eb76b201e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/411a31153fca43034765ef4888ffa45d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7393038810749c499d389a42e07706a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bde57f72b38edb4482a9fec2a1b1dfad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebbc14265437ee2ef4070a7eb5c482d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a42091e6d3c24a0b7b81389d5b0452d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c92950afd3b71abc0681c9a0c2417833-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "351552623",
+      "id": "351552623",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2zxgcz6t1vtm9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9a38e4a5e9e14b9fe713ae45cd0966a2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/828A-Holly-Dr-A6-Fulton-NY-13069/351552623_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "828A Holly Dr #A6, Fulton, NY 13069",
+      "addressStreet": "828A Holly Dr #A6",
+      "addressCity": "Fulton",
+      "addressState": "NY",
+      "addressZipcode": "13069",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.32887,
+        "longitude": -76.40188
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "75 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 351552623,
+          "streetAddress": "828A Holly Dr #A6",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "latitude": 43.32887,
+          "longitude": -76.40188,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 75,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1044,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 6501236000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A6",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a38e4a5e9e14b9fe713ae45cd0966a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6922351012d410c3130f333abf0fa7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3351208b4938f9452165cd99cb548f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70fd4840e3a22889c48dbbd7b35c1220-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f2c4d45e197eba06635b9f1491ce663-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08b34abc0be5850d44de3b47016ce17d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/315b787416f6b5386b129c61e4df56c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/133e38298420c23770b175cdb5002795-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/895cfe1298ef7e319534c8d89df54776-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441601872",
+      "id": "441601872",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4pdr1t9fbgprv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cf226915bf1a10e5049ac308dc5f2b18-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/316-Worth-St-2-Fulton-NY-13069/441601872_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "316 Worth St #2, Fulton, NY 13069",
+      "addressStreet": "316 Worth St #2",
+      "addressCity": "Fulton",
+      "addressState": "NY",
+      "addressZipcode": "13069",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 43.32572,
+        "longitude": -76.426674
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "47 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441601872,
+          "streetAddress": "316 Worth St #2",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "latitude": 43.32572,
+          "longitude": -76.426674,
+          "price": 1350.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 47,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 112500,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 4120541000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 112500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: NYPH LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf226915bf1a10e5049ac308dc5f2b18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56b1e1f421efae2a9823a3dcc90a9cd3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/167a4f598e628a2a6d592255e68f65b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7022dcdf6990d5e8504a925521e233b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b52f249918238849ccd8f0d5ba5630be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4304143fad921f50fb5a88f79c52ca12-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9638f57fd26675e9cbd4e3610aec8a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f6fc01761c61fe2581949915e511b14-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df0c1dc537b0726cca6a241a0c0bfd3f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5fb32e5b1b23d0eb9a6e24df6b8d63d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8e3abdf6c21870e9609ce1001670188-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0543008ce93b9b5d1255f14781616bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4860f95154291e22d417507932cabb33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55074d1d7a60795b47a2bdc3c4426bcd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af72017af82fd704ac40dce9f0ef2eec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dde088acfc0190c360417a19eb22c92-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e7ba9b2bae29eaf3ddd588b7f59458b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96721d0ccb69eca00179df8842dbd82e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/158432acd7515663cca9a7e0478cd6c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b562de392b9483f17eeaca1b95968fbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e27e1ee3a851cb671214f5c5dda2627b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45485e7ace90d63a645856cd453a864a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c16f16aae0e10c0daa94919ddecbcd0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7efb43c4188bb0f8999904a342ef5156-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/973e3c652e0ef413dd83b5be44a1d8fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35b4bd1ecd640b4d37e4f01a92ac63af-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "43.43516--76.46191",
+      "id": "43.43516--76.46191",
+      "providerListingId": "4nyywfhvqzrzp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b9d2ffe766285efede2e07e6219ad03d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/7096-route-104-west-oswego-ny-Cgrn6c/",
+      "statusType": "FOR_RENT",
+      "statusText": "7096 Route 104 West",
+      "address": "7096 Route 104, Oswego, NY",
+      "addressStreet": "7096 Route 104 # 15519428",
+      "addressCity": "Oswego",
+      "addressState": "NY",
+      "addressZipcode": "13126",
+      "units": [
+        {
+          "price": "$750+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$495+",
+          "beds": "4",
+          "roomForRent": false
+        },
+        {
+          "price": "$600+",
+          "beds": "6",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2737430747,
+      "latLong": {
+        "latitude": 43.43516,
+        "longitude": -76.46191
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "7096 Route 104 West",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9d2ffe766285efede2e07e6219ad03d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/100a216eb5f3061014f0a3be340237b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ee3d13eaf9f0a1ee203c313ff1b6839-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87dfe0ebfaec670d030895ed3d10e733-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ff27c2bfebcc427bed43ea96f744475-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e11dcd8b2defc62e96880aa20f436dae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/252bc0d4fc7fcdb78b596add2837787c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/617172e1561a63c34cd7d01f9f8b6a26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b1fe2e4e3c0aed3fac3984224568e3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e9960d743f6dcbc399359655c284593-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/485b50dd8623fd91dc8e1ed464246710-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d13a1576b17c5eadf2632fea347d6f3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc5cfb5c0b74974c7bcc331339c83271-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36e3193be0ee3db2e038a775837fb238-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e45215e03022222f52b21115b543cf8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9b29cbabfb16a638d11128adcf65008-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 5,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "43.23072--76.29598",
+      "id": "43.23072--76.29598",
+      "providerListingId": "406aeyjb4uas6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/812c1a84ca9e873a277795d234e25a40-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/cherry-manor-apartments-phoenix-ny-983hhx/",
+      "statusType": "FOR_RENT",
+      "statusText": "Cherry Manor Apartments",
+      "address": "68 Cherry St, Phoenix, NY",
+      "addressStreet": "68 Cherry St # 17867110",
+      "addressCity": "Phoenix",
+      "addressState": "NY",
+      "addressZipcode": "13135",
+      "units": [
+        {
+          "price": "$1,115+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,373+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2012116544,
+      "latLong": {
+        "latitude": 43.23072,
+        "longitude": -76.29598
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Cherry Manor Apartments",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/812c1a84ca9e873a277795d234e25a40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d548efac242c3a442b0c798466781214-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a29dfc5792d0e8d4006984ac7b1f8dcf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/faebd1f2b814edba685ae6fccb684cb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1d20306b70d55f8fa98912de451073e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b99260c95f13d04826a65d4bc1c0d91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d86c913347dd553de892e42589f52a26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e7575496f07de3e77334bdfb0f88358-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e34cad33cacecc4a264b79cc7d12370a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de343ba8f6e7c46b20fc41a0b8e35460-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6402f0fa625608ee88dd2e1878efaed4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c1a9cd2d8544ae764c600dff64b98b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51e0a6393157bd9837f1631c75c53bb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d22cb22137d568efcaf17ed7bd4b04a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7089f5e03d568002cb3995c3c9f99ac1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc8fb07c47fada84b40f31f6313f8464-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "2056201288",
+      "id": "2056201288",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2k5dkfjc3984c",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=43.30616760253906,-76.41651153564453&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=u6-lNAB8z3mbyZVhBKMaa8GQZBI=",
+      "detailUrl": "https://www.zillow.com/homedetails/617-1-2-W-4th-St-S-617-5-Fulton-NY-13069/2056201288_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,550/mo",
+      "unformattedPrice": 1550,
+      "address": "617 1/2 W 4th St S #617.5, Fulton, NY 13069",
+      "addressStreet": "617 1/2 W 4th St S #617.5",
+      "addressCity": "Fulton",
+      "addressState": "NY",
+      "addressZipcode": "13069",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=43.30616760253906,-76.41651153564453&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=i6sDq1yA5tz-vgm5YwsZ9AGJg_A=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=43.30616760253906,-76.41651153564453&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=KkGgBtzD18oW1hiFdlZ11Z6AHNI=",
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 43.306168,
+        "longitude": -76.41651
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "79 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056201288,
+          "streetAddress": "617 1/2 W 4th St S #617.5",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "latitude": 43.306168,
+          "longitude": -76.41651,
+          "price": 1550.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 79,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1605,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 6909070000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 617.5",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Blackpoint Horizon Properties LLC",
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2056101850",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/68be7627580c62bed292f747607c259f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2-Meadowbrook-Cir-A2E66CA86-Fulton-NY-13069/2056101850_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,295+/mo",
+      "priceLabel": "$1.3K",
+      "address": "2 Meadowbrook Cir, Fulton, NY 13069",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 955,
+      "latLong": {
+        "latitude": 43.329712,
+        "longitude": -76.437386
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056101850,
+          "streetAddress": "2 Meadowbrook Cir #A2E66CA86",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "latitude": 43.329712,
+          "longitude": -76.437386,
+          "price": 1295.0,
+          "datePriceChanged": 1728975600000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 955.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1289,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "priceChange": 20,
+          "timeOnZillow": 6242324000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# a2e66ca86",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 6242324000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "442740969",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ab86f6aab906fb032fd11456d2eb7607-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/268-Gray-Rd-4-Oswego-NY-13126/442740969_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$765/mo",
+      "priceLabel": "$765",
+      "address": "268 Gray Rd #4, Oswego, NY 13126",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.422707,
+        "longitude": -76.50752
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442740969,
+          "streetAddress": "268 Gray Rd #4",
+          "zipcode": "13126",
+          "city": "Oswego",
+          "state": "NY",
+          "latitude": 43.422707,
+          "longitude": -76.50752,
+          "price": 765.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 765.0,
+          "timeOnZillow": 365562000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "visited": false,
+      "timeOnZillow": 365562000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "53755822",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2e515f04348982a625957aaea1976cec-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/216-S-2nd-St-Fulton-NY-13069/53755822_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "216 S 2nd St, Fulton, NY 13069",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 828,
+      "latLong": {
+        "latitude": 43.319427,
+        "longitude": -76.41375
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53755822,
+          "streetAddress": "216 S 2nd St",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "latitude": 43.319427,
+          "longitude": -76.41375,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 828.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 83300,
+          "rentZestimate": 1490,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1888512000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 61739.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-02 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1888512000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "440378321",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5f1ec72f69e0cc181ff40d0eb76b201e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/24-Lincoln-Ave-Oswego-NY-13126/440378321_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$800/mo",
+      "priceLabel": "$800",
+      "address": "24 Lincoln Ave, Oswego, NY 13126",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 43.438484,
+        "longitude": -76.50967
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "70 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440378321,
+          "streetAddress": "24 Lincoln Ave",
+          "zipcode": "13126",
+          "city": "Oswego",
+          "state": "NY",
+          "latitude": 43.438484,
+          "longitude": -76.50967,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 6062437000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 6062437000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "351552623",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9a38e4a5e9e14b9fe713ae45cd0966a2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/828A-Holly-Dr-A6-Fulton-NY-13069/351552623_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "828A Holly Dr #A6, Fulton, NY 13069",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.32887,
+        "longitude": -76.40188
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "75 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 351552623,
+          "streetAddress": "828A Holly Dr #A6",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "latitude": 43.32887,
+          "longitude": -76.40188,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1044,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 6501236000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A6",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 6501236000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441601872",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cf226915bf1a10e5049ac308dc5f2b18-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/316-Worth-St-2-Fulton-NY-13069/441601872_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$1,350/mo",
+      "priceLabel": "$1.4K",
+      "address": "316 Worth St #2, Fulton, NY 13069",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 43.32572,
+        "longitude": -76.426674
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "47 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441601872,
+          "streetAddress": "316 Worth St #2",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "latitude": 43.32572,
+          "longitude": -76.426674,
+          "price": 1350.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 112500,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 4120541000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: NYPH LLC",
+      "timeOnZillow": 4120541000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "plid": "4nyywfhvqzrzp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b9d2ffe766285efede2e07e6219ad03d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/7096-route-104-west-oswego-ny-Cgrn6c/",
+      "statusType": "FOR_RENT",
+      "statusText": "7096 Route 104 West",
+      "price": "$495+/mo",
+      "address": "7096 Route 104, Oswego, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 1000,
+      "lotId": 2737430747,
+      "latLong": {
+        "latitude": 43.43516,
+        "longitude": -76.46191
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "7096 Route 104 West",
+      "buildingId": "43.43516--76.46191",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 6460422000,
+      "unitCount": 5,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "plid": "406aeyjb4uas6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/812c1a84ca9e873a277795d234e25a40-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/cherry-manor-apartments-phoenix-ny-983hhx/",
+      "statusType": "FOR_RENT",
+      "statusText": "Cherry Manor Apartments",
+      "price": "$1,115+/mo",
+      "address": "68 Cherry St, Phoenix, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 790,
+      "lotId": 2012116544,
+      "latLong": {
+        "latitude": 43.23072,
+        "longitude": -76.29598
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "Cherry Manor Apartments",
+      "buildingId": "43.23072--76.29598",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 2256043000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "zpid": "2056201288",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=43.30616760253906,-76.41651153564453&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=u6-lNAB8z3mbyZVhBKMaa8GQZBI=",
+      "detailUrl": "/homedetails/617-1-2-W-4th-St-S-617-5-Fulton-NY-13069/2056201288_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,550/mo",
+      "priceLabel": "$1.6K",
+      "address": "617 1/2 W 4th St S #617.5, Fulton, NY 13069",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=43.30616760253906,-76.41651153564453&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=i6sDq1yA5tz-vgm5YwsZ9AGJg_A=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=43.30616760253906,-76.41651153564453&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=KkGgBtzD18oW1hiFdlZ11Z6AHNI=",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 43.306168,
+        "longitude": -76.41651
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "79 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056201288,
+          "streetAddress": "617 1/2 W 4th St S #617.5",
+          "zipcode": "13069",
+          "city": "Fulton",
+          "state": "NY",
+          "latitude": 43.306168,
+          "longitude": -76.41651,
+          "price": 1550.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1605,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 6909070000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 617.5",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Blackpoint Horizon Properties LLC",
+      "timeOnZillow": 6909070000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "a25c867",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

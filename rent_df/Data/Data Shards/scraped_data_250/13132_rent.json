@@ -1,0 +1,1013 @@
+{
+  "listResults": [
+    {
+      "zpid": "2063091324",
+      "id": "2063091324",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2jzezjv8qur3p",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a6ffc1f27b0c3ed573d32f9b0e788025-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4409-Riviera-Dr-UNIT-1-Central-Square-NY-13036/2063091324_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "4409 Riviera Dr UNIT 1, Central Square, NY 13036",
+      "addressStreet": "4409 Riviera Dr UNIT 1",
+      "addressCity": "Central Square",
+      "addressState": "NY",
+      "addressZipcode": "13036",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 680,
+      "latLong": {
+        "latitude": 43.26782,
+        "longitude": -76.210594
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2063091324,
+          "streetAddress": "4409 Riviera Dr UNIT 1",
+          "zipcode": "13036",
+          "city": "Central Square",
+          "state": "NY",
+          "latitude": 43.26782,
+          "longitude": -76.210594,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 680.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1308,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 953102000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-24 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6ffc1f27b0c3ed573d32f9b0e788025-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39f03021b49f5d22b8ea4f62790e6f0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0ded4615ea9e543e5539b479f314ec1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/774ac7dedf500bb60cfbb4ed19574e6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef6636709128a93f764bf93c133fbd6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a06fe74356ff9246d7b098cc85a9425-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19e6930b3acac7d4e9728e369ee478af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59d5aa9d6258a2449425d14bd44e9a79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a2993799447c3e430d8a4e77c0f4a2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c4d7b16529837f70f75e31466acb5e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2c249c5c46a7f95df1f8036a6a7f565-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0749c399ffaf01ff954ae463cd26036-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8fe1e6d9e2689da165af8241ec15f94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b7e38e679e4af77188297de36aae319-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7cc3dd29e95c67f7a8d956705c930226-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2061248064",
+      "id": "2061248064",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "hamf6xx66ubv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6eb8bd85003cb5bddc52941fa9b5cef1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/412-County-Route-10-Pennellville-NY-13132/2061248064_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "412 County Route 10, Pennellville, NY 13132",
+      "addressStreet": "412 County Route 10",
+      "addressCity": "Pennellville",
+      "addressState": "NY",
+      "addressZipcode": "13132",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1350,
+      "latLong": {
+        "latitude": 43.234432,
+        "longitude": -76.2156
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "313 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061248064,
+          "streetAddress": "412 County Route 10",
+          "zipcode": "13132",
+          "city": "Pennellville",
+          "state": "NY",
+          "latitude": 43.234432,
+          "longitude": -76.2156,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1350.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 313,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 182600,
+          "rentZestimate": 1267,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 27045535000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 182600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Estate Townhouses LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6eb8bd85003cb5bddc52941fa9b5cef1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1a6fff49e60e05ecda3b485dbb30aba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/743d00b65081dcfafa2c90ac422d357c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0b9be5d53db948b1e3947cd6b058762-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/266e02bf4f06b45414de1bbd36354710-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f5c1b75b11fc7070877f41d9a1b2780-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c91eb3162a9fbb11d72a07a091ad5cc4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb4ca4b099bc9624aff82fca33eed044-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442395753",
+      "id": "442395753",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "33c5qgvkxqezg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3cba51f54ea67bf7fc7f0ec9ef3d564f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/412-County-Route-10-TOWNHOUSE-C3-Pennellville-NY-13132/442395753_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "412 County Route 10 #TOWNHOUSE C3, Pennellville, NY 13132",
+      "addressStreet": "412 County Route 10 #TOWNHOUSE C3",
+      "addressCity": "Pennellville",
+      "addressState": "NY",
+      "addressZipcode": "13132",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 43.234444,
+        "longitude": -76.2156
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "89 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442395753,
+          "streetAddress": "412 County Route 10 #TOWNHOUSE C3",
+          "zipcode": "13132",
+          "city": "Pennellville",
+          "state": "NY",
+          "latitude": 43.234444,
+          "longitude": -76.2156,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 89,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 195900,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 7708624000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# Townhouse C3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 195900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: estatetownhouses.managebuilding.com",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cba51f54ea67bf7fc7f0ec9ef3d564f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebde0024cc5e04b6bd767af0690df2c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d6e24b7bf6be3cc6dc58c53f1581e3f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/848b0c2aba3110cfcf31e2f633beaf4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/263179cca18cfa2181fe6b3c55db18d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/720eb9650c5da80a711d70a747d3a1e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a534b5b8308977c019e192f50be50ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56edf765b96d3cd88db44c8de27598b3-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "43.23072--76.29598",
+      "id": "43.23072--76.29598",
+      "providerListingId": "406aeyjb4uas6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/812c1a84ca9e873a277795d234e25a40-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/cherry-manor-apartments-phoenix-ny-983hhx/",
+      "statusType": "FOR_RENT",
+      "statusText": "Cherry Manor Apartments",
+      "address": "68 Cherry St, Phoenix, NY",
+      "addressStreet": "68 Cherry St # 17867110",
+      "addressCity": "Phoenix",
+      "addressState": "NY",
+      "addressZipcode": "13135",
+      "units": [
+        {
+          "price": "$1,115+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,419+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2012116544,
+      "latLong": {
+        "latitude": 43.23072,
+        "longitude": -76.29598
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Cherry Manor Apartments",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/812c1a84ca9e873a277795d234e25a40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d548efac242c3a442b0c798466781214-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a29dfc5792d0e8d4006984ac7b1f8dcf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/faebd1f2b814edba685ae6fccb684cb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1d20306b70d55f8fa98912de451073e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b99260c95f13d04826a65d4bc1c0d91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d86c913347dd553de892e42589f52a26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e7575496f07de3e77334bdfb0f88358-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e34cad33cacecc4a264b79cc7d12370a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de343ba8f6e7c46b20fc41a0b8e35460-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6402f0fa625608ee88dd2e1878efaed4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c1a9cd2d8544ae764c600dff64b98b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51e0a6393157bd9837f1631c75c53bb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d22cb22137d568efcaf17ed7bd4b04a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7089f5e03d568002cb3995c3c9f99ac1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc8fb07c47fada84b40f31f6313f8464-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "352422607",
+      "id": "352422607",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1s6e8z6e0ea6g",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bda70fd08ed5bbbc034d68c3c501378c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/crick-hollow-townhouses-phoenix-ny-983hTq/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,177/mo",
+      "unformattedPrice": 1177,
+      "address": "Crick Hollow Townhouses, 357 Main St #17212657, Phoenix, NY 13135",
+      "addressStreet": "357 Main St #17212657",
+      "addressCity": "Phoenix",
+      "addressState": "NY",
+      "addressZipcode": "13135",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1064,
+      "latLong": {
+        "latitude": 43.22405,
+        "longitude": -76.29407
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 352422607,
+          "streetAddress": "357 Main St #17212657",
+          "zipcode": "13135",
+          "city": "Phoenix",
+          "state": "NY",
+          "latitude": 43.22405,
+          "longitude": -76.29407,
+          "price": 1177.0,
+          "datePriceChanged": 1726124400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1064.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 157,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1459,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1177.0,
+          "priceChange": 3,
+          "timeOnZillow": 13580130000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 17212657",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Barrington Residential",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bda70fd08ed5bbbc034d68c3c501378c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f04e468c5ec11b33ce4eff895ca45b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e950273fe6c6a568b31910a3d51e26b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aceb31fc20530f74df99b1843a0f2083-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85b952f5330575defc552b75f12ea3a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21fb184b396e9d62048e271a8c9a81fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/147c2995530bcba592ffdc9c2bca9c2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f51b6a434ffdfbaafd05c4a86ef16c61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37ddc9360f91ecc1f8ba5e293d52701b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e115bd9e15ff6fdd89c33a0758b69b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/096c5c46789f86cceaf3739c4d15b84c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/994c65d1759d07b4889c263b67c6a7e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/809c990926b67e580b65d421f5cc994a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6181b1059467e0dd05c328b86d6798f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/969c51d51896bd46919d4735554e404a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc8b1b0da113fbab830f17eb32c728a3-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2063091324",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a6ffc1f27b0c3ed573d32f9b0e788025-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/4409-Riviera-Dr-UNIT-1-Central-Square-NY-13036/2063091324_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,600/mo",
+      "priceLabel": "$1.6K",
+      "address": "4409 Riviera Dr UNIT 1, Central Square, NY 13036",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 680,
+      "latLong": {
+        "latitude": 43.26782,
+        "longitude": -76.210594
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2063091324,
+          "streetAddress": "4409 Riviera Dr UNIT 1",
+          "zipcode": "13036",
+          "city": "Central Square",
+          "state": "NY",
+          "latitude": 43.26782,
+          "longitude": -76.210594,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 680.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1308,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 953102000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-24 00:00:00",
+      "visited": false,
+      "timeOnZillow": 953102000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2061248064",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6eb8bd85003cb5bddc52941fa9b5cef1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/412-County-Route-10-Pennellville-NY-13132/2061248064_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "412 County Route 10, Pennellville, NY 13132",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1350,
+      "latLong": {
+        "latitude": 43.234432,
+        "longitude": -76.2156
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "313 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061248064,
+          "streetAddress": "412 County Route 10",
+          "zipcode": "13132",
+          "city": "Pennellville",
+          "state": "NY",
+          "latitude": 43.234432,
+          "longitude": -76.2156,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1350.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 182600,
+          "rentZestimate": 1267,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 27045535000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Estate Townhouses LLC",
+      "timeOnZillow": 27045535000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "442395753",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3cba51f54ea67bf7fc7f0ec9ef3d564f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/412-County-Route-10-TOWNHOUSE-C3-Pennellville-NY-13132/442395753_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "412 County Route 10 #TOWNHOUSE C3, Pennellville, NY 13132",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 43.234444,
+        "longitude": -76.2156
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "89 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442395753,
+          "streetAddress": "412 County Route 10 #TOWNHOUSE C3",
+          "zipcode": "13132",
+          "city": "Pennellville",
+          "state": "NY",
+          "latitude": 43.234444,
+          "longitude": -76.2156,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 195900,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 7708624000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# Townhouse C3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: estatetownhouses.managebuilding.com",
+      "timeOnZillow": 7708624000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "plid": "406aeyjb4uas6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/812c1a84ca9e873a277795d234e25a40-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/cherry-manor-apartments-phoenix-ny-983hhx/",
+      "statusType": "FOR_RENT",
+      "statusText": "Cherry Manor Apartments",
+      "price": "$1,115+/mo",
+      "address": "68 Cherry St, Phoenix, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 790,
+      "lotId": 2012116544,
+      "latLong": {
+        "latitude": 43.23072,
+        "longitude": -76.29598
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "Cherry Manor Apartments",
+      "buildingId": "43.23072--76.29598",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 2174357000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "zpid": "352422607",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bda70fd08ed5bbbc034d68c3c501378c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/crick-hollow-townhouses-phoenix-ny-983hTq/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,177/mo",
+      "priceLabel": "$1.2K",
+      "address": "357 Main St #17212657, Phoenix, NY 13135",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1064,
+      "latLong": {
+        "latitude": 43.22405,
+        "longitude": -76.29407
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 352422607,
+          "streetAddress": "357 Main St #17212657",
+          "zipcode": "13135",
+          "city": "Phoenix",
+          "state": "NY",
+          "latitude": 43.22405,
+          "longitude": -76.29407,
+          "price": 1177.0,
+          "datePriceChanged": 1726124400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1064.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1459,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1177.0,
+          "priceChange": 3,
+          "timeOnZillow": 13580130000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 17212657",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Barrington Residential",
+      "timeOnZillow": 13580130000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "79b574ce",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

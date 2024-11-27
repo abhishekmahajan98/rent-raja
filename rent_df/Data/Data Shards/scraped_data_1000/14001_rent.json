@@ -1,0 +1,758 @@
+{
+  "listResults": [
+    {
+      "zpid": "42.9584--78.54554",
+      "id": "42.9584--78.54554",
+      "providerListingId": "32xre6fkgmhxg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6768ac89d3caff0bee5847a93703bf0d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/42.9584,-78.54554_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "11922 Buckwheat Rd, Alden, NY",
+      "addressStreet": "11922 Buckwheat Rd ",
+      "addressCity": "Alden",
+      "addressState": "NY",
+      "addressZipcode": "14004",
+      "units": [
+        {
+          "price": "$975+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,250+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "latLong": {
+        "latitude": 42.9584,
+        "longitude": -78.54554
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6768ac89d3caff0bee5847a93703bf0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c21ce072a991314ee544f31a8f844dc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7bbbe89911cb7e4b75b03497485c305f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/421b19e0ce659133f693d823315a4d11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd0601f8810948fdf9b99d55c755e37c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1767c5b13b588f966ecf320c07dfd098-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a744c33fda5ec9dbfece127e91930f85-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc7caa2b029d7541d694498f25eb718d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a06f8ca383bea1db45bc2f9c8ed5cbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f768fd3f4114613eeb8d6fcdb9dc8a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bcfe4db01275598fee8d8377002e8fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d232c658d32b7efb0c9e0bb205d6faf-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "63884039",
+      "id": "63884039",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "26txxsq8txv8b",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1113397ae3e8d30a5edf2f1f7f36a148-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/11-Washington-St-Akron-NY-14001/63884039_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,100/mo",
+      "unformattedPrice": 1100,
+      "address": "11 Washington St, Akron, NY 14001",
+      "addressStreet": "11 Washington St",
+      "addressCity": "Akron",
+      "addressState": "NY",
+      "addressZipcode": "14001",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 875,
+      "latLong": {
+        "latitude": 43.01882,
+        "longitude": -78.49327
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 63884039,
+          "streetAddress": "11 Washington St",
+          "zipcode": "14001",
+          "city": "Akron",
+          "state": "NY",
+          "latitude": 43.01882,
+          "longitude": -78.49327,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 875.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 153000,
+          "rentZestimate": 1185,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 2466723000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 125000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 153000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1113397ae3e8d30a5edf2f1f7f36a148-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ec1686a133ac08df413e360061f410d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e52252c86ec9f56d740edb6f5be34bf7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef167c3e99e27e68d323ab00a0b02ea0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7b24d5b3da3ee463352dfbd55658bbf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30cab29cd949df15e55fb2d4e652de7e-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "plid": "32xre6fkgmhxg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6768ac89d3caff0bee5847a93703bf0d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/42.9584,-78.54554_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$975+/mo",
+      "address": "11922 Buckwheat Rd, Alden, NY",
+      "minBeds": 2,
+      "minBaths": 1.0,
+      "minArea": 600,
+      "latLong": {
+        "latitude": 42.9584,
+        "longitude": -78.54554
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago"
+      },
+      "buildingId": "42.9584--78.54554",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 1891513000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "63884039",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1113397ae3e8d30a5edf2f1f7f36a148-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/11-Washington-St-Akron-NY-14001/63884039_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,100/mo",
+      "priceLabel": "$1.1K",
+      "address": "11 Washington St, Akron, NY 14001",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 875,
+      "latLong": {
+        "latitude": 43.01882,
+        "longitude": -78.49327
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 63884039,
+          "streetAddress": "11 Washington St",
+          "zipcode": "14001",
+          "city": "Akron",
+          "state": "NY",
+          "latitude": 43.01882,
+          "longitude": -78.49327,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 875.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 153000,
+          "rentZestimate": 1185,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 2466723000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 125000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2466723000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "442580696",
+      "id": "442580696",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4cjxa2ycar7g2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/723ccae5495ab2ccaa5737ecea43a559-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10875-Main-St-APT-1-Clarence-NY-14031/442580696_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,550/mo",
+      "unformattedPrice": 1550,
+      "address": "10875 Main St APT 1, Clarence, NY 14031",
+      "addressStreet": "10875 Main St APT 1",
+      "addressCity": "Clarence",
+      "addressState": "NY",
+      "addressZipcode": "14031",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1250,
+      "latLong": {
+        "latitude": 42.98111,
+        "longitude": -78.582794
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442580696,
+          "streetAddress": "10875 Main St APT 1",
+          "zipcode": "14031",
+          "city": "Clarence",
+          "state": "NY",
+          "latitude": 42.98111,
+          "longitude": -78.582794,
+          "price": 1550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1250.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 936989000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-13 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/723ccae5495ab2ccaa5737ecea43a559-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1127e55ca9235c48f5d752422c60ee6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/350beb05bb0b569b61139a545db967da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/504a2ba852e745eccbd24e21bafa893f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/708be0941f4aae8359372fe2dbf7c74f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41b0e3c9f785ac08d00f4b1d1743eda4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4dea34a73d168a29a1b0f13fbd64f939-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c2341a277a041958e023786f680af47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc49a3679a0d14fc48fc5e3909b59c1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90825182c9167e13d875b3357a362a90-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2073093179",
+      "id": "2073093179",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "38d3ywuactynk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e01eaf44ace478a1f931a995d7e7dc30-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10504-Main-St-1-Clarence-NY-14031/2073093179_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "10504 Main St #1, Clarence, NY 14031",
+      "addressStreet": "10504 Main St #1",
+      "addressCity": "Clarence",
+      "addressState": "NY",
+      "addressZipcode": "14031",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.98074,
+        "longitude": -78.59644
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2073093179,
+          "streetAddress": "10504 Main St #1",
+          "zipcode": "14031",
+          "city": "Clarence",
+          "state": "NY",
+          "latitude": 42.98074,
+          "longitude": -78.59644,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1134,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 1011720000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e01eaf44ace478a1f931a995d7e7dc30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d63f675b32d31fb1ef4a7ae5a56c180-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/256374d392f30c822adaee6e9932b8fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20d1a852dff79fe05b58ebec6f8af870-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3c7638c6460674f909ad4db29d06485-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d187afa6134af6bd70e1f55d5de8d1c-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "66880207",
+      "id": "66880207",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1455ymx525vpz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/995189f6da8e12a3ee0c6018f550c630-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8130-Goodrich-Rd-Clarence-Center-NY-14032/66880207_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "8130 Goodrich Rd, Clarence Center, NY 14032",
+      "addressStreet": "8130 Goodrich Rd",
+      "addressCity": "Clarence Center",
+      "addressState": "NY",
+      "addressZipcode": "14032",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 2410,
+      "latLong": {
+        "latitude": 42.980618,
+        "longitude": -78.5919
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "31 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 66880207,
+          "streetAddress": "8130 Goodrich Rd",
+          "zipcode": "14032",
+          "city": "Clarence Center",
+          "state": "NY",
+          "latitude": 42.980618,
+          "longitude": -78.5919,
+          "price": 3500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 2410.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 31,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 368300,
+          "rentZestimate": 3547,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 2741886000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 295000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 368300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Pilgrim Properties LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/995189f6da8e12a3ee0c6018f550c630-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65d55e3893f1b10d70fedd7c3258b7a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3c7f98c7d6ffbef46a18304c440a812-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02f58f6fa3bf4c998199afc17f37e0e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b1902bd368ab4c2333a9907ea95eccf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e2c39c143784f2d58a3b869248da19f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de6a764a881c067668f7a3edb89fd0c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bcaf7ef82fcdf3c910a885d832aa688-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7d95f657ef640bcc8d42b8fa334dc3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af79ff4a4a8798dda27ea57fc67babf8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fe4f5e4809b6717927c4e05e341c44a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74f9c6d5751966b84e258388dc9bd29d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a77fda3bf7f5c97a40c828cbee1955bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b55f40cc1c4abb0ad10e30984c87c7ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d853dc581b01e393b9e80fbec26f57f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d933a32567181acb5268147018562dc8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b56ad4eeb53da9c8d548fadd6e8b184b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/352672928fa8538b79a863488a3532b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40bfb0b5b3142249aaa3a2ee93228f7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb0d0abde0d30206aad48867c42d69ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f96d96a671a3710c9a7772734f80089b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ceb345adb14525c1926ca102fb3bf051-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92b01b7b48b5dcf8f49208f527550ae2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5330c94892bcdb9a96bb7dfd22bc826-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59324a8cc5755d5d3b1ab4055362c63f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45a09643d233b91bbffb711570acb480-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f9a885e3a60c7e461b9bb8209441431-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2da9bb32babdd35933e7dc4eb3384e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66f430d20beb6b272c8029c05f943a95-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86e7d2ac3799005feb679ca6241404cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2669576bcf6356ee366ae479e5f7c6e-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1e7ae230",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "6ed50f9d"
+}

@@ -1,0 +1,879 @@
+{
+  "listResults": [
+    {
+      "zpid": "2082494100",
+      "id": "2082494100",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4xceh49degvuz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/30cbcdffc15e9d68c35490fd27c2a0bf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/853-Auburn-Rd-1-Groton-NY-13073/2082494100_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,295/mo",
+      "unformattedPrice": 1295,
+      "address": "853 Auburn Rd #1, Groton, NY 13073",
+      "addressStreet": "853 Auburn Rd #1",
+      "addressCity": "Groton",
+      "addressState": "NY",
+      "addressZipcode": "13073",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.589375,
+        "longitude": -76.49506
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082494100,
+          "streetAddress": "853 Auburn Rd #1",
+          "zipcode": "13073",
+          "city": "Groton",
+          "state": "NY",
+          "latitude": 42.589375,
+          "longitude": -76.49506,
+          "price": 1295.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1371,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "timeOnZillow": 670143000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/30cbcdffc15e9d68c35490fd27c2a0bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79e3a2a01e209a45cfa4f205da5a8420-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f89ce24f71110f1e5af81419df77403-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5453472daa737f484bc2ad202ed5a3f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/005ea00c463a17e821bf141d930080b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2d695e917b5d7a4666ffec1227d3a9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03ed5e3fe73aa1f38982e82804f3c8d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4e241ab1b8af6d2d94d66ec52d252ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58106f42d00f0e4a1376808ff26fd85a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "215974039",
+      "id": "215974039",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4ceb62rd61m8c",
+      "imgSrc": "https://photos.zillowstatic.com/fp/28db411e965dc2e4b90a27df2d58c859-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/113-Lincoln-Ave-115-Groton-NY-13073/215974039_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "113 Lincoln Ave #115, Groton, NY 13073",
+      "addressStreet": "113 Lincoln Ave #115",
+      "addressCity": "Groton",
+      "addressState": "NY",
+      "addressZipcode": "13073",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1230,
+      "latLong": {
+        "latitude": 42.586723,
+        "longitude": -76.36415
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215974039,
+          "streetAddress": "113 Lincoln Ave #115",
+          "zipcode": "13073",
+          "city": "Groton",
+          "state": "NY",
+          "latitude": 42.586723,
+          "longitude": -76.36415,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1230.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1546,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1458384000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 6000.0,
+          "unit": "# 115",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-06 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Rio Lange- Keller Williams STFL",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/28db411e965dc2e4b90a27df2d58c859-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a9c857aa11e5c1df9b95bd567f9683b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9faec41159153686dadcea517dc7ba1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2dbe13d99a3867e41abf6e6113678a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/515898cccfde3bfd4f5c6612a47f2571-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cbb7e5cf6e2c6cd3b1c1981e3574743-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7d9a832d333af8426de43a5c8b0d25e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b09cd38b3e08c3cd3fa6a95174ddc07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e49547306e95c3f2f15c358034dc392-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/281ba1f1cd531570c092c41f934cdcf4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2466438476a90ec98b86cd03ec85495f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af9fd405595a590adf328cd824a53928-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc040dfcd5dfde7b98cbcea9296ce5ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2393912bbbf9f393d2bdc06a213cb03b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3aed52ea9c531f8cb3dc43295815f0be-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "215982211",
+      "id": "215982211",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2ynd63ye5g95r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/21e3e874dbb83501874a2bb14e09ddd8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Lansing-NY-14882/215982211_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "(undisclosed Address), Lansing, NY 14882",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Lansing",
+      "addressState": "NY",
+      "addressZipcode": "14882",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1450,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215982211,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "14882",
+          "city": "Lansing",
+          "state": "NY",
+          "price": 2400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1450.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 341800,
+          "rentZestimate": 2589,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 13100000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 341800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/21e3e874dbb83501874a2bb14e09ddd8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bc022e643b453ac2711b52e7fffd3cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d31b0b1e7e9740a3d1d60579aee4a266-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce19558f161917e6a69ffb1257398220-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/48229eef91f7c6dc11c4f5a77c568a8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6396c9a6b102321015265fb645ed7259-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/440ced884c51de9eaa483fd285bafc35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08b7e384754f8c2bf02afa047dd68eb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b821ba9977391b17112c019d52e613f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8517df9f21c4b76124aa0fc30581db2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c0f449b32574919003c2d5b4022b8d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a112e3c26185fec45f5c79f9f9e09d1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/077c769830ee3cf4fbb8e902400abd6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d7fa2ac7d25f65a31f0dd236e3b107b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f32bdd4b3a0377f23630badfe4b7fad6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dffa62d4d782a9309262237c83ba373-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea17b3ff898d551dfcf36a6607a56a67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3de95c0ba26c645f98b8ed1e463cd95a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0b93dd553517cf9ecd059ed7b0677fd-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2082494100",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/30cbcdffc15e9d68c35490fd27c2a0bf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/853-Auburn-Rd-1-Groton-NY-13073/2082494100_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,295/mo",
+      "priceLabel": "$1.3K",
+      "address": "853 Auburn Rd #1, Groton, NY 13073",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.589375,
+        "longitude": -76.49506
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082494100,
+          "streetAddress": "853 Auburn Rd #1",
+          "zipcode": "13073",
+          "city": "Groton",
+          "state": "NY",
+          "latitude": 42.589375,
+          "longitude": -76.49506,
+          "price": 1295.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1371,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "timeOnZillow": 670143000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "visited": false,
+      "timeOnZillow": 670143000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "215974039",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/28db411e965dc2e4b90a27df2d58c859-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/113-Lincoln-Ave-115-Groton-NY-13073/215974039_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "113 Lincoln Ave #115, Groton, NY 13073",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1230,
+      "latLong": {
+        "latitude": 42.586723,
+        "longitude": -76.36415
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215974039,
+          "streetAddress": "113 Lincoln Ave #115",
+          "zipcode": "13073",
+          "city": "Groton",
+          "state": "NY",
+          "latitude": 42.586723,
+          "longitude": -76.36415,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1230.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1546,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1458384000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 6000.0,
+          "unit": "# 115",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-06 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Rio Lange- Keller Williams STFL",
+      "timeOnZillow": 1458384000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "339919301",
+      "id": "339919301",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "khawge2aa6hp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9bbbc0ad4b5e115e8e7a75398309c1de-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/94-Farrell-Rd-A-Ithaca-NY-14850/339919301_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,700/mo",
+      "unformattedPrice": 1700,
+      "address": "94 Farrell Rd #A, Ithaca, NY 14850",
+      "addressStreet": "94 Farrell Rd #A",
+      "addressCity": "Ithaca",
+      "addressState": "NY",
+      "addressZipcode": "14850",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1300,
+      "latLong": {
+        "latitude": 42.516068,
+        "longitude": -76.46282
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 339919301,
+          "streetAddress": "94 Farrell Rd #A",
+          "zipcode": "14850",
+          "city": "Ithaca",
+          "state": "NY",
+          "latitude": 42.516068,
+          "longitude": -76.46282,
+          "price": 1700.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2286,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 616291000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bbbc0ad4b5e115e8e7a75398309c1de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e20e81e72829f65ba202166bfc8abd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eed9986c53f4315bebaa92127bd2b400-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3eb5defc8503c8c223240bc340e2a24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f669813b59d6c96ec39f62300e22b99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/092e4a451f1bd49086e475cbc17b3d1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/454e2112603a479a5c188b4fb12818f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edfd8b25b6a00c266c5e36a762908cb6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9310c538258dd8972126af0abae9fb8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3f132755976f25ff0616f86b1bae041-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c32de43e84248be9f03bc0bd6473b11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74dd13051929ff49fd6029549627a1a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c716ddf379f97fa2326d2aaf401f1ab1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7feb8c0acce4e667986e498cc647ade7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71434f2c33c8e147e3a45e8e5515fa35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a4b3822f7e9bab533eb163094963a52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca07b4aa2f6aca1a46abb94de11f0cd0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b90bb6988398a80176206c6c8f135d02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2c2afeed59abe0651b61ef634fec3a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eda5862cf55578e2c7d9da134c5fb2db-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32828103",
+      "id": "32828103",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "nuhvzcgsw8pj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/12895849c7df4e4c7cb5827963d7edf0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Lansing-NY-14882/32828103_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "(undisclosed Address), Lansing, NY 14882",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Lansing",
+      "addressState": "NY",
+      "addressZipcode": "14882",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 960,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "146 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32828103,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "14882",
+          "city": "Lansing",
+          "state": "NY",
+          "price": 2100.0,
+          "datePriceChanged": 1729234800000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 960.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 146,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 289500,
+          "rentZestimate": 2018,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "priceChange": -100,
+          "timeOnZillow": 12680879000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 289500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/12895849c7df4e4c7cb5827963d7edf0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9707fbff620e045d6a8f3911dd7e3c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb0de7ef5d3f034dbf063de238dcd776-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a027ca88ed84d9d5fd8592d9ba8819a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96f949bda6397c5759fe52ad60c1c601-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16942ab98a99f9ab9ea1cea8a765723d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df2833d2c080ded1ddeb46f7699d8a6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffcbcd946451d82e02664270b5681d30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ec9a1ada2e9726e6de9bd5d481592d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebe05528df3e6ad3d54c6a01a1fbdf44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12ae521c394a6d1a3d83313f673a752b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1c4d868",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "233fdbb6"
+}

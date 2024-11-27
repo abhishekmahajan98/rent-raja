@@ -1,0 +1,987 @@
+{
+  "listResults": [
+    {
+      "zpid": "442593424",
+      "id": "442593424",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "22sryqbdxjv7c",
+      "imgSrc": "https://photos.zillowstatic.com/fp/92c58d6dfdd8964b89083d6424903406-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/pine-st-011-hamilton-ny-984v8L/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "Pine St - 011, 11 Pine St #1, Hamilton, NY 13346",
+      "addressStreet": "11 Pine St #1",
+      "addressCity": "Hamilton",
+      "addressState": "NY",
+      "addressZipcode": "13346",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.823063,
+        "longitude": -75.54653
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442593424,
+          "streetAddress": "11 Pine St #1",
+          "zipcode": "13346",
+          "city": "Hamilton",
+          "state": "NY",
+          "latitude": 42.823063,
+          "longitude": -75.54653,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 849266000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-10 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Hamilton Realty Management LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/92c58d6dfdd8964b89083d6424903406-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d91ce4485af3d8163772f4fc0ee08aa7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e696f81885d5db70fad5f94fd004b60f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef0805fc08b7e9355459b9c649e9a10d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4abd9d3792b733c108406a9536596126-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ea8d2156f8554c2e668bf5dd32817f3-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30832109",
+      "id": "30832109",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1w0q405karhz6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fb8b66da266d7ecf0ab3e7dd4f7fcaad-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/48-Madison-St-Hamilton-NY-13346/30832109_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,850/mo",
+      "unformattedPrice": 1850,
+      "address": "48 Madison St, Hamilton, NY 13346",
+      "addressStreet": "48 Madison St",
+      "addressCity": "Hamilton",
+      "addressState": "NY",
+      "addressZipcode": "13346",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1793,
+      "latLong": {
+        "latitude": 42.83172,
+        "longitude": -75.54451
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30832109,
+          "streetAddress": "48 Madison St",
+          "zipcode": "13346",
+          "city": "Hamilton",
+          "state": "NY",
+          "latitude": 42.83172,
+          "longitude": -75.54451,
+          "price": 1850.0,
+          "datePriceChanged": 1732003200000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1793.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 261400,
+          "rentZestimate": 1989,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Nov 19)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1850.0,
+          "priceChange": -150,
+          "timeOnZillow": 1945450000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 186869.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 261400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-10 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Hamilton Realty Management LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb8b66da266d7ecf0ab3e7dd4f7fcaad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/005eae8f3b93fbf47d2cd815284e87a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0ef10eeec2c4c7d70a6ff22cebc6458-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/811ba3ec18b34133539d556a00ddc816-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73c41eef35601b7cda1722c515aabd29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06b2b2b602d0f20e182079b0cd90145a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/beb74373efbb9c854224dd9709f111c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53cdefcf3c9efb93e07e3ac6660680af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2da347c244a2888548eae28fabf0fe1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb8230cc81c4bcb8e0a385a6665f0fe7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/749aa7d0321e8a6346db04b117823a01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ab67c76daee3f9dfd62098239f5ba91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/390848c139cc26d8a412d260c0eae01f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10e7f7d5ad709e89c86290a67f4ecb79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d97570227e477ae0ac133f9b85a3fc24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd135fe9b009eb57ea310d3c3149d636-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0fd458a59cd132909d36208525c64c08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/560bae62816c1575b43a50c0a52d52e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93308e87512508a578fb700b7ac8f03b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6337e767e4340b5bccca5e6e96af90fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92e0f40f19470b8dfd561afe314ac6b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1465a3473799be11aa49d49894c22da4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e31d527b03686b348afe5a21093b958-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d42f9849932b10696da581f4b1701877-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4872fd834399f2eb743b99fc5bbb86cb-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441693657",
+      "id": "441693657",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3nmz9c4mc39uk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/98573e38d663717fcec4978244fa4c60-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/7071-payne-st-hamilton-ny-984vkh/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "7071 Payne St, 7071 Payne St #2, Hamilton, NY 13346",
+      "addressStreet": "7071 Payne St #2",
+      "addressCity": "Hamilton",
+      "addressState": "NY",
+      "addressZipcode": "13346",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.829754,
+        "longitude": -75.53092
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441693657,
+          "streetAddress": "7071 Payne St #2",
+          "zipcode": "13346",
+          "city": "Hamilton",
+          "state": "NY",
+          "latitude": 42.829754,
+          "longitude": -75.53092,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 45,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 3930592000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-11 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Hamilton Realty Management LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/98573e38d663717fcec4978244fa4c60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cb9f21aa78406239c61b3f6c6f81516-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/488accf119a6c52360e7248b0a9f5599-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a6eeba77905e9154e123afaf0e087c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b36f6dbf51d3de9b58af8ce14929ba96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1be55bf348bfd1a29c14daf3fd928389-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e1937371d46362d3dc0ffb12cb25a44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3719bb0b8b47b866a82c4e70c33d4abf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e5f5faefb470dcd2c84f2510867b0b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d910e604db81a72ec76cc4b6310f6ad6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04ca028f09c76e93cf13026d937d4002-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d96b6d47cf5c152db22878e23b1ef61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b63a9578f3d2a551d5ee8aba1f312088-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08c93724557f60e687e88a416b9b3c23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ac1962c9f23b09993881e5a73bf9f52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5cfcdc75aa486e51d50e536c9982b9cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53a80c4b9186796cf36bf52b019352d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bf0f42a8239bf28b1bec138a2ba013f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b60fb56676d0f8bac56bd2eeea34c09a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bc84c49e0e233fd1fa2f57e3a95479b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2668241c887359ada10e165117500591-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.822475--75.55158",
+      "id": "42.822475--75.55158",
+      "providerListingId": "4jj5tv5rq0prk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/48d71a4ea81b5ad63b91d168e0d1ebb8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/lebanon-st-082-hamilton-ny-984vsZ/",
+      "statusType": "FOR_RENT",
+      "statusText": "Lebanon St - 082",
+      "address": "82 Lebanon St, Hamilton, NY",
+      "addressStreet": "82 Lebanon St   Apt 2",
+      "addressCity": "Hamilton",
+      "addressState": "NY",
+      "addressZipcode": "13346",
+      "units": [
+        {
+          "price": "$950+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,475+",
+          "beds": "4",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2012258577,
+      "latLong": {
+        "latitude": 42.822475,
+        "longitude": -75.55158
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Lebanon St - 082",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/48d71a4ea81b5ad63b91d168e0d1ebb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcc90dd82cd1471a45ffe546b8e66c85-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e155c349e7c66f4e47f1940eb62e30f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f7e834f17848c250684dcdccc1c0e32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/abc78e233e37ae980efb29302025f6fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27c3967af8cb83e0984bf98807899693-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea37f37125c4eb0c74894b2bbf81173b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac4393db05f97e319b45195c5b4168d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea63b91e82fde2c7eeb91dcc7d346947-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/815389a08fc325da4fb208b853abfcfe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7697c043e42ed4ab969e48947dc3b86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12cd493ad7c7d5413d0eee9d43ccab15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1dd3db868cc226dfe6e99bbfbe26335-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfcd6387fc630853ee570fb4b716ae55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd3a460251e4f09c2067b360809ee417-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2c8188777090ee478c0f4dd08f1dedb-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442593424",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/92c58d6dfdd8964b89083d6424903406-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/pine-st-011-hamilton-ny-984v8L/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "11 Pine St #1, Hamilton, NY 13346",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.823063,
+        "longitude": -75.54653
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442593424,
+          "streetAddress": "11 Pine St #1",
+          "zipcode": "13346",
+          "city": "Hamilton",
+          "state": "NY",
+          "latitude": 42.823063,
+          "longitude": -75.54653,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 849266000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-10 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Hamilton Realty Management LLC",
+      "timeOnZillow": 849266000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "zpid": "30832109",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fb8b66da266d7ecf0ab3e7dd4f7fcaad-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/48-Madison-St-Hamilton-NY-13346/30832109_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,850/mo",
+      "priceLabel": "$1.9K",
+      "address": "48 Madison St, Hamilton, NY 13346",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1793,
+      "latLong": {
+        "latitude": 42.83172,
+        "longitude": -75.54451
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30832109,
+          "streetAddress": "48 Madison St",
+          "zipcode": "13346",
+          "city": "Hamilton",
+          "state": "NY",
+          "latitude": 42.83172,
+          "longitude": -75.54451,
+          "price": 1850.0,
+          "datePriceChanged": 1732003200000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1793.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 261400,
+          "rentZestimate": 1989,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Nov 19)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1850.0,
+          "priceChange": -150,
+          "timeOnZillow": 1945450000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 186869.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-10 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Hamilton Realty Management LLC",
+      "timeOnZillow": 1945450000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "441693657",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/98573e38d663717fcec4978244fa4c60-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/7071-payne-st-hamilton-ny-984vkh/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,400/mo",
+      "priceLabel": "$1.4K",
+      "address": "7071 Payne St #2, Hamilton, NY 13346",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.829754,
+        "longitude": -75.53092
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441693657,
+          "streetAddress": "7071 Payne St #2",
+          "zipcode": "13346",
+          "city": "Hamilton",
+          "state": "NY",
+          "latitude": 42.829754,
+          "longitude": -75.53092,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 3930592000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-11 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Hamilton Realty Management LLC",
+      "timeOnZillow": 3930592000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "plid": "4jj5tv5rq0prk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/48d71a4ea81b5ad63b91d168e0d1ebb8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/lebanon-st-082-hamilton-ny-984vsZ/",
+      "statusType": "FOR_RENT",
+      "statusText": "Lebanon St - 082",
+      "price": "$950+/mo",
+      "address": "82 Lebanon St, Hamilton, NY",
+      "minBeds": 2,
+      "minBaths": 1.0,
+      "minArea": 577,
+      "lotId": 2012258577,
+      "latLong": {
+        "latitude": 42.822475,
+        "longitude": -75.55158
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "Lebanon St - 082",
+      "buildingId": "42.822475--75.55158",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 2209567000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "439964277",
+      "id": "439964277",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3uvu70z7wuzxh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4eed8ce94d67318213e6f4afd23ef773-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/madison-st-006-earlville-ny-BZ4vk4/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,275/mo",
+      "unformattedPrice": 1275,
+      "address": "Madison St - 006, 6 Madison St #2, Earlville, NY 13332",
+      "addressStreet": "6 Madison St #2",
+      "addressCity": "Earlville",
+      "addressState": "NY",
+      "addressZipcode": "13332",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1600,
+      "latLong": {
+        "latitude": 42.740433,
+        "longitude": -75.54396
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439964277,
+          "streetAddress": "6 Madison St #2",
+          "zipcode": "13332",
+          "city": "Earlville",
+          "state": "NY",
+          "latitude": 42.740433,
+          "longitude": -75.54396,
+          "price": 1275.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 45,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1275.0,
+          "timeOnZillow": 3931294000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Hamilton Realty Management LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4eed8ce94d67318213e6f4afd23ef773-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5b2b001412818af3680d2c46e375f5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f125db8df1c2894721e927b1adeea8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44b25b260978e67628236c9f635198a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/abf6324f0912f08a02b8cbb157ddc2c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01848026d3401a40d36fb74a55b5aad4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aabae22d0432ed0c21b6ccbbb0d0d7a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/470022b49e0c443bad5400560c4c4566-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2ecd611f80b5d8e85148d21e52ec270-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/871251de4e026b8734c362b1dc21e678-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b689e517876906a8d6e2912ae902e78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/479c756c0e96557e63fd453ad86f3b2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2264cce2583e62aef1efdf0b601285c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02f05394a0a0a7b6e28d7cdeeb0afb61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/48b8ff5f5c40dce2c96b881e883fd76b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "53a33b03",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "4a4bb4c"
+}

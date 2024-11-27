@@ -1,0 +1,715 @@
+{
+  "listResults": [
+    {
+      "zpid": "441800452",
+      "id": "441800452",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "27k6n1ubgyb5g",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0cd214232919bc55b22353083913025e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/7356-Snyder-Hill-Rd-APT-B-Cattaraugus-NY-14719/441800452_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,900/mo",
+      "unformattedPrice": 1900,
+      "address": "7356 Snyder Hill Rd APT B, Cattaraugus, NY 14719",
+      "addressStreet": "7356 Snyder Hill Rd APT B",
+      "addressCity": "Cattaraugus",
+      "addressState": "NY",
+      "addressZipcode": "14719",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 42.323845,
+        "longitude": -78.91363
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441800452,
+          "streetAddress": "7356 Snyder Hill Rd APT B",
+          "zipcode": "14719",
+          "city": "Cattaraugus",
+          "state": "NY",
+          "latitude": 42.323845,
+          "longitude": -78.91363,
+          "price": 1900.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "priceChange": -100,
+          "timeOnZillow": 3386100000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Marathon Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cd214232919bc55b22353083913025e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/223b12bbfd323ebf30af3d80a3e9d5bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5858a9a2f248b15f9430e553deabed6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8570c17d964c526858e08a2ee5b4c30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11e0cab982800080aa912ebd870e58b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eca48efb7c8d594ae0cd31fa655cd04e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f6c604d58d537fac1071242efd4447e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ac16ae031b21819c2f96ca26527be58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0b00bef103c6e5ee03f102ffea20866-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6bee5501a318eb9722711bc53c6ebba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89084bbadce03b28d139cc87f1196866-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1724f752e778aede8112fc1396a4d8b8-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "337635484",
+      "id": "337635484",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4dhh94ch805ae",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7a4d52da9c0b3764a8e24c7be77eed62-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/7356-Snyder-Hill-Rd-Cattaraugus-NY-14719/337635484_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$4,100/mo",
+      "unformattedPrice": 4100,
+      "address": "7356 Snyder Hill Rd, Cattaraugus, NY 14719",
+      "addressStreet": "7356 Snyder Hill Rd",
+      "addressCity": "Cattaraugus",
+      "addressState": "NY",
+      "addressZipcode": "14719",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2631,
+      "latLong": {
+        "latitude": 42.319935,
+        "longitude": -78.90779
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "134 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 337635484,
+          "streetAddress": "7356 Snyder Hill Rd",
+          "zipcode": "14719",
+          "city": "Cattaraugus",
+          "state": "NY",
+          "latitude": 42.319935,
+          "longitude": -78.90779,
+          "price": 4100.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2631.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 134,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3622,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4100.0,
+          "priceChange": -150,
+          "timeOnZillow": 11600671000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 567200.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Marathon Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a4d52da9c0b3764a8e24c7be77eed62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d908cbae820b7d60346b34f78d1aab00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cea31e0ad83dfb9a9f389b3142b6047-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b73f5a82230959bf26b6dea2c2f70fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f95cb7ac6286da43a62f988043df077-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3427f460fa398907153a70eb2c5869eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf57bdd55d12e2bf99351eae40505791-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b6d781496217b046d5e7413aba0e123-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f420b7980be5944f4f30a32fbf5726d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8e0aabd348c3972db52a24d7da6ef18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30e14d4b782f9ff0e8c30a669a2d4cf0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f0d83ebc1c1a603155b69cd72d3a537-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/284eb57d043664b741f3ab58e00c49c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e4492001ba7864df137fba2000cb441-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/860961d8bf51b02ba8434d3a1d007b4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca4ef6001bc5fb15e49110c14ea70fa1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b48208ec98769d43ff4ef92087ebec0e-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "441800452",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0cd214232919bc55b22353083913025e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/7356-Snyder-Hill-Rd-APT-B-Cattaraugus-NY-14719/441800452_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,900/mo",
+      "priceLabel": "$1.9K",
+      "address": "7356 Snyder Hill Rd APT B, Cattaraugus, NY 14719",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 42.323845,
+        "longitude": -78.91363
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441800452,
+          "streetAddress": "7356 Snyder Hill Rd APT B",
+          "zipcode": "14719",
+          "city": "Cattaraugus",
+          "state": "NY",
+          "latitude": 42.323845,
+          "longitude": -78.91363,
+          "price": 1900.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "priceChange": -100,
+          "timeOnZillow": 3386100000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Marathon Realty",
+      "timeOnZillow": 3386100000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "337635484",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7a4d52da9c0b3764a8e24c7be77eed62-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/7356-Snyder-Hill-Rd-Cattaraugus-NY-14719/337635484_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$4,100/mo",
+      "priceLabel": "$4.1K",
+      "address": "7356 Snyder Hill Rd, Cattaraugus, NY 14719",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2631,
+      "latLong": {
+        "latitude": 42.319935,
+        "longitude": -78.90779
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "134 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 337635484,
+          "streetAddress": "7356 Snyder Hill Rd",
+          "zipcode": "14719",
+          "city": "Cattaraugus",
+          "state": "NY",
+          "latitude": 42.319935,
+          "longitude": -78.90779,
+          "price": 4100.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2631.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3622,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4100.0,
+          "priceChange": -150,
+          "timeOnZillow": 11600671000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 567200.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Marathon Realty",
+      "timeOnZillow": 11600671000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2056019000",
+      "id": "2056019000",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "17sawcvqs4w1e",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7429359f76d7e4ae06a755b74f7328e2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Gowanda-NY-14070/2056019000_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "(undisclosed Address), Gowanda, NY 14070",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Gowanda",
+      "addressState": "NY",
+      "addressZipcode": "14070",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056019000,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "14070",
+          "city": "Gowanda",
+          "state": "NY",
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 849,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 1491294000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7429359f76d7e4ae06a755b74f7328e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1e397fb7757420d5e72b0e43444e432-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70ccd50e1d6a150efd02b1d8cce499ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17423b6a84c40f8d782cf56890684eeb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40966353c527623625d4c805fba030bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91653d3959ebbd66c6e3ed7d916d66fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a19fec7189e9441cb40f1eb97d692d04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b62981aeeef5131a6c46de306b8c9ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ff89f98b5a7a1cc55d8d375243ce123-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9aebf7c1b3ebf0cd0ca92e186f4ffbce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82fe2fe0ba149598f6a698481c71038f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2f75960b633b730d75efb926124e073-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2059285633",
+      "id": "2059285633",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4xdhe8vyz2h9c",
+      "imgSrc": "https://photos.zillowstatic.com/fp/57f1ae8fa6156bf38a2e3292baebf60c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Gowanda-NY-14070/2059285633_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$800/mo",
+      "unformattedPrice": 800,
+      "address": "(undisclosed Address), Gowanda, NY 14070",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Gowanda",
+      "addressState": "NY",
+      "addressZipcode": "14070",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2059285633,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "14070",
+          "city": "Gowanda",
+          "state": "NY",
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 832,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 352136000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/57f1ae8fa6156bf38a2e3292baebf60c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15c13d5e4ddf27acf407de3c3058debe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64638c355851ab1548b0ce87b0a5ae03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9be4ff87c1c69f14148c7139f0a73057-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/455c0d934670f6b6ab5cc624564aef9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e8ee337af72f78d486e8cfcad044435-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7c259f4ce76ebbfe469c4eb6540ea9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/237d7ce27352ec9b0ace9029806aee2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38dcf5a2e9e59cab9307ee5fe46844ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46fa2c15a10b65315aa0a6994aba3318-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f05b8bce7e8df2b381e7d597cdcfdb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79357f80563547ae359193fb57b8edc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23a6e2829c95eae39d5e6aea1ce5b37b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cde6abbcfe1207ba522de1893b6101c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb6c8671a62357af3b15b95fd2023e5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfe33e536270fc5e03e60457cbaae231-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5381ed11036a4af3f992728a83064082-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/311871e8e70c5df6c9eb62e9c6d66a79-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "7def9826",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1b54506d"
+}

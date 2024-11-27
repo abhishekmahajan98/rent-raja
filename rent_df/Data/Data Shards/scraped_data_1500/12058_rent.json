@@ -1,0 +1,212 @@
+{
+  "listResults": [
+    {
+      "zpid": "442673739",
+      "id": "442673739",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3xkr8ty6neex4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4305a4ce1900a94b78c1974237fcaf4a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1910-County-Road-67-4-Leeds-NY-12451/442673739_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "1910 County Road 67 #4, Leeds, NY 12451",
+      "addressStreet": "1910 County Road 67 #4",
+      "addressCity": "Leeds",
+      "addressState": "NY",
+      "addressZipcode": "12451",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.301414,
+        "longitude": -73.9503
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442673739,
+          "streetAddress": "1910 County Road 67 #4",
+          "zipcode": "12451",
+          "city": "Leeds",
+          "state": "NY",
+          "latitude": 42.301414,
+          "longitude": -73.9503,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 745057000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4305a4ce1900a94b78c1974237fcaf4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/251adc388b324183626ce089392f2e81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dac42e63cc533357cfa30bac82687237-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6849ecd3a2e3315a1ec9a6f45745af5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20cba507ef088b90bb548c12613e5d93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/208b463869fabf60c657370367624150-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/331dcba1ec2ffa6c9a390680b99f43df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65b329b720e1326322c8ad34782ce73b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca66358014879722fb17b864458324b5-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442673739",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4305a4ce1900a94b78c1974237fcaf4a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1910-County-Road-67-4-Leeds-NY-12451/442673739_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "1910 County Road 67 #4, Leeds, NY 12451",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.301414,
+        "longitude": -73.9503
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442673739,
+          "streetAddress": "1910 County Road 67 #4",
+          "zipcode": "12451",
+          "city": "Leeds",
+          "state": "NY",
+          "latitude": 42.301414,
+          "longitude": -73.9503,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 745057000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 745057000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "142001a4",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

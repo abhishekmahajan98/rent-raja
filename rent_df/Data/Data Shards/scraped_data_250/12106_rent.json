@@ -1,0 +1,509 @@
+{
+  "listResults": [
+    {
+      "zpid": "442035012",
+      "id": "442035012",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2pj5fykbq2h62",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8d90bebf1767511ed4e759a0d02f2780-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/387-Eichybush-Rd-APT-3-Kinderhook-NY-12106/442035012_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,875/mo",
+      "unformattedPrice": 1875,
+      "address": "387 Eichybush Rd APT 3, Kinderhook, NY 12106",
+      "addressStreet": "387 Eichybush Rd APT 3",
+      "addressCity": "Kinderhook",
+      "addressState": "NY",
+      "addressZipcode": "12106",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1065,
+      "latLong": {
+        "latitude": 42.40192,
+        "longitude": -73.73628
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442035012,
+          "streetAddress": "387 Eichybush Rd APT 3",
+          "zipcode": "12106",
+          "city": "Kinderhook",
+          "state": "NY",
+          "latitude": 42.40192,
+          "longitude": -73.73628,
+          "price": 1875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1065.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1875.0,
+          "timeOnZillow": 2594726000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d90bebf1767511ed4e759a0d02f2780-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb3cc168962a6f5ae65729ee603369de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e202108dcd1829dce4622ffa8b7d6515-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1636b1457e37b8f6b9694425e641bbb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ebf1cebcddfee65e1058229c8b07fa8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f13e9ede686ac63f6211be8bf56d09f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ee4a92a6cd82b55d8dbd0a1f7b0458d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ca4b58c79e84aa0852df2c195510985-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd2f2551460828830105041efc1d9a8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/496d1cbe9a62e0303377bbed9a113d26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14132e8c6a209566c31d4b2825e2c8d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/794b864dd04fcec7bd2950abe8e5d8a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db31084327234a1677779e0c353a4fa7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba31675ec9717c8f857eee43fc725e87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ed3a94080d29bae01f452f0d9e60f67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2277fffcce81c0456d7d9919245f1ab6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a3aff3fef53d09f52abe227be217091-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e72ae16c9d0dadbcba5f5d3764aa073f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77b96cae4ac9e50a1d13ec0c506efabb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b01a948a7084f0cf07712db54ae6bcd0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e904eb1f9624622cac8be2b67ed6ff0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6113af4a320aa0c379937516879fe3d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b11ec7a0430c956c095904029e28102-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc37d91752efa99ba2907a10a3536a2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6693fbfa76d0c59f5f28bb2899d5407a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/836b77c71beee46b6b6f8c470cb6ce5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b84d2266ae24ea4d850c1f2651d89ec7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/646f70a7c0cfdd196bb9f88ab3f93390-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442035012",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8d90bebf1767511ed4e759a0d02f2780-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/387-Eichybush-Rd-APT-3-Kinderhook-NY-12106/442035012_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,875/mo",
+      "priceLabel": "$1.9K",
+      "address": "387 Eichybush Rd APT 3, Kinderhook, NY 12106",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1065,
+      "latLong": {
+        "latitude": 42.40192,
+        "longitude": -73.73628
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442035012,
+          "streetAddress": "387 Eichybush Rd APT 3",
+          "zipcode": "12106",
+          "city": "Kinderhook",
+          "state": "NY",
+          "latitude": 42.40192,
+          "longitude": -73.73628,
+          "price": 1875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1065.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1875.0,
+          "timeOnZillow": 2594726000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2594726000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "30013837",
+      "id": "30013837",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2f5r8e7q5eunj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/214209b4d680642260c8d5936d08a158-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/18-Rose-St-Niverville-NY-12130/30013837_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "18 Rose St, Niverville, NY 12130",
+      "addressStreet": "18 Rose St",
+      "addressCity": "Niverville",
+      "addressState": "NY",
+      "addressZipcode": "12130",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1388,
+      "latLong": {
+        "latitude": 42.444042,
+        "longitude": -73.65306
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30013837,
+          "streetAddress": "18 Rose St",
+          "zipcode": "12130",
+          "city": "Niverville",
+          "state": "NY",
+          "latitude": 42.444042,
+          "longitude": -73.65306,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1388.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 304900,
+          "rentZestimate": 2833,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 820936000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 208955.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 304900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/214209b4d680642260c8d5936d08a158-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10b06aa0d70ad0e7b8754dae1666ccdf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9dc7f07b51de39fb02f4e67fc532b44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a1a85ad92080eecf1cae0831f5401fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67e3ed76ac8da78ee7f7c05b0030b67b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a2b5559071c8b5537121f98ec8f6a16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/284fa58d2e2bf221b56401d4422fc730-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "342055350",
+      "id": "342055350",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ujscm84bta53",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1611567a8d458527b9efa2ac159c451e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/330-County-Route-26a-3-Stuyvesant-NY-12173/342055350_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "330 County Route 26a #3, Stuyvesant, NY 12173",
+      "addressStreet": "330 County Route 26a #3",
+      "addressCity": "Stuyvesant",
+      "addressState": "NY",
+      "addressZipcode": "12173",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.386524,
+        "longitude": -73.758415
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 342055350,
+          "streetAddress": "330 County Route 26a #3",
+          "zipcode": "12173",
+          "city": "Stuyvesant",
+          "state": "NY",
+          "latitude": 42.386524,
+          "longitude": -73.758415,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1707,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 1078861000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1611567a8d458527b9efa2ac159c451e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d0545d381503a0ab1d227c2b55b6e9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8df2136873c5709a5053b5093659e2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6b5a4b17d6ef4a98a63ea84471d6642-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea8e72b0a70b26f9df0b2194967e310f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/280371ecde16d24b651b9903d6dbe0b4-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1e94a530",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "6d30d297"
+}

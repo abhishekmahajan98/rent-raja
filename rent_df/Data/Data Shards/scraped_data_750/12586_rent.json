@@ -1,0 +1,2757 @@
+{
+  "listResults": [
+    {
+      "zpid": "441743786",
+      "id": "441743786",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1zdr0ymavm9c9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9090115e91a35b20ce3e27949a93313d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2726-2730th-St-3-Walden-NY-12586/441743786_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,995/mo",
+      "unformattedPrice": 1995,
+      "address": "2726 2730th St #3, Walden, NY 12586",
+      "addressStreet": "2726 2730th St #3",
+      "addressCity": "Walden",
+      "addressState": "NY",
+      "addressZipcode": "12586",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.56569,
+        "longitude": -74.17793
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441743786,
+          "streetAddress": "2726 2730th St #3",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "latitude": 41.56569,
+          "longitude": -74.17793,
+          "price": 1995.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1995.0,
+          "timeOnZillow": 933898000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9090115e91a35b20ce3e27949a93313d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b04f135b302d64dc481be3d1b28a118d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7677aa28424492bb8cbb02b8feb8c991-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58aec54d762749a1de38cefecdd5145f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a389016466f80346f90790b40495dc93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4298d3cd0c0df9ca54a2af6028597c09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61e54d1a628895c343a20acba3f8c9e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/747b78a5ac96cec9eec8c398ecea5702-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2df70c856639b5e63005c7ad257ebd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a74726f5ab0cbc39a763070c1f8a1f2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/402dfa19eea9eb6c2e362890d2dab4e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7cf2620e0952e9b9bc20c02d3c8421e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1440beaa7d862169c89eb65dcce25c5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e8f18d0a9cedd518ce8ec823343d67d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73df6ff96560acb5aad11c52a707eda6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/142016f519bfdacca8f553f727623141-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb8cb7c6d0dabc33242a54613646f236-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea34d9fee1e3b92239b79bd1cc56586a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16c93d46a0617c60930e8bfa4328586a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b153236ee60b0149669d7b6c5af2a68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bfbd95c2aa3f50f4efced7d1a514fb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b389d1b2e2189dafdb6538dd58552414-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0be65c1de5195972395cdaac5f4348eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/48d10f989761cb741e163dbe6b76a16b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "352588946",
+      "id": "352588946",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "35udpyrb9j6ce",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2a3c4f47ad0f8a4240cdb8cfdcd61a3d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/66-walnut-st-walden-ny-97xtDN/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,550/mo",
+      "unformattedPrice": 1550,
+      "address": "66 Walnut St, 66 Walnut St #B, Walden, NY 12586",
+      "addressStreet": "66 Walnut St #B",
+      "addressCity": "Walden",
+      "addressState": "NY",
+      "addressZipcode": "12586",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 41.557934,
+        "longitude": -74.18953
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 352588946,
+          "streetAddress": "66 Walnut St #B",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "latitude": 41.557934,
+          "longitude": -74.18953,
+          "price": 1550.0,
+          "datePriceChanged": 1730966400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 51,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1532,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "priceChange": -50,
+          "timeOnZillow": 4442365000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Fidelity Real Estate Management LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a3c4f47ad0f8a4240cdb8cfdcd61a3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b27aacadc15b862540d73e41085ed821-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00eb671f6b501732492bc70181ced492-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e199efd29100e47a77f3b08d3439f07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e0d7f5943e357bc248670a79d9a5117-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a0a56d715be2a7e98b1fd8373f612fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f9e7673aecd1888806993ffa0c06d1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/48536860fcd474ebc3b11cc9ed983cc8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/648156d7f733769fa2a8e4ca53857873-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f7ae2bf223d99c0ced846e159460e27-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442722030",
+      "id": "442722030",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2gmxrdju0jgnq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8f129e853077765d1349a478b6a63dd5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/304-Lakeside-Rd-1-Newburgh-NY-12550/442722030_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,525/mo",
+      "unformattedPrice": 2525,
+      "address": "304 Lakeside Rd #1, Newburgh, NY 12550",
+      "addressStreet": "304 Lakeside Rd #1",
+      "addressCity": "Newburgh",
+      "addressState": "NY",
+      "addressZipcode": "12550",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 768,
+      "latLong": {
+        "latitude": 41.5447,
+        "longitude": -74.09599
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442722030,
+          "streetAddress": "304 Lakeside Rd #1",
+          "zipcode": "12550",
+          "city": "Newburgh",
+          "state": "NY",
+          "latitude": 41.5447,
+          "longitude": -74.09599,
+          "price": 2525.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 768.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2525.0,
+          "timeOnZillow": 411255000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Realty, First in New York",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f129e853077765d1349a478b6a63dd5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e897bff20c311045cb222297b6e10ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14271168a06d033d0d7e6219fe01bb79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce4b8f5eb8511f064fc95860ffbf8a1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e49746ef83e3a1e111816ec7c681681-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a6583a4225ebfd3f2b572e9a2e66d7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afb186edafa05a15c971d3481acb1ea9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15c9ce477474112995b03f802fc1c6f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06147c5fc5e062d53c052774f8c2f892-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80ac85e2979841f6ec91de687181c3c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c7356655d12ae58733149dcc53f56bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e75f2091da2e67b4303a0f5e20649740-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6870ccfbad9f443ce9fda63f61d82d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cad5272f91e338436587930237c2324a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/846d7a8a235e6b7f732beb712b30ca48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/047f967a69a0b48caefe32d1b2544c9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68ec1911b67113a2307be095a5b177e0-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31837649",
+      "id": "31837649",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "bpmpeg8r70ry",
+      "imgSrc": "https://photos.zillowstatic.com/fp/31bc4209dcf4799bf16afb6b3f93519b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2051-State-Route-300-Wallkill-NY-12589/31837649_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "2051 State Route 300, Wallkill, NY 12589",
+      "addressStreet": "2051 State Route 300",
+      "addressCity": "Wallkill",
+      "addressState": "NY",
+      "addressZipcode": "12589",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1108,
+      "latLong": {
+        "latitude": 41.578873,
+        "longitude": -74.113396
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31837649,
+          "streetAddress": "2051 State Route 300",
+          "zipcode": "12589",
+          "city": "Wallkill",
+          "state": "NY",
+          "latitude": 41.578873,
+          "longitude": -74.113396,
+          "price": 2000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1108.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2142,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 331458000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 380700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/31bc4209dcf4799bf16afb6b3f93519b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ed1e82d509e63bcc9ad3b98a5d6adad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0ac8b7bdbe3e89a40683d9165be024c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66f74bed8c890fea82bbd3d7922f6b78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d1b564de5b5a7b33d5b919d87dfe1b9-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31841159",
+      "id": "31841159",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1drx1sp4jxpqd",
+      "detailUrl": "https://www.zillow.com/homedetails/Newburgh-NY-12550/31841159_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,525/mo",
+      "unformattedPrice": 2525,
+      "address": "(undisclosed Address), Newburgh, NY 12550",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Newburgh",
+      "addressState": "NY",
+      "addressZipcode": "12550",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 810,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31841159,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12550",
+          "city": "Newburgh",
+          "state": "NY",
+          "price": 2525.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 810.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 355700,
+          "rentZestimate": 2636,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2525.0,
+          "timeOnZillow": 670579000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 355700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-23 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31834716",
+      "id": "31834716",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2xfp1hgjwdz3w",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c8a9e8cf198323d9626c0870c99c6c2a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-S-Searsville-Rd-Montgomery-NY-12549/31834716_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,750/mo",
+      "unformattedPrice": 2750,
+      "address": "10 S Searsville Rd, Montgomery, NY 12549",
+      "addressStreet": "10 S Searsville Rd",
+      "addressCity": "Montgomery",
+      "addressState": "NY",
+      "addressZipcode": "12549",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 964,
+      "latLong": {
+        "latitude": 41.543793,
+        "longitude": -74.239456
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31834716,
+          "streetAddress": "10 S Searsville Rd",
+          "zipcode": "12549",
+          "city": "Montgomery",
+          "state": "NY",
+          "latitude": 41.543793,
+          "longitude": -74.239456,
+          "price": 2750.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 964.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 391600,
+          "rentZestimate": 2684,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2750.0,
+          "timeOnZillow": 1634136000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 278800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 391600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8a9e8cf198323d9626c0870c99c6c2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/058210f263ef2dd63bcc3648cf6c6736-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1563a77837f5187b3be6fc33c3e4b9e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6600d03e3db29b42f8ec474a2d17d9a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bc72d682652dd6b6f299bf071a655fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02c0dbb70e8cf421ae2d15b8ec770b19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6dc107c5ef683af738ca657dac823bc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b9e914647d82dd8aedd1bda73d1c780-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4f1a303c217b5b4558391964118605f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bf788aee657e81e955996857da10610-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/543a144e355dfd1fb0fbe96bcc26a7c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfad0d7bf0924f9841b28600cf0d5d52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77dba2534be3db2408ded16283746d40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab7a589d6bb5c34b0158226565376397-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92921c992be445f4555c32473d6f7a66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12472557a2aaa715a6509196ac06d723-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7369b227b00092482810313eefc9f6b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87044982206e4eba1700575c1e311e21-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c538ce3a3c3f8fa911968595bf73cd42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ea9cec06ee0e2d71fe345a419ad6039-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62c22b5844fbc9c9ab2323dc3dd97940-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442462653",
+      "id": "442462653",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "37d0qm6769ec",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fad9e089ea8fd7e98d9f8d9eb3f6a552-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/83-W-Main-St-83-Walden-NY-12586/442462653_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "83 W Main St #83, Walden, NY 12586",
+      "addressStreet": "83 W Main St #83",
+      "addressCity": "Walden",
+      "addressState": "NY",
+      "addressZipcode": "12586",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 41.56063,
+        "longitude": -74.19042
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442462653,
+          "streetAddress": "83 W Main St #83",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "latitude": 41.56063,
+          "longitude": -74.19042,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 1342941000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 83",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-08 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Realty, First in New York",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fad9e089ea8fd7e98d9f8d9eb3f6a552-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bd36ce642a0c4b3182015f7ca7fcce7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cb36205c9fb91ff2a6a49e24f955869-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3460a610baee18893e5a4955e9f8cbd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70302ae4b62872740a1deefe9d292560-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d65fa8166704f13a0b990584cfda5f62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be6ca9937fe754d0ac83f1817699d0d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc9378922c2cadc6bbac9a574b883955-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32822cfd093d9ba13caee86a0fde4e85-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c02089e577bdc9e22a8982d6b1c9781a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442405791",
+      "id": "442405791",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4296kj7fbutkn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6a3421b0d16e94809c4500329bbb5c6d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Walden-NY-12586/442405791_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "(undisclosed Address), Walden, NY 12586",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Walden",
+      "addressState": "NY",
+      "addressZipcode": "12586",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "23 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442405791,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "price": 1400.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 23,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "priceChange": 100,
+          "timeOnZillow": 2029464000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-31 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a3421b0d16e94809c4500329bbb5c6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bf3d596824913f2ad50e904bbfe4929-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6449c0586794d42eff4dc40bbfc9cea3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ae5f8f3a2cf3d7facd5d23cafc76543-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8751f7350e3b80fdc38a2baee738a31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab879ecc7a29499ec0335e178f0305cf-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "60066242",
+      "id": "60066242",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4q4q7zpbd4czn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/97db9fdd1a2e20f17a19183f45352133-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Walden-NY-12586/60066242_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$2,600/mo",
+      "unformattedPrice": 2600,
+      "address": "(undisclosed Address), Walden, NY 12586",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Walden",
+      "addressState": "NY",
+      "addressZipcode": "12586",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1576,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "48 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 60066242,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "price": 2600.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1576.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 48,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 321200,
+          "rentZestimate": 2631,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 4187519000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 321200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/97db9fdd1a2e20f17a19183f45352133-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d463b88d3c2e2a7b40ae60b34116884-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1579da6153982e26a965285387832325-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f36f39f57118e20c59577980165b070-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dc24ced1c8dc3de7ee6668138f3a125-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73ed797c7fbce6947fd2c458000a5697-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e48b658da9df04bf4bf8e315e1edc869-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f085b5c6eb5e764761cab94d0de2646b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1dedaa14906765076c14096433d0f8ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5fea732fc4cf15bf6b81c1a459a9a16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6534dfe56ed86e1411b9eb85d9699f33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1ed9518aa56e75cb68583366b0f85eb-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441641117",
+      "id": "441641117",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4ysxuugdtjssa",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8ef6d2f9ee99794049d9076524354dde-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/105-N-Montgomery-St-UNIT-34-Walden-NY-12586/441641117_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,725/mo",
+      "unformattedPrice": 1725,
+      "address": "105 N Montgomery St UNIT 34, Walden, NY 12586",
+      "addressStreet": "105 N Montgomery St UNIT 34",
+      "addressCity": "Walden",
+      "addressState": "NY",
+      "addressZipcode": "12586",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.56838,
+        "longitude": -74.19392
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "46 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441641117,
+          "streetAddress": "105 N Montgomery St UNIT 34",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "latitude": 41.56838,
+          "longitude": -74.19392,
+          "price": 1725.0,
+          "datePriceChanged": 1731657600000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 46,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$25 (Nov 15)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1725.0,
+          "priceChange": -25,
+          "timeOnZillow": 4050802000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 34",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ef6d2f9ee99794049d9076524354dde-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50d0e989dbb606eeaaf341ce58d0bf9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/818b347f6d5dc2178f469a6d1ce4729b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79903e8f1e96ef97756160c8afa72023-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/155ca56b2f023e4bf697482cc7a0d5eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1023dbc59c6668723c2849413fd29f77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de71d7ae1c81481284f74e43ee66756a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aac07add8b1c0d8b8b83c7c3c73a2d69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4fc0161a55e9b6b281965d2cc2071a14-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fde1e5f58aeb542f53bc369fb44276c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2974e781abfc126088e3bcb6af488d90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bca00dd1b07fd724b9a57f7dfcf83ff1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce0a52675ddb513d0c7ca359e511a036-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b206ae59c30ce572cce63a1e17257e0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d07b9f31beb7e93bdf12a7830e11c88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46378a77ff13789f89dbc42ddcc4fe99-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2061616092",
+      "id": "2061616092",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3fvhe0zdkthtk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/876919f5facf60a5eed9530d024bee95-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/92-Valley-Ave-Walden-NY-12586/2061616092_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,850/mo",
+      "unformattedPrice": 1850,
+      "address": "92 Valley Ave, Walden, NY 12586",
+      "addressStreet": "92 Valley Ave",
+      "addressCity": "Walden",
+      "addressState": "NY",
+      "addressZipcode": "12586",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 960,
+      "latLong": {
+        "latitude": 41.56452,
+        "longitude": -74.18597
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "71 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061616092,
+          "streetAddress": "92 Valley Ave",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "latitude": 41.56452,
+          "longitude": -74.18597,
+          "price": 1850.0,
+          "datePriceChanged": 1728630000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 960.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 71,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1831,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 11)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1850.0,
+          "priceChange": -100,
+          "timeOnZillow": 6185787000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Realty, First in New York",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/876919f5facf60a5eed9530d024bee95-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5869a208d4cf85dca60b000a6f0befb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4b085f235a2dd1902d5fdad93fa7789-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c17366cc2591cbde7a74a0440849bad0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0a5c216691aa0c348d1537d1f8193a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c75c8b919ba12f73a914a5c781d82011-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9662fd63747a5d26713a0d3e1c4ab563-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebd46d8355d4685d2f065d6d85127fb5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c478039f2492f02e1a828130a39ecdbe-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31837650",
+      "id": "31837650",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2bqnwam4ke9tw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f04f3c4074c97f1c20fc51fc874851ea-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2053-State-Route-300-Wallkill-NY-12589/31837650_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "2053 State Route 300, Wallkill, NY 12589",
+      "addressStreet": "2053 State Route 300",
+      "addressCity": "Wallkill",
+      "addressState": "NY",
+      "addressZipcode": "12589",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1104,
+      "latLong": {
+        "latitude": 41.579018,
+        "longitude": -74.11439
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31837650,
+          "streetAddress": "2053 State Route 300",
+          "zipcode": "12589",
+          "city": "Wallkill",
+          "state": "NY",
+          "latitude": 41.579018,
+          "longitude": -74.11439,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1104.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 407300,
+          "rentZestimate": 2404,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 828887000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 366800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 407300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f04f3c4074c97f1c20fc51fc874851ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fa1ea8fbd30212861a4380ca1f36904-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f19b4af15a6bdfd1a9fb8ecaf1900b45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dde040f65c066c4594fef251a8fa9ce4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/690c9b5778f65e2b738c6c436c5279b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5263c09f7fc21fa22115956d50d259ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29503e7309f9ebc72a1932419324dccd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5f9245f5af2803c082b227ad5fe9957-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6a5758044815edd06eceeb4697c60bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b9135f302d9441e06195b1fff50bb57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1517d84d1ef8a96eded8fa3b517382a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd9d3ff3403c5a1bc17fe310410c3963-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf16be45d044e0171293d9898b99c99e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03f00dc653251665b6c4e9977952437f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8617e4b0ccb40f6637d3af8085728679-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1509f57de3e3999cbde4959d9a72c29d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21cd7f6aff1d69503754aa0ed43217e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79fb9ebe249d259c3bea0d9619fd2c2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35b4cdc29485bf17f9ea60b24f097918-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0a0be00e1d343ebe2269f1106d36e87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2078c365563ff4d3fe8e5788c7bce63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/762324d1485f807b8a4550aaf31a6692-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a87be78e2121edb8ba8b30dbbb52fe9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9215fcfa0bb76c9fd6c12f5aca25c282-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad35c183a0089f4af24fc3f92391c25e-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442422045",
+      "id": "442422045",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "35kfdzzb5t2y2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b4b47877d53a791aea4151610b2dff15-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/191-3-Plains-Rd-Walden-NY-12586/442422045_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "191-3 Plains Rd, Walden, NY 12586",
+      "addressStreet": "191-3 Plains Rd",
+      "addressCity": "Walden",
+      "addressState": "NY",
+      "addressZipcode": "12586",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.569134,
+        "longitude": -74.14553
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442422045,
+          "streetAddress": "191-3 Plains Rd",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "latitude": 41.569134,
+          "longitude": -74.14553,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 1470769000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Curasi Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4b47877d53a791aea4151610b2dff15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/645752d78d997d843dacd189d910fd8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/48bb3a7016d6a794682aa12d8ffe349f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3249ee06fadbc2cf6dfcdbead7975421-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/036beeaedd5a5d399339e78dbb20207a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7b2c3376ee1573f123a6f5264bec6b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/746871969d52578796a0ea3a22716aba-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31834175",
+      "id": "31834175",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2x3svfngpm5sc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/589a26469648af1ea183d80c2bcb377f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-W-Searsville-Rd-Montgomery-NY-12549/31834175_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,750/mo",
+      "unformattedPrice": 2750,
+      "address": "10 W Searsville Rd, Montgomery, NY 12549",
+      "addressStreet": "10 W Searsville Rd",
+      "addressCity": "Montgomery",
+      "addressState": "NY",
+      "addressZipcode": "12549",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 964,
+      "latLong": {
+        "latitude": 41.556683,
+        "longitude": -74.257744
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31834175,
+          "streetAddress": "10 W Searsville Rd",
+          "zipcode": "12549",
+          "city": "Montgomery",
+          "state": "NY",
+          "latitude": 41.556683,
+          "longitude": -74.257744,
+          "price": 2750.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 964.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 44,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 454900,
+          "rentZestimate": 2684,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2750.0,
+          "timeOnZillow": 3810968000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 440500.0,
+          "lotAreaValue": 0.77,
+          "lotAreaUnit": "acres",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 454900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Howard Hanna Rand Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/589a26469648af1ea183d80c2bcb377f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05221137998ec2e65b760f107201d318-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e98c9177a1bc39998a0ef97b1a35d13a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93411f0399437d458856bf7af45cfbec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79a29f6a62ce9e7e0f6a50b489abecca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc7453561dc4337b032e42d9469b5836-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aed6c819bffc9b4a8477559d5cb06fee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b71cbed18da4f788c854a77d361172b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7c04c73c5a967130c598749db3e039a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c405ebf394f5ecb0613aa710a1339b43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e86fc137a0a52d4f1f4475ca5bbdfad3-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "441743786",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9090115e91a35b20ce3e27949a93313d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2726-2730th-St-3-Walden-NY-12586/441743786_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,995/mo",
+      "priceLabel": "$2.0K",
+      "address": "2726 2730th St #3, Walden, NY 12586",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.56569,
+        "longitude": -74.17793
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441743786,
+          "streetAddress": "2726 2730th St #3",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "latitude": 41.56569,
+          "longitude": -74.17793,
+          "price": 1995.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1995.0,
+          "timeOnZillow": 933898000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 933898000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "352588946",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2a3c4f47ad0f8a4240cdb8cfdcd61a3d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/66-walnut-st-walden-ny-97xtDN/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,550/mo",
+      "priceLabel": "$1.6K",
+      "address": "66 Walnut St #B, Walden, NY 12586",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 41.557934,
+        "longitude": -74.18953
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 352588946,
+          "streetAddress": "66 Walnut St #B",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "latitude": 41.557934,
+          "longitude": -74.18953,
+          "price": 1550.0,
+          "datePriceChanged": 1730966400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1532,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "priceChange": -50,
+          "timeOnZillow": 4442365000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Fidelity Real Estate Management LLC",
+      "timeOnZillow": 4442365000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectSingleFamilyDailyListings"
+      ]
+    },
+    {
+      "zpid": "442722030",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8f129e853077765d1349a478b6a63dd5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/304-Lakeside-Rd-1-Newburgh-NY-12550/442722030_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,525/mo",
+      "priceLabel": "$2.5K",
+      "address": "304 Lakeside Rd #1, Newburgh, NY 12550",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 768,
+      "latLong": {
+        "latitude": 41.5447,
+        "longitude": -74.09599
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442722030,
+          "streetAddress": "304 Lakeside Rd #1",
+          "zipcode": "12550",
+          "city": "Newburgh",
+          "state": "NY",
+          "latitude": 41.5447,
+          "longitude": -74.09599,
+          "price": 2525.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 768.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2525.0,
+          "timeOnZillow": 411255000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Realty, First in New York",
+      "timeOnZillow": 411255000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31837649",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/31bc4209dcf4799bf16afb6b3f93519b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2051-State-Route-300-Wallkill-NY-12589/31837649_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "2051 State Route 300, Wallkill, NY 12589",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1108,
+      "latLong": {
+        "latitude": 41.578873,
+        "longitude": -74.113396
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31837649,
+          "streetAddress": "2051 State Route 300",
+          "zipcode": "12589",
+          "city": "Wallkill",
+          "state": "NY",
+          "latitude": 41.578873,
+          "longitude": -74.113396,
+          "price": 2000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1108.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2142,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 331458000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 380700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 331458000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31834716",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c8a9e8cf198323d9626c0870c99c6c2a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/10-S-Searsville-Rd-Montgomery-NY-12549/31834716_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,750/mo",
+      "priceLabel": "$2.8K",
+      "address": "10 S Searsville Rd, Montgomery, NY 12549",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 964,
+      "latLong": {
+        "latitude": 41.543793,
+        "longitude": -74.239456
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31834716,
+          "streetAddress": "10 S Searsville Rd",
+          "zipcode": "12549",
+          "city": "Montgomery",
+          "state": "NY",
+          "latitude": 41.543793,
+          "longitude": -74.239456,
+          "price": 2750.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 964.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 391600,
+          "rentZestimate": 2684,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2750.0,
+          "timeOnZillow": 1634136000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 278800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 1634136000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442462653",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fad9e089ea8fd7e98d9f8d9eb3f6a552-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/83-W-Main-St-83-Walden-NY-12586/442462653_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "83 W Main St #83, Walden, NY 12586",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 41.56063,
+        "longitude": -74.19042
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442462653,
+          "streetAddress": "83 W Main St #83",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "latitude": 41.56063,
+          "longitude": -74.19042,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 1342941000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 83",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-08 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Realty, First in New York",
+      "timeOnZillow": 1342941000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441641117",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8ef6d2f9ee99794049d9076524354dde-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/105-N-Montgomery-St-UNIT-34-Walden-NY-12586/441641117_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,725/mo",
+      "priceLabel": "$1.7K",
+      "address": "105 N Montgomery St UNIT 34, Walden, NY 12586",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.56838,
+        "longitude": -74.19392
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "46 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441641117,
+          "streetAddress": "105 N Montgomery St UNIT 34",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "latitude": 41.56838,
+          "longitude": -74.19392,
+          "price": 1725.0,
+          "datePriceChanged": 1731657600000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$25 (Nov 15)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1725.0,
+          "priceChange": -25,
+          "timeOnZillow": 4050802000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 34",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 4050802000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2061616092",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/876919f5facf60a5eed9530d024bee95-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/92-Valley-Ave-Walden-NY-12586/2061616092_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,850/mo",
+      "priceLabel": "$1.9K",
+      "address": "92 Valley Ave, Walden, NY 12586",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 960,
+      "latLong": {
+        "latitude": 41.56452,
+        "longitude": -74.18597
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "71 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061616092,
+          "streetAddress": "92 Valley Ave",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "latitude": 41.56452,
+          "longitude": -74.18597,
+          "price": 1850.0,
+          "datePriceChanged": 1728630000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 960.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1831,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Oct 11)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1850.0,
+          "priceChange": -100,
+          "timeOnZillow": 6185787000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Realty, First in New York",
+      "timeOnZillow": 6185787000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31837650",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f04f3c4074c97f1c20fc51fc874851ea-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2053-State-Route-300-Wallkill-NY-12589/31837650_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "2053 State Route 300, Wallkill, NY 12589",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1104,
+      "latLong": {
+        "latitude": 41.579018,
+        "longitude": -74.11439
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31837650,
+          "streetAddress": "2053 State Route 300",
+          "zipcode": "12589",
+          "city": "Wallkill",
+          "state": "NY",
+          "latitude": 41.579018,
+          "longitude": -74.11439,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1104.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 407300,
+          "rentZestimate": 2404,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 828887000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 366800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "timeOnZillow": 828887000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "442422045",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b4b47877d53a791aea4151610b2dff15-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/191-3-Plains-Rd-Walden-NY-12586/442422045_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,800/mo",
+      "priceLabel": "$1.8K",
+      "address": "191-3 Plains Rd, Walden, NY 12586",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.569134,
+        "longitude": -74.14553
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442422045,
+          "streetAddress": "191-3 Plains Rd",
+          "zipcode": "12586",
+          "city": "Walden",
+          "state": "NY",
+          "latitude": 41.569134,
+          "longitude": -74.14553,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 1470769000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Curasi Realty",
+      "timeOnZillow": 1470769000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "31834175",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/589a26469648af1ea183d80c2bcb377f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/10-W-Searsville-Rd-Montgomery-NY-12549/31834175_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,750/mo",
+      "priceLabel": "$2.8K",
+      "address": "10 W Searsville Rd, Montgomery, NY 12549",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 964,
+      "latLong": {
+        "latitude": 41.556683,
+        "longitude": -74.257744
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31834175,
+          "streetAddress": "10 W Searsville Rd",
+          "zipcode": "12549",
+          "city": "Montgomery",
+          "state": "NY",
+          "latitude": 41.556683,
+          "longitude": -74.257744,
+          "price": 2750.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 964.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 454900,
+          "rentZestimate": 2684,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2750.0,
+          "timeOnZillow": 3810968000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 440500.0,
+          "lotAreaValue": 0.77,
+          "lotAreaUnit": "acres",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Howard Hanna Rand Realty",
+      "timeOnZillow": 3810968000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "17e74a3",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}
