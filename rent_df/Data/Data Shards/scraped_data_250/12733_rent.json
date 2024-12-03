@@ -1,0 +1,1375 @@
+{
+  "listResults": [
+    {
+      "zpid": "2079667788",
+      "id": "2079667788",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "46je54g6gxg1d",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=41.7544059753418,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=za18-rKIVKwU9wJGXf8O9BrZFG8=",
+      "detailUrl": "https://www.zillow.com/homedetails/31-Westbourne-Dr-42-Woodbourne-NY-12788/2079667788_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "31 Westbourne Dr #42, Woodbourne, NY 12788",
+      "addressStreet": "31 Westbourne Dr #42",
+      "addressCity": "Woodbourne",
+      "addressState": "NY",
+      "addressZipcode": "12788",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=41.7544059753418,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=SIUHC-RT1FkLD0gc43Hhbl6-hOw=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=41.7544059753418,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=7vpcqhVhpG1XfK7niBV0no__s58=",
+      "beds": 2,
+      "baths": 1.0,
+      "area": 860,
+      "latLong": {
+        "latitude": 41.754406,
+        "longitude": -74.609474
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "166 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2079667788,
+          "streetAddress": "31 Westbourne Dr #42",
+          "zipcode": "12788",
+          "city": "Woodbourne",
+          "state": "NY",
+          "latitude": 41.754406,
+          "longitude": -74.609474,
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 860.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 166,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1408,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 14375548000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 42",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Westbourne Gardens",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2080444131",
+      "id": "2080444131",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5gmtsh3nvaam3",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=41.75441360473633,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=c13vhtesJn3F0PsGUzYMTNrEnJg=",
+      "detailUrl": "https://www.zillow.com/homedetails/31-Westbourne-Dr-30-Woodbourne-NY-12788/2080444131_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "31 Westbourne Dr #30, Woodbourne, NY 12788",
+      "addressStreet": "31 Westbourne Dr #30",
+      "addressCity": "Woodbourne",
+      "addressState": "NY",
+      "addressZipcode": "12788",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=41.75441360473633,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=vkcKCnERNbXRH_hv0nsYZVhYOKk=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=41.75441360473633,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=C_wcDwEMAbnlunllTiLInlHPs-s=",
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 41.754414,
+        "longitude": -74.609474
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "166 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2080444131,
+          "streetAddress": "31 Westbourne Dr #30",
+          "zipcode": "12788",
+          "city": "Woodbourne",
+          "state": "NY",
+          "latitude": 41.754414,
+          "longitude": -74.609474,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 166,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1163,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 14375497000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 30",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Westbourne Gardens",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2079667788",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=41.7544059753418,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=za18-rKIVKwU9wJGXf8O9BrZFG8=",
+      "detailUrl": "/homedetails/31-Westbourne-Dr-42-Woodbourne-NY-12788/2079667788_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,350/mo",
+      "priceLabel": "$1.4K",
+      "address": "31 Westbourne Dr #42, Woodbourne, NY 12788",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=41.7544059753418,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=SIUHC-RT1FkLD0gc43Hhbl6-hOw=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=41.7544059753418,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=7vpcqhVhpG1XfK7niBV0no__s58=",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 860,
+      "latLong": {
+        "latitude": 41.754406,
+        "longitude": -74.609474
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "166 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2079667788,
+          "streetAddress": "31 Westbourne Dr #42",
+          "zipcode": "12788",
+          "city": "Woodbourne",
+          "state": "NY",
+          "latitude": 41.754406,
+          "longitude": -74.609474,
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 860.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1408,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 14375548000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 42",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Westbourne Gardens",
+      "timeOnZillow": 14375548000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2080444131",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=41.75441360473633,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=c13vhtesJn3F0PsGUzYMTNrEnJg=",
+      "detailUrl": "/homedetails/31-Westbourne-Dr-30-Woodbourne-NY-12788/2080444131_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,150/mo",
+      "priceLabel": "$1.2K",
+      "address": "31 Westbourne Dr #30, Woodbourne, NY 12788",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=41.75441360473633,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=vkcKCnERNbXRH_hv0nsYZVhYOKk=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=41.75441360473633,-74.6094741821289&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=C_wcDwEMAbnlunllTiLInlHPs-s=",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 41.754414,
+        "longitude": -74.609474
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "166 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2080444131,
+          "streetAddress": "31 Westbourne Dr #30",
+          "zipcode": "12788",
+          "city": "Woodbourne",
+          "state": "NY",
+          "latitude": 41.754414,
+          "longitude": -74.609474,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1163,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 14375497000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 30",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Westbourne Gardens",
+      "timeOnZillow": 14375497000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "32768934",
+      "id": "32768934",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "mw25apwyaqgy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/60264e79ce6ea1d28e227ce3b748af07-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/34-Morris-Dr-South-Fallsburg-NY-12779/32768934_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,700/mo",
+      "unformattedPrice": 2700,
+      "address": "34 Morris Dr, South Fallsburg, NY 12779",
+      "addressStreet": "34 Morris Dr",
+      "addressCity": "South Fallsburg",
+      "addressState": "NY",
+      "addressZipcode": "12779",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 2205,
+      "latLong": {
+        "latitude": 41.702114,
+        "longitude": -74.63153
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32768934,
+          "streetAddress": "34 Morris Dr",
+          "zipcode": "12779",
+          "city": "South Fallsburg",
+          "state": "NY",
+          "latitude": 41.702114,
+          "longitude": -74.63153,
+          "price": 2700.0,
+          "datePriceChanged": 1731657600000,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 2205.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 13,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 308000,
+          "rentZestimate": 2995,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Nov 15)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "priceChange": -300,
+          "timeOnZillow": 1203929000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 275862.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 308000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: 1985",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/60264e79ce6ea1d28e227ce3b748af07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26bbb230bd2c558a546b2bb043d09ec4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e05b153bbe5dfc3df28ccdd4be4bf6d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b69f15bafbab2b8dec1bfd419dd5267-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ecccec09c9976500a6d8f88f235d78b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5284698bb8478420ecf02e123a47317d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afcf243649046f7d4be45ea3f351cd20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcac145ffe62d50bf9cf083e9b5b63de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4e59239a63c733b7953ab17599b6cee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/925c6b7ca6e2bd7ab06b0fdbb21fb90f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47f6a53adb47c3434ea89fe5aa8f8277-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9a00da48c5a37fb64d6fb56958d8109-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cf97b8249780961d10039a7c5e9bc27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3800646b6912033f8dcb041739827285-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4fe4b7f847c8d472ffe2bcf22f9b64fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3ce8d1d2e59ecc2f47a874fd55ba595-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a056d4ac9f431e10245b5c0ab8936ae5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8743ef4bae79f596f93d5c4af9161553-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/add3e27051d04094a1e92dbf1b83e2de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2056abdbf704ec777c84557c98f077a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffca8d0ec38fb521703d53064c6927cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62526348e44cb80ffc6bad054bafa8d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6a940d65ed5ed77bd1b485891690813-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99acee614e6289a082e2f8ddd85a666f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcf987aeeba1e6073a2ddd71ac3db9c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2fc4d10d6a88ace58fbee35febbbb6b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ad18f77a7e60de4655db2b414c5f31e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a03815830008fdee380d2d49669ab978-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc249fbea170319b69ca6fa82162a6de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb9fe5fbe6019724fe3d16869c2d9843-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2aa6d1482671638eb4e86de17b978e3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c54eb33fcb9eb7da87d1d730d06a358-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d25b87ba9205731299a1c05d069337f9-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2106765794",
+      "id": "2106765794",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "28jv3t8e0dfkp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e43fd4c16df1cade0f427f3d878c49da-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/43-Broadway-Woodridge-NY-12789/2106765794_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "43 Broadway, Woodridge, NY 12789",
+      "addressStreet": "43 Broadway",
+      "addressCity": "Woodridge",
+      "addressState": "NY",
+      "addressZipcode": "12789",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.708096,
+        "longitude": -74.571045
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2106765794,
+          "streetAddress": "43 Broadway",
+          "zipcode": "12789",
+          "city": "Woodridge",
+          "state": "NY",
+          "latitude": 41.708096,
+          "longitude": -74.571045,
+          "price": 1200.0,
+          "datePriceChanged": 1731571200000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 21,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1340,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 14)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "priceChange": -200,
+          "timeOnZillow": 1825234000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: 1985",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e43fd4c16df1cade0f427f3d878c49da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed751a5a5d543cddbbdaca38d495539e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f041e448a1e414f5cfd116e82fb15b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e189b07add5e7e6031c20bf408acc1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a150628d5f6e42f3577715d4a28d702-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0404de464098fbe206e9b5d54875c61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9345b67e1926cc22721c4197a8a3940-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cebf1a4bb2cf3dd2e7cfb3b09e0ba45b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5690c5f0233a807a0c4c8590db383e80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0aa6ac700eac5013a809dedae46d9e04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7787a6084e1779d4c0de7b37b6b39b4-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "41.76519--74.648224",
+      "id": "41.76519--74.648224",
+      "providerListingId": "577kvz5c0ag5s",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1028c01d5b6406192cfa03a35b3015c6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/2-bed-1-bath-apartment-in-loch-sheldrake-loch-sheldrake-ny-5ftG87/",
+      "statusType": "FOR_RENT",
+      "statusText": "2 Bed 1 Bath Apartment In Loch Sheldrake",
+      "address": "1007 State Route 52, Loch Sheldrake, NY",
+      "addressStreet": "1007 State Route 52 # 2",
+      "addressCity": "Loch Sheldrake",
+      "addressState": "NY",
+      "addressZipcode": "12759",
+      "units": [
+        {
+          "price": "$1,100+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,200+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1036987397,
+      "latLong": {
+        "latitude": 41.76519,
+        "longitude": -74.648224
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "2 Bed 1 Bath Apartment In Loch Sheldrake",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1028c01d5b6406192cfa03a35b3015c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2288ab612789cfe04b96f6560b249fb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9165774f1dc09fbf387a7f843670f69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a359e8ae777201a2453bf18ebbea974f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7090492d6f018aace93a494d981b6c93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71a9050fb7c1699c221fa9b79fc06a9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b59a53504ce7fb528d2a421b4b1f5c88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d1ba0e703ce0b3a95d400e8de0df55a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22601367658a085e4545ea32b03f11d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e63e7e0f7323d3d994463b0c7a2d89e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62680f57a7286246da0aa2a23e751afc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c9bc2dd33d00757ce138e6603ad21fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43a5b270eb1dde9d5dc2c4786b0b0451-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e7ae159c37fdb0ac507536ff655f986-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd68a4bfd2a934bf9d79eef1255dfb4f-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "442656090",
+      "id": "442656090",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "cbhfsv4y8h9d",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ba4e18e651d012427fb36f85e92e24aa-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-Maple-Ave-S-UNIT-1-Woodridge-NY-12789/442656090_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,950/mo",
+      "unformattedPrice": 1950,
+      "address": "10 Maple Ave S UNIT 1, Woodridge, NY 12789",
+      "addressStreet": "10 Maple Ave S UNIT 1",
+      "addressCity": "Woodridge",
+      "addressState": "NY",
+      "addressZipcode": "12789",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 994,
+      "latLong": {
+        "latitude": 41.711308,
+        "longitude": -74.57346
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442656090,
+          "streetAddress": "10 Maple Ave S UNIT 1",
+          "zipcode": "12789",
+          "city": "Woodridge",
+          "state": "NY",
+          "latitude": 41.711308,
+          "longitude": -74.57346,
+          "price": 1950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 994.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 711508000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba4e18e651d012427fb36f85e92e24aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f93c382ccecf8e09c25f48596fc0061-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e69faf798c68ec66ac11842c580b373a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f29090fe08012fc472def76dff3f2eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9f4f384694f8d976ed301b4f6b8d4a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c65e4b88dc0724e1052bac7b3b0c3a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d50ad628ed7f50132280ac00eabaa11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ea59bf408e152bdcc2ef3a88f0b80b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f89afd1a9a38137bc260a1210ba90595-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a0c95eb1105e57f8ac850a6b66f1050-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/634e4afc5ca07307d5bdb4cff35f64ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a05046e3c437ed86b35b422b1cdcf44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0385fd92bf557f0251f43f14480ad1f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0354559606e5836cf75c616ffb07350e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ec71d7e24e45efcc96c762bf3755e7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd503f20b96a5b41101dbfb94bb0cd51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/134ca9ddf9e4fbc12e2d25140fb76a82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61b612990e9961d8e0b4717c6691ca02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4aa159ab5209e1cc62a065b1c02c9c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d5b657e8bfbc739b67ed4e6aaca4eb0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cabc9b5c4009e01c0dac1485c0533447-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/217f5005e1fc7a4c2c408a5bc887f8b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8246e66bfe4b7947e6132ca36bfa699e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d5d615ebf90ce22c29bace2e80f58a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbe2fc092fe56f800566b488b5cf55a0-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "67914866",
+      "id": "67914866",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1jqu69x54wxnq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/28510acfbcb74d7eb1bb883d823c93cb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/40-Houghtaling-Rd-Hurleyville-NY-12747/67914866_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,850/mo",
+      "unformattedPrice": 2850,
+      "address": "40 Houghtaling Rd, Hurleyville, NY 12747",
+      "addressStreet": "40 Houghtaling Rd",
+      "addressCity": "Hurleyville",
+      "addressState": "NY",
+      "addressZipcode": "12747",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 41.76484,
+        "longitude": -74.625656
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "82 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 67914866,
+          "streetAddress": "40 Houghtaling Rd",
+          "zipcode": "12747",
+          "city": "Hurleyville",
+          "state": "NY",
+          "latitude": 41.76484,
+          "longitude": -74.625656,
+          "price": 2850.0,
+          "datePriceChanged": 1731225600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 82,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 243700,
+          "rentZestimate": 2643,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2850.0,
+          "priceChange": 50,
+          "timeOnZillow": 7118867000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 193103.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 243700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: CATSKILL COUNTRY HOMES",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/28510acfbcb74d7eb1bb883d823c93cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a210def01313c41e38f93a3dfb39d8f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9c938e4bfc8c92182fc6a3c29a3eaa0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4ebbe825cceeeee1f338e16f9111499-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90128c4ad75b1f3fee9025c1a46f66f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22f0f5d2c827dc25c785bfe056f9ad45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ffc89868619a6ba8fef3663485d168d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cdd73052544eb8cc83c592684d6020be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6b9231520ec3f1848921fd47561269f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0612b82a4bc8dd6a1308dc86617f1e8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f2e4a14bf3ecda517e7fa4c277c0b58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a3e24a8d7fe59b113135807c222b116-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/434b1d881ad86efc97faaecf7facd224-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c12a2b376d0bb336c7878bcd7381a7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26cb736216ac7fd471bfec74a2b145d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6cbe946711a43e695967ffbb454aa380-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25a227dae6916ac2ed5774b2d31cbf21-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a417a1ad9ccd0e4b43bf21e5ac5a1693-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/770fda68877367e3fbf97c4108be2b6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7104ff234bc8262e127ccb60cd1efb9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/749031b83901207364c5a8f5e5d2878a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/484e2f5d8b1e7c6ca373d0c3e3cc1ad3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/401214b4c6ed8854c8142b8aab78a3c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3b91673637f9c1e1d80f88c2bef4295-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "442313099",
+      "id": "442313099",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3jynyjphdhun0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2288ab612789cfe04b96f6560b249fb1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/2-bed-1-bath-apartment-in-loch-sheldrake-loch-sheldrake-ny-5ftG87/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200+/mo",
+      "unformattedPrice": 1200,
+      "address": "2 Bed 1 Bath Apartment In Loch Sheldrake, 1007 State Route 52, Loch Sheldrake, NY 12759",
+      "addressStreet": "1007 State Route 52 #6",
+      "addressCity": "Loch Sheldrake",
+      "addressState": "NY",
+      "addressZipcode": "12759",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.765182,
+        "longitude": -74.648224
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442313099,
+          "streetAddress": "1007 State Route 52 #6",
+          "zipcode": "12759",
+          "city": "Loch Sheldrake",
+          "state": "NY",
+          "latitude": 41.765182,
+          "longitude": -74.648224,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 21,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 1863305000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 6",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Integrity National Property Management Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2288ab612789cfe04b96f6560b249fb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/203763a75058a03f89d129886c0ee29b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c46d1c24e11d6435a6c46b92405a45d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6275430491bf97c9bfb4d193629530c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de989135932045973cea6bd1f675d879-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdb3c7188839b4d43ccea366afe6b369-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a93473764a7bba9fdcf2dba2c3b8da4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e3b4cb1a583ff30884d6bf780cbad0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80ed470678116c6bc59d3d44b6fdcc5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c12b58ff5bf8d7438079a51bf3a44036-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34747a70d1c3dec1a0e82c7488b7eeee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e30cb261baef7eb87178a13be1a014c8-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2055314860",
+      "id": "2055314860",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3pg9g61yyav79",
+      "imgSrc": "https://photos.zillowstatic.com/fp/93fa80cac165a8b28a2b3b3d81d77707-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-Maple-Ave-N-2-Loch-Sheldrake-NY-12759/2055314860_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "10 Maple Ave N #2, Loch Sheldrake, NY 12759",
+      "addressStreet": "10 Maple Ave N #2",
+      "addressCity": "Loch Sheldrake",
+      "addressState": "NY",
+      "addressZipcode": "12759",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 41.770985,
+        "longitude": -74.65169
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "38 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055314860,
+          "streetAddress": "10 Maple Ave N #2",
+          "zipcode": "12759",
+          "city": "Loch Sheldrake",
+          "state": "NY",
+          "latitude": 41.770985,
+          "longitude": -74.65169,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 38,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 91700,
+          "rentZestimate": 993,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 3314024000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 91700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/93fa80cac165a8b28a2b3b3d81d77707-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9209390681f9648b159c26f050194e91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f54d5a1596b621f87f3d9375a68dc2d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/858bde1b92cc9b27f0d43d891f9dbe82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77e83ebeb779306dd520f7beb25168d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bd38ded07cdb6d111f43088da756db3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/284741d85021aee85d47becf34e36768-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2bec2a2dc906fd7032024f2312cdb4ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ca81db3f08b5aac12ea965602ce2272-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1696f12e",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "6da62ee4"
+}

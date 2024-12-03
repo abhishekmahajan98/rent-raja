@@ -1,0 +1,1579 @@
+{
+  "listResults": [
+    {
+      "zpid": "31148168",
+      "id": "31148168",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "28tf3uwvg9zdd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/97f573fa6a1631071b61c8e6aa1e6a8c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/105-Simonson-Rd-Greenvale-NY-11548/31148168_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,150/mo",
+      "unformattedPrice": 2150,
+      "address": "105 Simonson Rd, Greenvale, NY 11548",
+      "addressStreet": "105 Simonson Rd",
+      "addressCity": "Greenvale",
+      "addressState": "NY",
+      "addressZipcode": "11548",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 2.0,
+      "area": 8494,
+      "latLong": {
+        "latitude": 40.821045,
+        "longitude": -73.625946
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31148168,
+          "streetAddress": "105 Simonson Rd",
+          "zipcode": "11548",
+          "city": "Greenvale",
+          "state": "NY",
+          "latitude": 40.821045,
+          "longitude": -73.625946,
+          "price": 2150.0,
+          "bathrooms": 2.0,
+          "bedrooms": 1.0,
+          "livingArea": 8494.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1058700,
+          "rentZestimate": 3724,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2150.0,
+          "timeOnZillow": 489755000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1058700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-03 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Compass Greater NY LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/97f573fa6a1631071b61c8e6aa1e6a8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81cbc359fffb4bc31058a1f446bb2d94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2fbce670a8bbfb915fcead668fe22dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f0561f743046838f205680c167e5dc3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eaa1f1e1e49d607ec96854f783b8762f-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31148281",
+      "id": "31148281",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2vpxuquvaf37w",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3c639323bb947b5b658ac81874822ca5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/18-Addison-Ln-Greenvale-NY-11548/31148281_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,500/mo",
+      "unformattedPrice": 5500,
+      "address": "18 Addison Ln, Greenvale, NY 11548",
+      "addressStreet": "18 Addison Ln",
+      "addressCity": "Greenvale",
+      "addressState": "NY",
+      "addressZipcode": "11548",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.8152,
+        "longitude": -73.622986
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "85 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31148281,
+          "streetAddress": "18 Addison Ln",
+          "zipcode": "11548",
+          "city": "Greenvale",
+          "state": "NY",
+          "latitude": 40.8152,
+          "longitude": -73.622986,
+          "price": 5500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 85,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1120700,
+          "rentZestimate": 5161,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5500.0,
+          "timeOnZillow": 7410254000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 642000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1120700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Douglas Elliman",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c639323bb947b5b658ac81874822ca5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc9d823dd4c9be29e61643abeb2b174b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9518b9f92dbd68566afc88e1ee7d214c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/397185da60a0602c1df66da499d498dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b50368ec8d4662ccc32139a11c19ad6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0d899e58c8b694c474ef2e3810f6b50-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/814a3238b1641ebdedff4e136a7291e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3c333f87347101bbc096079cfdd3760-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34d408077667bc5af3b555b92ae0a50f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e8cacdb6b7d2874c763a58fbc089225-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4dab6956eff5735a48dd943d35b947cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1e4d3a61d2e42fc00586317409d6fbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65cdb7fdbdebe788a9d86aa3d6aa712c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1c54c37e2b6767ae2c698506cb4a768-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8cda4892a2ab6d732ccdeec9831b819-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a59c000b0b7563735c8911075bd4b2ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4c8cd9df65c39906d944100bcb51ff8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb4c314458f8211093239e37edf41c7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f4287ecc05c87626956bf06c6c95b3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50a49ba4834049d4dcdce04e7c06e6aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b028db0dd07b414a27624929af035cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79636b791f7cc243563ac6cb31061a1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d164fabb644826c3c0b5e9e826ba1b6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e90619c1b6f61c43abe5c7a4df849f9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db1436e45a7a9631a84556b6af41a93f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2df925d152a39db892a344433e70fb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5735edfaba19eb988407bc425e1061a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1734351425162a57ab592c1b1fd6cf2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d99880c5ba269cb18921917c555d6fe9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a481dc6181b11cb276bfa6426335bf41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e939e0b55ff08bf9666ed6ef6fbe70a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ca4b15e1391aa289f3747a672b843e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb0f0b3e9a671ee2634fbc26726ac3fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5aee4aa07767539bc57cb742d6e75084-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2e632774c922f6dfbacb34db013e127-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61e755492cf67b15832c527902a7090b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "31148168",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/97f573fa6a1631071b61c8e6aa1e6a8c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/105-Simonson-Rd-Greenvale-NY-11548/31148168_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,150/mo",
+      "priceLabel": "$2.2K",
+      "address": "105 Simonson Rd, Greenvale, NY 11548",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 2.0,
+      "area": 8494,
+      "latLong": {
+        "latitude": 40.821045,
+        "longitude": -73.625946
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31148168,
+          "streetAddress": "105 Simonson Rd",
+          "zipcode": "11548",
+          "city": "Greenvale",
+          "state": "NY",
+          "latitude": 40.821045,
+          "longitude": -73.625946,
+          "price": 2150.0,
+          "bathrooms": 2.0,
+          "bedrooms": 1.0,
+          "livingArea": 8494.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1058700,
+          "rentZestimate": 3724,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2150.0,
+          "timeOnZillow": 489755000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-03 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Compass Greater NY LLC",
+      "timeOnZillow": 489755000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "31148281",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3c639323bb947b5b658ac81874822ca5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/18-Addison-Ln-Greenvale-NY-11548/31148281_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$5,500/mo",
+      "priceLabel": "$5.5K",
+      "address": "18 Addison Ln, Greenvale, NY 11548",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.8152,
+        "longitude": -73.622986
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "85 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31148281,
+          "streetAddress": "18 Addison Ln",
+          "zipcode": "11548",
+          "city": "Greenvale",
+          "state": "NY",
+          "latitude": 40.8152,
+          "longitude": -73.622986,
+          "price": 5500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1120700,
+          "rentZestimate": 5161,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5500.0,
+          "timeOnZillow": 7410254000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 642000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Douglas Elliman",
+      "timeOnZillow": 7410254000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "40.793903--73.646996",
+      "id": "40.793903--73.646996",
+      "providerListingId": "1ugqb827k7327",
+      "imgSrc": "https://photos.zillowstatic.com/fp/461509589445856c9bebb3e1b92770a9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/roslyn-ny/the-chalet-apartments/97kP76/",
+      "statusType": "FOR_RENT",
+      "statusText": "The Chalet Apartments",
+      "address": "300 Edwards St, Roslyn, NY",
+      "addressStreet": "300 Edwards St # 2B-2Ba-1450Sqft",
+      "addressCity": "Roslyn",
+      "addressState": "NY",
+      "addressZipcode": "11576",
+      "units": [
+        {
+          "price": "$3,267+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$4,598+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2010431980,
+      "latLong": {
+        "latitude": 40.793903,
+        "longitude": -73.646996
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "SPECIAL_OFFER",
+        "text": "Special Offer"
+      },
+      "isSaved": false,
+      "buildingName": "The Chalet Apartments",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/461509589445856c9bebb3e1b92770a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1401229f02a3df3b8055ba56d3e82b93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5835f836a5a3067893c7492f2f2db4ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8cd3649e8fd83625377d6bc3e164f9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46d96d32cb7d0e6251c7b11e80179e08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff507e742c52016582668c93c804a7d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31e2c7d74533bd0df062cc02da86007b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92732e983260071fc7a81af650b80170-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28649fb0dbac24a16a3ddd0b7c53d3ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71b5222cc929241522bc61c34a27857d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e630852520434424ae065a99578e60d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29cdfec9892e855205b6fbcfc1725956-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e953de71af81615559aa7bd0e6264c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13dfce3a1dc79a97f8c7aa11eb378b81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be4d4702af2b33f17ea1c9f6de815f78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc859202d572f9c352cb31f225b6b9ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00854f2bc4624465ee79b12b57f76b4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a88e5290adb2f8d252ad47a71c3747c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/943cb31b0e2021ec44f8e7494b01fcbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eed2fc178927280e1b69f6b28bcbd1e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac25eb8cda4a94b1a31dfa68af87fa0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f56c5de07491d788556b28e5bc062381-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d18f7894dc2ad9fc1b8626f288f6ded-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdc0888c8bd6073901689af1df6e50a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ce1cb8dd8382719e276b71ddc9e4b97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1552db88b2fd56b144189134cacda090-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/114edd8c93f8206dc5f2d50b14419190-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c1ff7e2cfb836fc01a8eb37d35b3670-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5936ed149c594e701d1dff11026ba3fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/894c9225a2b5cbf48f1e2f1d5a3930d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f3d305f625b1aeb5249639ab0dd1be4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf288caddbca029bfca4b7c5766bf0d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b22041989eb5dde8be3b66db0333fb82-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyEnhancedPackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "40.80552--73.648",
+      "id": "40.80552--73.648",
+      "providerListingId": "2aphx88cwx3w8",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1ff74ec7514c658f8ee29e4ff639dc6c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/roslyn-ny/fairfield-knolls-on-roslyn-harbor/5Xr933/",
+      "statusType": "FOR_RENT",
+      "statusText": "Fairfield Knolls On Roslyn Harbor",
+      "address": "61 Bryant Ave, Roslyn, NY",
+      "addressStreet": "61 Bryant Ave # 2B-2Ba-1244Sqft",
+      "addressCity": "Roslyn",
+      "addressState": "NY",
+      "addressZipcode": "11576",
+      "units": [
+        {
+          "price": "$7,250+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$6,895+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1002151039,
+      "latLong": {
+        "latitude": 40.80552,
+        "longitude": -73.648
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "SPECIAL_OFFER",
+        "text": "Special Offer"
+      },
+      "isSaved": false,
+      "buildingName": "Fairfield Knolls On Roslyn Harbor",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ff74ec7514c658f8ee29e4ff639dc6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e28ddc6ba302da0f3d45affb42dcd80e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e36f06deaef2ed47d5480fa5b2ea345-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5fc15cd2c86fe5625e4d18bb7d06ec76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1eeb8cd92b17acc502a307173e402c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08b4873bd7bc07d57d0ffc94d7ae7616-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91d7bc48e962bdd20ad84946e9651b2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/354ceae6880a33106a022e3edb994453-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1708a49a2b876e2683ec6479af61c60a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f877baa7e7171780e555ff87226090c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c8b674267234f1010d1463b4f9d8c1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19ed766cafd38e0f7fbb189084cf5faf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22ad4d0332f1a9df334877400a67e293-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17945f60870a2e84a665bd248fc2e64e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fdd894099641dbf6a5148e4f29e9a5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f532a68b44c3c1cf04409f3d189cd9e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c579d9549bdd55c8f9b7f2581d267fd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3afc8542c7da1212b83f42f4dbfceae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0993c1c0d0a58d4f17b36da2c47735a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f73829db29bf5f625ed1573dab14270c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e3319e403cf858e15ab35e79cc88786-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38ba4b02ab035e9f4280c4634f0f89f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/986566897e1faedfd2b7995ca6fb1a2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/832870c0e95d613f3f92fd091e36be4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5ba4dfd6daf29e9c3f0881577b161d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6e3d4c5a069b66d6df9d38e0607c780-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/176e4537a278778f39192eeee78727e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac8213049436c8291307e82d7cf9e49a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db6464aaf9d9084e8cb50a4a1b3ffc47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c65a7b52b7b4c58462f237436a52d8ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2626237e18d1c0873304dd2ccfc365a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe8cd8bdceabb0cea1c3e31ed1046ddf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95def7ed02805d0622d4d7094364331d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b12dd7f1f6e5addb7c2506e8aae0011-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a91e9bb019d37cbb56362ed6ab8c20e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/709e5afa0d2beed98240bf7c794a0dc3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/363ed1be2b663c2113eaa550658fbd08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5418e9a35a6a89a28d871ab344eb29f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/249e3a7b89e8d478b72cc7faa702b231-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f738d3504d65db37a3b2e80dcf245504-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f61cb7373cbac53a71574e3507a6576-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/346918d12fd864b20556a9dce829e3b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6f643d48f0626aa8874e140b3e0af7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e781ac1ed6b9e1bde50fc6f4e78a2362-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "2115446074",
+      "id": "2115446074",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3w9e5ch320n9w",
+      "imgSrc": "https://photos.zillowstatic.com/fp/aa636322c8ed215c5b490315a48eff52-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Glenwood-Landing-NY-11547/2115446074_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,700/mo",
+      "unformattedPrice": 2700,
+      "address": "(undisclosed Address), Glenwood Landing, NY 11547",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Glenwood Landing",
+      "addressState": "NY",
+      "addressZipcode": "11547",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2115446074,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11547",
+          "city": "Glenwood Landing",
+          "state": "NY",
+          "price": 2700.0,
+          "bathrooms": 2.0,
+          "bedrooms": 1.0,
+          "livingArea": 1000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 565500,
+          "rentZestimate": 4071,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "timeOnZillow": 1014348000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 565500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: CRG Realty inc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa636322c8ed215c5b490315a48eff52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ac75d38ae53e3980cf13db3a66adc7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b4803305434503269cd977ab92b720b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea4e3c7b90885d744c7836e2891ab5de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/232010f6d6474714459c9342a8c84179-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2056011867",
+      "id": "2056011867",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3adkgnercsnh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/88187e401c30c530f113823504e50e73-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Roslyn-Heights-NY-11577/2056011867_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,267/mo",
+      "unformattedPrice": 3267,
+      "address": "(undisclosed Address), Roslyn Heights, NY 11577",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Roslyn Heights",
+      "addressState": "NY",
+      "addressZipcode": "11577",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "77 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056011867,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11577",
+          "city": "Roslyn Heights",
+          "state": "NY",
+          "price": 3267.0,
+          "datePriceChanged": 1728543600000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 77,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2833,
+          "listing_sub_type": {},
+          "priceReduction": "$28 (Oct 10)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3267.0,
+          "priceChange": -28,
+          "timeOnZillow": 6657863000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Licensed Real Estate Broker - Backer, Desaix",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/88187e401c30c530f113823504e50e73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0867bc11601576d4448d4ee99b10052d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7aafdeaae6d10b447bc419a56af478f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2c4b725cd12264909ea0895fe470062-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d6f438a750da447ca5fab68d91dc0ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/290b7195fa851f824d6578a2b1052486-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e54a69186b6e19c06bb2c93c0427443f-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31087522",
+      "id": "31087522",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "44fbzp87hhaek",
+      "imgSrc": "https://photos.zillowstatic.com/fp/53d533136bedcf96681ed64a20538d02-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8-Locust-St-Roslyn-Heights-NY-11577/31087522_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,200/mo",
+      "unformattedPrice": 5200,
+      "address": "8 Locust St, Roslyn Heights, NY 11577",
+      "addressStreet": "8 Locust St",
+      "addressCity": "Roslyn Heights",
+      "addressState": "NY",
+      "addressZipcode": "11577",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2728,
+      "latLong": {
+        "latitude": 40.792145,
+        "longitude": -73.64251
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31087522,
+          "streetAddress": "8 Locust St",
+          "zipcode": "11577",
+          "city": "Roslyn Heights",
+          "state": "NY",
+          "latitude": 40.792145,
+          "longitude": -73.64251,
+          "price": 5200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2728.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 962900,
+          "rentZestimate": 5203,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5200.0,
+          "timeOnZillow": 2229917000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 796000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 962900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: B Square Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/53d533136bedcf96681ed64a20538d02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ec961b461e2b2776884cf4d9bf1d541-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e0cedf626a5522adb378b11e2ffe98c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b2f6ee901e9b12d742819e9d0b878d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5445a71d88185e5e6c1069eab32d3776-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88e7dcff1c76a72938c30c264ce9a5a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd5f71f7b3cfcc41f2ecd1115415f521-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecd86e8baed07400c6281ac808d5cd1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6b43258c253c6f28c92c014f55d862d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d69bb3b7e36a844bb75329e9d0aff0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07ea5501cecb538d153ad30bf56bec3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e9af4ba5fcdf7d1dc3b30a385436d6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35992fcf01dc233df56b0c2c0d78dc40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2e48f31ed2f8adc932702a3b2466532-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edbd351cc6d1b24d127223b48f39a3f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57d6aee36d589a7760b9d62207046822-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a20dcc4f55c019234868ad8f3a564c9-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "380759408",
+      "id": "380759408",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3y54mbcfg5qg2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/82f6242de22de7c16423e4649428a37e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1433-Northern-Blvd-Roslyn-NY-11576/380759408_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "1433 Northern Blvd, Roslyn, NY 11576",
+      "addressStreet": "1433 Northern Blvd",
+      "addressCity": "Roslyn",
+      "addressState": "NY",
+      "addressZipcode": "11576",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.80256,
+        "longitude": -73.64764
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 380759408,
+          "streetAddress": "1433 Northern Blvd",
+          "zipcode": "11576",
+          "city": "Roslyn",
+          "state": "NY",
+          "latitude": 40.80256,
+          "longitude": -73.64764,
+          "price": 3500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 797100,
+          "rentZestimate": 3826,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 1469393000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 185300.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 797100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: CHOUS REALTY GROUP INC.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/82f6242de22de7c16423e4649428a37e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32a034cd28d4b0fcfeb532180fbaeab2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f261717e00760471da5c995346999e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b1d0b3d15925a5c7402b2b72ceb2950-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ed26cc9a4a288ead12019e67b2e9813-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/850b51921020a52bd417f7b736eb4cab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac62efa726a1b1065d36eb2d5b475cbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a5b5dac6c7bfd5c0528db4ee87a5840-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/718bfd5e78be394158ea5fe09a99aab1-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "350349083",
+      "id": "350349083",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3pa5433s066yz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cad35c344777d0276ee3404948629ad4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Roslyn-Heights-NY-11577/350349083_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$4,598/mo",
+      "unformattedPrice": 4598,
+      "address": "(undisclosed Address), Roslyn Heights, NY 11577",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Roslyn Heights",
+      "addressState": "NY",
+      "addressZipcode": "11577",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 350349083,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11577",
+          "city": "Roslyn Heights",
+          "state": "NY",
+          "price": 4598.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 4090,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4598.0,
+          "timeOnZillow": 1296689000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Licensed Real Estate Broker - Backer, Desaix",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cad35c344777d0276ee3404948629ad4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c92b8ae6e8823985a4a3ea49685d13db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69c7bdcb539954fc8493d155c0031956-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92cb064cad29eddc6c1a566d146e6b88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de8bde99d9f32a1ca2d464bde1ccc7c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e43e5a7438fe65753be769a36d5ada64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f22d15f960c8cceb90b2cb8229e96750-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60496ac48472c01ebcb93495d3a60ad9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ce1298cf8f2308173c6c2e6f7558a92-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "351212047",
+      "id": "351212047",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4qvz85gq0m5nq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2e11b33828ed3eb97498f2b9bc66d295-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/174-Hegemans-Ln-2-Glen-Head-NY-11545/351212047_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$4,000/mo",
+      "unformattedPrice": 4000,
+      "address": "174 Hegemans Ln #2, Glen Head, NY 11545",
+      "addressStreet": "174 Hegemans Ln #2",
+      "addressCity": "Glen Head",
+      "addressState": "NY",
+      "addressZipcode": "11545",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 4.0,
+      "latLong": {
+        "latitude": 40.83721,
+        "longitude": -73.58897
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 351212047,
+          "streetAddress": "174 Hegemans Ln #2",
+          "zipcode": "11545",
+          "city": "Glen Head",
+          "state": "NY",
+          "latitude": 40.83721,
+          "longitude": -73.58897,
+          "price": 4000.0,
+          "bathrooms": 4.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 20,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 4779,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 1782291000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e11b33828ed3eb97498f2b9bc66d295-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16ffbbb5720fca4fa8ed3abb89094c2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6158ffa4facd1b8b8cc63227cf0d143e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d324f4d47d2ae602852aadf6ac61b33e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c137290752d57ee4d9629ebdced6406-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19f7b0bad53e7f06bf2a45d6ff0d7040-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/293c2b0a9a49d5af9645a03c5a00d58e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aaea8c9c79b5c35c2f843f51413d995b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a081a373e8e8bc239b4657ce628a9998-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e5b2fac4360202efe5e0dfc7bc07612-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d07e084179154950df77e7e4da5b02a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb89fc750d39f97e8a967f7dfcf7f150-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ba515e2800ea5352d27ff7321857fa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae3e9b29c5354e0c1cccf71279a7638b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a346c28f9ea7f83d2e0ba8013ff5da2b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "10370739",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "2685fc3e"
+}

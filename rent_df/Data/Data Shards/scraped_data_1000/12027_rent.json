@@ -1,0 +1,1361 @@
+{
+  "listResults": [
+    {
+      "zpid": "32410489",
+      "id": "32410489",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4h15f6p5u10vh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/88fa8f6954a16a4dfd7509ff01e1ba0d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/859-State-Route-50-Ballston-Lake-NY-12019/32410489_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,299/mo",
+      "unformattedPrice": 3299,
+      "address": "859 State Route 50, Ballston Lake, NY 12019",
+      "addressStreet": "859 State Route 50",
+      "addressCity": "Ballston Lake",
+      "addressState": "NY",
+      "addressZipcode": "12019",
+      "isUndisclosedAddress": false,
+      "beds": 6,
+      "baths": 3.0,
+      "area": 3600,
+      "latLong": {
+        "latitude": 42.919937,
+        "longitude": -73.88778
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32410489,
+          "streetAddress": "859 State Route 50",
+          "zipcode": "12019",
+          "city": "Ballston Lake",
+          "state": "NY",
+          "latitude": 42.919937,
+          "longitude": -73.88778,
+          "price": 3299.0,
+          "bathrooms": 3.0,
+          "bedrooms": 6.0,
+          "livingArea": 3600.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 160900,
+          "rentZestimate": 3284,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3299.0,
+          "timeOnZillow": 496754000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 291773.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 160900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Wolf River Real Estate, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/88fa8f6954a16a4dfd7509ff01e1ba0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c9f7206f53492df483cdacdf94f2ea4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04e55066ff9063c9f3cc41292686ae28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e8d2c74e054c6cd507055dd58022913-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a1a207ff81f80f8e5a10fb7cb2e8bbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8439e23a3ca619d7f35f71f4cfe1d17c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ff4fcaf16213a41f06feb0307fb0caa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e194a3431398e7069d20be23841713d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c7ab9ed1eb90bebca5e13de33d43e0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ac9b393a2266266071fc054e7801e6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2eb58db5a8d6451c983c430aeb2ec9a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae3bbc55b287108c9a210ababfbbb2b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1bafd41fbe0e5452002edb4756e5f4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b99fed5d6d2b899ed43e4bdcd6d56849-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4310f0a33e50312a18b44ebe8e9c16e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62b797557e1a6adcaacfb93065542cd4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d95cde9304d853b266ac27e0318fd368-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebeab29cc1b5104398dfd7c471c41255-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/027f04b4ec659ffb82d6cea1ff3c6ef2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ee0b5254aefb47b13cc01978bf1e773-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab62a6d9c80a0bc7df9f414a65245d15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f944d5698e80cac2dd727f02f0b33f2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74d38d61ade598c3b9d787b2e9dfbf8b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c13283e4d63a86c9b90f24cd7b1ca35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbc01ae67349733da791ed9872a5ac1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f355d4f69a309688c169dfa7c48a411e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5d1f9b00510cf5b568f6085c9943d9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab70166c645504b13a64673142741f55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32f2fc618c34edad1a91870fcbd34e10-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442034850",
+      "id": "442034850",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3sgumx1v4ajmy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/49e839335e230f45773fc578f97585bd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/kingsley-corner-residential-suite-28-burnt-hills-ny-97sYqj/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,750+/mo",
+      "unformattedPrice": 1750,
+      "address": "Kingsley Corner- Residential - Suite 28, 225 Kingsley Rd SUITE 28, Burnt Hills, NY 12027",
+      "addressStreet": "225 Kingsley Rd SUITE 28",
+      "addressCity": "Burnt Hills",
+      "addressState": "NY",
+      "addressZipcode": "12027",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.90903,
+        "longitude": -73.89554
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442034850,
+          "streetAddress": "225 Kingsley Rd SUITE 28",
+          "zipcode": "12027",
+          "city": "Burnt Hills",
+          "state": "NY",
+          "latitude": 42.90903,
+          "longitude": -73.89554,
+          "price": 1750.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "timeOnZillow": 2644817000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Suite 28",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Lombardo Property Group, LLC.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/49e839335e230f45773fc578f97585bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2361421268f34b333196903ce1cdea73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/615af1c94a5a05e26b3ecb514ead1ad6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e076c69dd5dae2b0215bfd7a2c40a2ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93d47f4d041ecc156ebb2a26cd31e0cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce2870a49e810d3666fb97f39a0e92a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ded67594778d7a02eb10738f8eae411-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4968955a308316636404b191d9d508a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e4862c091aafcee649eba9bf8bf8585-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebbb045bc6fde26b4b4ffda47eeb9bd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d60662766c993271df1eaac83e042ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cc0dcd829f467ea5effecd2e1adb603-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f79e2e19fdfe0cb07cb03f1aaaac135b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.9096--73.89564",
+      "id": "42.9096--73.89564",
+      "providerListingId": "184khw6sffneh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4cc0dcd829f467ea5effecd2e1adb603-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/kingsley-corner-residential-burnt-hills-ny-BKRNrq/",
+      "statusType": "FOR_RENT",
+      "statusText": "Kingsley Corner- Residential - Apartment 4",
+      "address": "105 Lakehill Rd, Burnt Hills, NY",
+      "addressStreet": "105 Lakehill Rd Apt 4",
+      "addressCity": "Burnt Hills",
+      "addressState": "NY",
+      "addressZipcode": "12027",
+      "units": [
+        {
+          "price": "$1,050+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,750+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2348789903,
+      "latLong": {
+        "latitude": 42.9096,
+        "longitude": -73.89564
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Kingsley Corner- Residential - Apartment 4",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cc0dcd829f467ea5effecd2e1adb603-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a29613b75af6410790c32afcb25debe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ceb3f22cec27931a5168cbcd9d665ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa03e158b53b017d1a24de25764f7d44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/107670606e8d1e4c91bb5ed74fdb48fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8786cc2050c5f1ac53b4903bacd9562e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f79e2e19fdfe0cb07cb03f1aaaac135b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/49e839335e230f45773fc578f97585bd-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32410489",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/88fa8f6954a16a4dfd7509ff01e1ba0d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/859-State-Route-50-Ballston-Lake-NY-12019/32410489_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,299/mo",
+      "priceLabel": "$3.3K",
+      "address": "859 State Route 50, Ballston Lake, NY 12019",
+      "isNewYorkState": true,
+      "beds": 6,
+      "baths": 3.0,
+      "area": 3600,
+      "latLong": {
+        "latitude": 42.919937,
+        "longitude": -73.88778
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32410489,
+          "streetAddress": "859 State Route 50",
+          "zipcode": "12019",
+          "city": "Ballston Lake",
+          "state": "NY",
+          "latitude": 42.919937,
+          "longitude": -73.88778,
+          "price": 3299.0,
+          "bathrooms": 3.0,
+          "bedrooms": 6.0,
+          "livingArea": 3600.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 160900,
+          "rentZestimate": 3284,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3299.0,
+          "timeOnZillow": 496754000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 291773.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Wolf River Real Estate, LLC",
+      "timeOnZillow": 496754000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442034850",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/49e839335e230f45773fc578f97585bd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/kingsley-corner-residential-suite-28-burnt-hills-ny-97sYqj/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,750+/mo",
+      "priceLabel": "$1.8K",
+      "address": "225 Kingsley Rd SUITE 28, Burnt Hills, NY 12027",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.90903,
+        "longitude": -73.89554
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442034850,
+          "streetAddress": "225 Kingsley Rd SUITE 28",
+          "zipcode": "12027",
+          "city": "Burnt Hills",
+          "state": "NY",
+          "latitude": 42.90903,
+          "longitude": -73.89554,
+          "price": 1750.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "timeOnZillow": 2644817000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Suite 28",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Lombardo Property Group, LLC.",
+      "timeOnZillow": 2644817000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "plid": "184khw6sffneh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4cc0dcd829f467ea5effecd2e1adb603-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/kingsley-corner-residential-burnt-hills-ny-BKRNrq/",
+      "statusType": "FOR_RENT",
+      "statusText": "Kingsley Corner- Residential - Apartment 4",
+      "price": "$1,050+/mo",
+      "address": "105 Lakehill Rd, Burnt Hills, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "lotId": 2348789903,
+      "latLong": {
+        "latitude": 42.9096,
+        "longitude": -73.89564
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "Kingsley Corner- Residential - Apartment 4",
+      "buildingId": "42.9096--73.89564",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 2655576000,
+      "unitCount": 3,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "442769879",
+      "id": "442769879",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "42kkqgxx4j3we",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6c720ed1d84d621d1098f2e29dfe1f9c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/ballston-lake-ny/greenoaks-apartments/BKZKww/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "Greenoaks Apartments, 11-21 Ashdown Rd #17C, Ballston Lake, NY 12019",
+      "addressStreet": "11-21 Ashdown Rd #17C",
+      "addressCity": "Ballston Lake",
+      "addressState": "NY",
+      "addressZipcode": "12019",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.882065,
+        "longitude": -73.88456
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442769879,
+          "streetAddress": "11-21 Ashdown Rd #17C",
+          "zipcode": "12019",
+          "city": "Ballston Lake",
+          "state": "NY",
+          "latitude": 42.882065,
+          "longitude": -73.88456,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 224700000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 17C",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c720ed1d84d621d1098f2e29dfe1f9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/711223e0398a204391020bd3eb1b02be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83fa62dd7d9ed66d71728b0add070374-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62a125ad225b402bf96f3334100aa9f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30e5ba768335420899db84212acee7cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7a21738d72a6064f037de3381647183-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d07bc61931bd4d8dbca121b5c4cc9e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3260caed2dc9f43fff2703546cd906a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dcfff4538dda55de81dc997c3a50b47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/176ddbf7753a6b5d09d6ea1810bb5060-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39eb018a2bfd6b5652025e997b006fb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3ee297fcf5506c92301ba45ec4d94c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f88b7cf636edab5bc32ab32bebf47ad-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.88251--73.88466",
+      "id": "42.88251--73.88466",
+      "providerListingId": "2x9vqqt0111ss",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2e4b226d6d1ae27b590aef73e4f91246-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/17-ashdown-rd-ballston-lake-ny-5XwTsc/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "17 Ashdown Rd, Ballston Lake, NY",
+      "addressStreet": "17 Ashdown Rd Apt 17E",
+      "addressCity": "Ballston Lake",
+      "addressState": "NY",
+      "addressZipcode": "12019",
+      "units": [
+        {
+          "price": "$1,500+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1002662089,
+      "latLong": {
+        "latitude": 42.88251,
+        "longitude": -73.88466
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e4b226d6d1ae27b590aef73e4f91246-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9271f7dd8611c659074544a32c9eb8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37b1a2a9701664a55065c1a13989d9ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/927344c7cddb255e62d1029ca7708d65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aeaaeafdb9a95650deba696c807a9b82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3944b0b24fceb690524def3efb59f252-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e911ea7437063222714d798544f18fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03891d35db3e94b1b24a5854250189ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac69de9f639a7ef97d6593e13f88a70e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6569137edd98cab19a061c758e45ccb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd0cd2572f26e0f787f9a06bdefc240d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9c7aa4d10707bfe83f7e1a7b5e0906a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bd621ce8afd4ef2534ef6907d01951f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0eb8469209a1144ce164aa3c1e49a287-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "32483850",
+      "id": "32483850",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "qw01ae4w1qw0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/af69c69b8b1a820af5787a515fa20986-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/44-Saratoga-Dr-Schenectady-NY-12302/32483850_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "44 Saratoga Dr, Schenectady, NY 12302",
+      "addressStreet": "44 Saratoga Dr",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12302",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.88817,
+        "longitude": -73.916306
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32483850,
+          "streetAddress": "44 Saratoga Dr",
+          "zipcode": "12302",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.88817,
+          "longitude": -73.916306,
+          "price": 1250.0,
+          "datePriceChanged": 1728543600000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 253600,
+          "rentZestimate": 1569,
+          "listing_sub_type": {},
+          "priceReduction": "$1,250 (Oct 10)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "priceChange": -1250,
+          "timeOnZillow": 1212037000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 197500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 253600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: His Unlimited",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/af69c69b8b1a820af5787a515fa20986-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41b07c2def910f4d90f6955b1aa34c7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca480c6ca5d9e1102939abf5a92d4cb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e94ae8ba9edc04bc85430f8207ae153c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f01850c9caa7341d2d7a0a9c237315c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62b3b553eb1b185c84177c1649b0414a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71c668370dc755200917b9a4d61e899d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cab8ff76dd87646eb5272ff8b8d9e71e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7816fccffae2d3ca7d7d0efc13f74b10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddcabfcb5054e640870921343e626a43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4513941914338b6e9fe49f11b37739fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d931998d32309d96084a6db08e1be87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e7e1c26f3b2f6a32cc92c51d6df255c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d7333eeb4e9f16077c6b49b0a626a70-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "143905724",
+      "id": "143905724",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "17xww3gx9wst1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d01155944c3b029a2ab1ba4d6ae757fa-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/921-State-Route-50-Ballston-Lake-NY-12019/143905724_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "921 State Route 50, Ballston Lake, NY 12019",
+      "addressStreet": "921 State Route 50",
+      "addressCity": "Ballston lake",
+      "addressState": "NY",
+      "addressZipcode": "12019",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 980,
+      "latLong": {
+        "latitude": 42.929886,
+        "longitude": -73.88017
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 143905724,
+          "streetAddress": "921 State Route 50",
+          "zipcode": "12019",
+          "city": "Ballston lake",
+          "state": "NY",
+          "latitude": 42.929886,
+          "longitude": -73.88017,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 980.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1348,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1706904000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 188743.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d01155944c3b029a2ab1ba4d6ae757fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4aae3dc7c29efcfda0de3f1ef68e42c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54140a54c28148b5a25a1a297d0f069f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3af7cb8f9c7a60858619c3e22e780d5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14c86a4a941e2a22b42184c2f723e8c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6493124946da8b52e17e3eb6f2327a0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a83e71dd1704cb9d30fbcb5ae9b777d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f92ea4280b7632b0745d5335e5427e29-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32411601",
+      "id": "32411601",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4vjnd4tumeh7z",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0ba6dabc84e5075f724f190de961e8b7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/31-Main-St-Ballston-Lake-NY-12019/32411601_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "31 Main St, Ballston Lake, NY 12019",
+      "addressStreet": "31 Main St",
+      "addressCity": "Ballston Lake",
+      "addressState": "NY",
+      "addressZipcode": "12019",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2300,
+      "latLong": {
+        "latitude": 42.908768,
+        "longitude": -73.874466
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "74 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32411601,
+          "streetAddress": "31 Main St",
+          "zipcode": "12019",
+          "city": "Ballston Lake",
+          "state": "NY",
+          "latitude": 42.908768,
+          "longitude": -73.874466,
+          "price": 2800.0,
+          "datePriceChanged": 1728198000000,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2300.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 74,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 331500,
+          "rentZestimate": 2605,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Oct 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -200,
+          "timeOnZillow": 6397495000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 205674.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 331500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ba6dabc84e5075f724f190de961e8b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f770c00f5d4ab9a14fa9f28380eb85b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/547972dcb80720439f3602a8f81be84b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bc37c400110caf846597636354c4219-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/579d010ccb9a84109e6f0e03027fe07c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8964bbb4935c0c042b29295f78508def-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5caf7282e53093f1984f58f59b205944-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b1a275a0c389195555e20f1fe47d85b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcb768908d4f533627c5aef102feab43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4931fc4c8c0c0c39aa48f141286671bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cc25a026ae311469d37bca47d138261-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91ab4697520d8537fbd338a331bf640d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6663a468633cfabc7969efff9eb479b2-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32411609",
+      "id": "32411609",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5v3tct3msbnf",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1af85b10bb203424551082727cbf3b9d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/15-Main-St-Ballston-Lake-NY-12019/32411609_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,850/mo",
+      "unformattedPrice": 1850,
+      "address": "15 Main St, Ballston Lake, NY 12019",
+      "addressStreet": "15 Main St",
+      "addressCity": "Ballston Lake",
+      "addressState": "NY",
+      "addressZipcode": "12019",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.90988,
+        "longitude": -73.87504
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32411609,
+          "streetAddress": "15 Main St",
+          "zipcode": "12019",
+          "city": "Ballston Lake",
+          "state": "NY",
+          "latitude": 42.90988,
+          "longitude": -73.87504,
+          "price": 1850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1500,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1850.0,
+          "timeOnZillow": 191486000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 220284.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-15 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Limelight Leasing LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1af85b10bb203424551082727cbf3b9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/198e7398c23580a6323d3c70c70fb518-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16ddb2bb9f22691f294ea0a9a53bdd6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76a11110a67154944a1001f0bd7bfb70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/133a4ec1abe016b9debd559d1b873d08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f652425d125533a3f50e4daff8a83a9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da56c0012ba5bd0bb0a2095e00a4484c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbba99ebc7c87af83ea0a07d4337941b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/191128f4d3efe5fbf912c2ee2b2b9e2c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/876fd32f22678940ef147e3bfdb32bc4-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "60ab2cf0",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "4c56c041"
+}

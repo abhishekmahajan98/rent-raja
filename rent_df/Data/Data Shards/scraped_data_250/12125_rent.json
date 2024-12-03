@@ -1,0 +1,461 @@
+{
+  "listResults": [
+    {
+      "zpid": "98656835",
+      "id": "98656835",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4va5nutr7nc7z",
+      "imgSrc": "https://photos.zillowstatic.com/fp/628309c744e7f513dbe81fa56a33ddae-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/614-Salls-Rd-East-Chatham-NY-12060/98656835_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,250/mo",
+      "unformattedPrice": 4250,
+      "address": "614 Salls Rd, East Chatham, NY 12060",
+      "addressStreet": "614 Salls Rd",
+      "addressCity": "East Chatham",
+      "addressState": "NY",
+      "addressZipcode": "12060",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 3.0,
+      "area": 2500,
+      "latLong": {
+        "latitude": 42.457745,
+        "longitude": -73.457146
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "83 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 98656835,
+          "streetAddress": "614 Salls Rd",
+          "zipcode": "12060",
+          "city": "East Chatham",
+          "state": "NY",
+          "latitude": 42.457745,
+          "longitude": -73.457146,
+          "price": 4250.0,
+          "bathrooms": 3.0,
+          "bedrooms": 5.0,
+          "livingArea": 2500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 83,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 667700,
+          "rentZestimate": 4246,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4250.0,
+          "timeOnZillow": 7190922000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 470667.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 667700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/628309c744e7f513dbe81fa56a33ddae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a9f48ee677b7a5116a3d9d17649ad3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5f2820ab74d847af963bbfa988e2aa0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4f0950057ff7a3bd6eb0a9049115eb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07e62be6753349b6d9a14cfd107d6488-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0ed5cff8841f462e0c12993b91a20e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a2f14da32d7c377521b9a61ca239d48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f1a9844a6b9092964ce5cfe817dcb6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f944ff0b298ac508d99f53bbb503e5d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc5508ef4195c0042873ec9251235e1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/004857fa97cd5484a9c56b7eb80ba281-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440199091",
+      "id": "440199091",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3vhp4dmx0uwj4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7f646140384165cd9a09e19b4aa78b47-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/61-Kline-Rd-APT-B-New-Lebanon-NY-12125/440199091_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "61 Kline Rd APT B, New Lebanon, NY 12125",
+      "addressStreet": "61 Kline Rd APT B",
+      "addressCity": "New Lebanon",
+      "addressState": "NY",
+      "addressZipcode": "12125",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1050,
+      "latLong": {
+        "latitude": 42.47421,
+        "longitude": -73.37421
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440199091,
+          "streetAddress": "61 Kline Rd APT B",
+          "zipcode": "12125",
+          "city": "New Lebanon",
+          "state": "NY",
+          "latitude": 42.47421,
+          "longitude": -73.37421,
+          "price": 1400.0,
+          "datePriceChanged": 1731398400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1050.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 12)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "priceChange": -50,
+          "timeOnZillow": 1634639000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f646140384165cd9a09e19b4aa78b47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67982efdc444af4df8185b9a6c2f2e63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d743dcfed008c397ac38171aa4b8491-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6dec4ba878c81fb5de9d3d99cc612074-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c403de30c837e82c0fb1faaa1c21791d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33058095837314c12f9e430bdd70fa71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4a7f1a5e58a9ade48a2634c9b14198c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/216f8f9a65207af502058d7e0d9dca01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd9820c8198b938b418f172b94d5dc54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fe452a79f996603dc2d5ff9954f21c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a069eebc77a27866782145127af01ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/955e811223c4a2a0d1de57b48d93794d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/633d8d9f5edf9198fd31b729a34f3b99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe6fb845dd7dc2e7410e61576e2584ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3507a302445a77accd9e3340f9dbd2a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/908e309276592560d0849350102227a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f958fc44cb5ab85caa9db895da44c585-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "98656835",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/628309c744e7f513dbe81fa56a33ddae-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/614-Salls-Rd-East-Chatham-NY-12060/98656835_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,250/mo",
+      "priceLabel": "$4.3K",
+      "address": "614 Salls Rd, East Chatham, NY 12060",
+      "isNewYorkState": true,
+      "beds": 5,
+      "baths": 3.0,
+      "area": 2500,
+      "latLong": {
+        "latitude": 42.457745,
+        "longitude": -73.457146
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "83 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 98656835,
+          "streetAddress": "614 Salls Rd",
+          "zipcode": "12060",
+          "city": "East Chatham",
+          "state": "NY",
+          "latitude": 42.457745,
+          "longitude": -73.457146,
+          "price": 4250.0,
+          "bathrooms": 3.0,
+          "bedrooms": 5.0,
+          "livingArea": 2500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 667700,
+          "rentZestimate": 4246,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4250.0,
+          "timeOnZillow": 7190922000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 470667.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 7190922000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "440199091",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7f646140384165cd9a09e19b4aa78b47-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/61-Kline-Rd-APT-B-New-Lebanon-NY-12125/440199091_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,400/mo",
+      "priceLabel": "$1.4K",
+      "address": "61 Kline Rd APT B, New Lebanon, NY 12125",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1050,
+      "latLong": {
+        "latitude": 42.47421,
+        "longitude": -73.37421
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440199091,
+          "streetAddress": "61 Kline Rd APT B",
+          "zipcode": "12125",
+          "city": "New Lebanon",
+          "state": "NY",
+          "latitude": 42.47421,
+          "longitude": -73.37421,
+          "price": 1400.0,
+          "datePriceChanged": 1731398400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1050.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 12)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "priceChange": -50,
+          "timeOnZillow": 1634639000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 1634639000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "43c2cf7a",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

@@ -1,0 +1,244 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "442721948",
+      "id": "442721948",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1860ermbg7ndm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a9013065babd36610105c3c097b5c936-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/280-Main-St-APT-5-Poultney-VT-05764/442721948_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "280 Main St APT 5, Poultney, VT 05764",
+      "addressStreet": "280 Main St APT 5",
+      "addressCity": "Poultney",
+      "addressState": "VT",
+      "addressZipcode": "05764",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 43.51765,
+        "longitude": -73.23834
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442721948,
+          "streetAddress": "280 Main St APT 5",
+          "zipcode": "05764",
+          "city": "Poultney",
+          "state": "VT",
+          "latitude": 43.51765,
+          "longitude": -73.23834,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 381674000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 5",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-07 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9013065babd36610105c3c097b5c936-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1e0e98251a4459b05a1bfa685b92471-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1c9baf157c8190c7b77cd9041f75637-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a55ffcf22f4b67aa4ac2dbae0c9c9bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ff8b75febb1d8f0b230d765f6f0e1a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b76bdaaa6301d01fba441853860aad23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e70e4436207b3fbf4efedf251cbac41-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2054582346",
+      "id": "2054582346",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3jtf9kvgzwv99",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a9013065babd36610105c3c097b5c936-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/280-Main-St-5-6-Poultney-VT-05764/2054582346_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "280 Main St #5-6, Poultney, VT 05764",
+      "addressStreet": "280 Main St #5-6",
+      "addressCity": "Poultney",
+      "addressState": "VT",
+      "addressZipcode": "05764",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 43.51766,
+        "longitude": -73.23834
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054582346,
+          "streetAddress": "280 Main St #5-6",
+          "zipcode": "05764",
+          "city": "Poultney",
+          "state": "VT",
+          "latitude": 43.51766,
+          "longitude": -73.23834,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1204,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 381861000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 5-6",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-07 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9013065babd36610105c3c097b5c936-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1e0e98251a4459b05a1bfa685b92471-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1c9baf157c8190c7b77cd9041f75637-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a55ffcf22f4b67aa4ac2dbae0c9c9bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ff8b75febb1d8f0b230d765f6f0e1a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b76bdaaa6301d01fba441853860aad23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e70e4436207b3fbf4efedf251cbac41-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "2270bc15"
+}

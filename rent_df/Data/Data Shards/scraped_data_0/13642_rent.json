@@ -1,0 +1,451 @@
+{
+  "listResults": [
+    {
+      "zpid": "2057288699",
+      "id": "2057288699",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1fp79t4kj05bm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7615bbc721f1174310e6e682b6b88d2d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/205-E-Main-St-APT-1-Gouverneur-NY-13642/2057288699_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,000/mo",
+      "unformattedPrice": 1000,
+      "address": "205 E Main St APT 1, Gouverneur, NY 13642",
+      "addressStreet": "205 E Main St APT 1",
+      "addressCity": "Gouverneur",
+      "addressState": "NY",
+      "addressZipcode": "13642",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 44.337276,
+        "longitude": -75.46236
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057288699,
+          "streetAddress": "205 E Main St APT 1",
+          "zipcode": "13642",
+          "city": "Gouverneur",
+          "state": "NY",
+          "latitude": 44.337276,
+          "longitude": -75.46236,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 911,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 1598789000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: TLC Real Estate LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7615bbc721f1174310e6e682b6b88d2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6513f06af6537cda16a76525e35b8c13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f21fd7cb6b50df91c0e298bcee9b240-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19da498bdd227be132c35535e99abf66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/535f2c2e18a87bd85cc64164a8da8501-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d84d605ff5753538084d55f1e02cf5c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e7e58f772e5bc6fe0c9b0d87892e613-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d470347eefb181ac8ff706e70a13b0d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4384a25f7b65eb2110d1ed28fa3ee2a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58f83bbc8667cf962e1d93569e17989a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1daac2c3d1b14c1fa7647fda0fc843c-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2081594453",
+      "id": "2081594453",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "40v2uqcvwcup0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/de8e75f23d1c956c0ccae8b6d835d021-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/336-E-Main-St-Gouverneur-NY-13642/2081594453_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$800/mo",
+      "unformattedPrice": 800,
+      "address": "336 E Main St, Gouverneur, NY 13642",
+      "addressStreet": "336 E Main St",
+      "addressCity": "Gouverneur",
+      "addressState": "NY",
+      "addressZipcode": "13642",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 44.339073,
+        "longitude": -75.456436
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2081594453,
+          "streetAddress": "336 E Main St",
+          "zipcode": "13642",
+          "city": "Gouverneur",
+          "state": "NY",
+          "latitude": 44.339073,
+          "longitude": -75.456436,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 867,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 1598790000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: TLC Real Estate LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/de8e75f23d1c956c0ccae8b6d835d021-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/202ee9c52b2785af08402514c564fb0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/722825c73f97fd9ab77a4e877f057436-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/241ad129ae6654a53144566a320070f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/461d64b07a28a24c1182a15089f8260c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbf334f3ce05ba188404c6035a6d2340-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f7431c0a6ca929fc30552ed64b0a2b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ea26bbc6b1785785382129317e918f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/992fd6109b13d31cff58d7c110d5838e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/954c774813b28d9ab51346ac5d0a54b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f34d5384e721317626e31640e4ca3f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7426a671a70f4e8270ee114eb20dfc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/488c6c2c2b79dd048c347c54001f6c71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad6be73d6a5084d789b5b4887f2b92ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e94ec44a623570dd96f8f8961b8c765-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/652b9da757921b786fdaace00f2bd70c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4840f794e72336bdd9fcdfcd73c49ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73e79e683108d854a1b7d389413386dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66a6a604c075afc7faf0d10bed9bd3e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc88ee3dde2072c9ff4bd55259fad38f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab32f08d072122bd9312e577d36668c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1e08052068e76f66274b8c654e75e18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fc10b0eddf1ed5ffe962c2071e8a443-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0a4713345fd91982e3f0c3d3f2b5c19-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2057288699",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7615bbc721f1174310e6e682b6b88d2d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/205-E-Main-St-APT-1-Gouverneur-NY-13642/2057288699_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,000/mo",
+      "priceLabel": "$1.0K",
+      "address": "205 E Main St APT 1, Gouverneur, NY 13642",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 44.337276,
+        "longitude": -75.46236
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057288699,
+          "streetAddress": "205 E Main St APT 1",
+          "zipcode": "13642",
+          "city": "Gouverneur",
+          "state": "NY",
+          "latitude": 44.337276,
+          "longitude": -75.46236,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 911,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 1598789000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: TLC Real Estate LLC",
+      "timeOnZillow": 1598789000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2081594453",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/de8e75f23d1c956c0ccae8b6d835d021-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/336-E-Main-St-Gouverneur-NY-13642/2081594453_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$800/mo",
+      "priceLabel": "$800",
+      "address": "336 E Main St, Gouverneur, NY 13642",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 44.339073,
+        "longitude": -75.456436
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2081594453,
+          "streetAddress": "336 E Main St",
+          "zipcode": "13642",
+          "city": "Gouverneur",
+          "state": "NY",
+          "latitude": 44.339073,
+          "longitude": -75.456436,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 867,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 1598790000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: TLC Real Estate LLC",
+      "timeOnZillow": 1598790000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "57ddd736",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

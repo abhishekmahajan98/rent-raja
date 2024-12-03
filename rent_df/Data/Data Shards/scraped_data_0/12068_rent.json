@@ -1,0 +1,837 @@
+{
+  "listResults": [
+    {
+      "zpid": "2104284445",
+      "id": "2104284445",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2vc8zjjp03f42",
+      "imgSrc": "https://photos.zillowstatic.com/fp/50309b4c3d7231acb11d71fdf1181a3d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/60-E-Main-St-Fonda-NY-12068/2104284445_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "60 E Main St, Fonda, NY 12068",
+      "addressStreet": "60 E Main St",
+      "addressCity": "Fonda",
+      "addressState": "NY",
+      "addressZipcode": "12068",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.954998,
+        "longitude": -74.366875
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2104284445,
+          "streetAddress": "60 E Main St",
+          "zipcode": "12068",
+          "city": "Fonda",
+          "state": "NY",
+          "latitude": 42.954998,
+          "longitude": -74.366875,
+          "price": 1250.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 33,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 172500,
+          "rentZestimate": 1374,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 2868298000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 172500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/50309b4c3d7231acb11d71fdf1181a3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be2c4ffb3eab9f6df8e50e014b5c6755-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc56e484e62b852858f5f78793136f94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0a91f6bc5aeee663b2ee2f629cbf893-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f61260bd29cf1660aff769c7fc5ff96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e19780e9275a1896ba25b70c3e7ff081-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ff674e589f8039e80bbce12d8416124-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/167e19fdf6dcbe393e63cee13b7ee1f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a607b9e2074e328bf34e943e9f01176f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebc16a7d73f672ff18337305a76aa7dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd371bb86140ac14161c89c73c8b7e3b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2104284445",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/50309b4c3d7231acb11d71fdf1181a3d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/60-E-Main-St-Fonda-NY-12068/2104284445_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$1,250/mo",
+      "priceLabel": "$1.3K",
+      "address": "60 E Main St, Fonda, NY 12068",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.954998,
+        "longitude": -74.366875
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2104284445,
+          "streetAddress": "60 E Main St",
+          "zipcode": "12068",
+          "city": "Fonda",
+          "state": "NY",
+          "latitude": 42.954998,
+          "longitude": -74.366875,
+          "price": 1250.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 172500,
+          "rentZestimate": 1374,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 2868298000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 2868298000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "442654609",
+      "id": "442654609",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ut0yf3q8mq27",
+      "imgSrc": "https://photos.zillowstatic.com/fp/438362a7c7170406ab41f88897be63f7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/19-W-Main-St-1-Johnstown-NY-12095/442654609_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,100/mo",
+      "unformattedPrice": 1100,
+      "address": "19 W Main St #1, Johnstown, NY 12095",
+      "addressStreet": "19 W Main St #1",
+      "addressCity": "Johnstown",
+      "addressState": "NY",
+      "addressZipcode": "12095",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.00664,
+        "longitude": -74.37182
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442654609,
+          "streetAddress": "19 W Main St #1",
+          "zipcode": "12095",
+          "city": "Johnstown",
+          "state": "NY",
+          "latitude": 43.00664,
+          "longitude": -74.37182,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 701652000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/438362a7c7170406ab41f88897be63f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edec4c2f8184952f18235241b3344efc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fab510f88bc3e0cceff79339e5374d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7631576f09b55832b1ee0e578891bf90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e1c6744f691630d8db84e5e55efe318-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce5536f5fdfdd3254633651efc52cc38-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "219545574",
+      "id": "219545574",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "hqc079kwh1dq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1b2a16a1e9e659630c1bb7d2a6b66a06-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/300-1-2-S-William-St-Johnstown-NY-12095/219545574_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,295/mo",
+      "unformattedPrice": 1295,
+      "address": "300 1/2 S William St, Johnstown, NY 12095",
+      "addressStreet": "300 1/2 S William St",
+      "addressCity": "Johnstown",
+      "addressState": "NY",
+      "addressZipcode": "12095",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 43.001007,
+        "longitude": -74.373634
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 219545574,
+          "streetAddress": "300 1/2 S William St",
+          "zipcode": "12095",
+          "city": "Johnstown",
+          "state": "NY",
+          "latitude": 43.001007,
+          "longitude": -74.373634,
+          "price": 1295.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1367,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "timeOnZillow": 514186000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 86667.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b2a16a1e9e659630c1bb7d2a6b66a06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98155d0a5347a5e51f681d0106f18c5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c610d152012f6fd65d47758b3838f82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8d84e76a43cf1ef3a4dabe13839f3aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e074e0c2aa32ff2b4f2dcb7cb0815aef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0af1162154880221d2b07d1a9519027e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f1cd994544d43e0397df4b933b3b33f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b615e14ba628568bc1d9e7473ad65905-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7ed756bf027ff4b802d24a9715587ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a3260fcc49e39a25a016278d374483d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d6f80feb01e03098e6ecf6f1cabc731-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2a721d4aef6278235fa1d9670fa1b82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45fff53ad982c4b550e3204c84303339-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07ff644372339bd13a055456da782a7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e03f03b916617235abd81175dea9efe0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac82e84c48148a7b10e4e271ba044bb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/280070c4175ab529604cebb3c6b644f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a62a8a82e23d8caea35acb877dd0e8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4df17a0fadf4e2d2891c03d643a9f3cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81b0b406c9a4afa48597d3bae1702377-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/662e09955d26cca59c1ee106317835db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a8f6b7a60d224b434f2ca84f0002f1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/679db283a771f08db24d6e2ebc3eee46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fff7f5cc91c724e72717158d17cd84d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b79295453dd46fba6eb0d9a5f64a0483-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/564b79d6a373f4b9576fc2f50df3a596-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f3f5f5685a4ee73a406fe4fe08826a0-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2052955365",
+      "id": "2052955365",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "hs5a58mfp3d5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bdddaae18b92b268a1e148fd80c4d98e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3-W-State-St-3-Johnstown-NY-12095/2052955365_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$995/mo",
+      "unformattedPrice": 995,
+      "address": "3 W State St #3, Johnstown, NY 12095",
+      "addressStreet": "3 W State St #3",
+      "addressCity": "Johnstown",
+      "addressState": "NY",
+      "addressZipcode": "12095",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 43.008278,
+        "longitude": -74.37455
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2052955365,
+          "streetAddress": "3 W State St #3",
+          "zipcode": "12095",
+          "city": "Johnstown",
+          "state": "NY",
+          "latitude": 43.008278,
+          "longitude": -74.37455,
+          "price": 995.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 790,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 995.0,
+          "timeOnZillow": 513142000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdddaae18b92b268a1e148fd80c4d98e-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2109725364",
+      "id": "2109725364",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "14tzv3y3bkb0h",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a72189fad0cbd0ddabf3af8954d30c97-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-E-Green-St-2-Johnstown-NY-12095/2109725364_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$800/mo",
+      "unformattedPrice": 800,
+      "address": "10 E Green St #2, Johnstown, NY 12095",
+      "addressStreet": "10 E Green St #2",
+      "addressCity": "Johnstown",
+      "addressState": "NY",
+      "addressZipcode": "12095",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 43.00785,
+        "longitude": -74.37026
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "70 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2109725364,
+          "streetAddress": "10 E Green St #2",
+          "zipcode": "12095",
+          "city": "Johnstown",
+          "state": "NY",
+          "latitude": 43.00785,
+          "longitude": -74.37026,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 70,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1054,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 6051193000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Eagle Property Management, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a72189fad0cbd0ddabf3af8954d30c97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8869afa98652e6eeae5facfab0877fa8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/839333912c9de2570d3e5602372b7877-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c1073a5038dbeded73634181604d4f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc6e60c2f374ae0b7b933f0b3b05e97d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50d3ce6b08aa90def5eef797dde0e91a-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2086912808",
+      "id": "2086912808",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "n7gq4evetu3y",
+      "imgSrc": "https://photos.zillowstatic.com/fp/125f86a24a1f5812c4e5225a6711e995-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/300-Glebe-St-2-Johnstown-NY-12095/2086912808_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850/mo",
+      "unformattedPrice": 850,
+      "address": "300 Glebe St #2, Johnstown, NY 12095",
+      "addressStreet": "300 Glebe St #2",
+      "addressCity": "Johnstown",
+      "addressState": "NY",
+      "addressZipcode": "12095",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 43.003136,
+        "longitude": -74.36833
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2086912808,
+          "streetAddress": "300 Glebe St #2",
+          "zipcode": "12095",
+          "city": "Johnstown",
+          "state": "NY",
+          "latitude": 43.003136,
+          "longitude": -74.36833,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 21,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 902,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 1874406000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Patriot Property Services",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/125f86a24a1f5812c4e5225a6711e995-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6ddafecbe36429034fd6edb9ae547bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3d8b3f0a171b777407f02e1460e4aac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a883e1ecb2107348daadcff283f6f800-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/acc9bcffda7c2e247a699be41e24f08d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea991612da2a03bdeb20fa936f14884e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22a5668fd675939caf12c4a7918d840d-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "57125557",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "15e0673c"
+}

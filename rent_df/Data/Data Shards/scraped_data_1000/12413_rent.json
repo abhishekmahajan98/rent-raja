@@ -1,0 +1,2320 @@
+{
+  "listResults": [
+    {
+      "zpid": "441580198",
+      "id": "441580198",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "47je67gc298gb",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.3071403503418,-74.03883361816406&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=4BUOe3uKrih9rrf7Wti7R3kSqKs=",
+      "detailUrl": "https://www.zillow.com/homedetails/166-Old-Route-23-5-Cairo-NY-12413/441580198_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "166 Old Route 23 #5, Cairo, NY 12413",
+      "addressStreet": "166 Old Route 23 #5",
+      "addressCity": "Cairo",
+      "addressState": "NY",
+      "addressZipcode": "12413",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.3071403503418,-74.03883361816406&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=ofhkISCtYPIeaaenNCtTujftVpk=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.3071403503418,-74.03883361816406&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=iEp-9rfKIlCLGurR84yhCygvdNs=",
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.30714,
+        "longitude": -74.03883
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441580198,
+          "streetAddress": "166 Old Route 23 #5",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.30714,
+          "longitude": -74.03883,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 48,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 4149011000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 5",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440314685",
+      "id": "440314685",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1cu8m8aprv2vy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0942a45abaa2786995e6f4c56d9e9e2c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/17-62-Gina-Marie-Ave-1LL-Cairo-NY-12413/440314685_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,495/mo",
+      "unformattedPrice": 1495,
+      "address": "17-62 Gina Marie Ave #1LL, Cairo, NY 12413",
+      "addressStreet": "17-62 Gina Marie Ave #1LL",
+      "addressCity": "Cairo",
+      "addressState": "NY",
+      "addressZipcode": "12413",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 42.305294,
+        "longitude": -74.04013
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440314685,
+          "streetAddress": "17-62 Gina Marie Ave #1LL",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.305294,
+          "longitude": -74.04013,
+          "price": 1495.0,
+          "datePriceChanged": 1730098800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1495.0,
+          "priceChange": 20,
+          "timeOnZillow": 1012622000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1LL",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0942a45abaa2786995e6f4c56d9e9e2c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a540334c26a5c89da0f5598aa495cb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/179fb08010bc566715815080644a9acf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc0b2f38c897cb4bad03473500f7ffb5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0025f0289b11af879608e29eae51ca64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52c2d7b1a2857d873663bb4dacb003a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d9fa06e7a92d90a681250d869813632-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ea71135a411ffe1907b282eb13d4534-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/720fce666410b25b01fa70ff3787aac7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2070909840",
+      "id": "2070909840",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4rpk5djepm9px",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3e1f8c69bbbbc284d486ac6fe73d97dc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3667-County-Route-67-Freehold-NY-12431/2070909840_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,700/mo",
+      "unformattedPrice": 2700,
+      "address": "3667 County Route 67, Freehold, NY 12431",
+      "addressStreet": "3667 County Route 67",
+      "addressCity": "Freehold",
+      "addressState": "NY",
+      "addressZipcode": "12431",
+      "isUndisclosedAddress": false,
+      "beds": 7,
+      "baths": 2.0,
+      "area": 2400,
+      "latLong": {
+        "latitude": 42.35928,
+        "longitude": -74.04986
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2070909840,
+          "streetAddress": "3667 County Route 67",
+          "zipcode": "12431",
+          "city": "Freehold",
+          "state": "NY",
+          "latitude": 42.35928,
+          "longitude": -74.04986,
+          "price": 2700.0,
+          "bathrooms": 2.0,
+          "bedrooms": 7.0,
+          "livingArea": 2400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 89,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 236500,
+          "rentZestimate": 2870,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "timeOnZillow": 7755551000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 236500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e1f8c69bbbbc284d486ac6fe73d97dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e46f82fd969ae9582afa964a071d15e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5089eae42ed9771f5ba94a802a4177e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b445a0bc3228a8b463d69739f7d32d4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02d8c9080dbd87a8e02c12b06127a4cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1018ab97945c742545ae4d940963a90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36723bea42f56dc546e87a551503dc92-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e1abba5293d13c688a95f24c4dcced0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5a509b5d76a1f1342bc6b4e54bba973-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6eb58631d9a238079c13c820243e0cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed9a500a151bd4028b16365dda9ff04a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bf92d565871118b7ebcb49c3134e948-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f886aeb2b481ec9e0ef074efbfa46542-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c443e6c5af99f9d93f98cadcc90a5fd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f52cfeba49bc63941d89532d05e4228-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0dd7b23ebfe1e0ae7e8895f3116ab3a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cf779e8330c8d003901517504e705fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4af3e93893622ee21c4f5fc4b8ddd7b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85642b449029918c63481dcb98541d41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/630bef2d3ddc8fdd2e82be98742f6124-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25d281a2578cab593d32c8009744d5c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a4d5d885dcded41b3c2a02c33f36bfd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a02e643383445bf8c2fb353f418e067-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ead6123490d89516cad29b74c035e5d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e936a9ee83b20c1b19f44ea6f697aac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9689e66cffd2b003fb797df85506dac2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/890e4b55c7dc5afba2dc05e911be6831-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/942e8f517ac2f11bc89173dc381138ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bb93276193032a09824fac01a827d53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e75eab0f5e6aacdf087f28d9601e98f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da14fd40db4cc60ca9025ead7ca23327-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbe095d2a674f5187fd7739ea24d7efe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78bb894101d220e62a149d37a16ccbb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81571074bd25ea5869f52b80121fa96a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ac41a23fa1a8ed2959ee2a0dd18a8ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88b0edff9009e4a4bba6acae5eacc8a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89c98dfb1bc88db524956f2fdbab6107-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2053149984",
+      "id": "2053149984",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "sp5h0wr2vy8u",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8f1a4d2fdf5d0bf6d80454303808e8b5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/586-County-Route-23-4-Cairo-NY-12413/2053149984_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,750/mo",
+      "unformattedPrice": 1750,
+      "address": "586 County Route 23 #4, Cairo, NY 12413",
+      "addressStreet": "586 County Route 23 #4",
+      "addressCity": "Cairo",
+      "addressState": "NY",
+      "addressZipcode": "12413",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1300,
+      "latLong": {
+        "latitude": 42.31169,
+        "longitude": -74.02392
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053149984,
+          "streetAddress": "586 County Route 23 #4",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.31169,
+          "longitude": -74.02392,
+          "price": 1750.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1659,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "timeOnZillow": 146491000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f1a4d2fdf5d0bf6d80454303808e8b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28eaafcec0dd437cc68a10709155fa91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c67a0520e1f8265f42509ac416041eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f6b39f27dcba4939f91726bc14e4870-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/beaf90143bb6a7c604f2902a6d9a7e70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a594c1674a5cb109edf8110e26c69e05-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a566f80c2792a33300ac6be941b24410-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/237da74c88b4c0ec53367d29554f1521-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2061928950",
+      "id": "2061928950",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1mq7zwzj5jnb6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ff105756743f9f3157eb6a62cbeed8f6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/586-Old-Route-23-3-Cairo-NY-12413/2061928950_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,799/mo",
+      "unformattedPrice": 1799,
+      "address": "586 Old Route 23 #3, Cairo, NY 12413",
+      "addressStreet": "586 Old Route 23 #3",
+      "addressCity": "Cairo",
+      "addressState": "NY",
+      "addressZipcode": "12413",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.312374,
+        "longitude": -74.0574
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061928950,
+          "streetAddress": "586 Old Route 23 #3",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.312374,
+          "longitude": -74.0574,
+          "price": 1799.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1430,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1799.0,
+          "timeOnZillow": 146429000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff105756743f9f3157eb6a62cbeed8f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e80aee8bec3be320ca5a5b54e4a79de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0113c26b687b1ae74e62410b540bad63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9d62d4a585ee9f75943b5c04168f4b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57050aa286a11f7a2d3a4e11d370e0ea-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "348526375",
+      "id": "348526375",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4a7xcqr64bkp9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6d707f9df4cd9033065f1153bd249d0b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1338-Mountain-Ave-2-3-5-Purling-NY-12470/348526375_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "1338 Mountain Ave #2-3-5, Purling, NY 12470",
+      "addressStreet": "1338 Mountain Ave #2-3-5",
+      "addressCity": "Purling",
+      "addressState": "NY",
+      "addressZipcode": "12470",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.28394,
+        "longitude": -74.04634
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 348526375,
+          "streetAddress": "1338 Mountain Ave #2-3-5",
+          "zipcode": "12470",
+          "city": "Purling",
+          "state": "NY",
+          "latitude": 42.28394,
+          "longitude": -74.04634,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1300,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 145002000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2-3-5",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d707f9df4cd9033065f1153bd249d0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23c8a8308e37b067c24a2a7abed5dadd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51f752e954bd28cc5350186880f04b17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6acff33ce2233a64be76e5a7cc49c879-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "368091111",
+      "id": "368091111",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "58s3mnr9dss78",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b55d3c285e5da53c53abf91710721910-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1336-1338-Mountain-Ave-6-Purling-NY-12470/368091111_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "1336-1338 Mountain Ave #6, Purling, NY 12470",
+      "addressStreet": "1336-1338 Mountain Ave #6",
+      "addressCity": "Purling",
+      "addressState": "NY",
+      "addressZipcode": "12470",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 2.0,
+      "area": 650,
+      "latLong": {
+        "latitude": 42.2849,
+        "longitude": -74.04628
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 368091111,
+          "streetAddress": "1336-1338 Mountain Ave #6",
+          "zipcode": "12470",
+          "city": "Purling",
+          "state": "NY",
+          "latitude": 42.2849,
+          "longitude": -74.04628,
+          "price": 1600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 1.0,
+          "livingArea": 650.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1289,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 146952000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 6",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b55d3c285e5da53c53abf91710721910-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb21ed0a46cf409eade5765842a75191-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95b9219da6ae7a665a122635e741f06d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63d284ff19b0498725ec6de0d3b8ed68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/229a39f07208e7f2469a267242a23cab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a123486dddfd4bc699f2d20a3f16120-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/985d1b6d52f3ff2556e2beb144259f70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26e1ed3121b6afbe3224daa27da1a16a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe5285104c728220bc36c4c9c56e5d55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa44d7e454d500afa6ac89fd07b0fc06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb573f5cb98deffcc053faea8e5521fa-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "402321900",
+      "id": "402321900",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1x03n1cawxdsk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2d5cfc95675fa4433bee5fcc5b87def7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/694-Main-St-3-Cairo-NY-12413/402321900_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "694 Main St #3, Cairo, NY 12413",
+      "addressStreet": "694 Main St #3",
+      "addressCity": "Cairo",
+      "addressState": "NY",
+      "addressZipcode": "12413",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.303192,
+        "longitude": -74.00798
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 402321900,
+          "streetAddress": "694 Main St #3",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.303192,
+          "longitude": -74.00798,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 29197000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-24 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d5cfc95675fa4433bee5fcc5b87def7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68690f7ba119c9b5b37a4c14f7349321-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6107ce51d5873ea7102724ec293ca56-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e34cfa6cd20ee71b82237b4316f4db40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4426bc10c72fb9e64296478d48c4007a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2057422324",
+      "id": "2057422324",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4t6jhfcu8x8c",
+      "imgSrc": "https://photos.zillowstatic.com/fp/919f219244f1cdfb90a349a08d41674c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/33-Oak-St-APT-7-Cairo-NY-12413/2057422324_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,550/mo",
+      "unformattedPrice": 1550,
+      "address": "33 Oak St APT 7, Cairo, NY 12413",
+      "addressStreet": "33 Oak St APT 7",
+      "addressCity": "Cairo",
+      "addressState": "NY",
+      "addressZipcode": "12413",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 42.29238,
+        "longitude": -73.99389
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057422324,
+          "streetAddress": "33 Oak St APT 7",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.29238,
+          "longitude": -73.99389,
+          "price": 1550.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1365,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "priceChange": -50,
+          "timeOnZillow": 2653560000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 7",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-24 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/919f219244f1cdfb90a349a08d41674c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25130073e678a9ad946e74e7f367655a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/926f390d34241003a77d966e2139b75a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a27de13bb4847250a5967c4edcd29beb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6fef2e7f56a02f5fa6eafdf28c903bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/caaebc10cb3945a27ed7d01e5db41c3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8c19f802ccdec92b7ee797ca71f7b40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74c664b999ce5da9bc1afe4bd9cbfbd0-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2065465604",
+      "id": "2065465604",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1751k355rm07n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/79fef5cc2f389f104d42e5ebbe833d31-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/766-Mountain-Ave-APT-11-Purling-NY-12470/2065465604_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "766 Mountain Ave APT 11, Purling, NY 12470",
+      "addressStreet": "766 Mountain Ave APT 11",
+      "addressCity": "Purling",
+      "addressState": "NY",
+      "addressZipcode": "12470",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 42.283997,
+        "longitude": -74.019684
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2065465604,
+          "streetAddress": "766 Mountain Ave APT 11",
+          "zipcode": "12470",
+          "city": "Purling",
+          "state": "NY",
+          "latitude": 42.283997,
+          "longitude": -74.019684,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1370,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 720956000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 11",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-16 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/79fef5cc2f389f104d42e5ebbe833d31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e300bcd2bb215311aeaa02da299ac1a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80dfc866f4c877942f8a543b6bc62b03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fb1e2ecbe995f95655663642799a818-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdd9f9711f33bd33abac2f6d0a72cd72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f64b70f4bd86cb2d0c407fc8d676df24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43b7b72d5f38222d3e5f7cf974f9e5df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dca99203c9433f3a7160f21eee4ddaa-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30492310",
+      "id": "30492310",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2q7e9bh28gkv6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0e2053b5daa81314fc5f6b8aacbc30a4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/74-Malmstrom-Dr-Cairo-NY-12413/30492310_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "74 Malmstrom Dr, Cairo, NY 12413",
+      "addressStreet": "74 Malmstrom Dr",
+      "addressCity": "Cairo",
+      "addressState": "NY",
+      "addressZipcode": "12413",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 816,
+      "latLong": {
+        "latitude": 42.306293,
+        "longitude": -74.00851
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30492310,
+          "streetAddress": "74 Malmstrom Dr",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.306293,
+          "longitude": -74.00851,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 816.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 165600,
+          "rentZestimate": 1502,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 1452674000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 113268.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 165600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e2053b5daa81314fc5f6b8aacbc30a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a1d141c9e17bd612d09ae0dfed5cd86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ce50d1eb1153953e60299d5841b5be3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a7f901a77650e44d1672ce4a1193d9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5ddb016feaf768a3749147c0f9ecedf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64a3707e7119b9bfecfa0ea90510a4b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0716f73112044cd885f199b666ec6059-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/608863f06784780402fe611899113761-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88b499319a397cb0961a1bad92bf271f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c198e719a207a0596f640c3027738cb0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e03c39a0153dd5430ce3ff5b8dd40eb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93ef80b2b3092f82aa976b73f18ff6f7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "441580198",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.3071403503418,-74.03883361816406&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=4BUOe3uKrih9rrf7Wti7R3kSqKs=",
+      "detailUrl": "/homedetails/166-Old-Route-23-5-Cairo-NY-12413/441580198_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,300/mo",
+      "priceLabel": "$1.3K",
+      "address": "166 Old Route 23 #5, Cairo, NY 12413",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.3071403503418,-74.03883361816406&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=ofhkISCtYPIeaaenNCtTujftVpk=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.3071403503418,-74.03883361816406&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=iEp-9rfKIlCLGurR84yhCygvdNs=",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.30714,
+        "longitude": -74.03883
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441580198,
+          "streetAddress": "166 Old Route 23 #5",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.30714,
+          "longitude": -74.03883,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 4149011000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 5",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 4149011000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "440314685",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0942a45abaa2786995e6f4c56d9e9e2c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/17-62-Gina-Marie-Ave-1LL-Cairo-NY-12413/440314685_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,495/mo",
+      "priceLabel": "$1.5K",
+      "address": "17-62 Gina Marie Ave #1LL, Cairo, NY 12413",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 42.305294,
+        "longitude": -74.04013
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440314685,
+          "streetAddress": "17-62 Gina Marie Ave #1LL",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.305294,
+          "longitude": -74.04013,
+          "price": 1495.0,
+          "datePriceChanged": 1730098800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1495.0,
+          "priceChange": 20,
+          "timeOnZillow": 1012622000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1LL",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1012622000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2070909840",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3e1f8c69bbbbc284d486ac6fe73d97dc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3667-County-Route-67-Freehold-NY-12431/2070909840_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,700/mo",
+      "priceLabel": "$2.7K",
+      "address": "3667 County Route 67, Freehold, NY 12431",
+      "isNewYorkState": true,
+      "beds": 7,
+      "baths": 2.0,
+      "area": 2400,
+      "latLong": {
+        "latitude": 42.35928,
+        "longitude": -74.04986
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2070909840,
+          "streetAddress": "3667 County Route 67",
+          "zipcode": "12431",
+          "city": "Freehold",
+          "state": "NY",
+          "latitude": 42.35928,
+          "longitude": -74.04986,
+          "price": 2700.0,
+          "bathrooms": 2.0,
+          "bedrooms": 7.0,
+          "livingArea": 2400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 236500,
+          "rentZestimate": 2870,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "timeOnZillow": 7755551000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 7755551000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2053149984",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8f1a4d2fdf5d0bf6d80454303808e8b5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/586-County-Route-23-4-Cairo-NY-12413/2053149984_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,750/mo",
+      "priceLabel": "$1.8K",
+      "address": "586 County Route 23 #4, Cairo, NY 12413",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1300,
+      "latLong": {
+        "latitude": 42.31169,
+        "longitude": -74.02392
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053149984,
+          "streetAddress": "586 County Route 23 #4",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.31169,
+          "longitude": -74.02392,
+          "price": 1750.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1659,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "timeOnZillow": 146491000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 146491000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2061928950",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ff105756743f9f3157eb6a62cbeed8f6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/586-Old-Route-23-3-Cairo-NY-12413/2061928950_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,799/mo",
+      "priceLabel": "$1.8K",
+      "address": "586 Old Route 23 #3, Cairo, NY 12413",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.312374,
+        "longitude": -74.0574
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2061928950,
+          "streetAddress": "586 Old Route 23 #3",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.312374,
+          "longitude": -74.0574,
+          "price": 1799.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1430,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1799.0,
+          "timeOnZillow": 146429000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 146429000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "348526375",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6d707f9df4cd9033065f1153bd249d0b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1338-Mountain-Ave-2-3-5-Purling-NY-12470/348526375_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "1338 Mountain Ave #2-3-5, Purling, NY 12470",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.28394,
+        "longitude": -74.04634
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 348526375,
+          "streetAddress": "1338 Mountain Ave #2-3-5",
+          "zipcode": "12470",
+          "city": "Purling",
+          "state": "NY",
+          "latitude": 42.28394,
+          "longitude": -74.04634,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1300,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 145002000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2-3-5",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 145002000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "368091111",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b55d3c285e5da53c53abf91710721910-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1336-1338-Mountain-Ave-6-Purling-NY-12470/368091111_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,600/mo",
+      "priceLabel": "$1.6K",
+      "address": "1336-1338 Mountain Ave #6, Purling, NY 12470",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 2.0,
+      "area": 650,
+      "latLong": {
+        "latitude": 42.2849,
+        "longitude": -74.04628
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 368091111,
+          "streetAddress": "1336-1338 Mountain Ave #6",
+          "zipcode": "12470",
+          "city": "Purling",
+          "state": "NY",
+          "latitude": 42.2849,
+          "longitude": -74.04628,
+          "price": 1600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 1.0,
+          "livingArea": 650.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1289,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 146952000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 6",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 146952000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "402321900",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2d5cfc95675fa4433bee5fcc5b87def7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/694-Main-St-3-Cairo-NY-12413/402321900_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,800/mo",
+      "priceLabel": "$1.8K",
+      "address": "694 Main St #3, Cairo, NY 12413",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.303192,
+        "longitude": -74.00798
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 402321900,
+          "streetAddress": "694 Main St #3",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.303192,
+          "longitude": -74.00798,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 29197000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-24 00:00:00",
+      "visited": false,
+      "timeOnZillow": 29197000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2057422324",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/919f219244f1cdfb90a349a08d41674c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/33-Oak-St-APT-7-Cairo-NY-12413/2057422324_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,550/mo",
+      "priceLabel": "$1.6K",
+      "address": "33 Oak St APT 7, Cairo, NY 12413",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 42.29238,
+        "longitude": -73.99389
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057422324,
+          "streetAddress": "33 Oak St APT 7",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.29238,
+          "longitude": -73.99389,
+          "price": 1550.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1365,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "priceChange": -50,
+          "timeOnZillow": 2653560000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 7",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-24 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2653560000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2065465604",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/79fef5cc2f389f104d42e5ebbe833d31-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/766-Mountain-Ave-APT-11-Purling-NY-12470/2065465604_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,300/mo",
+      "priceLabel": "$1.3K",
+      "address": "766 Mountain Ave APT 11, Purling, NY 12470",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 42.283997,
+        "longitude": -74.019684
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2065465604,
+          "streetAddress": "766 Mountain Ave APT 11",
+          "zipcode": "12470",
+          "city": "Purling",
+          "state": "NY",
+          "latitude": 42.283997,
+          "longitude": -74.019684,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1370,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 720956000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 11",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-16 00:00:00",
+      "visited": false,
+      "timeOnZillow": 720956000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30492310",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0e2053b5daa81314fc5f6b8aacbc30a4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/74-Malmstrom-Dr-Cairo-NY-12413/30492310_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,300/mo",
+      "priceLabel": "$1.3K",
+      "address": "74 Malmstrom Dr, Cairo, NY 12413",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 816,
+      "latLong": {
+        "latitude": 42.306293,
+        "longitude": -74.00851
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30492310,
+          "streetAddress": "74 Malmstrom Dr",
+          "zipcode": "12413",
+          "city": "Cairo",
+          "state": "NY",
+          "latitude": 42.306293,
+          "longitude": -74.00851,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 816.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 165600,
+          "rentZestimate": 1502,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 1452674000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 113268.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1452674000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "457ec673",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

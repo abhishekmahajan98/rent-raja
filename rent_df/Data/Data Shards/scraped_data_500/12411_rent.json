@@ -1,0 +1,597 @@
+{
+  "listResults": [
+    {
+      "zpid": "32863571",
+      "id": "32863571",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2gqf0t1a1gvt2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/67bfca0d03f8935560a5bc5a29ca217a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/215-Whiteport-Rd-Kingston-NY-12401/32863571_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,650/mo",
+      "unformattedPrice": 2650,
+      "address": "215 Whiteport Rd, Kingston, NY 12401",
+      "addressStreet": "215 Whiteport Rd",
+      "addressCity": "Kingston",
+      "addressState": "NY",
+      "addressZipcode": "12401",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 41.881508,
+        "longitude": -74.054726
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32863571,
+          "streetAddress": "215 Whiteport Rd",
+          "zipcode": "12401",
+          "city": "Kingston",
+          "state": "NY",
+          "latitude": 41.881508,
+          "longitude": -74.054726,
+          "price": 2650.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 143200,
+          "rentZestimate": 2770,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2650.0,
+          "timeOnZillow": 1221310000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 72308.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 143200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/67bfca0d03f8935560a5bc5a29ca217a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31a8a74e1cf4f8d561df112bf7118434-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d23cfee386c32d2e269b04bd3a5ef97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/391f9a9c9ad0091859af73e61875d154-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ad3cc47639c42e01774963214619e57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/882a8c4056477a904b2d7d79865bdc2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b53a0b58192c719f6b22385d4f9f63c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ccec8e165725848edb9e3f6c473b442-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec88f89a3b40bef7399fd0a24982366f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edc0bced0f1225bf2a4fe0a14f66c7e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04423c6a16a972d17c3c1855d247bf52-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32863674",
+      "id": "32863674",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4wtubwcyb9dpy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ec8af80e1e781c821df5c87e5d81f5c9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Rosendale-NY-12472/32863674_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,090/mo",
+      "unformattedPrice": 3090,
+      "address": "(undisclosed Address), Rosendale, NY 12472",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Rosendale",
+      "addressState": "NY",
+      "addressZipcode": "12472",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1512,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "68 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32863674,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12472",
+          "city": "Rosendale",
+          "state": "NY",
+          "price": 3090.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1512.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 68,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2527,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3090.0,
+          "timeOnZillow": 5891605000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-16 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec8af80e1e781c821df5c87e5d81f5c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f96593fe3194016d277df0668e14346e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d465f07a7a0c495bd7ce9e94c71c7aee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10d2e1b1507daaf83796bb0a9cc2f1f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12ceabb13f42b01a5125c455fcdfccbd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c397af1a092e5cf80339193ba35cf845-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a21d182e2b29fc5fb1844029354a3412-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6ff074304642e5cbe3d91280f7f2cdc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6924eb6b72c43490797dde23b3907f36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcb580646bfda78319f3d4fe06bb6287-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c22ad3199ed90f99b539cfe0a6f2672b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/187ef7f15945f0b1571223868c990826-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cc4535deadbca43c1aa880bbe1dcaac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae4c9f8deb8aebe9eb1389a6ef73e6fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/897da1781d099408c2cd3403390a4ac6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/94b5a4baba4da2a6593aa07701c35890-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4eb1283720aa6ae74ddd4d3c13ec2ebc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/841f1dc80597be7e9852ecc4563cf669-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/add9be75efe8375139cd01cbb1bb36f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b53d34652877ba94fb211f6f108966e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32a1af6ecce1660df310b5a50348c23f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4ef346a4a540a1367ce8f75609015fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dee6721bcb0500f65666e3aa13c6d17d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09c7716e6203594da02b5e77f8adbaf9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52d02d4db71e7baf79a7e02249c9a5f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b86f5691f967a88d9cb177b565822f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2bc0a1d4075f76103557bfa1f3f9b5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2fe00f8d7fd0cbec2a905c40639677c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12cb5441e649af651024810bdd9d68b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75df5900536cb6a01d1d927940daf822-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ffe6a34b28403f013d70a5bdcf3075c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a142c00060e3efd406f8c63dddb252a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e3739c3ffd952953e97ede041bc0dbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98e521849c0c97a21e0f85504afd7d1b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/347a0521b124003fd91c72f102345b61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/908d6c9e1b039d5237a7d30d023f0218-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa113affdbcfc9da79fd0e763994762e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a5d9b966e345fa899917b48e23ca763-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2ab17cc2f5f24babc9db93cd8447ee0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26e50d1e93726af2e145022b7f2e20f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8194b0aca516e32f2359de9a164eca8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50a90271610fe6cf59a393a4bab963af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e7b5f69d4ab58a1b680a727f5dda8d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c7ff70d99eb39a528f2014e7fbc1323-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3d8a835e6a6cc513a47e0b9f15e98fb-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32863571",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/67bfca0d03f8935560a5bc5a29ca217a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/215-Whiteport-Rd-Kingston-NY-12401/32863571_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,650/mo",
+      "priceLabel": "$2.7K",
+      "address": "215 Whiteport Rd, Kingston, NY 12401",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 41.881508,
+        "longitude": -74.054726
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32863571,
+          "streetAddress": "215 Whiteport Rd",
+          "zipcode": "12401",
+          "city": "Kingston",
+          "state": "NY",
+          "latitude": 41.881508,
+          "longitude": -74.054726,
+          "price": 2650.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 143200,
+          "rentZestimate": 2770,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2650.0,
+          "timeOnZillow": 1221310000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 72308.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1221310000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "348221057",
+      "id": "348221057",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3nd5ase82ez3r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e12fcf954049b6da13ddcbfdc56f2e87-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/260-Fischer-Ave-Rosendale-NY-12472/348221057_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "260 Fischer Ave, Rosendale, NY 12472",
+      "addressStreet": "260 Fischer Ave",
+      "addressCity": "Rosendale",
+      "addressState": "NY",
+      "addressZipcode": "12472",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.84989,
+        "longitude": -74.072075
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "76 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 348221057,
+          "streetAddress": "260 Fischer Ave",
+          "zipcode": "12472",
+          "city": "Rosendale",
+          "state": "NY",
+          "latitude": 41.84989,
+          "longitude": -74.072075,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 76,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 313900,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 6590047000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 313900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e12fcf954049b6da13ddcbfdc56f2e87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c783271ba66ca9a35b835f57d9e4875-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb82f4f8550c900725d30d12f52911a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2749836f4680315584635041b5572e15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/898df55534f1d03222fb496bfb7fed0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebc029e3096021360deae58a649f05e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fb54183cf678c972c808f1d44e7722a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00270304439f88b9bf40b2c95d780aff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1547f4b7b2fecfc4729b7b69209d5f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6268f7eb45e9919f187ec51d97b3ace7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2f8586a670de053b91bfaf17b8417de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a10a869fb83b853ccec130a045430329-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56baa50642db179ad77e438102fc5d83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16069d77d1c628b826f36b79b01e406c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0f084a551cb1ef53d9e775eee8113c6-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "2e7b02a5",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "7219e7e9"
+}

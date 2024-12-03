@@ -1,0 +1,960 @@
+{
+  "listResults": [
+    {
+      "zpid": "2059931748",
+      "id": "2059931748",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "39bw0znywqzyt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6ed8324268c1c0d4df157e27836cc5a0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1213-Route-52-APT-5E-Carmel-NY-10512/2059931748_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "1213 Route 52 APT 5E, Carmel, NY 10512",
+      "addressStreet": "1213 Route 52 APT 5E",
+      "addressCity": "Carmel",
+      "addressState": "NY",
+      "addressZipcode": "10512",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 41.50039,
+        "longitude": -73.68384
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2059931748,
+          "streetAddress": "1213 Route 52 APT 5E",
+          "zipcode": "10512",
+          "city": "Carmel",
+          "state": "NY",
+          "latitude": 41.50039,
+          "longitude": -73.68384,
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1677,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 1391458000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 5E",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ed8324268c1c0d4df157e27836cc5a0-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30119729",
+      "id": "30119729",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "316yg72a6kztt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f69af6be650fa973b996c5feb5e526d3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1095-Route-292-Holmes-NY-12531/30119729_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "1095 Route 292, Holmes, NY 12531",
+      "addressStreet": "1095 Route 292",
+      "addressCity": "Holmes",
+      "addressState": "NY",
+      "addressZipcode": "12531",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 41.545296,
+        "longitude": -73.66381
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30119729,
+          "streetAddress": "1095 Route 292",
+          "zipcode": "12531",
+          "city": "Holmes",
+          "state": "NY",
+          "latitude": 41.545296,
+          "longitude": -73.66381,
+          "price": 3000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 449200,
+          "rentZestimate": 2794,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 873099000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 400900.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 449200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f69af6be650fa973b996c5feb5e526d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e90c132b9c47d25d22719c82b953d82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7093a54ea419ba597a5fda899da05d28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbb96bb88116271b0797fb8c1ff35b86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0739431d4e7865764815f90cc93eff0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/418df5fc528e167a7a4d2b6228d08cfe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ffdc2e61e197b34aefaa564139bb723-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1662492e52f4d013918aa55235f6c3ec-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2062324634",
+      "id": "2062324634",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "12dz03t5bpaky",
+      "imgSrc": "https://photos.zillowstatic.com/fp/430d38dce1b36a6deede72f9604d34b0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/681-Route-216-4-Poughquag-NY-12570/2062324634_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,300/mo",
+      "unformattedPrice": 2300,
+      "address": "681 Route 216 #4, Poughquag, NY 12570",
+      "addressStreet": "681 Route 216 #4",
+      "addressCity": "Poughquag",
+      "addressState": "NY",
+      "addressZipcode": "12570",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.58695,
+        "longitude": -73.7124
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "53 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062324634,
+          "streetAddress": "681 Route 216 #4",
+          "zipcode": "12570",
+          "city": "Poughquag",
+          "state": "NY",
+          "latitude": 41.58695,
+          "longitude": -73.7124,
+          "price": 2300.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 53,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 318100,
+          "rentZestimate": 2479,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "priceChange": -100,
+          "timeOnZillow": 4594521000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 318100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices Hudson Valley Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/430d38dce1b36a6deede72f9604d34b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b0cc9702485d0f2e8f4416f2a73b2d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47f3d1df05a53d759ba4a86c029fb7dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/892c39143d79feb1cce83c8aa7e74950-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29f66e8e04f57ba2577c9a11bf547c8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd127bd6982c28004aa5ecd87d3b6dad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/130c4fe09c397c6ea9593671b631a0eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bfae95498e3f8ebc4b86480881b0de4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2337ab9e8e7931d466990190acbb14f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86e1e524a34ca299dbfdfe80f09d305c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/786fd515f92b3829a4c6691055877c6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1897e6224b18222e5ddd06fe21813aa2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2408270122d0379090b984640547fd3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bf6a4cb3cc3f7e66384fe45bf4977d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe30d1f8622d03616b1e48b05dcca062-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8831119dceb18d78b49c39af51d229c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29c4d395595e7b885b0143af285b00f4-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2059931748",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6ed8324268c1c0d4df157e27836cc5a0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1213-Route-52-APT-5E-Carmel-NY-10512/2059931748_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,350/mo",
+      "priceLabel": "$1.4K",
+      "address": "1213 Route 52 APT 5E, Carmel, NY 10512",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 41.50039,
+        "longitude": -73.68384
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2059931748,
+          "streetAddress": "1213 Route 52 APT 5E",
+          "zipcode": "10512",
+          "city": "Carmel",
+          "state": "NY",
+          "latitude": 41.50039,
+          "longitude": -73.68384,
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1677,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 1391458000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 5E",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1391458000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30119729",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f69af6be650fa973b996c5feb5e526d3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1095-Route-292-Holmes-NY-12531/30119729_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,000/mo",
+      "priceLabel": "$3.0K",
+      "address": "1095 Route 292, Holmes, NY 12531",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 41.545296,
+        "longitude": -73.66381
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30119729,
+          "streetAddress": "1095 Route 292",
+          "zipcode": "12531",
+          "city": "Holmes",
+          "state": "NY",
+          "latitude": 41.545296,
+          "longitude": -73.66381,
+          "price": 3000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 449200,
+          "rentZestimate": 2794,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 873099000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 400900.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 873099000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2062324634",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/430d38dce1b36a6deede72f9604d34b0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/681-Route-216-4-Poughquag-NY-12570/2062324634_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,300/mo",
+      "priceLabel": "$2.3K",
+      "address": "681 Route 216 #4, Poughquag, NY 12570",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.58695,
+        "longitude": -73.7124
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "53 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062324634,
+          "streetAddress": "681 Route 216 #4",
+          "zipcode": "12570",
+          "city": "Poughquag",
+          "state": "NY",
+          "latitude": 41.58695,
+          "longitude": -73.7124,
+          "price": 2300.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 318100,
+          "rentZestimate": 2479,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "priceChange": -100,
+          "timeOnZillow": 4594521000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices Hudson Valley Properties",
+      "timeOnZillow": 4594521000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2055190665",
+      "id": "2055190665",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2ac84tnb9wfqf",
+      "imgSrc": "https://photos.zillowstatic.com/fp/eaca92e1f217ec941ec3e43ed340dd9b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2-Elm-St-APT-4-Pawling-NY-12564/2055190665_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "2 Elm St APT 4, Pawling, NY 12564",
+      "addressStreet": "2 Elm St APT 4",
+      "addressCity": "Pawling",
+      "addressState": "NY",
+      "addressZipcode": "12564",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.564068,
+        "longitude": -73.603096
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055190665,
+          "streetAddress": "2 Elm St APT 4",
+          "zipcode": "12564",
+          "city": "Pawling",
+          "state": "NY",
+          "latitude": 41.564068,
+          "longitude": -73.603096,
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2380,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 960427000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: McGrath Realty, Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/eaca92e1f217ec941ec3e43ed340dd9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dc9b550c3aa3522749a2749348f2d96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8c73deae7dfaf0d65d300898fdba240-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf61169787f317413adeee285f086751-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad1f121563a6c3ffa192c957597a056a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95a67dbcf90c829fd78acb5bb7de2deb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f18bfe6efd121ca7b16daaedf41930d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16550c9319355f9a0211186ff3cb8b39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8971957305ce118bc22da7752d94831f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b34d19adf41532314f018544eaa619a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4bf2a76e5cbd5a1e99d8aa3b186c3d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a85b61255b93015cf3e7918da6d65cd5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/196c6750c49aa95680ce3cc4f2651401-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/502f2660242ec8cf1f12b61cb4ad3e02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1401d0b33971a3f5c0315f642d9ddb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c7bd0c87dcd96ac2f9520f666c2094f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e17fd80b42cc605f90d34b281451dc6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a76a537890c4d82e979059ac6651a250-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39b625d0a5af3a32699ba402ed38142b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/147e4ff8fbdcd913b6e22cdeee00e7de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0dba6b3a18c190bb21d58f87ad0ccf5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/186e44cc286114a48b5062cb72bd4478-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0aeed314c9052f66a6bd6cdd58fcab09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b2decc5a7212fba24fb1d162d4160d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d41955ce7e18ecbeb431b526ed077c8b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440149204",
+      "id": "440149204",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3knkhj70yzqqq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4f2c66b959b8680e1db3bd939734988b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1083-Route-311-APT-1-Patterson-NY-12563/440149204_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,950/mo",
+      "unformattedPrice": 1950,
+      "address": "1083 Route 311 APT 1, Patterson, NY 12563",
+      "addressStreet": "1083 Route 311 APT 1",
+      "addressCity": "Patterson",
+      "addressState": "NY",
+      "addressZipcode": "12563",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 650,
+      "latLong": {
+        "latitude": 41.51359,
+        "longitude": -73.61058
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "75 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440149204,
+          "streetAddress": "1083 Route 311 APT 1",
+          "zipcode": "12563",
+          "city": "Patterson",
+          "state": "NY",
+          "latitude": 41.51359,
+          "longitude": -73.61058,
+          "price": 1950.0,
+          "datePriceChanged": 1731398400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 650.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 75,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 12)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "priceChange": -50,
+          "timeOnZillow": 6488005000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: McGrath Realty, Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f2c66b959b8680e1db3bd939734988b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55dcc773f7a45a9045fab07e60f71f97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/170a06a479f196028e84def02952537d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/decc7728eac3ac7037b899a5d6fc59fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/793452dfaa1b411e15a4040f5dc9c601-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d35c9d55cb48029f0c57579883fc703a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ecfd562e2628451763aedd06f1666c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b56cbb8ebd758b2a6ab0329d54cbf6b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01e3032c144ed302c6c719f4e513713e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80a52fa29eca876edb7af7c073e65702-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5d709a0b11ea668188323c0695aaf32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eba9a1cf3c3b26e97c85e775f87a2bb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e28bf4423d4cbac1640167fda0d06145-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbef567da882590fa6765ec7e68884a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65ec1dfebabf18a7633ab3af13040e67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c00fb2dd92c640966f314df20928336e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f5f53369c24994aee38028ec75a1fa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/149c0633279100844fa186fd5f8a7430-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/722d0c5aaaf3371c3173b7e6ac07a988-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/674dcb43ade724eaaa1331627118c2e1-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "65f25b21",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "13b06e06"
+}

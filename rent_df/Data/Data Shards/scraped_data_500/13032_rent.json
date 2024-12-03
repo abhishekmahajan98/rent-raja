@@ -1,0 +1,1447 @@
+{
+  "listResults": [
+    {
+      "zpid": "2056521013",
+      "id": "2056521013",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1fj3qzcx3jtrk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4b6fefd6bdd5a95cfd8f3549499d8081-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5612-Falls-Blvd-5612-Chittenango-NY-13037/2056521013_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "5612 Falls Blvd #5612, Chittenango, NY 13037",
+      "addressStreet": "5612 Falls Blvd #5612",
+      "addressCity": "Chittenango",
+      "addressState": "NY",
+      "addressZipcode": "13037",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 43.001488,
+        "longitude": -75.846535
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056521013,
+          "streetAddress": "5612 Falls Blvd #5612",
+          "zipcode": "13037",
+          "city": "Chittenango",
+          "state": "NY",
+          "latitude": 43.001488,
+          "longitude": -75.846535,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1131,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 626551000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 5612",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b6fefd6bdd5a95cfd8f3549499d8081-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/166968d33a9cdc4a8e71eeea82f679d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ff1c0e29e7ba2cb8263189f0090039c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7658883aa4b93231ffa1c5ed68a08007-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7382a27ee2dee099b5fe2f36a97300d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35505060c4ea604feed4aa3fe297a501-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40442e2d38670c14ec0273271a9fa1fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/741f6ac2adda6d82469bb38847ad8ea8-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "43.077652--75.75132",
+      "id": "43.077652--75.75132",
+      "providerListingId": "31q7n8ugfcb24",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c8b75e82cc2abbd135dfb91efcca2be0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/222-s-peterboro-st-canastota-ny-B8c5LD/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "222 S Peterboro St, Canastota, NY",
+      "addressStreet": "222 S  Peterboro St Apt 2E",
+      "addressCity": "Canastota",
+      "addressState": "NY",
+      "addressZipcode": "13032",
+      "units": [
+        {
+          "price": "$900+",
+          "beds": "1",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2297928265,
+      "latLong": {
+        "latitude": 43.077652,
+        "longitude": -75.75132
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8b75e82cc2abbd135dfb91efcca2be0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f75a154508b97e9e76750c8ff43abcfa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76aea1114ec0b5126c4fad5e81d82f33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7ce3d19079dc67a66760fcbdef2d6c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/465ef2cca41b4907ab479ecf6bcb6958-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "442717493",
+      "id": "442717493",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "16jkvq1n8hqqa",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2e03908d32c8f9af3fe4002128018b0d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2525-Freber-Rd-Chittenango-NY-13037/442717493_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,347/mo",
+      "unformattedPrice": 1347,
+      "address": "2525 Freber Rd, Chittenango, NY 13037",
+      "addressStreet": "2525 Freber Rd",
+      "addressCity": "Chittenango",
+      "addressState": "NY",
+      "addressZipcode": "13037",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 42.99842,
+        "longitude": -75.83104
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442717493,
+          "streetAddress": "2525 Freber Rd",
+          "zipcode": "13037",
+          "city": "Chittenango",
+          "state": "NY",
+          "latitude": 42.99842,
+          "longitude": -75.83104,
+          "price": 1347.0,
+          "datePriceChanged": 1732262400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$102 (Nov 22)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1347.0,
+          "priceChange": -102,
+          "timeOnZillow": 393665000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e03908d32c8f9af3fe4002128018b0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c53780b14efb031df64a1844832e523a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2a6991906781a27adaf50fb1a17638d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/167e83b67f3998caedf702ad388b7a49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/007ce182d5c684226a72a84d5ea068c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45c41fcea7e2f62671b13f918d9fcf53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1447df19de0ae7c782a60c2b5c98e070-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45e91596168ca6a92c0c4822839b3600-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34eccd20b5d32105ad8b4d15aafcc838-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b10b383250a0f51227e52a72648590ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbd7d659df9d0b327b0e241fa7a72748-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab7fb38e160ec9bf6a128c856da2dd8b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53bf6c3371e04cd527ed11981f529833-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c7a5ad7060fe6beef727db875c6a710-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d13790385e28b1aedd4bcb25653ff80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96cae596e0d48d56dbbb101fc357f9f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c337059bcee8b86b38b0e00aa5e9c33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71fc4fa2d9e882ad9418136faeca4a0b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2056521013",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4b6fefd6bdd5a95cfd8f3549499d8081-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/5612-Falls-Blvd-5612-Chittenango-NY-13037/2056521013_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,400/mo",
+      "priceLabel": "$1.4K",
+      "address": "5612 Falls Blvd #5612, Chittenango, NY 13037",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 43.001488,
+        "longitude": -75.846535
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2056521013,
+          "streetAddress": "5612 Falls Blvd #5612",
+          "zipcode": "13037",
+          "city": "Chittenango",
+          "state": "NY",
+          "latitude": 43.001488,
+          "longitude": -75.846535,
+          "price": 1400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1131,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 626551000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 5612",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 626551000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "31q7n8ugfcb24",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c8b75e82cc2abbd135dfb91efcca2be0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/222-s-peterboro-st-canastota-ny-B8c5LD/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$900+/mo",
+      "address": "222 S Peterboro St, Canastota, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 700,
+      "lotId": 2297928265,
+      "latLong": {
+        "latitude": 43.077652,
+        "longitude": -75.75132
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "43.077652--75.75132",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 197355000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442717493",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2e03908d32c8f9af3fe4002128018b0d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2525-Freber-Rd-Chittenango-NY-13037/442717493_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,347/mo",
+      "priceLabel": "$1.3K",
+      "address": "2525 Freber Rd, Chittenango, NY 13037",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 42.99842,
+        "longitude": -75.83104
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442717493,
+          "streetAddress": "2525 Freber Rd",
+          "zipcode": "13037",
+          "city": "Chittenango",
+          "state": "NY",
+          "latitude": 42.99842,
+          "longitude": -75.83104,
+          "price": 1347.0,
+          "datePriceChanged": 1732262400000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$102 (Nov 22)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1347.0,
+          "priceChange": -102,
+          "timeOnZillow": 393665000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "visited": false,
+      "timeOnZillow": 393665000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2054448061",
+      "id": "2054448061",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "bx323my75xd1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2cf94a57efbd2c9e5af78b3b113de0a7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/119-W-Walnut-St-2-Oneida-NY-13421/2054448061_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$825/mo",
+      "unformattedPrice": 825,
+      "address": "119 W Walnut St #2, Oneida, NY 13421",
+      "addressStreet": "119 W Walnut St #2",
+      "addressCity": "Oneida",
+      "addressState": "NY",
+      "addressZipcode": "13421",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.088383,
+        "longitude": -75.649185
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054448061,
+          "streetAddress": "119 W Walnut St #2",
+          "zipcode": "13421",
+          "city": "Oneida",
+          "state": "NY",
+          "latitude": 43.088383,
+          "longitude": -75.649185,
+          "price": 825.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 970,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 825.0,
+          "timeOnZillow": 736774000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: HLP Holdings, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cf94a57efbd2c9e5af78b3b113de0a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0563102fefcd2d5bfcdafea5787740c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ce3c66ac6ac7856ac6a0086049db007-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3cd183f4454e20c308509e79fd63fbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/822188c5888d79d77a085fbe3dfb7d27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f60b854b4021bdfdf442822613ed208-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/667546671bb32e9119f7780b4b31c47e-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442584805",
+      "id": "442584805",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "105wb4y9f4sa1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3a5b6e28ff13dc8552d589effdc0a5b0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/124-Falls-Blvd-2-Chittenango-NY-13037/442584805_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "124 Falls Blvd #2, Chittenango, NY 13037",
+      "addressStreet": "124 Falls Blvd #2",
+      "addressCity": "Chittenango",
+      "addressState": "NY",
+      "addressZipcode": "13037",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1050,
+      "latLong": {
+        "latitude": 43.04278,
+        "longitude": -75.866974
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442584805,
+          "streetAddress": "124 Falls Blvd #2",
+          "zipcode": "13037",
+          "city": "Chittenango",
+          "state": "NY",
+          "latitude": 43.04278,
+          "longitude": -75.866974,
+          "price": 1600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1050.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 884330000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a5b6e28ff13dc8552d589effdc0a5b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5522156da424fd574564a08371dd7f59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77d0ed66edfcbcc9c6f5049101144742-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c894d8e7a118a3da580587161d6be32f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e98842910da890d52dc87137ef1179cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d3b158eb27d09cb604eea2527431b1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c8c9dc4003c76a93b2ae92d1ca0158a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f883d6313b6284ce654b34fc5ce8813-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0246910fab10d66f82c8b9453cea284e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13196a1cb1214d049350a6ea2fb2b1bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/995048b4909f98db0349e865fb6f112e-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442698151",
+      "id": "442698151",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1uwpzk0cgwgu3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/00fcf83fc6256f1ebac2c63d5d7c26b4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/363-Lenox-Ave-1-Oneida-NY-13421/442698151_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$750/mo",
+      "unformattedPrice": 750,
+      "address": "363 Lenox Ave #1, Oneida, NY 13421",
+      "addressStreet": "363 Lenox Ave #1",
+      "addressCity": "Oneida",
+      "addressState": "NY",
+      "addressZipcode": "13421",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.091507,
+        "longitude": -75.65791
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442698151,
+          "streetAddress": "363 Lenox Ave #1",
+          "zipcode": "13421",
+          "city": "Oneida",
+          "state": "NY",
+          "latitude": 43.091507,
+          "longitude": -75.65791,
+          "price": 750.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 750.0,
+          "timeOnZillow": 454038000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/00fcf83fc6256f1ebac2c63d5d7c26b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2649b62464f4adb4e97151d38b8ca511-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45c1456a0e3985a509da99d8e6b373fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5b183d65f5040785307c21e4162815f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2bf08af674fa75c6d927cb2243e6abb-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30827736",
+      "id": "30827736",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "37et49bx4fsjw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7b3d4d4d5f9be74c6964df212c29dbc6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5587-Ridge-Rd-Cazenovia-NY-13035/30827736_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "5587 Ridge Rd, Cazenovia, NY 13035",
+      "addressStreet": "5587 Ridge Rd",
+      "addressCity": "Cazenovia",
+      "addressState": "NY",
+      "addressZipcode": "13035",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 720,
+      "latLong": {
+        "latitude": 42.99373,
+        "longitude": -75.870895
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "40 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30827736,
+          "streetAddress": "5587 Ridge Rd",
+          "zipcode": "13035",
+          "city": "Cazenovia",
+          "state": "NY",
+          "latitude": 42.99373,
+          "longitude": -75.870895,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 720.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 40,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 194400,
+          "rentZestimate": 1404,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 3487535000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 118421.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 194400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b3d4d4d5f9be74c6964df212c29dbc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2dfda671ed9d654629945be172d563f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/133ab8c0a5b43c306bca723f093c94af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/083b6cf996ac60f1d41bb19b3af05465-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/496ecb1a48656e1858db512e04186092-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7487fcf9bcc0103e8bb7c067328bce98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/534779284227e09bcb7ee545ccdad578-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4dc68d21d7e85b07e020b760069a7027-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a9e1b6b098c28f6c9afb178b97ab8cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74da37d3b06695aed9d358938da399c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01add1d9c54e63994bda27a10566ff87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/148e103f5157a0c55c8fb2adaacd9feb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38e338df0879d82eb871ac098a4aac10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c525e6ed9202bea2b9f3119500c8e06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66243cfbd03d52c9ee8e7a6f2fb074c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/394c85cf1bb5be9aad639a1030b26713-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b66f6125679a50978b98d2267d23dbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e169bf12a3c25b6ec00dffb45be7b46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9df198df8cbf2fbbff09c6f5efdcf93e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3218c7bf3e1cbb389208cec8847783d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d4a9c899ec7db8c836fb8191c021234-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "215892716",
+      "id": "215892716",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3mz3nmyuzrrf",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0502770160a1b3118b256f409ae82131-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/134-Vanderbilt-Ave-Oneida-NY-13421/215892716_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$750/mo",
+      "unformattedPrice": 750,
+      "address": "134 Vanderbilt Ave, Oneida, NY 13421",
+      "addressStreet": "134 Vanderbilt Ave",
+      "addressCity": "Oneida",
+      "addressState": "NY",
+      "addressZipcode": "13421",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 1050,
+      "latLong": {
+        "latitude": 43.0953,
+        "longitude": -75.65365
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215892716,
+          "streetAddress": "134 Vanderbilt Ave",
+          "zipcode": "13421",
+          "city": "Oneida",
+          "state": "NY",
+          "latitude": 43.0953,
+          "longitude": -75.65365,
+          "price": 750.0,
+          "datePriceChanged": 1731484800000,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 1050.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1332,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 13)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 750.0,
+          "priceChange": -50,
+          "timeOnZillow": 981013000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 157895.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0502770160a1b3118b256f409ae82131-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1854e89c34feafdbf7351937d198e927-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a95ee7f5c0061f101ade39af736565ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/181d241a09b6c87609bd5ad2e353e35c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9c71a35edcb1959bb33c5da435bc105-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32a6e4f8e5e7844053deeea5df009fbf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c09b6073c93656c5486ae342c7d79d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67150d828083be016794f3f76f9d2a2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd49a2dbbdf0717c2d7d6b07861a2108-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38d2faec7fe93d000f35aafaf2dc0095-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51498cd9306f530450edf1d85ef6cb52-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "423914156",
+      "id": "423914156",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "352su73seyfrj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6bf1c38ddb70df1962210507d8c67c09-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/427-north-lake-street-oneida-castle-ny-9PPync/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150+/mo",
+      "unformattedPrice": 1150,
+      "address": "427 North Lake Street - 2, 427 N Lake St, Oneida, NY 13421",
+      "addressStreet": "427 N Lake St #2",
+      "addressCity": "Oneida",
+      "addressState": "NY",
+      "addressZipcode": "13421",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 43.105297,
+        "longitude": -75.654076
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 423914156,
+          "streetAddress": "427 N Lake St #2",
+          "zipcode": "13421",
+          "city": "Oneida",
+          "state": "NY",
+          "latitude": 43.105297,
+          "longitude": -75.654076,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 717401000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: DynaMax Realty Inc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6bf1c38ddb70df1962210507d8c67c09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07cebd377feccf80177d95e5a54e3561-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b3ac71362e1c8d36ae4fcf808370900-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a38757d0c51231707f62e74c4e107491-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/787de49a23f7860e17eeb7f10731b708-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45d64434759fcf61fc063f994cb61d26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/511bee93d580d4d609f8233d05ccaac8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15d9ca903bdcda3229a8760ed38eb70d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbd44af2a1da058cc7337545fe893128-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdfc6ceadc103cc0c98295d11b07a8ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ccf6a768929b1935b29b0fc5e645332-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/812b2292a69658748117ca5c99910239-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58dfe0a9b3736a5d91b7f58b88fa8ff8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfeb87c97f03ef9eda6dc7ea4d1bcd13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b51b91cb0888b0deb95355cfe4dda68a-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "43.0922--75.659096",
+      "id": "43.0922--75.659096",
+      "providerListingId": "50k16u5fvnq9c",
+      "imgSrc": "https://photos.zillowstatic.com/fp/47751f3554fd521023cf7d018557c4ac-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/433-w-railroad-st-oneida-ny-BgCdvZ/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "433 W Railroad St, Oneida, NY",
+      "addressStreet": "433 W  Railroad St # 207",
+      "addressCity": "Oneida",
+      "addressState": "NY",
+      "addressZipcode": "13421",
+      "units": [
+        {
+          "price": "$2,100+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,350+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2451175881,
+      "latLong": {
+        "latitude": 43.0922,
+        "longitude": -75.659096
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "67 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/47751f3554fd521023cf7d018557c4ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13230d2d5dc16ba14fc4e2e1207e1e75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83b8a408449c2a341c6b40a2be8f5530-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47354ac88f833938d2928466ed1d44b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ed1c0c2c56614144653bc2dc1926018-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80f244b27f6406988025171f23a3330a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c9be8fcdce147e9183009e908b0fd1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27d557aa2c4f4b0eba0b95ef6cee9815-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd598f3360f9fb0d32822b3c5dd0f17b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f41a043f321289f08bb82cac79dc745-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd7fcb4c330608c65e6d833ad5acf430-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/add0de20337de88562ecf2ce8899d5d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57d3e38454144f0febddd387c72c571d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24e74801e83c8909488794d584e09887-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a4fe8b7f91eabb2e1a5ccb92cf6e3ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/792bfd6e5768f97f8e97fac3a8111e35-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    }
+  ],
+  "resultsHash": "7e0969cb",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "76ee77c2"
+}

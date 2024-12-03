@@ -1,0 +1,208 @@
+{
+  "listResults": [
+    {
+      "zpid": "32779291",
+      "id": "32779291",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2nq9e3d2urx1t",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a4cadf226f41bbcc113b453bca7386f2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/297-Sugar-Loaf-Rd-Grahamsville-NY-12740/32779291_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "297 Sugar Loaf Rd, Grahamsville, NY 12740",
+      "addressStreet": "297 Sugar Loaf Rd",
+      "addressCity": "Grahamsville",
+      "addressState": "NY",
+      "addressZipcode": "12740",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1046,
+      "latLong": {
+        "latitude": 41.881516,
+        "longitude": -74.50907
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32779291,
+          "streetAddress": "297 Sugar Loaf Rd",
+          "zipcode": "12740",
+          "city": "Grahamsville",
+          "state": "NY",
+          "latitude": 41.881516,
+          "longitude": -74.50907,
+          "price": 1400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1046.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1933,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 95002000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 92593.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4cadf226f41bbcc113b453bca7386f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/957752964cf1a91489195fb8b257528c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f6957813c4ce9f97a2bc8100c3d88c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7ae5c61e28063bc6e62b5d265eeb20b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a64ebb40a013548bece8e813de8fa79b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/003f1e07f8967cb04fc4c9c5e4018a80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af3796fb72206631cbe84aff59090ff7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/671bc6fae0f8162fe96883e5caa9bf7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85b055d52316be3e6511b102283363fd-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32779291",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a4cadf226f41bbcc113b453bca7386f2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/297-Sugar-Loaf-Rd-Grahamsville-NY-12740/32779291_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,400/mo",
+      "priceLabel": "$1.4K",
+      "address": "297 Sugar Loaf Rd, Grahamsville, NY 12740",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1046,
+      "latLong": {
+        "latitude": 41.881516,
+        "longitude": -74.50907
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32779291,
+          "streetAddress": "297 Sugar Loaf Rd",
+          "zipcode": "12740",
+          "city": "Grahamsville",
+          "state": "NY",
+          "latitude": 41.881516,
+          "longitude": -74.50907,
+          "price": 1400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1046.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1933,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 95002000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 92593.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "timeOnZillow": 95002000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "67cfc60f",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

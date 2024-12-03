@@ -1,0 +1,339 @@
+{
+  "listResults": [
+    {
+      "zpid": "299783761",
+      "id": "299783761",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "xzuyv3jaxdah",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c632c09dcff117a3aebda5ddfa6bbf64-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1165-County-Highway-33-Bloomville-NY-13739/299783761_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "1165 County Highway 33, Bloomville, NY 13739",
+      "addressStreet": "1165 County Highway 33",
+      "addressCity": "Bloomville",
+      "addressState": "NY",
+      "addressZipcode": "13739",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2050,
+      "latLong": {
+        "latitude": 42.350857,
+        "longitude": -74.812225
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "38 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 299783761,
+          "streetAddress": "1165 County Highway 33",
+          "zipcode": "13739",
+          "city": "Bloomville",
+          "state": "NY",
+          "latitude": 42.350857,
+          "longitude": -74.812225,
+          "price": 1800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2050.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 38,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 543800,
+          "rentZestimate": 2036,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 3352737000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 382400.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 543800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: KELLER WILLIAMS UPSTATE NY PROPERTIES/PARADISE EXCLUSIVE RE FLORIDA",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c632c09dcff117a3aebda5ddfa6bbf64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6cfb32b586de16ee105f3fd4e4386863-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e6ae0eed0e2561302391b896eefe48e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f81ff7b068c8dd3cfd150a38b6d7e609-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea9d4a1b983a39083802320df3e3189d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd735d0367b81c2d51b8802747023e3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80f27fcd38c538d920a84d8a94e61f56-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c19b8141aa29e7cef0b32ec9680272a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f5ef4b03a9bc9c27e8bb38ce7935751-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "299783761",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c632c09dcff117a3aebda5ddfa6bbf64-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1165-County-Highway-33-Bloomville-NY-13739/299783761_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,800/mo",
+      "priceLabel": "$1.8K",
+      "address": "1165 County Highway 33, Bloomville, NY 13739",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2050,
+      "latLong": {
+        "latitude": 42.350857,
+        "longitude": -74.812225
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "38 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 299783761,
+          "streetAddress": "1165 County Highway 33",
+          "zipcode": "13739",
+          "city": "Bloomville",
+          "state": "NY",
+          "latitude": 42.350857,
+          "longitude": -74.812225,
+          "price": 1800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2050.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 543800,
+          "rentZestimate": 2036,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 3352737000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 382400.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: KELLER WILLIAMS UPSTATE NY PROPERTIES/PARADISE EXCLUSIVE RE FLORIDA",
+      "timeOnZillow": 3352737000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "442507223",
+      "id": "442507223",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "g3gmj0gcxj9u",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ac150c7d01edea6ce1c0b7b9a835e02f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/9900-Elk-Creek-Rd-2-East-Meredith-NY-13757/442507223_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,000/mo",
+      "unformattedPrice": 1000,
+      "address": "9900 Elk Creek Rd #2, East Meredith, NY 13757",
+      "addressStreet": "9900 Elk Creek Rd #2",
+      "addressCity": "East Meredith",
+      "addressState": "NY",
+      "addressZipcode": "13757",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 42.419292,
+        "longitude": -74.88327
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442507223,
+          "streetAddress": "9900 Elk Creek Rd #2",
+          "zipcode": "13757",
+          "city": "East Meredith",
+          "state": "NY",
+          "latitude": 42.419292,
+          "longitude": -74.88327,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 13,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 1202237000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-09 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Frank Lumia Real Estate Plus!, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac150c7d01edea6ce1c0b7b9a835e02f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e9a3b21d99aa0fd5028a07c6e1ffb28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1333784976ac469fa81e97d3f353bc5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b809942efa0203cc6760939eefd5b25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd1952ae7e0a7e5ab16db6f17faabca8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca9ab2b72ffd4df643d6c62c381d4f33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/959207602f8ba3eb6d1ba8ff1db43f82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c17a12e0d56071074b62d7052a40e2cf-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "3ecb8ff1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1635c038"
+}

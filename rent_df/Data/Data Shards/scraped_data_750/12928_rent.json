@@ -1,0 +1,237 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "224225643",
+      "id": "224225643",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "47pnn565z9kyt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a87e70b7175eae257bf65f50193d9bc6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/239-Goose-Bay-Dr-Bridport-VT-05734/224225643_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "239 Goose Bay Dr, Bridport, VT 05734",
+      "addressStreet": "239 Goose Bay Dr",
+      "addressCity": "Bridport",
+      "addressState": "VT",
+      "addressZipcode": "05734",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1823,
+      "latLong": {
+        "latitude": 44.019974,
+        "longitude": -73.3949
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 224225643,
+          "streetAddress": "239 Goose Bay Dr",
+          "zipcode": "05734",
+          "city": "Bridport",
+          "state": "VT",
+          "latitude": 44.019974,
+          "longitude": -73.3949,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1823.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 24,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 637100,
+          "rentZestimate": 2842,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 2107321000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 347600.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 637100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a87e70b7175eae257bf65f50193d9bc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5080cd6723754337bf8a83d44e3abbfd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dad5ac5914c6fc6b633cc004c2dbcb06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd6d2b747c18c02642782301a39c9c3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2105d2d48a9540f6760873bec9862a72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4656e3d4aa2d9e8ada2fe68028eab48b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee69399386192826687ff5691eb8c5f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91cfc064c91d78cf7347effd8f8a7102-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/089c0cb67b7eaf6bf5fa5d007fe4049c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08ecb76f4edbaed5a6036161b83d8004-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69e32cd7f4f03ff9b7876643d9f50421-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7042a6b0a1575502c932fc003b2618b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df4d98bc14b2e9a05bf84b072538f95c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08a68df37db20f05897ccf204e47de4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c67fae4efaa107472982999f6590b267-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db19da8dc66e4a15e91685363a727da0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf3506b5086b722004be62566dd7b748-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef3c7fb95f5da8583f9e7923383e2012-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1a8bdaedec5d5f64191c34b74c1ce64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b609a612110bf07ebf429560332aef4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/982ead7ab91472faa631e02ff9605120-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdec3a21e41148203cbb8e2915d9b977-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d52454ae891f6ccca00bfb0fe31061f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0432f7093a5f4de03f1173204c96d068-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a81b31c30445d5fa9579cab44e7ae51a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/841fee526e81832fa29746e59347c4bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c40df808069f90f083f07755ae6f908-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/869a17c6e71cc6ca6174f960dc6480b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75b6a806881d8a2e0f425fa091f818db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9622bfe7d2d8c2371854056f50b6b28a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b520b238d04762ef94ade63343f053d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f14e7f6f85114eddab9b8f6c114cca70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38b1b2cdbc31c905b91c0be92ea1cdcd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d119c9d5c8a4612ea41b989d799ce07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcb07bf5ecea36efc6b692fc8b705bee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0a848f76859aab1019ac1899c49e9d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c9fc736c162c4c0a5909f93087276c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c3e102ec517b9adcd4ba2e3bc2cb8c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7846629914809af4880f8cd1ed3a494e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/054a4c6c71562a0a301679630b98d84e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/405481fad6d8a5541743c51c828292b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2af2171b244ad5d5820394300e9040c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c40c9237cb501a7d6624c59985bcbedd-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "56484a33"
+}

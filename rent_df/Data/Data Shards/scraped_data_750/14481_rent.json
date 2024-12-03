@@ -1,0 +1,507 @@
+{
+  "listResults": [
+    {
+      "zpid": "442450820",
+      "id": "442450820",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "r4m2zfcmawea",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b05f6dae3479e683fd7135d9e9c26fb0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Leicester-NY-14481/442450820_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$750/mo",
+      "unformattedPrice": 750,
+      "address": "(undisclosed Address), Leicester, NY 14481",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Leicester",
+      "addressState": "NY",
+      "addressZipcode": "14481",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442450820,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "14481",
+          "city": "Leicester",
+          "state": "NY",
+          "price": 750.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 750.0,
+          "timeOnZillow": 1368148000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-16 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b05f6dae3479e683fd7135d9e9c26fb0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18618017ea4e938ae29451f9c404374c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16911fddebbed1c2ac78e8cbfbd3497a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442583517",
+      "id": "442583517",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3dqw0a49uvtds",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2184657266904a1b24fff0c9ddcd3aaf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/64-66-Hopkins-St-64-Mount-Morris-NY-14510/442583517_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "64-66 Hopkins St #64, Mount Morris, NY 14510",
+      "addressStreet": "64-66 Hopkins St #64",
+      "addressCity": "Mount Morris",
+      "addressState": "NY",
+      "addressZipcode": "14510",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 42.7206,
+        "longitude": -77.87944
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442583517,
+          "streetAddress": "64-66 Hopkins St #64",
+          "zipcode": "14510",
+          "city": "Mount Morris",
+          "state": "NY",
+          "latitude": 42.7206,
+          "longitude": -77.87944,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 915450000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 64",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-13 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2184657266904a1b24fff0c9ddcd3aaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e757c5967d6bc1494289ce173af76fa6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d22ba4d123adb79c99e1673db5d6b479-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18a7d577c48ed4e3ffbf4323343eb271-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4abb28b9a5a969b5ba93f7154661a5ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a2738df254643a489e3771fd924f476-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b48c12d3693834f1bd3296eddf38c015-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30811945",
+      "id": "30811945",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4qk1w9euf0vpc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c7a2cfb2d3354b2cdf1a03eeb9010344-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1-Oak-Mnr-Leicester-NY-14481/30811945_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$1,295/mo",
+      "unformattedPrice": 1295,
+      "address": "1 Oak Mnr, Leicester, NY 14481",
+      "addressStreet": "1 Oak Mnr",
+      "addressCity": "Leicester",
+      "addressState": "NY",
+      "addressZipcode": "14481",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1250,
+      "latLong": {
+        "latitude": 42.7727,
+        "longitude": -77.90282
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "45 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30811945,
+          "streetAddress": "1 Oak Mnr",
+          "zipcode": "14481",
+          "city": "Leicester",
+          "state": "NY",
+          "latitude": 42.7727,
+          "longitude": -77.90282,
+          "price": 1295.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1250.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 45,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 172000,
+          "rentZestimate": 1400,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "timeOnZillow": 3969194000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 125000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 172000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Chauncey Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7a2cfb2d3354b2cdf1a03eeb9010344-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/840768274864f60a98e68b4d616beda4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e51d557a59f676b7eaaaa43799ba269-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2529350256104dd92d97bcaf10fef2af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc967541c1e17191378de619a39b8ae4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f4cba0b53b7a6c7c06a5f86ab030fb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7b0beb4889379df8943d31fb2059059-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0f85553aa6dad53745b33ed3db1ab87-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442583517",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2184657266904a1b24fff0c9ddcd3aaf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/64-66-Hopkins-St-64-Mount-Morris-NY-14510/442583517_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "64-66 Hopkins St #64, Mount Morris, NY 14510",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 42.7206,
+        "longitude": -77.87944
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442583517,
+          "streetAddress": "64-66 Hopkins St #64",
+          "zipcode": "14510",
+          "city": "Mount Morris",
+          "state": "NY",
+          "latitude": 42.7206,
+          "longitude": -77.87944,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 915450000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 64",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-13 00:00:00",
+      "visited": false,
+      "timeOnZillow": 915450000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30811945",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c7a2cfb2d3354b2cdf1a03eeb9010344-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1-Oak-Mnr-Leicester-NY-14481/30811945_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$1,295/mo",
+      "priceLabel": "$1.3K",
+      "address": "1 Oak Mnr, Leicester, NY 14481",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1250,
+      "latLong": {
+        "latitude": 42.7727,
+        "longitude": -77.90282
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "45 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30811945,
+          "streetAddress": "1 Oak Mnr",
+          "zipcode": "14481",
+          "city": "Leicester",
+          "state": "NY",
+          "latitude": 42.7727,
+          "longitude": -77.90282,
+          "price": 1295.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1250.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 172000,
+          "rentZestimate": 1400,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "timeOnZillow": 3969194000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 125000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Chauncey Property Management",
+      "timeOnZillow": 3969194000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "6e787966",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

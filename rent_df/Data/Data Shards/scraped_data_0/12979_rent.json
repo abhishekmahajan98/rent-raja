@@ -1,0 +1,211 @@
+{
+  "listResults": [
+    {
+      "zpid": "2054214075",
+      "id": "2054214075",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2r7jrtuvkmsvr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fc3a184ead6b12742a915528b7009aac-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/58-State-St-10-Rouses-Pt-NY-12979/2054214075_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$920/mo",
+      "unformattedPrice": 920,
+      "address": "58 State St #10, Rouses Pt, NY 12979",
+      "addressStreet": "58 State St #10",
+      "addressCity": "Rouses Pt",
+      "addressState": "NY",
+      "addressZipcode": "12979",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 44.99409,
+        "longitude": -73.36694
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054214075,
+          "streetAddress": "58 State St #10",
+          "zipcode": "12979",
+          "city": "Rouses Pt",
+          "state": "NY",
+          "latitude": 44.99409,
+          "longitude": -73.36694,
+          "price": 920.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 740,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 920.0,
+          "timeOnZillow": 414102000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 10",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc3a184ead6b12742a915528b7009aac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0097185a126e1a0fb0b69d02cd6e0607-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63ef3a0b8b9e26741b2fa318e705af16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/073843cfeb15c58339306dcb83da4f10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db4d3c3c60cd9cfa4bc5b4355b1dfd93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c77f142adc2b2c8980f41f9168f8de42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ff4acbd63c34af9841c7be0dfbb084f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/395fbb41735ea5e1efab1f04472c8d8b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2054214075",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fc3a184ead6b12742a915528b7009aac-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/58-State-St-10-Rouses-Pt-NY-12979/2054214075_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$920/mo",
+      "priceLabel": "$920",
+      "address": "58 State St #10, Rouses Pt, NY 12979",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 44.99409,
+        "longitude": -73.36694
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054214075,
+          "streetAddress": "58 State St #10",
+          "zipcode": "12979",
+          "city": "Rouses Pt",
+          "state": "NY",
+          "latitude": 44.99409,
+          "longitude": -73.36694,
+          "price": 920.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 740,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 920.0,
+          "timeOnZillow": 414102000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 10",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 414102000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "1bac68d5",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

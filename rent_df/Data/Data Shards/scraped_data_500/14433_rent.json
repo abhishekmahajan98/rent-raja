@@ -1,0 +1,353 @@
+{
+  "listResults": [
+    {
+      "zpid": "442764263",
+      "id": "442764263",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1rhd5gc1d95fh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ce2ff2b9526c54b3267c51b5707b1b51-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/187-Glasgow-St-2-Clyde-NY-14433/442764263_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$830/mo",
+      "unformattedPrice": 830,
+      "address": "187 Glasgow St #2, Clyde, NY 14433",
+      "addressStreet": "187 Glasgow St #2",
+      "addressCity": "Clyde",
+      "addressState": "NY",
+      "addressZipcode": "14433",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.086823,
+        "longitude": -76.86744
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442764263,
+          "streetAddress": "187 Glasgow St #2",
+          "zipcode": "14433",
+          "city": "Clyde",
+          "state": "NY",
+          "latitude": 43.086823,
+          "longitude": -76.86744,
+          "price": 830.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 830.0,
+          "timeOnZillow": 203452000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-21 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce2ff2b9526c54b3267c51b5707b1b51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ac76ec1d5a47464bc6b0bacb977c2a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5fd55f6a63de0205529dc418a68455c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1eecb04a886085eb1dcfa021a9950410-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a326523466e0a420b0781dd2df0070ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b340074996a8c9e53128eac777aa52f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80eeb6b7b519c461e7c7530a9da55af1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afe17b4e54ef7675df52e7f140debc1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2202f18c98a676457f847baf28cd5e61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e40e337fa18ce43997f83761a26c5333-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442764263",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ce2ff2b9526c54b3267c51b5707b1b51-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/187-Glasgow-St-2-Clyde-NY-14433/442764263_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$830/mo",
+      "priceLabel": "$830",
+      "address": "187 Glasgow St #2, Clyde, NY 14433",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.086823,
+        "longitude": -76.86744
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442764263,
+          "streetAddress": "187 Glasgow St #2",
+          "zipcode": "14433",
+          "city": "Clyde",
+          "state": "NY",
+          "latitude": 43.086823,
+          "longitude": -76.86744,
+          "price": 830.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 830.0,
+          "timeOnZillow": 203452000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-21 00:00:00",
+      "visited": false,
+      "timeOnZillow": 203452000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "440020052",
+      "id": "440020052",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5c3rfv1zagnf5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/004a49db91206eb3b890b8287002c9de-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4483-New-York-State-Trwy-E-414-Seneca-Falls-NY-13148/440020052_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,700/mo",
+      "unformattedPrice": 1700,
+      "address": "4483 New York State Trwy E #414, Seneca Falls, NY 13148",
+      "addressStreet": "4483 New York State Trwy E #414",
+      "addressCity": "Seneca Falls",
+      "addressState": "NY",
+      "addressZipcode": "13148",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1998,
+      "latLong": {
+        "latitude": 42.967655,
+        "longitude": -76.84525
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "23 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440020052,
+          "streetAddress": "4483 New York State Trwy E #414",
+          "zipcode": "13148",
+          "city": "Seneca Falls",
+          "state": "NY",
+          "latitude": 42.967655,
+          "longitude": -76.84525,
+          "price": 1700.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1998.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 23,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 249900,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 2020513000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 414",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 249900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Empire Real Homes",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/004a49db91206eb3b890b8287002c9de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfa7ce22063cd41f25426494a62a438c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da4fbe044ca211bf525f21970885269e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1fd352a9d534ce0215e1a5d23caf592-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be01d33a7793cd1978394cae3bd17db9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3febcd3978162a96816522738bc26fe6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/585703b6478a2b903038f20727d767e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a894162039b8e23fc509005fcfbed89f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35bd3fc23a88bee78cc7191787e4eab8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae7d069becd01b96416af4e2174cceeb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad19a609e34b3d08cad59c48e247b793-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e598c1d9981cbdd882c09d27c49055a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5aa18d62cf693ad2cf6cf57bf543e35f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7bd6465326a8da039998f23319a35c8b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1278de95",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "778e876e"
+}

@@ -1,0 +1,141 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "98656835",
+      "id": "98656835",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4va5nutr7nc7z",
+      "imgSrc": "https://photos.zillowstatic.com/fp/628309c744e7f513dbe81fa56a33ddae-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/614-Salls-Rd-East-Chatham-NY-12060/98656835_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,250/mo",
+      "unformattedPrice": 4250,
+      "address": "614 Salls Rd, East Chatham, NY 12060",
+      "addressStreet": "614 Salls Rd",
+      "addressCity": "East Chatham",
+      "addressState": "NY",
+      "addressZipcode": "12060",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 3.0,
+      "area": 2500,
+      "latLong": {
+        "latitude": 42.457745,
+        "longitude": -73.457146
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "84 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 98656835,
+          "streetAddress": "614 Salls Rd",
+          "zipcode": "12060",
+          "city": "East Chatham",
+          "state": "NY",
+          "latitude": 42.457745,
+          "longitude": -73.457146,
+          "price": 4250.0,
+          "bathrooms": 3.0,
+          "bedrooms": 5.0,
+          "livingArea": 2500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 84,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 665300,
+          "rentZestimate": 4246,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4250.0,
+          "timeOnZillow": 7271789000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 470667.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 665300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/628309c744e7f513dbe81fa56a33ddae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a9f48ee677b7a5116a3d9d17649ad3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5f2820ab74d847af963bbfa988e2aa0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4f0950057ff7a3bd6eb0a9049115eb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07e62be6753349b6d9a14cfd107d6488-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0ed5cff8841f462e0c12993b91a20e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a2f14da32d7c377521b9a61ca239d48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f1a9844a6b9092964ce5cfe817dcb6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f944ff0b298ac508d99f53bbb503e5d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc5508ef4195c0042873ec9251235e1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/004857fa97cd5484a9c56b7eb80ba281-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "12a9e7e1"
+}

@@ -1,0 +1,257 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "32787171",
+      "id": "32787171",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1vq2w39yshdwe",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0f7bcf71eb4f9f57648933386e488696-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/108-Schoolhouse-Rd-Monticello-NY-12701/32787171_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "108 Schoolhouse Rd, Monticello, NY 12701",
+      "addressStreet": "108 Schoolhouse Rd",
+      "addressCity": "Monticello",
+      "addressState": "NY",
+      "addressZipcode": "12701",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {
+        "latitude": 41.61659,
+        "longitude": -74.71086
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32787171,
+          "streetAddress": "108 Schoolhouse Rd",
+          "zipcode": "12701",
+          "city": "Monticello",
+          "state": "NY",
+          "latitude": 41.61659,
+          "longitude": -74.71086,
+          "price": 2500.0,
+          "datePriceChanged": 1732089600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 331400,
+          "rentZestimate": 2528,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Nov 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "priceChange": -150,
+          "timeOnZillow": 829842000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 270000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 331400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f7bcf71eb4f9f57648933386e488696-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b35ec60e81a152df00df7b02a1a50034-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdd912307af36d48d84139566dcb4f55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc17d73ae0bd90f2c9789525076915d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc3de84d29e3a18f760d43c2de525d65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c73c0d7e31c487662df74a522e5a107c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c138f6d6449880f93a451e28e8b5e94-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2082073595",
+      "id": "2082073595",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5fzv14kbvr1uq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/89c910d9e36eaedfee3fc849050dcefd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/624-Oakland-Valley-Rd-A-Cuddebackville-NY-12729/2082073595_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "624 Oakland Valley Rd #A, Cuddebackville, NY 12729",
+      "addressStreet": "624 Oakland Valley Rd #A",
+      "addressCity": "Cuddebackville",
+      "addressState": "NY",
+      "addressZipcode": "12729",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 41.489685,
+        "longitude": -74.63273
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082073595,
+          "streetAddress": "624 Oakland Valley Rd #A",
+          "zipcode": "12729",
+          "city": "Cuddebackville",
+          "state": "NY",
+          "latitude": 41.489685,
+          "longitude": -74.63273,
+          "price": 1400.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1608,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "priceChange": -100,
+          "timeOnZillow": 1901134000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Homes by Yara Realty Group llc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/89c910d9e36eaedfee3fc849050dcefd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21755efd2bec31cc8c91bab309c09e6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dace9fe3d8af9e8b5996ef359801a74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87178cfa629209aff940d32b17cd663b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2a88e89ab352ec8a06c092c9727f195-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9da1b5a26d2bd95bb6c1e1761d29b5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80db38045ea26a2e6bf8e327e097a664-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6b3658db7a7be18cfce002ccd485ccc-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "7a2f1cca"
+}

@@ -1,0 +1,215 @@
+{
+  "listResults": [
+    {
+      "zpid": "442746980",
+      "id": "442746980",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1en2fwutaju6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fdcc5bb434c7ee94cb46198a5ee831ad-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/9-Burton-Ave-3-Ripley-NY-14775/442746980_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$500/mo",
+      "unformattedPrice": 500,
+      "address": "9 Burton Ave #3, Ripley, NY 14775",
+      "addressStreet": "9 Burton Ave #3",
+      "addressCity": "Ripley",
+      "addressState": "NY",
+      "addressZipcode": "14775",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.26417,
+        "longitude": -79.71014
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442746980,
+          "streetAddress": "9 Burton Ave #3",
+          "zipcode": "14775",
+          "city": "Ripley",
+          "state": "NY",
+          "latitude": 42.26417,
+          "longitude": -79.71014,
+          "price": 500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 500.0,
+          "timeOnZillow": 281126000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdcc5bb434c7ee94cb46198a5ee831ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ceb8323e8c70bd88795f93c90bb7e7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2749faecfee32ab646a36a0f1e3abc36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/726dceda42c3c775d1c7a87a65f96272-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce6b893cc2e0303e6f00647397b02251-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf329d58e5a71b2f527248d63878a91c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5383b13043422023be5866bd3fdd0beb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc1e525119c4b06eb6ab57dbfeaa9d6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f7754cf9f115c7d8f1d2e9ff6a9e055-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ee666e29febd8e84d548c4dfe7cde13-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442746980",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fdcc5bb434c7ee94cb46198a5ee831ad-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/9-Burton-Ave-3-Ripley-NY-14775/442746980_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$500/mo",
+      "priceLabel": "$500",
+      "address": "9 Burton Ave #3, Ripley, NY 14775",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.26417,
+        "longitude": -79.71014
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442746980,
+          "streetAddress": "9 Burton Ave #3",
+          "zipcode": "14775",
+          "city": "Ripley",
+          "state": "NY",
+          "latitude": 42.26417,
+          "longitude": -79.71014,
+          "price": 500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 500.0,
+          "timeOnZillow": 281126000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "visited": false,
+      "timeOnZillow": 281126000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "12940a57",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

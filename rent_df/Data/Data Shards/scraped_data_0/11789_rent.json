@@ -1,0 +1,1687 @@
+{
+  "listResults": [
+    {
+      "zpid": "59450434",
+      "id": "59450434",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2knuy6xbanmyy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fdb0f843d7203c8326e201bf85e34ee9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/7-Port-Jefferson-Rd-Sound-Beach-NY-11789/59450434_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,900/mo",
+      "unformattedPrice": 2900,
+      "address": "7 Port Jefferson Rd, Sound Beach, NY 11789",
+      "addressStreet": "7 Port Jefferson Rd",
+      "addressCity": "Sound Beach",
+      "addressState": "NY",
+      "addressZipcode": "11789",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.964153,
+        "longitude": -72.97011
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59450434,
+          "streetAddress": "7 Port Jefferson Rd",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "latitude": 40.964153,
+          "longitude": -72.97011,
+          "price": 2900.0,
+          "datePriceChanged": 1731312000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 352900,
+          "rentZestimate": 2106,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 11)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2900.0,
+          "priceChange": -200,
+          "timeOnZillow": 1916205000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 231482.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 352900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-11 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Maria Palmar Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdb0f843d7203c8326e201bf85e34ee9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11b0b9bc5ea29cfcfa0650e757c57365-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f2001666c822191a9b448775ae9a57c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15a5f3bab46b14aeb928ed31ef8985c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96036f26d5d3f18e49fbe75fca8af96b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ec4398ac402b2041477be2fbb211ae0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/858c0f6e61460310ad1718dea8cdc59c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf48e6e5ca46337b56782190256eefdd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69acc02ec115711bb0d2ff3dbc17c075-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42250bcd6dff8e6c09c5b1699338d055-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d753d67acd63d905b6a9eff86049f87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b132fd6b21fd315b3df69f878024d57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59c951e40d8ca4af5eea33433dbf07b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecb210bf56623f0461e2b8d624129f94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9acff130f754d94a474d8c4bff98bece-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfe153b32ad9c4877bd239d6d388bb9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdb316f9833c4c05f662d6cf522d9897-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbd17da4bbb2ceb4ea30326aa40a90a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9162fd99aeab6d1fa60eb1fffa2ac286-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d41cef0a29909ea4c0769319d532192-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32e882a0ef8a7033fcccd563414aa266-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59451951",
+      "id": "59451951",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5c6fyhdf0ybt0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ca52d744da90d8cdbd602feb27f025ad-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Sound-Beach-NY-11789/59451951_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "(undisclosed Address), Sound Beach, NY 11789",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Sound Beach",
+      "addressState": "NY",
+      "addressZipcode": "11789",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59451951,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "price": 2400.0,
+          "datePriceChanged": 1732176000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 234000,
+          "rentZestimate": 2285,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "priceChange": -200,
+          "timeOnZillow": 1406823000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 234000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca52d744da90d8cdbd602feb27f025ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6f47f27914f38287adb48542943823b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2048560522466a3267814ebbe15c81cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f011b1807da5849d0066c871daa371d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f55fb142d3e6332ea4f74dedb947d8ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d1c05b3a3a35d0670ecd44d1736b274-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442341967",
+      "id": "442341967",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3efqyr2yb1c0f",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b5967928f553e85499fe423ee30b25af-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/11-Waterville-Dr-11-Sound-Beach-NY-11789/442341967_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "11 Waterville Dr #11, Sound Beach, NY 11789",
+      "addressStreet": "11 Waterville Dr #11",
+      "addressCity": "Sound Beach",
+      "addressState": "NY",
+      "addressZipcode": "11789",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.95421,
+        "longitude": -72.9846
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442341967,
+          "streetAddress": "11 Waterville Dr #11",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "latitude": 40.95421,
+          "longitude": -72.9846,
+          "price": 2800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "timeOnZillow": 1648106000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 11",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Aliano Real Estate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5967928f553e85499fe423ee30b25af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be8cf776c30ca4002102d85ae07721d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76503dae70804b5059860fdd50379529-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8fb0484f3ac9b5e3859f59408c3d1faf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/814d9220b468861a8c9adae4a01ad0af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd80e4bc8f6cd8a19faf79d5a01726ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb464853978b9529da110ebb5234b34b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8c66cce40c4995ea3aca3d0e804c0c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/995db487e22f7c66a7874e9cdef431b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08bf63772085b2e65b5c2f4d1ad82b45-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59451546",
+      "id": "59451546",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3rftykusb599n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9a9e691c107350e75e6d4d194a8b7ff9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/125-Halesite-Dr-Sound-Beach-NY-11789/59451546_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "125 Halesite Dr, Sound Beach, NY 11789",
+      "addressStreet": "125 Halesite Dr",
+      "addressCity": "Sound Beach",
+      "addressState": "NY",
+      "addressZipcode": "11789",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.957344,
+        "longitude": -72.97878
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59451546,
+          "streetAddress": "125 Halesite Dr",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "latitude": 40.957344,
+          "longitude": -72.97878,
+          "price": 2200.0,
+          "datePriceChanged": 1732348800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 540800,
+          "rentZestimate": 2653,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 23)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "priceChange": -50,
+          "timeOnZillow": 1671818000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 385185.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 540800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a9e691c107350e75e6d4d194a8b7ff9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6ac3c27a610a6cb7cef82b9bbbd40f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b459bd61d343571b848b058a748a39d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b403ced7059f26e1f3028487336f819e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93358ccd1e6ede88be6d68d11a5def34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31f4d3401438c019b0ec957009a8138d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23ad87237ceb40477f36b75bbb82cb24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a17f87ff2bf0b88edb5578efe69eb4c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71bfce26305d8165bb1d332929edd548-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a330b28e53d3845b9762eeb873994d76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7c3daac464cf3ce5deb8b70bb4b144e-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59451639",
+      "id": "59451639",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4wnadsfhwdvwx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c9afdbc0ff969bc0bca16e5ee86a1cd9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/15-Jerome-Rd-Sound-Beach-NY-11789/59451639_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,600/mo",
+      "unformattedPrice": 3600,
+      "address": "15 Jerome Rd, Sound Beach, NY 11789",
+      "addressStreet": "15 Jerome Rd",
+      "addressCity": "Sound Beach",
+      "addressState": "NY",
+      "addressZipcode": "11789",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.959995,
+        "longitude": -72.979485
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59451639,
+          "streetAddress": "15 Jerome Rd",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "latitude": 40.959995,
+          "longitude": -72.979485,
+          "price": 3600.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 369000,
+          "rentZestimate": 3188,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "priceChange": -300,
+          "timeOnZillow": 1376553000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 250000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 369000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Signature Premier Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9afdbc0ff969bc0bca16e5ee86a1cd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b305fabef54fae052747241f5e0ad562-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5ad3d98e950f734837dcddc0f538787-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e09e247fc56b2487c502cbf946a3470f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddbdec987450a32a76f500377cc2e9ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f419cbafb0181d83f4ad52d5d9b9af6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c239523cc4664e61967655e284394cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e68576f2766e53c32f062cf2302d3597-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6e1e13fcf7ec02ef4de5fa0f7c83dd8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d75f8ab9c514152d622e1a5c4a376928-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cb5445caf4268dcb3714e93abcdf544-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/907e7d9e1abe9f23f58224bb42363a29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ea3677cc91eb37193930575f0b93042-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cb70b50cf482703913056c516ba143c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84bb83e03c7a17a6f00e2cea362c6699-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ee3ac1e5c82a8873403a39deeeee0e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e18efabc247841c1902851bf68ca9e77-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59452079",
+      "id": "59452079",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ugep4p67t6dh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6ab309460190238ab9666205d186c1ba-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/217-Sound-Beach-Blvd-Sound-Beach-NY-11789/59452079_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "217 Sound Beach Blvd, Sound Beach, NY 11789",
+      "addressStreet": "217 Sound Beach Blvd",
+      "addressCity": "Sound Beach",
+      "addressState": "NY",
+      "addressZipcode": "11789",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.959156,
+        "longitude": -72.96621
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59452079,
+          "streetAddress": "217 Sound Beach Blvd",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "latitude": 40.959156,
+          "longitude": -72.96621,
+          "price": 3500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 499800,
+          "rentZestimate": 3492,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 1485349000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 251852.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 499800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-10 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Compass Greater NY LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ab309460190238ab9666205d186c1ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c07c8d5d20fda38460680d747eb6d19a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1b6966c389724581cb97a58ab17ea17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b0b5f58138d6fbbb9fcff1fddaa2f6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/060e91f155a18387eba71e7e764464ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/271d5ea1c9da8ad1c9b6510ecbb78f2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/149893799163bb6415acdf508467a80c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b4f9e119117e1a94f40906a42dd53c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/991ea6fa21d00653c475848518cbcb83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98772a191084cf295560b75ac7e19bfd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14fc2fc0976abb4b69d944b8c6fd1084-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0fc54462bc5857c88ad9da05692171a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0b707fa35505bea5cb650809e80e534-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40427533120c7ca5f3f85bd05a7b5f47-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59452198",
+      "id": "59452198",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "wn77c8gus222",
+      "imgSrc": "https://photos.zillowstatic.com/fp/84eaca2f7976b23abd1c546d265fc78e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/6-Rockhill-Rd-Rocky-Point-NY-11778/59452198_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,950/mo",
+      "unformattedPrice": 4950,
+      "address": "6 Rockhill Rd, Rocky Point, NY 11778",
+      "addressStreet": "6 Rockhill Rd",
+      "addressCity": "Rocky Point",
+      "addressState": "NY",
+      "addressZipcode": "11778",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 3.0,
+      "area": 2310,
+      "latLong": {
+        "latitude": 40.95988,
+        "longitude": -72.95605
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "63 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59452198,
+          "streetAddress": "6 Rockhill Rd",
+          "zipcode": "11778",
+          "city": "Rocky Point",
+          "state": "NY",
+          "latitude": 40.95988,
+          "longitude": -72.95605,
+          "price": 4950.0,
+          "bathrooms": 3.0,
+          "bedrooms": 5.0,
+          "livingArea": 2310.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 63,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 640100,
+          "rentZestimate": 4753,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4950.0,
+          "timeOnZillow": 5448739000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 500000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 640100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Realty Greater",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/84eaca2f7976b23abd1c546d265fc78e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8a2df43b53a90226fe5fa00e84f535f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df5fa783966c5d72388be482770f5c0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4dd2c17966c0748671c3d881a419f046-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e8f2dbf0e712af4f5e9d6eaea6d6a41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd759fc9780d3ffb3b22c91e2d49a0c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f153190e8ca9f568bf70df5fa90b9ed9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd9454e46426d4425a766e71f2baa189-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38e5b99238b84c7a713a877f05927715-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4182aaaef7e153efb2bde8175f596a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e408cf7c5465421568c243503145c5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f81fbc8b86a40e8ab23422021b292e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98bf8781448b7a56d25c96300dde7ad2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90403b5518efa3ed29b490fb78cc6655-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81bf75a4fce70683c72d3d80a6646d04-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2054090809",
+      "id": "2054090809",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "z032amg43uk5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4be9554d137ddb8486ad0c009b293a84-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/34-Greenlawn-Rd-UNIT-A-Sound-Beach-NY-11789/2054090809_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,350/mo",
+      "unformattedPrice": 2350,
+      "address": "34 Greenlawn Rd UNIT A, Sound Beach, NY 11789",
+      "addressStreet": "34 Greenlawn Rd UNIT A",
+      "addressCity": "Sound Beach",
+      "addressState": "NY",
+      "addressZipcode": "11789",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.95895,
+        "longitude": -72.97338
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054090809,
+          "streetAddress": "34 Greenlawn Rd UNIT A",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "latitude": 40.95895,
+          "longitude": -72.97338,
+          "price": 2350.0,
+          "datePriceChanged": 1730966400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2440,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Nov 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "priceChange": -150,
+          "timeOnZillow": 2472324000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Signature Premier Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4be9554d137ddb8486ad0c009b293a84-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29cf230e43453459cb3d1fdc77e2b877-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d4c6dea3f61bacaa91528404a617549-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e2905bc19ad96971fbbe05161cc4dbf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed467585af109dc83beec137a8cc9f2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40fc24e5590c9a2ae544b08bdb7eb155-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e56fdb7181d4fe3d2d08ba3ee547aeff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a78402daec8965fb3a1bf140edfd60b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65a0fbfdbe415252d8a5e70cdcf6e7a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a94664609744131f65d249ad1b9ee47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11ae2cd4009c6c032b85cb8f8e0e9f9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df6dccd41692087d60744bf5b779f6a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd2ad9840dcbc4837df11adb59bf43fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d428805d3c7dcb9122145b5ab1b04d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0986ce923778900e157828aaac0b1be-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "59450434",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fdb0f843d7203c8326e201bf85e34ee9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/7-Port-Jefferson-Rd-Sound-Beach-NY-11789/59450434_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,900/mo",
+      "priceLabel": "$2.9K",
+      "address": "7 Port Jefferson Rd, Sound Beach, NY 11789",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.964153,
+        "longitude": -72.97011
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59450434,
+          "streetAddress": "7 Port Jefferson Rd",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "latitude": 40.964153,
+          "longitude": -72.97011,
+          "price": 2900.0,
+          "datePriceChanged": 1731312000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 352900,
+          "rentZestimate": 2106,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 11)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2900.0,
+          "priceChange": -200,
+          "timeOnZillow": 1916205000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 231482.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-11 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Maria Palmar Properties",
+      "timeOnZillow": 1916205000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442341967",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b5967928f553e85499fe423ee30b25af-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/11-Waterville-Dr-11-Sound-Beach-NY-11789/442341967_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,800/mo",
+      "priceLabel": "$2.8K",
+      "address": "11 Waterville Dr #11, Sound Beach, NY 11789",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.95421,
+        "longitude": -72.9846
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442341967,
+          "streetAddress": "11 Waterville Dr #11",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "latitude": 40.95421,
+          "longitude": -72.9846,
+          "price": 2800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "timeOnZillow": 1648106000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 11",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Aliano Real Estate",
+      "timeOnZillow": 1648106000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "59451546",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9a9e691c107350e75e6d4d194a8b7ff9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/125-Halesite-Dr-Sound-Beach-NY-11789/59451546_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,200/mo",
+      "priceLabel": "$2.2K",
+      "address": "125 Halesite Dr, Sound Beach, NY 11789",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.957344,
+        "longitude": -72.97878
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59451546,
+          "streetAddress": "125 Halesite Dr",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "latitude": 40.957344,
+          "longitude": -72.97878,
+          "price": 2200.0,
+          "datePriceChanged": 1732348800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 540800,
+          "rentZestimate": 2653,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 23)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "priceChange": -50,
+          "timeOnZillow": 1671818000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 385185.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1671818000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "59451639",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c9afdbc0ff969bc0bca16e5ee86a1cd9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/15-Jerome-Rd-Sound-Beach-NY-11789/59451639_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,600/mo",
+      "priceLabel": "$3.6K",
+      "address": "15 Jerome Rd, Sound Beach, NY 11789",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.959995,
+        "longitude": -72.979485
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59451639,
+          "streetAddress": "15 Jerome Rd",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "latitude": 40.959995,
+          "longitude": -72.979485,
+          "price": 3600.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 369000,
+          "rentZestimate": 3188,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "priceChange": -300,
+          "timeOnZillow": 1376553000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 250000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Signature Premier Properties",
+      "timeOnZillow": 1376553000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "59452079",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6ab309460190238ab9666205d186c1ba-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/217-Sound-Beach-Blvd-Sound-Beach-NY-11789/59452079_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,500/mo",
+      "priceLabel": "$3.5K",
+      "address": "217 Sound Beach Blvd, Sound Beach, NY 11789",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.959156,
+        "longitude": -72.96621
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59452079,
+          "streetAddress": "217 Sound Beach Blvd",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "latitude": 40.959156,
+          "longitude": -72.96621,
+          "price": 3500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 499800,
+          "rentZestimate": 3492,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 1485349000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 251852.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-10 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Compass Greater NY LLC",
+      "timeOnZillow": 1485349000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "59452198",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/84eaca2f7976b23abd1c546d265fc78e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/6-Rockhill-Rd-Rocky-Point-NY-11778/59452198_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,950/mo",
+      "priceLabel": "$5.0K",
+      "address": "6 Rockhill Rd, Rocky Point, NY 11778",
+      "isNewYorkState": true,
+      "beds": 5,
+      "baths": 3.0,
+      "area": 2310,
+      "latLong": {
+        "latitude": 40.95988,
+        "longitude": -72.95605
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "63 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59452198,
+          "streetAddress": "6 Rockhill Rd",
+          "zipcode": "11778",
+          "city": "Rocky Point",
+          "state": "NY",
+          "latitude": 40.95988,
+          "longitude": -72.95605,
+          "price": 4950.0,
+          "bathrooms": 3.0,
+          "bedrooms": 5.0,
+          "livingArea": 2310.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 640100,
+          "rentZestimate": 4753,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4950.0,
+          "timeOnZillow": 5448739000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 500000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Realty Greater",
+      "timeOnZillow": 5448739000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2054090809",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4be9554d137ddb8486ad0c009b293a84-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/34-Greenlawn-Rd-UNIT-A-Sound-Beach-NY-11789/2054090809_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,350/mo",
+      "priceLabel": "$2.4K",
+      "address": "34 Greenlawn Rd UNIT A, Sound Beach, NY 11789",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.95895,
+        "longitude": -72.97338
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054090809,
+          "streetAddress": "34 Greenlawn Rd UNIT A",
+          "zipcode": "11789",
+          "city": "Sound Beach",
+          "state": "NY",
+          "latitude": 40.95895,
+          "longitude": -72.97338,
+          "price": 2350.0,
+          "datePriceChanged": 1730966400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2440,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Nov 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "priceChange": -150,
+          "timeOnZillow": 2472324000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Signature Premier Properties",
+      "timeOnZillow": 2472324000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "1a31b418",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

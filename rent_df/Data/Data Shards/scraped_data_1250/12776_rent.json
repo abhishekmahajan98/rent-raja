@@ -1,0 +1,636 @@
+{
+  "listResults": [
+    {
+      "zpid": "32781533",
+      "id": "32781533",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3mj902160nsr4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e8eb352881ff211a81dd05d37eca6682-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2016-Old-Route-17-Roscoe-NY-12776/32781533_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "2016 Old Route 17, Roscoe, NY 12776",
+      "addressStreet": "2016 Old Route 17",
+      "addressCity": "Roscoe",
+      "addressState": "NY",
+      "addressZipcode": "12776",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1941,
+      "latLong": {
+        "latitude": 41.936123,
+        "longitude": -74.915184
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32781533,
+          "streetAddress": "2016 Old Route 17",
+          "zipcode": "12776",
+          "city": "Roscoe",
+          "state": "NY",
+          "latitude": 41.936123,
+          "longitude": -74.915184,
+          "price": 1250.0,
+          "datePriceChanged": 1731830400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1941.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 117700,
+          "rentZestimate": 1527,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Nov 17)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "priceChange": -300,
+          "timeOnZillow": 946270000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 91800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 117700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8eb352881ff211a81dd05d37eca6682-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "208802273",
+      "id": "208802273",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2s4st5uzw30e3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8feb2049c2101303719819d95d82df3e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/59-Stewart-Ave-Roscoe-NY-12776/208802273_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,750/mo",
+      "unformattedPrice": 1750,
+      "address": "59 Stewart Ave, Roscoe, NY 12776",
+      "addressStreet": "59 Stewart Ave",
+      "addressCity": "Roscoe",
+      "addressState": "NY",
+      "addressZipcode": "12776",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 41.932827,
+        "longitude": -74.913536
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 208802273,
+          "streetAddress": "59 Stewart Ave",
+          "zipcode": "12776",
+          "city": "Roscoe",
+          "state": "NY",
+          "latitude": 41.932827,
+          "longitude": -74.913536,
+          "price": 1750.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1529,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "timeOnZillow": 519769000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 449000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8feb2049c2101303719819d95d82df3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73a7147187235f178723cafda6dfca30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/958082dc66a1e15892aee6b4e6d5ac8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b8619a5bb72c9d4457acbefc2ea4561-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/399f9f667bbc3690214f6b42427c0169-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4b47e6b03a480ae2296117f4d9c2be7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/811e55f7b2d43976804cd175c4320c10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aadfc6586a165706ebc627e063f23d7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/caa801812ab985eab56f1babedc80296-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2057909461",
+      "id": "2057909461",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "41cgp96unpaqr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/267a6675d86cc9b0bf161043a4f41552-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1994-Old-Route-17-0-Roscoe-NY-12776/2057909461_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,150/mo",
+      "unformattedPrice": 2150,
+      "address": "1994 Old Route 17 #0, Roscoe, NY 12776",
+      "addressStreet": "1994 Old Route 17 #0",
+      "addressCity": "Roscoe",
+      "addressState": "NY",
+      "addressZipcode": "12776",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2700,
+      "latLong": {
+        "latitude": 41.934895,
+        "longitude": -74.91476
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "43 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057909461,
+          "streetAddress": "1994 Old Route 17 #0",
+          "zipcode": "12776",
+          "city": "Roscoe",
+          "state": "NY",
+          "latitude": 41.934895,
+          "longitude": -74.91476,
+          "price": 2150.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 43,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2983,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2150.0,
+          "timeOnZillow": 3739849000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 0",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/267a6675d86cc9b0bf161043a4f41552-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b83248f1ac3d2f0604e4675ff753aa5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/719e2f18d3c7cbd4dbeb0feefdb4b983-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f77947a3465d84ff2635bb3f4d2d24ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4acc0ccd8e7b42b3ea0879f64921ff5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0bcf2045268c7d833b783a20ed7df96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f53255d15d2a20968c83d44ca2950fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f6407f72b4c73d95370233ad615f515-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/919f84dd444aac618a5946da8fc10dbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b9bfcf6a7f7b2c57355f12bfafc68ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68e404ec2bd015f37d8f8e5db9ce6214-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f03ccf48e02378bd0d0e2ac5897c4738-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65776bb227b3b643662e4a3b3605af95-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65478a6d4f5e298345d728337999418c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fc6129b19d2e8edf330f506179fb493-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50d3a834e84d55afdbf7dea43d5e7af3-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32781533",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e8eb352881ff211a81dd05d37eca6682-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2016-Old-Route-17-Roscoe-NY-12776/32781533_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,250/mo",
+      "priceLabel": "$1.3K",
+      "address": "2016 Old Route 17, Roscoe, NY 12776",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1941,
+      "latLong": {
+        "latitude": 41.936123,
+        "longitude": -74.915184
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32781533,
+          "streetAddress": "2016 Old Route 17",
+          "zipcode": "12776",
+          "city": "Roscoe",
+          "state": "NY",
+          "latitude": 41.936123,
+          "longitude": -74.915184,
+          "price": 1250.0,
+          "datePriceChanged": 1731830400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1941.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 117700,
+          "rentZestimate": 1527,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Nov 17)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "priceChange": -300,
+          "timeOnZillow": 946270000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 91800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 946270000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "208802273",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8feb2049c2101303719819d95d82df3e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/59-Stewart-Ave-Roscoe-NY-12776/208802273_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,750/mo",
+      "priceLabel": "$1.8K",
+      "address": "59 Stewart Ave, Roscoe, NY 12776",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 41.932827,
+        "longitude": -74.913536
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 208802273,
+          "streetAddress": "59 Stewart Ave",
+          "zipcode": "12776",
+          "city": "Roscoe",
+          "state": "NY",
+          "latitude": 41.932827,
+          "longitude": -74.913536,
+          "price": 1750.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1529,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "timeOnZillow": 519769000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 449000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 519769000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2057909461",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/267a6675d86cc9b0bf161043a4f41552-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1994-Old-Route-17-0-Roscoe-NY-12776/2057909461_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,150/mo",
+      "priceLabel": "$2.2K",
+      "address": "1994 Old Route 17 #0, Roscoe, NY 12776",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2700,
+      "latLong": {
+        "latitude": 41.934895,
+        "longitude": -74.91476
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "43 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057909461,
+          "streetAddress": "1994 Old Route 17 #0",
+          "zipcode": "12776",
+          "city": "Roscoe",
+          "state": "NY",
+          "latitude": 41.934895,
+          "longitude": -74.91476,
+          "price": 2150.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2983,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2150.0,
+          "timeOnZillow": 3739849000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 0",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 3739849000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "3bd0c01e",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

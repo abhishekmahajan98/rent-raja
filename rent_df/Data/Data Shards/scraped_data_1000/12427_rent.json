@@ -1,0 +1,849 @@
+{
+  "listResults": [
+    {
+      "zpid": "32866144",
+      "id": "32866144",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "cx3mnra4xcxa",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4cf0b982984cd24eddaf9c0a27cfe46f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/61-Victors-Ln-Saugerties-NY-12477/32866144_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,950/mo",
+      "unformattedPrice": 3950,
+      "address": "61 Victors Ln, Saugerties, NY 12477",
+      "addressStreet": "61 Victors Ln",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1475,
+      "latLong": {
+        "latitude": 42.114994,
+        "longitude": -74.05678
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32866144,
+          "streetAddress": "61 Victors Ln",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.114994,
+          "longitude": -74.05678,
+          "price": 3950.0,
+          "datePriceChanged": 1730271600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1475.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 413100,
+          "rentZestimate": 3515,
+          "listing_sub_type": {},
+          "priceReduction": "$550 (Oct 30)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3950.0,
+          "priceChange": -550,
+          "timeOnZillow": 863693000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 318000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 413100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: BERARDI REALTY",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cf0b982984cd24eddaf9c0a27cfe46f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89e04e1b9c6acd8801c7115753a6afcf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9bc6935f7473aa0a996fe0d06aca211-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eae9c95f144987984ac0ecef65fece54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d4f4b665f1888be56437ef3dfcbc957-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4578cdeb5cae1f37ef33d26a969a0d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2808b8bc5389eda8ec545a2733538ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55c95a2c3294fed18aa2c8f9fcf3be9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4d1c0379d7b56b21f2109d9c522e2a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1aeeee69f53df0f606bc2e33dce5209-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/619d88a9891004dd47b8e795e702c75d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6415d5bd5b6553306a4907278964bd4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdc9cf16efb316d9989e674ad7f70947-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e93b4fadb6ec374afcf88056b160a83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/547c2f404527730953a0de4731a4a11b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b3193b61c242565e26f58709a46c7a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/835a772d1e61ed24fd414c81c90f34ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f97e253746ff5b5d940fffbddcbde114-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eacb8a50a2e05303db6346203fbb632f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0a848794a7363895cc2c7905b7b5656-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/802fbfb564aa4d1057748bea28dcea04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2068312be9e277fbf6186d2bce30cc92-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17ee52aebfe84a8856df22150bfc7fbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c73a5855eabce226adaed684d47bc854-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a00dee7c3ce29feaaf7de5dc8b647ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0a5f6979e9c5b97caa20e04e6b7dbf3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1eac2be54de607b5ac7e2acb793e7b3f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b952205ab1842f249a6526050c654726-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f7aa2e34e39625e45485aa835b185e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c3f16bfa7eca95e7b1d7953b8410c14-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c3be6c63145e75d9617c9ac333c5ae7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75471477ac6c692013b4da7d2c3b271a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cab79c91353276eaa735085cdd5024fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8175c7acfd40bc1b0b74149b8afc9948-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32866144",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4cf0b982984cd24eddaf9c0a27cfe46f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/61-Victors-Ln-Saugerties-NY-12477/32866144_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,950/mo",
+      "priceLabel": "$4.0K",
+      "address": "61 Victors Ln, Saugerties, NY 12477",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1475,
+      "latLong": {
+        "latitude": 42.114994,
+        "longitude": -74.05678
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32866144,
+          "streetAddress": "61 Victors Ln",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.114994,
+          "longitude": -74.05678,
+          "price": 3950.0,
+          "datePriceChanged": 1730271600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1475.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 413100,
+          "rentZestimate": 3515,
+          "listing_sub_type": {},
+          "priceReduction": "$550 (Oct 30)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3950.0,
+          "priceChange": -550,
+          "timeOnZillow": 863693000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 318000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: BERARDI REALTY",
+      "timeOnZillow": 863693000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "215846303",
+      "id": "215846303",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "36em66xg2xqks",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0d0d6ea3488f85300e0f66934901ab89-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Hunter-NY-12442/215846303_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$6,200/mo",
+      "unformattedPrice": 6200,
+      "address": "(undisclosed Address), Hunter, NY 12442",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Hunter",
+      "addressState": "NY",
+      "addressZipcode": "12442",
+      "isUndisclosedAddress": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2400,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "166 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215846303,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12442",
+          "city": "Hunter",
+          "state": "NY",
+          "price": 6200.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 166,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 366600,
+          "rentZestimate": 3773,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 6200.0,
+          "timeOnZillow": 14411783000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 366600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d0d6ea3488f85300e0f66934901ab89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c97f7bb192d1b191373d0a07dbfca24e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88bccaa0846c01eabeb5dc8d975fa500-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d83d334a0fd8d72bccdf766b823baa88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/075c86af7fe3306cdd882826a7f0d944-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/437e70f53787d57e4bfbd082724f7a63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/195c199184421a902fd7aa778ae3abab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27f51349a1a5ca1df0e90878be4937f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d65d1b5c49d8736409f717c14ea8e69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1e0b565a8b358f151d684db147ca514-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d64ed93c1e1806ef45a8c0e5514c24a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea3dca7f63257ba1f03c5d62cad5c50c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4479d3c1c4a7f98bde3d161e31437cd5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27111c38d0c82f1a9b5c85e2ba355d6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10eeaef80fb8a835b1a4b1c50b25a26c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01eb9a998648bada8d79d5d6ecf4a7ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cfe16ec8afdcb5fbc51939cd9d5ef18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9db7c40852598eeb23443dc9a9a58e3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7415baf211142b6793bb2c7364941078-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2730913b0a92d130f9a463bb584c04d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e8d62af56eb63cc9c1b512c6454cf1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6927390c2667a6415683ec3edca3552-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5357e3905e33855947e7ff83a388aa2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/562db602cf05d54c7e7baa84dffb51a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa9bd273cd0b35693e0f9a033571ce57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2e2c5fb5ba07988b7109f8c2cd5f5af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecf482105e6a6106644dfc706cc9b2d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70ddbcbbb51e43b3517b0a9595c19b38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7edb2a2df91122bd07843fa6165f5eec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/49cc8903f39fc352c28047af05d60829-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32867472",
+      "id": "32867472",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "f73wyx5cw9ku",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8c3baa50d17afb74d3d8e4f47caf4288-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/605-Band-Camp-Cir-Saugerties-NY-12477/32867472_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,995/mo",
+      "unformattedPrice": 2995,
+      "address": "605 Band Camp Cir, Saugerties, NY 12477",
+      "addressStreet": "605 Band Camp Cir",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 42.094154,
+        "longitude": -74.03486
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32867472,
+          "streetAddress": "605 Band Camp Cir",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.094154,
+          "longitude": -74.03486,
+          "price": 2995.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 27,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 341800,
+          "rentZestimate": 3050,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2995.0,
+          "timeOnZillow": 2396953000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 221000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 341800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c3baa50d17afb74d3d8e4f47caf4288-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1057165c3a6dd54360ebcef8f465412d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/462634cc04604d3288948c243e47913f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5702441d1574a3a736b5cc5ac5104dab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/830c696b3bbcc271968503ab7509a18e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b161b3a0217986d919b161d37b34bff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53ef14096011e3f4d47c47339e327998-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2edc2c945cd2739a09c538d16fcfd267-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2dbdbd34181be5fa88961cbc6e13be5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4659669681c180b3f12a5709fd2fc7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ca7181f3e2e84abb433dbe1bda3612a-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30503338",
+      "id": "30503338",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "j6y6btuxk7v6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/63725ee09ccb46a88019fa7ba8680ded-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/130-Mitchell-Rd-Tannersville-NY-12485/30503338_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "130 Mitchell Rd, Tannersville, NY 12485",
+      "addressStreet": "130 Mitchell Rd",
+      "addressCity": "Tannersville",
+      "addressState": "NY",
+      "addressZipcode": "12485",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 4.0,
+      "area": 3750,
+      "latLong": {
+        "latitude": 42.198383,
+        "longitude": -74.15554
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "41 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30503338,
+          "streetAddress": "130 Mitchell Rd",
+          "zipcode": "12485",
+          "city": "Tannersville",
+          "state": "NY",
+          "latitude": 42.198383,
+          "longitude": -74.15554,
+          "price": 4500.0,
+          "bathrooms": 4.0,
+          "bedrooms": 5.0,
+          "livingArea": 3750.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 41,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 739900,
+          "rentZestimate": 4400,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 3579477000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 726820.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 739900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Oxford Property Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/63725ee09ccb46a88019fa7ba8680ded-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd0900bc6387da338241dfaa78ef1604-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a06cbfb9d130179885358c6d2482b36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dad2acc4f0ecdf6617788e886a92ddbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/145db68f9d0538006c78fc688759b56e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f3101d5998c27de1790616b70686f27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b0a830c1759b9176e9030c37b46e7ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3847daf20926ccdd7b52a805d567212d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/844531f16c2d00c5dca5711db75698a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05b992272ed63e8a9a269c5263176867-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cb89fa927ce1a542c6b94711367cb96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8f5fbcba2a52a1f521a838689f55ffb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbbe52786f0d77b4cea7af3667bef049-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11627680032f8b3de67639452a98c88a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/085523f95d4ef3df198700b8fee0e502-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e8e689999236633c2517a0b14119128-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f50101ce456c187bb1b1d09df01235da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6585dcae6f02a222ff09304b0f4ed2c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5eb8ce92d13499f929e92921c4c30d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b615135b20b3fe3df2ca3d07f74df5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ac381c39df666a1f93a247621820bfc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/231ec0109ae6b82ba98712e2953457fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f445bbf2004a52493ed83466dc64d0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/711adc2338a4d7780827db08e273a1f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df8c2e4165a4690ca56997660f5269c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b8b5899abf2a8425f6dd6fb9fb6becb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/595f9a4e2fb67b67f0247728367c34f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00d7c315edc2f163de0c2bacd57e41f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50edeb2cbba84534d58ccc5229a87809-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c117c789daf7be58c4c511fd5c45810-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db1897be62e9d141c34e604889a2471e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f1c177bca85ee98c56858e459a9c3a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a51b5f49526f5d9e201a33b4fb867434-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c49a5fed4c7f4ec413d293a1bc912fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ae98d56cca7ada79875bcf00ec585ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5c78bbac5d4cd289bdb0e4295a07f3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9c96f936f3e207d38cffe87da323825-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67e9be516ed3569d06af2d26d385d19e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59ec2baf2b31b4039cef1a2d57fad2b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eeb8ce3075530a1ba1b04bc534c7830f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3a059455e00f82643f023c3700e8128-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/143aae08778b2e9ea19737bf3e7fad54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e72a52b1e30bf7b1e7673162c01d5df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5b944d1f0b61df31de070cec7ffd0f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00d16e9a3c55cb9ce2f112c87cb4b609-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "697525b7",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1f691b39"
+}

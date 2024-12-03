@@ -1,0 +1,416 @@
+{
+  "listResults": [
+    {
+      "zpid": "353702941",
+      "id": "353702941",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "58592z04z3yzt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/798c9edf606c2a0382159db1ae847a10-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/16-Main-St-16-East-Worcester-NY-12064/353702941_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "16 Main St #16, East Worcester, NY 12064",
+      "addressStreet": "16 Main St #16",
+      "addressCity": "East Worcester",
+      "addressState": "NY",
+      "addressZipcode": "12064",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.619316,
+        "longitude": -74.67616
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "31 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 353702941,
+          "streetAddress": "16 Main St #16",
+          "zipcode": "12064",
+          "city": "East Worcester",
+          "state": "NY",
+          "latitude": 42.619316,
+          "longitude": -74.67616,
+          "price": 1200.0,
+          "datePriceChanged": 1732348800000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 31,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1263,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 23)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "priceChange": -200,
+          "timeOnZillow": 2706427000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 16",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-23 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/798c9edf606c2a0382159db1ae847a10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be2fa15761855bc0463181f4ce8cca7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/462508036e36ca5e85e5c7e50252ed6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d7fa39176a140946f75c3a8c55167e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec4898950077e58bc59440ea8cb2970e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a255925c176e02f2ff8e95467d8ede15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cff8d1bd8a8a0636f8e37e2b78c5e1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4307a99145ff4a0779c8b1af91bcf36e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2602992a4f1781f87b7cafe410780647-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d00d86a6a0d179291186c7e37351beac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d856eea9d9447fd99f8d8bd9bc0a67c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9cdfad037f48e8886e764b2debe210a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/696077190bf43248c7e15e64e160e6f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cc3e2957c397753af9384c9c5d3e41d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e91fe56a8cbfe113760da2cb3903e6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32b4cf49a53a64bbb324e4c4bcda6c66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9745405931b2715405635814f89ee3b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9342a5abcf3d4360806b8d41bd923545-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ec461a9935e1ab87b0123714d4ee692-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7716dff0fc40935e2aa468c2064a0bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbbdc411b67a8c5f687a5e2875bed0f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f25fdac68055c00f168cf4536f153128-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9d025d870cc732b20aa99020efe8abb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7eab06eacf764496c1104687da4b087-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad52bfd44d0e0835d0a3398624cf75d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51554b55d07cbd464166cf9e8cad2d2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/590f3405181806a26dbe9979696e097b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c68300eebaa9a6850f2769f2b3165a0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d560676e7b1cc5dfd5350f71c93d7a37-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d920428af8a7845987f04642ab19094-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c435f66074fa612a93a09e70ba4c0fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f4e9c2fdc7121f0ef60bee42f134064-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c33c313268510c899873346c6912fb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f93c17f42eef8ba0e9682eec2156041e-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "353702941",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/798c9edf606c2a0382159db1ae847a10-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/16-Main-St-16-East-Worcester-NY-12064/353702941_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "16 Main St #16, East Worcester, NY 12064",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.619316,
+        "longitude": -74.67616
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "31 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 353702941,
+          "streetAddress": "16 Main St #16",
+          "zipcode": "12064",
+          "city": "East Worcester",
+          "state": "NY",
+          "latitude": 42.619316,
+          "longitude": -74.67616,
+          "price": 1200.0,
+          "datePriceChanged": 1732348800000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1263,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 23)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "priceChange": -200,
+          "timeOnZillow": 2706427000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 16",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-23 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2706427000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "441734003",
+      "id": "441734003",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3k754ap86n7dv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d3057d84a49d10521b3d7aaa4e6a98b3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/15-Depot-St-UNIT-1-3-Schenevus-NY-12155/441734003_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$995/mo",
+      "unformattedPrice": 995,
+      "address": "15 Depot St UNIT 1-3, Schenevus, NY 12155",
+      "addressStreet": "15 Depot St UNIT 1-3",
+      "addressCity": "Schenevus",
+      "addressState": "NY",
+      "addressZipcode": "12155",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.54473,
+        "longitude": -74.82136
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441734003,
+          "streetAddress": "15 Depot St UNIT 1-3",
+          "zipcode": "12155",
+          "city": "Schenevus",
+          "state": "NY",
+          "latitude": 42.54473,
+          "longitude": -74.82136,
+          "price": 995.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 995.0,
+          "timeOnZillow": 72519000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1-3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3057d84a49d10521b3d7aaa4e6a98b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a48e5c02e144518681e0c889cc0f0b1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b59a609ac5f553b74da997f6ba0042cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1caaeb12692841242adc7411a708f703-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b54308cfa604b984ede59e199b6b5547-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6ec1148ae8c3e700aa03c91de263252-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/142f650a842f29d8950dba7d66debd2a-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "a4b4133",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "47896895"
+}

@@ -1,0 +1,1294 @@
+{
+  "listResults": [
+    {
+      "zpid": "32868448",
+      "id": "32868448",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "436rdtrucy2ma",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c2fa876e1208462a4456923b1170cfe3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/11-Hegner-Ln-Saugerties-NY-12477/32868448_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "11 Hegner Ln, Saugerties, NY 12477",
+      "addressStreet": "11 Hegner Ln",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 1.0,
+      "area": 1600,
+      "latLong": {
+        "latitude": 42.096786,
+        "longitude": -73.93683
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32868448,
+          "streetAddress": "11 Hegner Ln",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.096786,
+          "longitude": -73.93683,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 4.0,
+          "livingArea": 1600.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 141300,
+          "rentZestimate": 2303,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 298385000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 170500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 141300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: jo ostrander",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2fa876e1208462a4456923b1170cfe3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7186a13766b6c11b9cc161b93b18e59a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04759b4d0a5080cea20c5be191653da4-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32868448",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c2fa876e1208462a4456923b1170cfe3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/11-Hegner-Ln-Saugerties-NY-12477/32868448_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "11 Hegner Ln, Saugerties, NY 12477",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 1.0,
+      "area": 1600,
+      "latLong": {
+        "latitude": 42.096786,
+        "longitude": -73.93683
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32868448,
+          "streetAddress": "11 Hegner Ln",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.096786,
+          "longitude": -73.93683,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 4.0,
+          "livingArea": 1600.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 141300,
+          "rentZestimate": 2303,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 298385000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 170500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: jo ostrander",
+      "timeOnZillow": 298385000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2082209363",
+      "id": "2082209363",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2y7w598vt5tpd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ee6b10316765db0c22a436d9d475f994-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/27-2nd-St-2-Saugerties-NY-12477/2082209363_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "27 2nd St #2, Saugerties, NY 12477",
+      "addressStreet": "27 2nd St #2",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 730,
+      "latLong": {
+        "latitude": 42.0778,
+        "longitude": -73.95644
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082209363,
+          "streetAddress": "27 2nd St #2",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.0778,
+          "longitude": -73.95644,
+          "price": 2500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 730.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 69,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1622,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 5963505000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee6b10316765db0c22a436d9d475f994-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d8a60765eb76533ff70631f6f5294bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f80cd101058d639d4b9e0e328861750-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33126440a29cfc5f4f15abca874f7a98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/abb0d84fa97c6061f95b4e34c65aa138-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9999888b974ff74bf8982c8f6990971b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/510c9cc7cd19a0aa59cca5074b792807-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8092a44f788fa1e1d1987f9b6411f88c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e2eacedcd920ec4bcf4760acdfb7802-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9837775e9f47d160ed32c28ae90fbaf1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e707549a7b1e5651edbc84a0ae63cf4-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442739160",
+      "id": "442739160",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1fgv2tv9683rt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/aa074efca2187e5a90bd34e8b94d97e6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3-1st-St-1-Saugerties-NY-12477/442739160_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,450/mo",
+      "unformattedPrice": 1450,
+      "address": "3 1st St #1, Saugerties, NY 12477",
+      "addressStreet": "3 1st St #1",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.077946,
+        "longitude": -73.95557
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442739160,
+          "streetAddress": "3 1st St #1",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.077946,
+          "longitude": -73.95557,
+          "price": 1450.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1450.0,
+          "timeOnZillow": 290495000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: 42 Livingston Street LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa074efca2187e5a90bd34e8b94d97e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7cba0c55f9ef4bb2fd83fedeac98042-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/355516aa2aa291b1d0d3b5dbba6ac4ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5fad590a5eea2fc9f8fc1f5575cfb714-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca86fd743a4187cd49108af190c517cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c98532dda0a8e045e042ac2e482b04db-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "198859677",
+      "id": "198859677",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "12zkteegzkuew",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c35747bdf6ccfd378dc54640944642ab-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/42-Livingston-St-Saugerties-NY-12477/198859677_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "42 Livingston St, Saugerties, NY 12477",
+      "addressStreet": "42 Livingston St",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 3800,
+      "latLong": {
+        "latitude": 42.077877,
+        "longitude": -73.9561
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 198859677,
+          "streetAddress": "42 Livingston St",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.077877,
+          "longitude": -73.9561,
+          "price": 2500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 3800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1801,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 388557000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 577500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c35747bdf6ccfd378dc54640944642ab-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32864973",
+      "id": "32864973",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3tdr9c92zqf42",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f9d39f4ec9d40987f526af60042d094c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1-Elm-St-Saugerties-NY-12477/32864973_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,200/mo",
+      "unformattedPrice": 3200,
+      "address": "1 Elm St, Saugerties, NY 12477",
+      "addressStreet": "1 Elm St",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 42.07924,
+        "longitude": -73.95583
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32864973,
+          "streetAddress": "1 Elm St",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.07924,
+          "longitude": -73.95583,
+          "price": 3200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 336200,
+          "rentZestimate": 2581,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 560207000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 271500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 336200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9d39f4ec9d40987f526af60042d094c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8e804f11a6000c84d2b1d126cf25b0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/483ce3a11bf51ab7d068e24c1efa2f18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5ee9f1a7636cafc70946aa585c64d51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71f7d30625289ab4f9f0b662592a65c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df5046620196eba83eb6dbfeaaac23bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28de8db478983cbbc1b2ed2ce1cbaafc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4468c961fcccfb6f81465e0f227c9b55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53926e861cb5026c23ca90423c440205-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32865754",
+      "id": "32865754",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5e030dhg6p76a",
+      "imgSrc": "https://photos.zillowstatic.com/fp/88c173f5b2a992669466d7a20875ff25-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/29-Russell-St-Saugerties-NY-12477/32865754_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,000/mo",
+      "unformattedPrice": 4000,
+      "address": "29 Russell St, Saugerties, NY 12477",
+      "addressStreet": "29 Russell St",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1750,
+      "latLong": {
+        "latitude": 42.076694,
+        "longitude": -73.95007
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "35 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32865754,
+          "streetAddress": "29 Russell St",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.076694,
+          "longitude": -73.95007,
+          "price": 4000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1750.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 35,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 350100,
+          "rentZestimate": 3709,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 3107084000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 290000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 350100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/88c173f5b2a992669466d7a20875ff25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3a964ad96a5a8fec0e57a72de181e26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc223cd6cc805199c5544016bf9175a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de6e5ad43e5b93357fec67192b59d6bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81bb67f4c1de45fdbc8fee7c3a05b2ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07de7f8696943ed54f172c99d266e18c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a25f28146ccd97133a188bcf346d4acc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1daa58a09afb60d27bb2f1fcfe465b5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/525ba4fbaba89e7357b679be31213a53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cefc73e0f8cde351cdce861c4e004b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e552461664b270861bc8fa77930feb12-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c632229632d6362e5c8385df9022986-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb6e2573feb2830297e0193e2a7be655-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b24e1ba7d48e5e5a3f027c59933e50c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb8204c9b2d1b2300cf44a6173f5d4ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a12fc092ef3651337864cecf115cfdd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7063af6b6e91af1610dfddf56e39549e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e69aa54e1920062a037e70de7680b8af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bebb45834d1030bd40f30061eeea63c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7af20f719210b2d4eed47bd3f3954fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0eba838ce06c462f8b50a72b73e3f472-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21d2ccd4743b0bfbe002a60cdc609605-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d502a8617b22dee9b7878cc1ddce8bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d0a950ecc9c91233bbc8e47bbeadf33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/433e93069cba19903bc980147c9ff220-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8f45a02ace4ffe75026828538d28589-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f67831b784d27b13412d80ca38f464d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d8f984099c2f3874ba00cb31d891638-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11c51f8012c4fe37d32bb26c98b24cba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/034ecc908165478669fd24f719b36d99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d52541bbb055f96fe49eb9257526bd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93d8b1fec9179f50e701dbd9f2fb3bcf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a85d2d607e73f4d18e1cfc20a9e886f5-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "346159052",
+      "id": "346159052",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2e3c19s55sqe9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cb9ff868a2ea4add3ab9463accc5f3c3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/33-Montgomery-St-D-Saugerties-NY-12477/346159052_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "33 Montgomery St #D, Saugerties, NY 12477",
+      "addressStreet": "33 Montgomery St #D",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 450,
+      "latLong": {
+        "latitude": 42.0744,
+        "longitude": -73.94979
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 346159052,
+          "streetAddress": "33 Montgomery St #D",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.0744,
+          "longitude": -73.94979,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 450.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 196200,
+          "rentZestimate": 1601,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 960526000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# D",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 196200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb9ff868a2ea4add3ab9463accc5f3c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a231188ff46da2524eb7f85082d55eac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/789cc05d1414a5025073438531e417ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd36c63c60ab42eb45e21d34a3d2c030-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/474adbc2e8630b4b04aa8ccb3c1f2fac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eced3f6a65f61cdca59a15cb4ee0bd77-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32865545",
+      "id": "32865545",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "47927te9ef8hv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c92c275138e0b957ecae848c7dda3281-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/30-E-Bridge-St-Saugerties-NY-12477/32865545_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,675/mo",
+      "unformattedPrice": 2675,
+      "address": "30 E Bridge St, Saugerties, NY 12477",
+      "addressStreet": "30 E Bridge St",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1408,
+      "latLong": {
+        "latitude": 42.071117,
+        "longitude": -73.94835
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32865545,
+          "streetAddress": "30 E Bridge St",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.071117,
+          "longitude": -73.94835,
+          "price": 2675.0,
+          "datePriceChanged": 1727161200000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1408.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 21,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 321200,
+          "rentZestimate": 2770,
+          "listing_sub_type": {},
+          "priceReduction": "$75 (Sep 24)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2675.0,
+          "priceChange": -75,
+          "timeOnZillow": 1858553000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 235000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 321200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c92c275138e0b957ecae848c7dda3281-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdf4fc10d6779b66e7a8194c1b55f185-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9fa1714b132553fc75b079fae41c926-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0130b88d755c78ad53c50a6efcc2de9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d59e63d04a7137f1a2b0546fbb32fe6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0be2fa6e56fc4fddab46816e6d511f7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4c27bbc7225ecaa50cd6578aa2dd097-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d8f95c6350cdd63a99aaf87ff08f208-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb2f2fe1d2adf1d523d7937f490588ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/251cf948b935f7121e554e59c86b0e64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6d5452b6215cd8a880bd84f0adbf945-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/512a73ea6aa32c970b04d8c1698b9dc8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/decb0281f6e1463e2a7b28e22b9995c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/193c74d46cff715b9eb1b8d928c846fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7313deee99e5ceb24b940c5960b73b0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26db8c977e13e45192191a52c8c005bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c0c607907cd0941bacce24a396df04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d2cd13fffd3d5f9fa78d007894c2dba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/316406ded9167cbd9dac910c4dde98f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df552833dea1eb835f6be30b9992757f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f5abbee9ecbca1fb055c89716acabf4-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.08797--73.95862",
+      "id": "42.08797--73.95862",
+      "providerListingId": "4sgzm1juezbwd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cc6f45a6c1f22d15a9d79b53718cebd2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/83-north-st-saugerties-ny-ChbVDj/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "83 North St, Saugerties, NY",
+      "addressStreet": "83 North St # 2",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "units": [
+        {
+          "price": "$2,400+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2741750445,
+      "latLong": {
+        "latitude": 42.08797,
+        "longitude": -73.95862
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "35 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc6f45a6c1f22d15a9d79b53718cebd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4a805ecf1f6f11ecf4bcbe212691092-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7bb4b3e9c35d89eaf70cc5a3a21a016-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3538b09e3858fa09aacb8d3d1a6f745b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7ade53b1b4ad2eb7a9d9dfffb3d2bcd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75e64fdc949ff09e4fe5e40c78b854f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97d51d4129706c83229c4be550022233-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64b7008ed0836ae0d3edb3c85f3005e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4453523613d61e67cb90c4054c86027d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ddb98a6615a9349d825bad45a0c503c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/682fe74e4092359dddbe33b02d4e6e7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78b9756deb5f1c4013b2aefa465e2140-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d98eeb5d46fc7144f1e1514acb7e1818-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c52ea09622d3490c08e5dd07f44befc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f08e391d6e07696e0c46be4742a51fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9cd4b4a0776a1768450c534be9ea7a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c16e49c0637c369fa4eb421f8c9ec0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10b17123b153b548851a848411d22c81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4ce88b6eda484b9ed3a4e23055a30d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f69eee5dc244e1c506fbbd2f254802b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92f4132e9a31f65d1e02a0f945126797-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42e8c70e6fce2312edf4c826a6964aa9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad8cb034600b57dca7024bf6022b93b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73c0fc6e17a229ea227e5e4a29d8f542-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b6889ae368798ca8e498db530c736b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b2baa0ed4af61cbd3221581849d0e62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53be0dfd14442fe35d112d876b9f9bfc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d653b97e141fa76f73550fbfa02cbe09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5d048a2e814b945de6293de0b697eef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1d0dcd111664def17d8879e57c3752e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/417f64fb1bf81133afd354930d67c41c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12e46e22464d7ed8cff919fcd23f6737-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d27fe6db1a0b227591fb6b2499f3f8c4-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    }
+  ],
+  "resultsHash": "697619bc",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "740dca5c"
+}

@@ -1,0 +1,463 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "29745051",
+      "id": "29745051",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "vbay555vd88n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/854409dccafcf98eea25337ac17d5cb1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4-Acre-Pl-Binghamton-NY-13904/29745051_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,900/mo",
+      "unformattedPrice": 1900,
+      "address": "4 Acre Pl, Binghamton, NY 13904",
+      "addressStreet": "4 Acre Pl",
+      "addressCity": "Binghamton",
+      "addressState": "NY",
+      "addressZipcode": "13904",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 1.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 42.103264,
+        "longitude": -75.84392
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29745051,
+          "streetAddress": "4 Acre Pl",
+          "zipcode": "13904",
+          "city": "Binghamton",
+          "state": "NY",
+          "latitude": 42.103264,
+          "longitude": -75.84392,
+          "price": 1900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 4.0,
+          "livingArea": 1700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 123500,
+          "rentZestimate": 1923,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "timeOnZillow": 272278000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 89508.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 123500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/854409dccafcf98eea25337ac17d5cb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3906ce92ff2f381766b17b5620e80051-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ee38b79e47a80fb82f116e3d1310b06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e867e1f54bd490018f6ec3c5e1c60da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/361b4c9e4f8301a6627f366c2f31d078-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fc8add1f7f71ee64882a7ead05384cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1723fcb62fff2acd90bb9e737454de48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92a5f205f69e61556461171af9ba2e43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be994cea45533351964fa79b63965123-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.104797--75.84353",
+      "id": "42.104797--75.84353",
+      "providerListingId": "1rtu5wkqnymay",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0018a1a19936408fbf39a47f9a07af9e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/42.104797,-75.84353_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "26 Acre Pl, Binghamton, NY",
+      "addressStreet": "26 Acre Pl # 2",
+      "addressCity": "Binghamton",
+      "addressState": "NY",
+      "addressZipcode": "13904",
+      "units": [
+        {
+          "price": "$1,600+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,800+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2012608072,
+      "latLong": {
+        "latitude": 42.104797,
+        "longitude": -75.84353
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0018a1a19936408fbf39a47f9a07af9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d60d93d0beb2b24abee6a9d7596aaeba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8cce713581ffc8bb6455d3f22c2e6f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/884202a5ee6f8cd051d50e69c0ab879f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c18196684761c046a785db58d14a9518-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8fe13c6aeaf9bf4fafbf377334397148-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9b8248d04db6e54c07e03041c74c67d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba7716c5f8d3aea18c8ed98dec224927-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b229838b3c36356f5d10410f4a6ef750-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "29744787",
+      "id": "29744787",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2txzes9keefmm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/972e41e7714178f17173a9af7fcd54c1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/169-Colesville-Rd-Binghamton-NY-13904/29744787_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "169 Colesville Rd, Binghamton, NY 13904",
+      "addressStreet": "169 Colesville Rd",
+      "addressCity": "Binghamton",
+      "addressState": "NY",
+      "addressZipcode": "13904",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {
+        "latitude": 42.107143,
+        "longitude": -75.82729
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "23 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29744787,
+          "streetAddress": "169 Colesville Rd",
+          "zipcode": "13904",
+          "city": "Binghamton",
+          "state": "NY",
+          "latitude": 42.107143,
+          "longitude": -75.82729,
+          "price": 1400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 23,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 131800,
+          "rentZestimate": 1577,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 2056206000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 65574.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 131800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: EXIT REALTY FRONT AND CENTER",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/972e41e7714178f17173a9af7fcd54c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe8006af4763ad821a43dda1dc32cc17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fd8bd4d567430ae7e422c379527b0a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c08e8b92f32cbecf8370cb135fa36c51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/037233964b0113a3785dead6cdaab8d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57b35fb32594661e7cf7ed4cb6231d72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b210126b436286116e04b6de9b9e570f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9288123d8f2231279781b99616888b9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ba3b1dca0a5bb40d37f04419056f5de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1d2da3864de2033eaafd2698430befe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2a78ac0c952187db78bb36fc8d6e876-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d20b1a0052e4b1fc3a54fbafc5b5faa5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a74a645ec489e09680946a44406828c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29eaf5025a55a4a982c4800c0d8711d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9aff0045177ca2babb4085171867fa49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0b3dca0cd1d1a2c835239cd232d142a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2eaeeb8547c3ddeb125a80da810d040-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/402dc63459f16e43931e4bab7299e80e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c1295c18a99b9165f753da685208e97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/681bd7a8dbc049301a953be73c284587-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f5bee12657fd475a3c1cde3ac20bc9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86cb8807413fe774577f04840a1971d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e15eda1becf29b0286ba89a5d72f0551-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "363559157",
+      "id": "363559157",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "33kt53t6yjjxp",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.10093307495117,-75.85718536376953&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=FOTJPHutSaFZlizmm6bZGjRzI9c=",
+      "detailUrl": "https://www.zillow.com/b/667-conklin-road-binghamton-ny-987s9j/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$650+/mo",
+      "unformattedPrice": 650,
+      "address": "667 Conklin Road, 667 Conklin Rd, Binghamton, NY 13903",
+      "addressStreet": "667 Conklin Rd #10735307",
+      "addressCity": "Binghamton",
+      "addressState": "NY",
+      "addressZipcode": "13903",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.10093307495117,-75.85718536376953&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=LyTNeEFEYGBAfa4G-zE4twmLCnM=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.10093307495117,-75.85718536376953&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=AOSMdLquIVDm9-w9ENhVv8fHLJs=",
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.100933,
+        "longitude": -75.857185
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 363559157,
+          "streetAddress": "667 Conklin Rd #10735307",
+          "zipcode": "13903",
+          "city": "Binghamton",
+          "state": "NY",
+          "latitude": 42.100933,
+          "longitude": -75.857185,
+          "price": 650.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 143,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 908,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 650.0,
+          "timeOnZillow": 12440097000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 10735307",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Siam Seeds LLC",
+      "ma": false,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "566cacbf"
+}

@@ -1,0 +1,136 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "442612753",
+      "id": "442612753",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "36es4s7tnhebu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9de413b28a54714011fa8a05a4cce2c3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/141-Old-State-State-Rd-2-Broadalbin-NY-12025/442612753_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "141 Old State State Rd #2, Broadalbin, NY 12025",
+      "addressStreet": "141 Old State State Rd #2",
+      "addressCity": "Broadalbin",
+      "addressState": "NY",
+      "addressZipcode": "12025",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 43.062706,
+        "longitude": -74.12214
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442612753,
+          "streetAddress": "141 Old State State Rd #2",
+          "zipcode": "12025",
+          "city": "Broadalbin",
+          "state": "NY",
+          "latitude": 43.062706,
+          "longitude": -74.12214,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 807405000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9de413b28a54714011fa8a05a4cce2c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fecc97e5a7f6e6870852987638db1227-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfc965b0726b6febf04d0d015981ed2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a68e747bf76840fecb7c5b026d3e7859-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84a4407611c4485924a0f20d7e03104b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8d2a9ffdc0c98f72a4095d818fba270-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4430794d7918a40ae9919fc1dbf7c066-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6bcfdd3a7ecad7ead7b0180b58444d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe3eacf7fd910c2fa202dadd18467fb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b990775369cca920b7548467b77f74b0-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "147502d1"
+}

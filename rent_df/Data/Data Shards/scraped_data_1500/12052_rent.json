@@ -1,0 +1,466 @@
+{
+  "listResults": [
+    {
+      "zpid": "32251446",
+      "id": "32251446",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "pp10bnx5uwf9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f18ea67b9e08221646cc4f7d4429127f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/465-Taconic-Lake-Rd-Petersburgh-NY-12138/32251446_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "465 Taconic Lake Rd, Petersburgh, NY 12138",
+      "addressStreet": "465 Taconic Lake Rd",
+      "addressCity": "Petersburgh",
+      "addressState": "NY",
+      "addressZipcode": "12138",
+      "isUndisclosedAddress": false,
+      "beds": 6,
+      "baths": 3.0,
+      "area": 3600,
+      "latLong": {
+        "latitude": 42.762398,
+        "longitude": -73.424965
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32251446,
+          "streetAddress": "465 Taconic Lake Rd",
+          "zipcode": "12138",
+          "city": "Petersburgh",
+          "state": "NY",
+          "latitude": 42.762398,
+          "longitude": -73.424965,
+          "price": 4500.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 3.0,
+          "bedrooms": 6.0,
+          "livingArea": 3600.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 458100,
+          "rentZestimate": 4080,
+          "listing_sub_type": {},
+          "priceReduction": "$500 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "priceChange": -500,
+          "timeOnZillow": 1019484000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 362784.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 458100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f18ea67b9e08221646cc4f7d4429127f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4be687048fd4109d46d832e1ca775344-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc09eeaf05a41ade43dde38f2af16066-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa2a7dd492f89d1c96b3b9a38217e0f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b287c6b6fd5c13cf7c660d71f5de9be3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d732ac7465246363fcaa2e62b52c24ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/977a56ff99d489e0e7c033c03acfc768-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ed441f5cf3d5c6b701e460945394d7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16235a2fe7dad3af2bbe93bc2093619c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19a0b6b61076393ab64ee8b4a633faa3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4162635017b1fbc80e2dceb78353bdf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71c8c0118d721408ed29cd5c5021f5b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2902bf7ce15a84742088f9a477cc3fba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67b579903a4dcaccf9dbf25ca956c9f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07a4e46c7c8c98cc5793ae55ceade0de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3812a01c72ee4a15ca794f724011996-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/beffe26b6eb57958fd05cc21d7743bdf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecb10e3fbc52e4e50a00ad298f5b9fab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03e349ba4d2139643b7dfe80b7ee8791-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e8f193bdd22844690029474ce90598c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1aed7f5937756d8670b364972d19496e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bbe160b74e1482af588b2fad4feaf4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/819872a76f2080d37111e300918a3e99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6179bd3e1eb0eb2b5927c07aea0f5aa1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4162e8d23921efd4b314aa3ff01cac97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/089c211867c164761e04bb2ebe5c21db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34258411540d96536903108833f3cd26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffd800b5b40f683a9d1a7e35fbb7c2dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfae632e932efe7b098f7de88b302b61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d0816d17a71e4f266ef729bd3602030-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edcbc24e620585f351ab770090c73e07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/013bea7466b8306c1f02455d84d689c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cbfda79015f874073611014b8bd1d3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd191fd242be98c965e6b20a0b6e1419-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67d4db9b8fb98116a1059f1ee1cfa043-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66f6fd56e23c018ba48b7e16dd3e4d95-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e6d92ae5ec03fcd0926c2a0ada2afb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43aff8858469953c4f85e97ad1eccb0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b46fd4cd54b0fe0254ba299508e85c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3868a9d2b836a4a68a3cb12be311e596-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c52a2aa45a64628f153728009ab9645d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/294b88382fb582cbac056bca66ff26c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d081904d3e8b73540fb3a860d27b636d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0fd00f3a39fd98f95d6b6a2d9abf90e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91f28dae7cd99d1906648ea9bba4c69a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c3c1b33d497ac52ed618268d375c056-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1485d5b7b8ff92cf3bd917f1b22c0944-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32251446",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f18ea67b9e08221646cc4f7d4429127f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/465-Taconic-Lake-Rd-Petersburgh-NY-12138/32251446_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,500/mo",
+      "priceLabel": "$4.5K",
+      "address": "465 Taconic Lake Rd, Petersburgh, NY 12138",
+      "isNewYorkState": true,
+      "beds": 6,
+      "baths": 3.0,
+      "area": 3600,
+      "latLong": {
+        "latitude": 42.762398,
+        "longitude": -73.424965
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32251446,
+          "streetAddress": "465 Taconic Lake Rd",
+          "zipcode": "12138",
+          "city": "Petersburgh",
+          "state": "NY",
+          "latitude": 42.762398,
+          "longitude": -73.424965,
+          "price": 4500.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 3.0,
+          "bedrooms": 6.0,
+          "livingArea": 3600.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 458100,
+          "rentZestimate": 4080,
+          "listing_sub_type": {},
+          "priceReduction": "$500 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "priceChange": -500,
+          "timeOnZillow": 1019484000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 362784.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1019484000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "340703481",
+      "id": "340703481",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "52n33jhf67ygy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/05c39645ac509f71bba588752bcafcea-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/14-Birch-Dr-Troy-NY-12180/340703481_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "14 Birch Dr, Troy, NY 12180",
+      "addressStreet": "14 Birch Dr",
+      "addressCity": "Troy",
+      "addressState": "NY",
+      "addressZipcode": "12180",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1344,
+      "latLong": {
+        "latitude": 42.79445,
+        "longitude": -73.5717
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 340703481,
+          "streetAddress": "14 Birch Dr",
+          "zipcode": "12180",
+          "city": "Troy",
+          "state": "NY",
+          "latitude": 42.79445,
+          "longitude": -73.5717,
+          "price": 2100.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1344.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 44,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2246,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 3815002000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/05c39645ac509f71bba588752bcafcea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/becb3c6c05f9b5f9d64fb31354f42c23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a667b5277a9ad0346b7b56e7901365f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd1d4e8c2812b38906bef0319ad65c85-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3a6d20658894259374f8ee967885f1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eda6e9d9bc0fd7b8c142d6be0771a96f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c52325fccc5db8d042692ff2b8eba71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eaba1c7bac054609a68fb193b95a3667-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/481ff26ea11986f8ce20891d37b22c65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a8efe79f98364dcb483f039857e2039-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d1c81b4555f08c0150bbeb93bdad523-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/798b969f31b25407e4e0ee46e21e8cc4-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "5f27bfe6",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "10debdbf"
+}

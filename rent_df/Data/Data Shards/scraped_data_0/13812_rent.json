@@ -1,0 +1,283 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "442119944",
+      "id": "442119944",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2d1b4de0ww7xm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3439d3ecf0a36624df61c5c632777695-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/9-11-Lake-St-2S-Owego-NY-13827/442119944_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "9-11 Lake St #2S, Owego, NY 13827",
+      "addressStreet": "9-11 Lake St #2S",
+      "addressCity": "Owego",
+      "addressState": "NY",
+      "addressZipcode": "13827",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.1027,
+        "longitude": -76.26113
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442119944,
+          "streetAddress": "9-11 Lake St #2S",
+          "zipcode": "13827",
+          "city": "Owego",
+          "state": "NY",
+          "latitude": 42.1027,
+          "longitude": -76.26113,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 26,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 2269933000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2S",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-28 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3439d3ecf0a36624df61c5c632777695-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6a2dd1a23c88af4fc1506ed314a39b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1469e58f24f164ec8f2cd994b21c0288-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36d1f8ebe8df31a66b9046e6fd1b1b46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39f14c6f29883df6abc6b762cb7d0ccc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6101596074a6233c9c0da846b31fbdf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f285142ae7547801b9d2ab2e91ea408-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31e0cf78e7e7d95a3619ffd1744827c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7949223bfc62d354519db729fbc7706-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83e5f61c70b25e8b3034c7fd382ca1ec-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32802658",
+      "id": "32802658",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1s48j32w67cb5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/dcbc0d0ec8f6624ec442bb1dca7bf315-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/11-Orchard-Ave-Owego-NY-13827/32802658_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,300/mo",
+      "unformattedPrice": 2300,
+      "address": "11 Orchard Ave, Owego, NY 13827",
+      "addressStreet": "11 Orchard Ave",
+      "addressCity": "Owego",
+      "addressState": "NY",
+      "addressZipcode": "13827",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1604,
+      "latLong": {
+        "latitude": 42.09786,
+        "longitude": -76.25466
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32802658,
+          "streetAddress": "11 Orchard Ave",
+          "zipcode": "13827",
+          "city": "Owego",
+          "state": "NY",
+          "latitude": 42.09786,
+          "longitude": -76.25466,
+          "price": 2300.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1604.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 166200,
+          "rentZestimate": 1364,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "timeOnZillow": 1471809000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 122407.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 166200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcbc0d0ec8f6624ec442bb1dca7bf315-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff81c142bca8e4cf24907bd4643ef65d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15ea72d2b088e9e768af11a26f9e0e1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1a27b1804637d390c179ec692ef34b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8209577128b756452cc98149978a624c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/786f1721eef25e1b5f0a56b982cfb804-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66fab5673ed878cd795a0bf41bf19a65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/291a1872d7b252183b97157a0fb8801a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b91fb17c04bed6b8f9afae2f987ecc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d29ccf54de7c9fe2457cb5f4c986f158-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c48a0c91b30274f9f5220a39878bdda4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f07661ac7cfb4276a65374a691cafada-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46998a7a715736696bf859714793dffc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36b51051699eeb2a9cf05470be9b7deb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ccdb50b1acca434c9c65b9f8d7ff605-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/134c8ff73b2fe771f945f0c98d8d09fc-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "19281bf3"
+}

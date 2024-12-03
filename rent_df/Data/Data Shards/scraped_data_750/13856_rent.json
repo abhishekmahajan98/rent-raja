@@ -1,0 +1,864 @@
+{
+  "listResults": [
+    {
+      "zpid": "442757745",
+      "id": "442757745",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2pwue8pwtfkpe",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6b90d1d1d5c53295a4c594de39fb31be-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Walton-NY-13856/442757745_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850/mo",
+      "unformattedPrice": 850,
+      "address": "(undisclosed Address), Walton, NY 13856",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Walton",
+      "addressState": "NY",
+      "addressZipcode": "13856",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442757745,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13856",
+          "city": "Walton",
+          "state": "NY",
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 227100000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b90d1d1d5c53295a4c594de39fb31be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27404a547836f8e2386aa73237c42f9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c6cbed7797fb233abdce774a4e7e3dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7df3cc26a6a3c21d04b6044e4e4baca9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6e6b5ab616a416cebc97f099f39e30e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bc45270e2396dd652bbd4d884f3ace8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24a4dba32734d10b03b1e7b7bae49531-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbae33e8f54bab8d949091143dcd6a98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f42c71ca1dd1313ab13ac12149cb3e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83ff0cdea56096ca520f9327fe7f5ec0-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441999507",
+      "id": "441999507",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1jda454xga3jy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0ec8990022b98e509f2b87bf82b19bf0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5-Townsend-St-FLOOR-2-Walton-NY-13856/441999507_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,100/mo",
+      "unformattedPrice": 1100,
+      "address": "5 Townsend St FLOOR 2, Walton, NY 13856",
+      "addressStreet": "5 Townsend St FLOOR 2",
+      "addressCity": "Walton",
+      "addressState": "NY",
+      "addressZipcode": "13856",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1130,
+      "latLong": {
+        "latitude": 42.168766,
+        "longitude": -75.13069
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441999507,
+          "streetAddress": "5 Townsend St FLOOR 2",
+          "zipcode": "13856",
+          "city": "Walton",
+          "state": "NY",
+          "latitude": 42.168766,
+          "longitude": -75.13069,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1130.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 1684993000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-05 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Jewett and Jewett",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ec8990022b98e509f2b87bf82b19bf0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0c55d97fb1f4acdfd86e8ecc1067b13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d9208b2e5e69a3aed7265b26cbb90ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dee3458e45d1b1f529649548444003f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/848919ea9531c32cf0bf03b06a922336-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89174bf8a99bc15819aa5bbb261d076e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e218e2f2ea660a1b5407ec2089ad5037-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/49fe198edad3a0e9a3d7984403fdc775-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5eeb15482e1c732b15d3260f5ca28c4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc8d5af4217260fa9011e6750b2780ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60dbd551aa0b1b22f05dd761250700a9-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30076339",
+      "id": "30076339",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "15008qmdsk643",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c2f6cebf6b2467287e671c84e3ae0e1a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Walton-NY-13856/30076339_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$975/mo",
+      "unformattedPrice": 975,
+      "address": "(undisclosed Address), Walton, NY 13856",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Walton",
+      "addressState": "NY",
+      "addressZipcode": "13856",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30076339,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13856",
+          "city": "Walton",
+          "state": "NY",
+          "price": 975.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 78100,
+          "rentZestimate": 950,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 975.0,
+          "timeOnZillow": 1652834000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 78100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2f6cebf6b2467287e671c84e3ae0e1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/407842d03c60d7024d736efc3690aaef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4df1365dc772108863c0101c75d708d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4dadbd5091c634e6d36d0ab7e0c05c49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aad4e21450c157b56c6f6810c2716e99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63c332b593f091f8a9d3a3789fb1de01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1925d68e267d9898a8a729a9535d0ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9579505f94fcc22589ad229c75f74b70-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30073981",
+      "id": "30073981",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ahd1enwdnkqd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4d2c37f96bcefab40b56e29ea91ee2f3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/69-Jay-St-Sidney-Center-NY-13839/30073981_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "69 Jay St, Sidney Center, NY 13839",
+      "addressStreet": "69 Jay St",
+      "addressCity": "Sidney Center",
+      "addressState": "NY",
+      "addressZipcode": "13839",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 912,
+      "latLong": {
+        "latitude": 42.29239,
+        "longitude": -75.25576
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "38 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30073981,
+          "streetAddress": "69 Jay St",
+          "zipcode": "13839",
+          "city": "Sidney Center",
+          "state": "NY",
+          "latitude": 42.29239,
+          "longitude": -75.25576,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 912.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 38,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 131100,
+          "rentZestimate": 1223,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 3337290000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 80600.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 131100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d2c37f96bcefab40b56e29ea91ee2f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c2ef7d0414d5222af5fb1e33f177c9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cb1a9564f52be254339acff4fa6bff4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29ee5764dde5787c0dce40ffbb04543f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1de8a82234f48a9cee7ecd3214fa48bd-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "401793272",
+      "id": "401793272",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "14ykvpva3ec97",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ae36cfe05819193435f341cc5f82e445-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-Benton-Ave-4-Walton-NY-13856/401793272_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$775/mo",
+      "unformattedPrice": 775,
+      "address": "10 Benton Ave #4, Walton, NY 13856",
+      "addressStreet": "10 Benton Ave #4",
+      "addressCity": "Walton",
+      "addressState": "NY",
+      "addressZipcode": "13856",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 400,
+      "latLong": {
+        "latitude": 42.169125,
+        "longitude": -75.1269
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 401793272,
+          "streetAddress": "10 Benton Ave #4",
+          "zipcode": "13856",
+          "city": "Walton",
+          "state": "NY",
+          "latitude": 42.169125,
+          "longitude": -75.1269,
+          "price": 775.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 775.0,
+          "timeOnZillow": 2205909000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae36cfe05819193435f341cc5f82e445-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/137feedae22a2d68bae3941bc51f5df1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a2cf9088402f018d7be44a720331f8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/840fdf57f820958add473a60da512006-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d17e1341e5807841e498b0dc2f4a0de2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4464f08b53befbadaf6657a03205fe86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fc3eb441c83bac4d677663eaebbfbb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9807cdc5e683785cfe08505ff723501-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d949630da5172f9c4bc2ce5deb874b0-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "441999507",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0ec8990022b98e509f2b87bf82b19bf0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/5-Townsend-St-FLOOR-2-Walton-NY-13856/441999507_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,100/mo",
+      "priceLabel": "$1.1K",
+      "address": "5 Townsend St FLOOR 2, Walton, NY 13856",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1130,
+      "latLong": {
+        "latitude": 42.168766,
+        "longitude": -75.13069
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441999507,
+          "streetAddress": "5 Townsend St FLOOR 2",
+          "zipcode": "13856",
+          "city": "Walton",
+          "state": "NY",
+          "latitude": 42.168766,
+          "longitude": -75.13069,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1130.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 1684993000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-05 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Jewett and Jewett",
+      "timeOnZillow": 1684993000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30073981",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4d2c37f96bcefab40b56e29ea91ee2f3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/69-Jay-St-Sidney-Center-NY-13839/30073981_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,300/mo",
+      "priceLabel": "$1.3K",
+      "address": "69 Jay St, Sidney Center, NY 13839",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 912,
+      "latLong": {
+        "latitude": 42.29239,
+        "longitude": -75.25576
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "38 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30073981,
+          "streetAddress": "69 Jay St",
+          "zipcode": "13839",
+          "city": "Sidney Center",
+          "state": "NY",
+          "latitude": 42.29239,
+          "longitude": -75.25576,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 912.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 131100,
+          "rentZestimate": 1223,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 3337290000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 80600.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "visited": false,
+      "timeOnZillow": 3337290000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "401793272",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ae36cfe05819193435f341cc5f82e445-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/10-Benton-Ave-4-Walton-NY-13856/401793272_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$775/mo",
+      "priceLabel": "$775",
+      "address": "10 Benton Ave #4, Walton, NY 13856",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 400,
+      "latLong": {
+        "latitude": 42.169125,
+        "longitude": -75.1269
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 401793272,
+          "streetAddress": "10 Benton Ave #4",
+          "zipcode": "13856",
+          "city": "Walton",
+          "state": "NY",
+          "latitude": 42.169125,
+          "longitude": -75.1269,
+          "price": 775.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 775.0,
+          "timeOnZillow": 2205909000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 2205909000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "422e6c51",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

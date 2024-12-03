@@ -1,0 +1,433 @@
+{
+  "listResults": [
+    {
+      "zpid": "2054223240",
+      "id": "2054223240",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "58tf7gv2z3aah",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2ea689218c36fe889c5a0f19486927f6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/134-Cypress-Rd-Greene-NY-13778/2054223240_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,195/mo",
+      "unformattedPrice": 1195,
+      "address": "134 Cypress Rd, Greene, NY 13778",
+      "addressStreet": "134 Cypress Rd",
+      "addressCity": "Greene",
+      "addressState": "NY",
+      "addressZipcode": "13778",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.310143,
+        "longitude": -75.7916
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "45 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054223240,
+          "streetAddress": "134 Cypress Rd",
+          "zipcode": "13778",
+          "city": "Greene",
+          "state": "NY",
+          "latitude": 42.310143,
+          "longitude": -75.7916,
+          "price": 1195.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 45,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1179,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1195.0,
+          "priceChange": -50,
+          "timeOnZillow": 3895339000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: A.L. Burke Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ea689218c36fe889c5a0f19486927f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3133794d556ee1eca44b75924e861a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f29b67199a8982a6d6310e8eabeeee53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3464444f69df5b104f530160ec009a1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fc5d8b5dce3d2c3df852873891177cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/224ed8ffdf8896345a82ddb51f0ae8d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06d8906bcdddc181035f5c3ac83dc7a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46f09841e8db108109401bc919af2bab-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2054223240",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2ea689218c36fe889c5a0f19486927f6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/134-Cypress-Rd-Greene-NY-13778/2054223240_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,195/mo",
+      "priceLabel": "$1.2K",
+      "address": "134 Cypress Rd, Greene, NY 13778",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.310143,
+        "longitude": -75.7916
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "45 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054223240,
+          "streetAddress": "134 Cypress Rd",
+          "zipcode": "13778",
+          "city": "Greene",
+          "state": "NY",
+          "latitude": 42.310143,
+          "longitude": -75.7916,
+          "price": 1195.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1179,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1195.0,
+          "priceChange": -50,
+          "timeOnZillow": 3895339000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: A.L. Burke Inc.",
+      "timeOnZillow": 3895339000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "441772926",
+      "id": "441772926",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2b14djzp77kzr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/acf860bd774356b6ca7d46c2e1856972-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Oxford-NY-13830/441772926_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$980/mo",
+      "unformattedPrice": 980,
+      "address": "(undisclosed Address), Oxford, NY 13830",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Oxford",
+      "addressState": "NY",
+      "addressZipcode": "13830",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "41 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441772926,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13830",
+          "city": "Oxford",
+          "state": "NY",
+          "price": 980.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 41,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 980.0,
+          "timeOnZillow": 3579228000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/acf860bd774356b6ca7d46c2e1856972-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6565f01cc8508edd928e46101f18c1db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f26a94b92e68cdb2f883addcdc8bd3e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e5a53bfe743917b553ab3d5a630667e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e0c0c3845c60eefbd1bccf26cafe826-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/627033a6c99ac08baf8bd627a3d8ef1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e26a55bdc684e4c3e0459dbae507b912-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442577963",
+      "id": "442577963",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4uqktju0hq2xz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5dd1c4b82cb29ac2392a5b6c03780c97-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8-Greene-St-4-Oxford-NY-13830/442577963_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$675/mo",
+      "unformattedPrice": 675,
+      "address": "8 Greene St #4, Oxford, NY 13830",
+      "addressStreet": "8 Greene St #4",
+      "addressCity": "Oxford",
+      "addressState": "NY",
+      "addressZipcode": "13830",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 550,
+      "latLong": {
+        "latitude": 42.43828,
+        "longitude": -75.59447
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442577963,
+          "streetAddress": "8 Greene St #4",
+          "zipcode": "13830",
+          "city": "Oxford",
+          "state": "NY",
+          "latitude": 42.43828,
+          "longitude": -75.59447,
+          "price": 675.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 550.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 675.0,
+          "timeOnZillow": 896983000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-13 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: KELLER WILLIAMS UPSTATE NY PROPERTIES/PARADISE EXCLUSIVE RE FLORIDA",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5dd1c4b82cb29ac2392a5b6c03780c97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54e392271fed8ae6d4eea339d7b119c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef22146922d3de04cb747b0d39e392b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/caebc313a3df39b74e15ddc7f53090d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fea92e0f5e4ade17e2bacaa7eaf0ad70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5acf7eeb6f3ac199f4297bcf2df44d96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8f917d974f7df5a212693dde53d2ded-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/214d394aa693d9a7bd2c31072f571c87-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1bba1317",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "4744a798"
+}

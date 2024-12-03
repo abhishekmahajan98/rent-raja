@@ -1,0 +1,696 @@
+{
+  "listResults": [
+    {
+      "zpid": "442828774",
+      "id": "442828774",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2d8fdnjn4uygd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2de98f3d154e5be18765a9c1f5048c54-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2424-Otisco-Valley-Rd-4-Marietta-NY-13110/442828774_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$675/mo",
+      "unformattedPrice": 675,
+      "address": "2424 Otisco Valley Rd #4, Marietta, NY 13110",
+      "addressStreet": "2424 Otisco Valley Rd #4",
+      "addressCity": "Marietta",
+      "addressState": "NY",
+      "addressZipcode": "13110",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 300,
+      "latLong": {
+        "latitude": 42.888214,
+        "longitude": -76.29608
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442828774,
+          "streetAddress": "2424 Otisco Valley Rd #4",
+          "zipcode": "13110",
+          "city": "Marietta",
+          "state": "NY",
+          "latitude": 42.888214,
+          "longitude": -76.29608,
+          "price": 675.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 675.0,
+          "timeOnZillow": 33979000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-23 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2de98f3d154e5be18765a9c1f5048c54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef193500413438698508d818f603e92f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f7c657b944fc92847d049bfb0fd4518-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/413e9b69d50c39f41062f2031840157b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/125319692ff2aca72882ea3b34329d9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98298aa9ea25b3d447dd06ee826cb287-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/266852b0151f94b480ded1fc2883dc80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8f1d1dfb949d8e3e3886ccb25b0d7d7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31780933",
+      "id": "31780933",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "jp540v9xws6c",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c93f8945d3bcf3e38eef35e44239211a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2474-Nunnery-Rd-Skaneateles-NY-13152/31780933_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,300/mo",
+      "unformattedPrice": 3300,
+      "address": "2474 Nunnery Rd, Skaneateles, NY 13152",
+      "addressStreet": "2474 Nunnery Rd",
+      "addressCity": "Skaneateles",
+      "addressState": "NY",
+      "addressZipcode": "13152",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2088,
+      "latLong": {
+        "latitude": 42.857975,
+        "longitude": -76.338486
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31780933,
+          "streetAddress": "2474 Nunnery Rd",
+          "zipcode": "13152",
+          "city": "Skaneateles",
+          "state": "NY",
+          "latitude": 42.857975,
+          "longitude": -76.338486,
+          "price": 3300.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2088.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 21,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 320000,
+          "rentZestimate": 4041,
+          "listing_sub_type": {},
+          "priceReduction": "$400 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3300.0,
+          "priceChange": -400,
+          "timeOnZillow": 1843380000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 263793.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 320000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-11 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c93f8945d3bcf3e38eef35e44239211a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63bba1b709d1c28fcd50ce76da75f8ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09fdcc2776d08077abcbe7d8077ed94b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b4c359f31815e233f1aa0cf3f80ae5c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcbb963bfeb7ddd7bd1a6b991c9bd66b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51ad47c64ae40a508371d417e7433bd1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a94d27653da4824641b4bdc7cc84f924-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/041a64003a2d642f321b5c2dd5a6b3fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8626edf054febd2e734c79b478faff8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25170f7bd55abebe62242216a3876425-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79e8ae4f14f630e034d70fe1b4dced5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73cbfd0cad18dae65535c92c46499a52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef60bfaac9b98e6076226ee41d9886f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5e8584447f353b641f97303e5a97560-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b4a3b7658ee23de287876a16b93714e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1a0dff419336acbbc2068d30eed620e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c42c298e3147904bc610d9787768073b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/354cb41c5e5977ee62c25a88bf7fe141-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2054537747",
+      "id": "2054537747",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4ctuuqf02h9hx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6cb750035671b9261852f49321527b2a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1779-E-Lake-Rd-Skaneateles-NY-13152/2054537747_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,350/mo",
+      "unformattedPrice": 2350,
+      "address": "1779 E Lake Rd, Skaneateles, NY 13152",
+      "addressStreet": "1779 E Lake Rd",
+      "addressCity": "Skaneateles",
+      "addressState": "NY",
+      "addressZipcode": "13152",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 864,
+      "latLong": {
+        "latitude": 42.85546,
+        "longitude": -76.33024
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054537747,
+          "streetAddress": "1779 E Lake Rd",
+          "zipcode": "13152",
+          "city": "Skaneateles",
+          "state": "NY",
+          "latitude": 42.85546,
+          "longitude": -76.33024,
+          "price": 2350.0,
+          "datePriceChanged": 1730966400000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 864.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1769,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Nov 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "priceChange": -150,
+          "timeOnZillow": 2202323000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6cb750035671b9261852f49321527b2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f680ed3da6b6a66a9d94f9bc07444868-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77222a607ea402fe127f8736d1b0d26d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddb53425f782fe3abff5799f122039bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2770af22a4717ab01ee34a9cc049633b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d1226d1d167a58013b93ca8401b6859-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58e9e4b1988dd8d26d30ad881a4d4a64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bccb6fa4a560928b3643ea4df454df4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/964085bdaa7e3d19ff82d81cd94180b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/245a611dffdad9c77be84e53fe1218b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0dc0a0ed9820233af73647974b1a45dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5581bca21ed501b969240b804f8a7ad4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/166e2750dadebe486048b518258a09c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22d32903cd31bc83caeea398d895beb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8897973007e5607ca23092042d23f797-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3163835e7617e8fee357c3fb00820a4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cafef14d80ee8bb6a6d34bc942d9991-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a2b8c955e7d99c0cf7f3b02e7cd46bc-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442828774",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2de98f3d154e5be18765a9c1f5048c54-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2424-Otisco-Valley-Rd-4-Marietta-NY-13110/442828774_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$675/mo",
+      "priceLabel": "$675",
+      "address": "2424 Otisco Valley Rd #4, Marietta, NY 13110",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 300,
+      "latLong": {
+        "latitude": 42.888214,
+        "longitude": -76.29608
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442828774,
+          "streetAddress": "2424 Otisco Valley Rd #4",
+          "zipcode": "13110",
+          "city": "Marietta",
+          "state": "NY",
+          "latitude": 42.888214,
+          "longitude": -76.29608,
+          "price": 675.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 675.0,
+          "timeOnZillow": 33979000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-23 00:00:00",
+      "visited": false,
+      "timeOnZillow": 33979000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31780933",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c93f8945d3bcf3e38eef35e44239211a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2474-Nunnery-Rd-Skaneateles-NY-13152/31780933_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,300/mo",
+      "priceLabel": "$3.3K",
+      "address": "2474 Nunnery Rd, Skaneateles, NY 13152",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2088,
+      "latLong": {
+        "latitude": 42.857975,
+        "longitude": -76.338486
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31780933,
+          "streetAddress": "2474 Nunnery Rd",
+          "zipcode": "13152",
+          "city": "Skaneateles",
+          "state": "NY",
+          "latitude": 42.857975,
+          "longitude": -76.338486,
+          "price": 3300.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2088.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 320000,
+          "rentZestimate": 4041,
+          "listing_sub_type": {},
+          "priceReduction": "$400 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3300.0,
+          "priceChange": -400,
+          "timeOnZillow": 1843380000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 263793.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-11 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1843380000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2054537747",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6cb750035671b9261852f49321527b2a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1779-E-Lake-Rd-Skaneateles-NY-13152/2054537747_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,350/mo",
+      "priceLabel": "$2.4K",
+      "address": "1779 E Lake Rd, Skaneateles, NY 13152",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 864,
+      "latLong": {
+        "latitude": 42.85546,
+        "longitude": -76.33024
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054537747,
+          "streetAddress": "1779 E Lake Rd",
+          "zipcode": "13152",
+          "city": "Skaneateles",
+          "state": "NY",
+          "latitude": 42.85546,
+          "longitude": -76.33024,
+          "price": 2350.0,
+          "datePriceChanged": 1730966400000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 864.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1769,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Nov 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "priceChange": -150,
+          "timeOnZillow": 2202323000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2202323000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "6fef7c23",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

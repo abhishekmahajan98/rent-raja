@@ -1,0 +1,324 @@
+{
+  "listResults": [
+    {
+      "zpid": "53170245",
+      "id": "53170245",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "52x6qrd82cmwu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4fb475d7b62ed07af68b23c4a14aa0f6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/29036-Rogers-Rd-Redwood-NY-13679/53170245_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "29036 Rogers Rd, Redwood, NY 13679",
+      "addressStreet": "29036 Rogers Rd",
+      "addressCity": "Redwood",
+      "addressState": "NY",
+      "addressZipcode": "13679",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1900,
+      "latLong": {
+        "latitude": 44.30842,
+        "longitude": -75.79095
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53170245,
+          "streetAddress": "29036 Rogers Rd",
+          "zipcode": "13679",
+          "city": "Redwood",
+          "state": "NY",
+          "latitude": 44.30842,
+          "longitude": -75.79095,
+          "price": 1800.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1900.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 332900,
+          "rentZestimate": 2032,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 435408000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 270857.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 332900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4fb475d7b62ed07af68b23c4a14aa0f6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "44.214928--75.79588",
+      "id": "44.214928--75.79588",
+      "providerListingId": "21r2u2j32qgph",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7d65bc643696b22bd01729e0c4cdeb1e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/100-main-st-theresa-ny-ketdet-properties-llc-theresa-ny-5Y3pSj/",
+      "statusType": "FOR_RENT",
+      "statusText": "100 Main St Theresa NY/Ketdet Properties LLC",
+      "address": "100 Main St, Theresa, NY",
+      "addressStreet": "100 Main St # 1",
+      "addressCity": "Theresa",
+      "addressState": "NY",
+      "addressZipcode": "13691",
+      "units": [
+        {
+          "price": "$850+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1003287775,
+      "latLong": {
+        "latitude": 44.214928,
+        "longitude": -75.79588
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "100 Main St Theresa NY/Ketdet Properties LLC",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d65bc643696b22bd01729e0c4cdeb1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7ba59daffef99c633738a87ce21b5c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bb257863d26a283ca2698dcbfc3a0ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b9cd9f077044deea1890b0dfdf40203-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e714b798c6d3de2bc620283abccaf78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f10a3714c8f94e9b8dcb8c03afe35842-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e5dbf8b7264f394e4542fed88dd6d82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b019e602230ab9c25a28b15c7d6616dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36ef62a8fcfd5f0a13f193ebfa3530ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/244d3e05f589f8bcf0b068d0f67eb903-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35851103775a163bcaaf46b2ad17bc82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c87ebec21dbfb836312f8d0c70949834-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea19db562cd3d0c0e9a3c92487e961d5-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "53170245",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4fb475d7b62ed07af68b23c4a14aa0f6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/29036-Rogers-Rd-Redwood-NY-13679/53170245_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,800/mo",
+      "priceLabel": "$1.8K",
+      "address": "29036 Rogers Rd, Redwood, NY 13679",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1900,
+      "latLong": {
+        "latitude": 44.30842,
+        "longitude": -75.79095
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53170245,
+          "streetAddress": "29036 Rogers Rd",
+          "zipcode": "13679",
+          "city": "Redwood",
+          "state": "NY",
+          "latitude": 44.30842,
+          "longitude": -75.79095,
+          "price": 1800.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1900.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 332900,
+          "rentZestimate": 2032,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 435408000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 270857.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 435408000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "21r2u2j32qgph",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7d65bc643696b22bd01729e0c4cdeb1e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/100-main-st-theresa-ny-ketdet-properties-llc-theresa-ny-5Y3pSj/",
+      "statusType": "FOR_RENT",
+      "statusText": "100 Main St Theresa NY/Ketdet Properties LLC",
+      "price": "$850+/mo",
+      "address": "100 Main St, Theresa, NY",
+      "minBeds": 2,
+      "minBaths": 1.0,
+      "lotId": 1003287775,
+      "latLong": {
+        "latitude": 44.214928,
+        "longitude": -75.79588
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "100 Main St Theresa NY/Ketdet Properties LLC",
+      "buildingId": "44.214928--75.79588",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 11621719000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "821ccb",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

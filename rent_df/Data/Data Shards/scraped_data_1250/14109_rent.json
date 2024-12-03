@@ -1,0 +1,265 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "442796258",
+      "id": "442796258",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "234qaz0dtknyf",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b30497c3cdfe6237d53f2fc6caff6fb3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4300-Military-Rd-APT-2-Niagara-Falls-NY-14305/442796258_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$875/mo",
+      "unformattedPrice": 875,
+      "address": "4300 Military Rd APT 2, Niagara Falls, NY 14305",
+      "addressStreet": "4300 Military Rd APT 2",
+      "addressCity": "Niagara Falls",
+      "addressState": "NY",
+      "addressZipcode": "14305",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1300,
+      "latLong": {
+        "latitude": 43.12567,
+        "longitude": -79.00333
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442796258,
+          "streetAddress": "4300 Military Rd APT 2",
+          "zipcode": "14305",
+          "city": "Niagara Falls",
+          "state": "NY",
+          "latitude": 43.12567,
+          "longitude": -79.00333,
+          "price": 875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 875.0,
+          "timeOnZillow": 158338000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-23 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b30497c3cdfe6237d53f2fc6caff6fb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/48e58344f461542ba0140119245a2dee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/455bc8c20c8ee6b38d5acc786c9fcce1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/032127e2ec13f38c924b6f294234389d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e770de390869e938732015a91b01fb0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a1d8b6da16d2d60830e07e9769ecc29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c440ec53625142cde9e8bb729996b3a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/894f91c56339f2340c4ae874868c3d59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06ac5711b451dd205bf41a571120c896-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e366b7d1985ee0a45789a35968d15dd-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31437678",
+      "id": "31437678",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4v1tuqz738qt7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e4d90de034dcbdeac3e582ad48759ef9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1112-College-Ave-Niagara-Falls-NY-14305/31437678_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "1112 College Ave, Niagara Falls, NY 14305",
+      "addressStreet": "1112 College Ave",
+      "addressCity": "Niagara Falls",
+      "addressState": "NY",
+      "addressZipcode": "14305",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1246,
+      "latLong": {
+        "latitude": 43.122562,
+        "longitude": -79.049515
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31437678,
+          "streetAddress": "1112 College Ave",
+          "zipcode": "14305",
+          "city": "Niagara Falls",
+          "state": "NY",
+          "latitude": 43.122562,
+          "longitude": -79.049515,
+          "price": 1500.0,
+          "datePriceChanged": 1731744000000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1246.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1605,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 16)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "priceChange": -100,
+          "timeOnZillow": 1106503000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 104600.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: GOOD LIVING PROPERTY MANAGEMENT LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4d90de034dcbdeac3e582ad48759ef9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91ce632f335d38f425663252262983cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0af48d6dbebe0a86bdf75a714357eb00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f8304f9ec7e096188d9bd53acf059f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee4ecb5acd83a2185c7156d928125b3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3b50d6abcad45ae7b83a9ae5a9ee1f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b4c957cd31d80b311bb1199e60707b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e17eaa5bb9e916c32b687445803a7b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d91f203de75bca1ed073363c9d3fce74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3bf940ecc046f5c0ea45d0ab45c54fe-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "9d67575"
+}

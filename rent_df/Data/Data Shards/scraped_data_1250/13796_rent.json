@@ -1,0 +1,153 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "401815147",
+      "id": "401815147",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3naxprj4hkyd7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8f0ae498eeac43cf1299c9579fb3facb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/49-Spruce-1st-Flr-St-Oneonta-NY-13820/401815147_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "49 Spruce 1st Flr St, Oneonta, NY 13820",
+      "addressStreet": "49 Spruce 1st Flr St",
+      "addressCity": "Oneonta",
+      "addressState": "NY",
+      "addressZipcode": "13820",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1010,
+      "latLong": {
+        "latitude": 42.49632,
+        "longitude": -75.04518
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "127 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 401815147,
+          "streetAddress": "49 Spruce 1st Flr St",
+          "zipcode": "13820",
+          "city": "Oneonta",
+          "state": "NY",
+          "latitude": 42.49632,
+          "longitude": -75.04518,
+          "price": 1200.0,
+          "datePriceChanged": 1724396400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1010.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 127,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "priceChange": -100,
+          "timeOnZillow": 11027767000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "lotAreaValue": 7405.200000000001,
+          "lotAreaUnit": "sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: EXIT REALTY HOMEWARD BOUND",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f0ae498eeac43cf1299c9579fb3facb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b536d3ad56f7a2b304caac697acbcb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55dccb39841bc1954ba6ad26173a7429-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f45e331da5d9bfd032bf28e5c32ac18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa8619bc2be5c05ff24e9c388e038eb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d19c4cae0c76d762fe80e63d709d4b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0773ad43db40af493e4f04e418f2dae9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2113f12e167cba04e0e5ae77046ed2f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a297420eea91165b1c1bbe80deb385d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1acd763557931c0eeae8a402cbbb0fb6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/271421184f16bf42775e9c4b47c1b105-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4fcca6fb3af42260122d35dfb6b98a59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/adcb8b71f8b3a632599f99a55203921b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7366a919bc68a091229628e7e73879c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a2c20bf4147b59aeee0992d79cdb4f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/467e58edc69c13502dd672817a31b38c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3683bc84a1d9cf2c1cdb272a7d0c874b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1a8b062c"
+}

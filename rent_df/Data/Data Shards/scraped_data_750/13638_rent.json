@@ -1,0 +1,510 @@
+{
+  "listResults": [
+    {
+      "zpid": "435729236",
+      "id": "435729236",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2wqbysjgqfa2v",
+      "imgSrc": "https://photos.zillowstatic.com/fp/35776208460ba89b1fb55e625400fe17-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/24297-boot-jack-hill-felts-mills-ny-986FS8/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$925/mo",
+      "unformattedPrice": 925,
+      "address": "24297 Boot Jack Hill, 24297 Boot Jack Hill Rd APT 2, Felts Mills, NY 13638",
+      "addressStreet": "24297 Boot Jack Hill Rd APT 2",
+      "addressCity": "Felts Mills",
+      "addressState": "NY",
+      "addressZipcode": "13638",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 44.020226,
+        "longitude": -75.76423
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 435729236,
+          "streetAddress": "24297 Boot Jack Hill Rd APT 2",
+          "zipcode": "13638",
+          "city": "Felts Mills",
+          "state": "NY",
+          "latitude": 44.020226,
+          "longitude": -75.76423,
+          "price": 925.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 101,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 925.0,
+          "timeOnZillow": 8799119000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: TLC Real Estate LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/35776208460ba89b1fb55e625400fe17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2f700c05b4283981acf4550b87c1767-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f4de8cc7122f07615b83729c1ee1e9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fef9b078658e035325f9bad8f0c38ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/136eaab6224088393c64fc261f21e015-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b58b853fbcf9b0ca9cc28356784332c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/901723c081c0d1365033ec0cfcfb7c29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2696db78be2325cd899c6ed02f97fd4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c8b12daad3194f299b48f1d7f132962-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5754c4056ddf21b79ed3ca05b473e66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da45f0adb712af34061d2d52af17e58b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/589ea26b01dfe1e33e0b5699914a5f5c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/328beeda0ed305ee3c88827157826d40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd9d50906435327c105a8c7422860f33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/892b3c3f402015ed63f88b390141f0db-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "435729236",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/35776208460ba89b1fb55e625400fe17-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/24297-boot-jack-hill-felts-mills-ny-986FS8/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$925/mo",
+      "priceLabel": "$925",
+      "address": "24297 Boot Jack Hill Rd APT 2, Felts Mills, NY 13638",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 44.020226,
+        "longitude": -75.76423
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 435729236,
+          "streetAddress": "24297 Boot Jack Hill Rd APT 2",
+          "zipcode": "13638",
+          "city": "Felts Mills",
+          "state": "NY",
+          "latitude": 44.020226,
+          "longitude": -75.76423,
+          "price": 925.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 925.0,
+          "timeOnZillow": 8799119000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: TLC Real Estate LLC",
+      "timeOnZillow": 8799119000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2077202086",
+      "id": "2077202086",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3ky29bb536x7k",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ce9bcf385a1dba1d745f3be773c07931-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/32410-State-Route-3-Carthage-NY-13619/2077202086_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,350/mo",
+      "unformattedPrice": 2350,
+      "address": "32410 State Route 3, Carthage, NY 13619",
+      "addressStreet": "32410 State Route 3",
+      "addressCity": "Carthage",
+      "addressState": "NY",
+      "addressZipcode": "13619",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1848,
+      "latLong": {
+        "latitude": 44.030514,
+        "longitude": -75.7246
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2077202086,
+          "streetAddress": "32410 State Route 3",
+          "zipcode": "13619",
+          "city": "Carthage",
+          "state": "NY",
+          "latitude": 44.030514,
+          "longitude": -75.7246,
+          "price": 2350.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1848.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 337700,
+          "rentZestimate": 1783,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "timeOnZillow": 1396648000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 337700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: TLC Real Estate LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce9bcf385a1dba1d745f3be773c07931-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "439315923",
+      "id": "439315923",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4r384gxu51x91",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3d0b39ea741ec7cda0d2c21b23842684-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/25054-Woolworth-St-2-Carthage-NY-13619/439315923_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "25054 Woolworth St #2, Carthage, NY 13619",
+      "addressStreet": "25054 Woolworth St #2",
+      "addressCity": "Carthage",
+      "addressState": "NY",
+      "addressZipcode": "13619",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 44.032036,
+        "longitude": -75.71851
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "93 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439315923,
+          "streetAddress": "25054 Woolworth St #2",
+          "zipcode": "13619",
+          "city": "Carthage",
+          "state": "NY",
+          "latitude": 44.032036,
+          "longitude": -75.71851,
+          "price": 1800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 0.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 93,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 200600,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 8068477000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 200600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Forte Management Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d0b39ea741ec7cda0d2c21b23842684-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "439365145",
+      "id": "439365145",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2t17h5kdc5hue",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8dfce9e0329782170331dd462ede6fb8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/25268-Partlow-Dr-1-Carthage-NY-13619/439365145_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "25268 Partlow Dr #1, Carthage, NY 13619",
+      "addressStreet": "25268 Partlow Dr #1",
+      "addressCity": "Carthage",
+      "addressState": "NY",
+      "addressZipcode": "13619",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 44.035473,
+        "longitude": -75.7159
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "93 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439365145,
+          "streetAddress": "25268 Partlow Dr #1",
+          "zipcode": "13619",
+          "city": "Carthage",
+          "state": "NY",
+          "latitude": 44.035473,
+          "longitude": -75.7159,
+          "price": 1400.0,
+          "bathrooms": 3.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 93,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "timeOnZillow": 8068477000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Forte Management Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dfce9e0329782170331dd462ede6fb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce1ec691aed531226b1718d02bd74694-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5810204fab6bdbde458be17fd14f7fb9-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "24228dcc",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "6a95c5d4"
+}

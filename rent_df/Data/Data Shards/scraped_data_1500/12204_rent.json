@@ -1,0 +1,1502 @@
+{
+  "listResults": [
+    {
+      "zpid": "2063698262",
+      "id": "2063698262",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "386fj9tbh2g4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/db9d51dfa8ff9e4f83c2409a2fb0cb1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/rensselaer-ny/kinwood-apartments/5Xrpdr/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,919/mo",
+      "unformattedPrice": 1919,
+      "address": "Kinwood Apartments, 2 River Chase Dr, Rensselaer, NY 12144",
+      "addressStreet": "2 River Chase Dr",
+      "addressCity": "Rensselaer",
+      "addressState": "NY",
+      "addressZipcode": "12144",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 42.666004,
+        "longitude": -73.70822
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2063698262,
+          "streetAddress": "2 River Chase Dr",
+          "zipcode": "12144",
+          "city": "Rensselaer",
+          "state": "NY",
+          "latitude": 42.666004,
+          "longitude": -73.70822,
+          "price": 1919.0,
+          "datePriceChanged": 1732089600000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2067,
+          "listing_sub_type": {},
+          "priceReduction": "$102 (Nov 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1919.0,
+          "priceChange": -102,
+          "timeOnZillow": 786405000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-02-06 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Lincoln Property Company (DBA Willow Bridge)",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/db9d51dfa8ff9e4f83c2409a2fb0cb1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ef0c096bbdcce9ae903777447c1af68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bee9269602a6f88bb25416dfb6cb6b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/598f2590eb31fb6036d3d42d65005015-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5306aec75235a00d7b66eb377f967a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b48ce3c288a14e251b15302958e89dcc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03b4234e54bcef4b5ecd50ab62a4f63e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbc00ed6204be6ca582bfa3d7d51be96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc047a474fc2f942466cea311e2a72c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/436d51bcf74675e853a31dae89fe2f1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/958c4c75f02e6d504f5c16f30a89001e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d09ad89999ca62ac31e1bd5f845416f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad94fa63f9e9dff38b97f772637d3b82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c49945a72f07ae8c3d6748864789e6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f267f5d42630293bf31c88886cda782-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef13535115d527d8842d0a5fdcc695b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/276f1ab89bce5e881d5b541ee5bba8c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89327116d0a93f99f9e463c8c8745d84-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/634c47ac1c50bea51a759af5d9855bd5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b23268c3d516c7cb6914c004db0a021-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7777791b88da349c866c799d80b08cd0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24eaa3c689ec039a616776bd84835fc4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70270cae311f150a5aafc70ea5d1fe89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4fd4e2fd9724f307224fb3537d8baa13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07a86729afec9a5e0cf8dd5229868220-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdbd856307f57bf4d1d26b210e4d0723-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2adebc7258591b71110cd0fa14ada8d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4488e575e493b516d0f3dbd1cec3fa88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/210dc7ee65d268e681b5d45dcb385240-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbe66260b52f463a9325122b7b25e211-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f959b0b1fbb46df9bb11660508da3543-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyEnhancedPackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.67655--73.7346",
+      "id": "42.67655--73.7346",
+      "providerListingId": "3rx5yhhfgbsby",
+      "imgSrc": "https://photos.zillowstatic.com/fp/04e2f51b460196363d10ae6616b0bcdf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/menands-ny/albany-lofts-at-one-broadway/5tscDN/",
+      "statusType": "FOR_RENT",
+      "statusText": "Albany Lofts at One Broadway",
+      "address": "1 Broadway, Albany, NY",
+      "addressStreet": "1 Broadway Apt 131",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12204",
+      "units": [
+        {
+          "price": "$1,844+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,949+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1100325986,
+      "latLong": {
+        "latitude": 42.67655,
+        "longitude": -73.7346
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "SPECIAL_OFFER",
+        "text": "Special Offer"
+      },
+      "isSaved": false,
+      "buildingName": "Albany Lofts at One Broadway",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/04e2f51b460196363d10ae6616b0bcdf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5fdc8498837bcb6d1fd5e83a75e7710-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11879add715971973b4fed5e030c4ead-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56831e93ded6d7da68906b4617876614-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54180be1a57c921c99ee2cc53d9bc9ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60d53aa45ac0ae8ade00f27c9c87eab0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a8a0e08684a263932a9e564df841aa2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/642cb2b9ef8e2250280265c8d567fa86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/190da3f5feb3a23fbba7dab7e4077b2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e055d2cfc7c72a12dd62d0e65788040c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50135db7410fa85b5907255669ccec34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cd55cd7ec0101cd78e5948abed87f9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6864ac378cab74d34f4cc7e9960d55d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d778db69d14f2230721915aedadc241d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55fac0ded7d783efdbe517495fd5bc03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f45d8c6b3907fc83f87ba0d9b89f680a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/297fd650cfad098edd1cc82333383411-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7adcb5fc48177983ba3a8893e4ebd8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12d5aac774caaf36f1096208dd0ca5e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6930363022fc0c615ca825dbbcd7f068-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1bdc5c949931d92ea1b27555e8662087-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f35f1eacb4b6c3e3ef5e97c87d38ab79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c8c0d4f9a0e0008ee808b3061c8083b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09bd6009710a03c080bd054309846549-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a8802466a8d125e40140c4183b6d23d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf948a9ace0c22f884ae0342ae0cb1c9-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 10,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyPremium"
+      ],
+      "isInstantTourEnabled": true,
+      "isContactable": true
+    },
+    {
+      "zpid": "42.693428--73.7251",
+      "id": "42.693428--73.7251",
+      "providerListingId": "3sxge0jbzn3pd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/266aff3363f19f7dbe9b08c0b561592f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/menands-ny/menands-gardens/635MFp/",
+      "statusType": "FOR_RENT",
+      "statusText": "Menands Gardens",
+      "address": "2 McDonald Cir, Albany, NY",
+      "addressStreet": "2 McDonald Cir # 279",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12204",
+      "units": [
+        {
+          "price": "$1,150+",
+          "beds": "0",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,385+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,500+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1136060139,
+      "latLong": {
+        "latitude": 42.693428,
+        "longitude": -73.7251
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Menands Gardens",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/266aff3363f19f7dbe9b08c0b561592f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7283b55335f0aa06e1ea9d6773355bff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/683c129f2d5bc8a75de79b9b4bce3434-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/424c99a2a53d460ee993cbfa63e43ea5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e30cc0a19b765fb8f01d785323ba0c96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b99c27ee11744590a91e30d8767d2988-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f65115caeb2d091f76b3906abe3fc75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6098b128704d7a0417c8d21a95f767a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb0da81b0025e28eb8a020d8e942127d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b880767fd49d49d6d977df5a6637e7ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e869b546d68ace8d856a5933b0ce577c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc12af53279e3de7f6eb2d38fbec1eda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ddfa0c2e109b70e9c326cf098a6c033-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/392251d5c3dc4a867c957b1c639b2867-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9c236945a7bd84b34546edf5b6339a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b481cf8f654641d5fdeaa52dc8b89c89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c7b181550d03503fb1e4324d29db85f-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 4,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "441872762",
+      "id": "441872762",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "58r6m9hjhmzj6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/183ff990bac60d007d1d30510cac444d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/210-Menands-Rd-2-Albany-NY-12211/441872762_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,050/mo",
+      "unformattedPrice": 1050,
+      "address": "210 Menands Rd #2, Albany, NY 12211",
+      "addressStreet": "210 Menands Rd #2",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12211",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 400,
+      "latLong": {
+        "latitude": 42.704002,
+        "longitude": -73.75261
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441872762,
+          "streetAddress": "210 Menands Rd #2",
+          "zipcode": "12211",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.704002,
+          "longitude": -73.75261,
+          "price": 1050.0,
+          "datePriceChanged": 1730530800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 37,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 2)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1050.0,
+          "priceChange": -100,
+          "timeOnZillow": 3207535000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/183ff990bac60d007d1d30510cac444d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e51f4c46cdb46f63419c0ab3de49bd09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83f080882fdf2b9dc7e50e743612a812-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3332e9e39049f55858e72ea86750b49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f20910291525abb2fae03e7a6637c33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4137b9676244f7ed3ab0dd78772b81db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee068c5f69187a57ee2e5251c3632f4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90b41407ec530d2b1a64752276bbb049-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442338533",
+      "id": "442338533",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1khhmj0uaq3nv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/211b291969905d6d8ae4a6f529a6405c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/55B-Emmet-St-2-Albany-NY-12204/442338533_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "55B Emmet St #2, Albany, NY 12204",
+      "addressStreet": "55B Emmet St #2",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12204",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.668324,
+        "longitude": -73.74149
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442338533,
+          "streetAddress": "55B Emmet St #2",
+          "zipcode": "12204",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.668324,
+          "longitude": -73.74149,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 20,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1752617000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-04 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/211b291969905d6d8ae4a6f529a6405c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/796f96f74f7bbae1090c4dd0f30c78ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98266d1a4dd03d582192e0910232605f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9175ff2cc5de3cf085a334fc8474f9b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6562bd625983b8a5d1d86e9518a7848a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8a4dc4c051bf373a70528ae42858c42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5887875d16c3328419feae38c057766-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fdd9bfe36c8ef39efe9297517dc33bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d46382980f2652a92bc3d7004c6268ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/252c4b14f6e49388e118f451529f1e2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18b8007ea732b3cc0df372d8e2e8ab90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c7add127d0a78c62132b8e16247cace-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20412bc8aac4a658f4a8806843a3e9b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74d6d74a694023e1215462d5b63e7b86-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2054417057",
+      "id": "2054417057",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3m6ca96mm9bwx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/211b291969905d6d8ae4a6f529a6405c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/55-Emmet-St-2-Albany-NY-12204/2054417057_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "55 Emmet St #2, Albany, NY 12204",
+      "addressStreet": "55 Emmet St #2",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12204",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.66905,
+        "longitude": -73.74325
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "74 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054417057,
+          "streetAddress": "55 Emmet St #2",
+          "zipcode": "12204",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.66905,
+          "longitude": -73.74325,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 74,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1626,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 6413623000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/211b291969905d6d8ae4a6f529a6405c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/796f96f74f7bbae1090c4dd0f30c78ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98266d1a4dd03d582192e0910232605f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9175ff2cc5de3cf085a334fc8474f9b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6562bd625983b8a5d1d86e9518a7848a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8a4dc4c051bf373a70528ae42858c42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5887875d16c3328419feae38c057766-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fdd9bfe36c8ef39efe9297517dc33bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d46382980f2652a92bc3d7004c6268ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/252c4b14f6e49388e118f451529f1e2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18b8007ea732b3cc0df372d8e2e8ab90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c7add127d0a78c62132b8e16247cace-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20412bc8aac4a658f4a8806843a3e9b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74d6d74a694023e1215462d5b63e7b86-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442838059",
+      "id": "442838059",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "41akr6ygfe0wc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/439f318fc66e7b66c1d0fa11ed1a11ed-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/19-Walter-St-APT-1-Albany-NY-12204/442838059_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "19 Walter St APT 1, Albany, NY 12204",
+      "addressStreet": "19 Walter St APT 1",
+      "addressCity": "Albany",
+      "addressState": "NY",
+      "addressZipcode": "12204",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 42.671375,
+        "longitude": -73.74
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 hour ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442838059,
+          "streetAddress": "19 Walter St APT 1",
+          "zipcode": "12204",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.671375,
+          "longitude": -73.74,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 3704000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/439f318fc66e7b66c1d0fa11ed1a11ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17566b7242409b4494266c52c46bc85e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/491966dd3e42b954a1fa99aed8742605-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4e21a537afcd60ef974c08a3926a550-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2995923841a9485dbb70cf649f2f8c31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e81e2bde281578f57dbc8d8ba93676f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf131297e69f122193146bd2a5c5c9d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41ee5da76b6dbca112aa09d5420f8ee9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae9fb7ce855ce5c985d21c2cf5f84cbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d63ae092afca303e33b6aed03a880aa0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfe12fe9b0f247706d785082766ca274-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9412ff9be604f538d2bf7fcf42cb7c7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2063698262",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/db9d51dfa8ff9e4f83c2409a2fb0cb1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/rensselaer-ny/kinwood-apartments/5Xrpdr/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,919/mo",
+      "priceLabel": "$1.9K",
+      "address": "2 River Chase Dr, Rensselaer, NY 12144",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 42.666004,
+        "longitude": -73.70822
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2063698262,
+          "streetAddress": "2 River Chase Dr",
+          "zipcode": "12144",
+          "city": "Rensselaer",
+          "state": "NY",
+          "latitude": 42.666004,
+          "longitude": -73.70822,
+          "price": 1919.0,
+          "datePriceChanged": 1732089600000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2067,
+          "listing_sub_type": {},
+          "priceReduction": "$102 (Nov 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1919.0,
+          "priceChange": -102,
+          "timeOnZillow": 786405000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-02-06 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Lincoln Property Company (DBA Willow Bridge)",
+      "timeOnZillow": 786405000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyEnhancedPackage"
+      ]
+    },
+    {
+      "plid": "3rx5yhhfgbsby",
+      "imgSrc": "https://photos.zillowstatic.com/fp/04e2f51b460196363d10ae6616b0bcdf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/menands-ny/albany-lofts-at-one-broadway/5tscDN/",
+      "statusType": "FOR_RENT",
+      "statusText": "Albany Lofts at One Broadway",
+      "price": "$1,844+/mo",
+      "address": "1 Broadway, Albany, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 697,
+      "lotId": 1100325986,
+      "latLong": {
+        "latitude": 42.67655,
+        "longitude": -73.7346
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "SPECIAL_OFFER",
+        "text": "Special Offer"
+      },
+      "buildingName": "Albany Lofts at One Broadway",
+      "buildingId": "42.67655--73.7346",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": true,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 4488450000,
+      "unitCount": 10,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyPremium"
+      ]
+    },
+    {
+      "plid": "3sxge0jbzn3pd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/266aff3363f19f7dbe9b08c0b561592f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/menands-ny/menands-gardens/635MFp/",
+      "statusType": "FOR_RENT",
+      "statusText": "Menands Gardens",
+      "price": "$1,150+/mo",
+      "address": "2 McDonald Cir, Albany, NY",
+      "minBeds": 0,
+      "minBaths": 1.0,
+      "minArea": 277,
+      "lotId": 1136060139,
+      "latLong": {
+        "latitude": 42.693428,
+        "longitude": -73.7251
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "Menands Gardens",
+      "buildingId": "42.693428--73.7251",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": true,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 15309846000,
+      "unitCount": 4,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "441872762",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/183ff990bac60d007d1d30510cac444d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/210-Menands-Rd-2-Albany-NY-12211/441872762_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,050/mo",
+      "priceLabel": "$1.1K",
+      "address": "210 Menands Rd #2, Albany, NY 12211",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 400,
+      "latLong": {
+        "latitude": 42.704002,
+        "longitude": -73.75261
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441872762,
+          "streetAddress": "210 Menands Rd #2",
+          "zipcode": "12211",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.704002,
+          "longitude": -73.75261,
+          "price": 1050.0,
+          "datePriceChanged": 1730530800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 2)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1050.0,
+          "priceChange": -100,
+          "timeOnZillow": 3207535000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 3207535000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442338533",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/211b291969905d6d8ae4a6f529a6405c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/55B-Emmet-St-2-Albany-NY-12204/442338533_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "55B Emmet St #2, Albany, NY 12204",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.668324,
+        "longitude": -73.74149
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442338533,
+          "streetAddress": "55B Emmet St #2",
+          "zipcode": "12204",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.668324,
+          "longitude": -73.74149,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 1752617000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-04 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1752617000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2054417057",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/211b291969905d6d8ae4a6f529a6405c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/55-Emmet-St-2-Albany-NY-12204/2054417057_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "55 Emmet St #2, Albany, NY 12204",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.66905,
+        "longitude": -73.74325
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "74 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054417057,
+          "streetAddress": "55 Emmet St #2",
+          "zipcode": "12204",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.66905,
+          "longitude": -73.74325,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1626,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 6413623000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 6413623000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442838059",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/439f318fc66e7b66c1d0fa11ed1a11ed-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/19-Walter-St-APT-1-Albany-NY-12204/442838059_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,600/mo",
+      "priceLabel": "$1.6K",
+      "address": "19 Walter St APT 1, Albany, NY 12204",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 42.671375,
+        "longitude": -73.74
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 hour ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442838059,
+          "streetAddress": "19 Walter St APT 1",
+          "zipcode": "12204",
+          "city": "Albany",
+          "state": "NY",
+          "latitude": 42.671375,
+          "longitude": -73.74,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 3704000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 3704000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "1f147c77",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

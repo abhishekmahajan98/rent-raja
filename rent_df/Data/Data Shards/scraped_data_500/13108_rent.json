@@ -1,0 +1,246 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "43.032818--76.29009",
+      "id": "43.032818--76.29009",
+      "providerListingId": "1rf9ud8q3edzk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2fad7d7f11e488ad424b785799b633f5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/43.032818,-76.29009_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "304 Barnstable Ct, Camillus, NY",
+      "addressStreet": "304 Barnstable Ct ",
+      "addressCity": "Camillus",
+      "addressState": "NY",
+      "addressZipcode": "13031",
+      "units": [
+        {
+          "price": "$1,900+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,150+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "latLong": {
+        "latitude": 43.032818,
+        "longitude": -76.29009
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2fad7d7f11e488ad424b785799b633f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ade3219d211c542af598b297ac29e40e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0b16af9d8671431cd0316cc35e1192e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aacd0f16b301e2952158a2c65ec9cf35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/353b28918506480ef3ce92224a503f99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/974ab021465c877949103ea869a29c68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5b4f101208bd93902bc61403ae3fe55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/136993f458d5785ab7ba5c464ada6a42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06948b3f50f3c4b430f9f070e8856cba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08fae992b73b8cf303e03a5c0d5df59b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36cf9023b5f29d737e8614ccfdc8ad17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77df616c6a83a4f6e985e9bdc2ecda8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2b0ae503a851599e41bd04167e77d24-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "31778644",
+      "id": "31778644",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4fyy0xj81t9ga",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c165e2bb547aeb7d3fc8b4dbde8f8efa-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1-Gayle-Rd-Skaneateles-NY-13152/31778644_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "1 Gayle Rd, Skaneateles, NY 13152",
+      "addressStreet": "1 Gayle Rd",
+      "addressCity": "Skaneateles",
+      "addressState": "NY",
+      "addressZipcode": "13152",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 2226,
+      "latLong": {
+        "latitude": 42.94069,
+        "longitude": -76.413826
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "38 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31778644,
+          "streetAddress": "1 Gayle Rd",
+          "zipcode": "13152",
+          "city": "Skaneateles",
+          "state": "NY",
+          "latitude": 42.94069,
+          "longitude": -76.413826,
+          "price": 3500.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 2226.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 38,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 826500,
+          "rentZestimate": 4006,
+          "listing_sub_type": {},
+          "priceReduction": "$450 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "priceChange": -450,
+          "timeOnZillow": 3306330000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 714286.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 826500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Howard Hanna Real Estate Services",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c165e2bb547aeb7d3fc8b4dbde8f8efa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a1b014bc07d3aeb8bc3ca5a0b985448-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ead7d68db2ffc759e46a83db202a1448-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66ddc2cd435febab4f002720b18519c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5fdd17ea8bf88fd34c49777d90b37d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0fec26fe6bfe1aa7c952777e9c81b5f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c60b705c82a3d2a30fef06b56ea41235-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecd11ec0bb93e83cfee5b8b4d7f66d18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/866ed6d4af67c1da0458cb9b9c8fe772-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68f52ae37b2b1ac8409348c80c4cc559-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f435ee59bcc6c4aec13e4418ecfdeb6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8f2d4e7006a6b25c1f69775103e9dda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aff0684e39b3d54cc9d9eefa1f5788cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddd9fc1ddee1ae70451a9bfcf6792e46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f464b596e2ec589b2e2b5734eb035e5-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "5e9cbaa5"
+}

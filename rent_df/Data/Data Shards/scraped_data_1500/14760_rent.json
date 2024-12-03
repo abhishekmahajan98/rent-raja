@@ -1,0 +1,2437 @@
+{
+  "listResults": [
+    {
+      "zpid": "71191610",
+      "id": "71191610",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "311qkzukc23tu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e6082cee669b4a985c405d2874d2c1cc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3974-Route-417-LOT-43-Allegany-NY-14706/71191610_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,100/mo",
+      "unformattedPrice": 1100,
+      "address": "3974 Route 417 LOT 43, Allegany, NY 14706",
+      "addressStreet": "3974 Route 417 LOT 43",
+      "addressCity": "Allegany",
+      "addressState": "NY",
+      "addressZipcode": "14706",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1056,
+      "latLong": {
+        "latitude": 42.10176,
+        "longitude": -78.51647
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 71191610,
+          "streetAddress": "3974 Route 417 LOT 43",
+          "zipcode": "14706",
+          "city": "Allegany",
+          "state": "NY",
+          "latitude": 42.10176,
+          "longitude": -78.51647,
+          "price": 1100.0,
+          "datePriceChanged": 1731571200000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1056.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 31,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 969,
+          "listing_sub_type": {},
+          "priceReduction": "$218 (Nov 14)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "priceChange": -218,
+          "timeOnZillow": 2690587000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 28000.0,
+          "unit": "Lot 43",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: RHP Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6082cee669b4a985c405d2874d2c1cc-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442689508",
+      "id": "442689508",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1451qj48sfgp1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0d5e57b7538de003b2ec6e3af09f8430-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/302-S-8th-St-1-Olean-NY-14760/442689508_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,075/mo",
+      "unformattedPrice": 1075,
+      "address": "302 S 8th St #1, Olean, NY 14760",
+      "addressStreet": "302 S 8th St #1",
+      "addressCity": "Olean",
+      "addressState": "NY",
+      "addressZipcode": "14760",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 42.0743,
+        "longitude": -78.440155
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442689508,
+          "streetAddress": "302 S 8th St #1",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.0743,
+          "longitude": -78.440155,
+          "price": 1075.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1075.0,
+          "timeOnZillow": 585413000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d5e57b7538de003b2ec6e3af09f8430-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16afcb1aa65df0245371dfd4400d04f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f982d6625e6ed16d077f67fbb3aa8f3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/329b11b9beb2d5df80147ff5c3cd0d64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3758f6ce9313887d802afaf4c6fa9de3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/512799643b86eff285fcd504fcfe8cd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76cb5866ede1c0137763666e088e5f74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7c8fea52c91f33fcc2a9b9913843203-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b08ddcd5b2db8bd0f328b8f45e9b7ee4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2bd3e2af669c9a841093415cb4620805-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bfa5bdbe96513e4e551a99b861f2fae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4eacc7ec25f09737d8ec0ce715524744-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69535b1632570c57efcd9cd7455c6519-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/371788f772563e0bdbd5f75cf663c00e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ba4972b3391adc513083e0e078abb49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc07f1cdc47ba58520dd854a557b6236-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d357af88454d20265694e1ac72b53d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/724ed2e00ea2ec034536170a0354cfbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88a16c5eb9eaa53139cb1d669d4a5a30-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29858290",
+      "id": "29858290",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "512hwk2v4xnkg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8c1f7b03266d1f18f476a9795a2bfb15-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/660-Garden-Ave-Olean-NY-14760/29858290_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850/mo",
+      "unformattedPrice": 850,
+      "address": "660 Garden Ave, Olean, NY 14760",
+      "addressStreet": "660 Garden Ave",
+      "addressCity": "Olean",
+      "addressState": "NY",
+      "addressZipcode": "14760",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 42.078007,
+        "longitude": -78.41778
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29858290,
+          "streetAddress": "660 Garden Ave",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.078007,
+          "longitude": -78.41778,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 64000,
+          "rentZestimate": 1099,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 469966000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 41923.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 64000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-26 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c1f7b03266d1f18f476a9795a2bfb15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e63fdfbaf18842a3c262de1434849c22-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b32d58735dd086a2df2a9d8a72822c7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5b2924d26bf9cdb7bf5b32c927711ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c01b39ff1a0c35b89398821533f9fc5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fc4c7d1a610646db8a5d5163f356393-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442531797",
+      "id": "442531797",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3dbk8bspewb46",
+      "imgSrc": "https://photos.zillowstatic.com/fp/678d2afabadeba419104b9c347e2c8a1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/423-E-State-St-3-Olean-NY-14760/442531797_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$650/mo",
+      "unformattedPrice": 650,
+      "address": "423 E State St #3, Olean, NY 14760",
+      "addressStreet": "423 E State St #3",
+      "addressCity": "Olean",
+      "addressState": "NY",
+      "addressZipcode": "14760",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.078053,
+        "longitude": -78.42436
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442531797,
+          "streetAddress": "423 E State St #3",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.078053,
+          "longitude": -78.42436,
+          "price": 650.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 13,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 650.0,
+          "timeOnZillow": 1146136000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-11 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: 3D Real Estate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/678d2afabadeba419104b9c347e2c8a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ba6e3104496f2c2067f2d324ff84624-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec7b4794f96430b5b16993450280d377-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3dfbadfdb1bb3059f52d8190020d3939-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58059c047df5039d75bd515cf9ab8de9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a52a98c268624ebe7d9dfc62e3612f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa69f72f6bfb63bf6c7c7906b43fc5cd-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2080677526",
+      "id": "2080677526",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "tsutz5q6z8v5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5d747bb9e640302146fbc3c8b789d353-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Olean-NY-14760/2080677526_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$700/mo",
+      "unformattedPrice": 700,
+      "address": "(undisclosed Address), Olean, NY 14760",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Olean",
+      "addressState": "NY",
+      "addressZipcode": "14760",
+      "isUndisclosedAddress": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 200,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "31 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2080677526,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "price": 700.0,
+          "datePriceChanged": 1730358000000,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 31,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 631,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 700.0,
+          "priceChange": 25,
+          "timeOnZillow": 2693622000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-27 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d747bb9e640302146fbc3c8b789d353-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e04c2394d23b15f1f360538c025bcb99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7aea811a3c9f81ea225d90b5324ce3d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a093324064114fe46c73b8ee2bbbfff1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c3d2b28eaf9441c212106a4482e3fe0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf30dbc9dc965e0af9a219e3e3a763c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97da0c8b8df3d9d25dd1c202077619f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80789e5536f64e16c74915d8b668935f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50eaf8e6e66335781a173e22dd20e7e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c69b72289b7562b3b1b7424d002d01c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a71aa6efc0c0e42568e7206eb3775572-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80dc000a76f78193662073a29f5d817f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/deb08d5db7120c61e7793b7f04d7d2a6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440625613",
+      "id": "440625613",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4z3s59expb2w6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d58cd6dcd9b8e2e745c9cd8685542bce-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1324-N-Union-St-3B-Olean-NY-14760/440625613_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$800/mo",
+      "unformattedPrice": 800,
+      "address": "1324 N Union St #3B, Olean, NY 14760",
+      "addressStreet": "1324 N Union St #3B",
+      "addressCity": "Olean",
+      "addressState": "NY",
+      "addressZipcode": "14760",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 450,
+      "latLong": {
+        "latitude": 42.09489,
+        "longitude": -78.4365
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440625613,
+          "streetAddress": "1324 N Union St #3B",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.09489,
+          "longitude": -78.4365,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 450.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 1566680000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d58cd6dcd9b8e2e745c9cd8685542bce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af1ffca1315109a5bca5757e736bcf10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7cbc5e8dda4791ef330e66226c4eed4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2574c0c87d6b8fc3732ccc25be32fd6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/578121ab0b7f4e5aa19abdd06eb8e9d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9158c69cd03ec5b07db1e5fd2e9c5a28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/619437ff85ea7a20f4d78f1603621031-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1055c89b0395be5b7e4a4c5e5ccf4fbd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b44b6babc82e266e713308e82e76cb23-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2057549062",
+      "id": "2057549062",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3ku2bfwfy650s",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5547749c8902023ea6d8bbcee2a635e7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1884-Castle-Dr-Olean-NY-14760/2057549062_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$2,600/mo",
+      "unformattedPrice": 2600,
+      "address": "1884 Castle Dr, Olean, NY 14760",
+      "addressStreet": "1884 Castle Dr",
+      "addressCity": "Olean",
+      "addressState": "NY",
+      "addressZipcode": "14760",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 42.080173,
+        "longitude": -78.47214
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "55 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057549062,
+          "streetAddress": "1884 Castle Dr",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.080173,
+          "longitude": -78.47214,
+          "price": 2600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1500.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 55,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 134700,
+          "rentZestimate": 1774,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 4792226000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 134700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5547749c8902023ea6d8bbcee2a635e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a211d05111c9a40c711a82333bef367-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a79dc1e16544b10006e55785de8fe00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/acd7795578566f3fd2f95300ff0fd35d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d33f4c1a8d5501cb4994816b43d2d131-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/907fee06e36e42b81f6e837364080033-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0132ffc1495ccfe3d3d0869ab1e8e35c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97adbca13c111e5989d9928fef00e090-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26918229de179429d6f8503044f830df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64a1d9376241ee19ba44d562f7b8bcb5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b023cf1f0e5f6458e8026bfeb44dc5a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25c4a8f757a849d4abd57a1612e1da2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b27712843b4c0bbe19df611831352f2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d8a6d47850ba772f44d829e30e9c114-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/671e15a2588ecbc4be4783b1cb6309ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7138ca67e0311a6efaf29e1184442ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3910088d2397e3b1ff0179d6b0c4b5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a526c44b9deddef2c6276ab8553bbbca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e236c2955fb9965e8935866bafbb75e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/667b6e113c4a0037c1a24bd5cc5709cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6e63addf72e09308dfd204c82dcc3e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17a7d34977e33756bdf50643b8bec880-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/132c85d421360521c3f446ab44f4227c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3edd7fab08417cfab0507b6601d60383-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29857830",
+      "id": "29857830",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4e9zhv5nstqt7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/acbde88b6511708b956abc733fb2d190-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/114-S-6th-St-Olean-NY-14760/29857830_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$975/mo",
+      "unformattedPrice": 975,
+      "address": "114 S 6th St, Olean, NY 14760",
+      "addressStreet": "114 S 6th St",
+      "addressCity": "Olean",
+      "addressState": "NY",
+      "addressZipcode": "14760",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.07668,
+        "longitude": -78.437904
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29857830,
+          "streetAddress": "114 S 6th St",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.07668,
+          "longitude": -78.437904,
+          "price": 975.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 126100,
+          "rentZestimate": 975,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 975.0,
+          "timeOnZillow": 929295000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 83333.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 126100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-13 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: On Point Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/acbde88b6511708b956abc733fb2d190-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb2e54dac1f5fb8a3bff7e978a0ad636-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa7f9fe5332f6bd72b01a1769419beda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbfb25d0553ab92f493a52cd5dc7355c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07dfef9e5320c57b719ebac0abf1d1ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/916b189aa0f66cd4919f9fdf84201d08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffe6c84a16ad9a8cf91a460f2e33ce5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66a81c4ea20c9addff6927aee9d92acf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/664b2ab6e98da9eb203744f07dbb6484-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7709e8ee93c220412bda126774906d1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b56389b3e3260cddfbd6e5d0ad41e9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b955d55faa3f0f73b2d07e7f4b0efa53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff4ac7db059a4e93983ab5a804d1af80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffb6ff3086060f3d14fd4d89e2fe8d42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9098ff833c394b9927a477d3e34a9a1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52b0096583e47802ede537639aee4c81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/227e72f742948c9af1dcf52dd4529a2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5de2a0ec01eee0a92fea61ecbf0c953b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4c514ba650902db960927ba104509e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba5f87f5b472eb436111de9329f56adb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc3694946b516f2a7d15af691a259344-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e453be6d256b0cb5904894a1742af20a-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442635595",
+      "id": "442635595",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2dtmfz6pqcwh1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1a6e0e92bc78ca704cd7b84d846a78b3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/213-213-1-2-east-oak-street-olean-ny-14760-olean-ny-BJrZ3s/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$900/mo",
+      "unformattedPrice": 900,
+      "address": "213 - 213 1/2 East Oak Street, Olean NY 14760, 213 1/2 E Oak St #3B-1BA, Olean, NY 14760",
+      "addressStreet": "213 1/2 E Oak St #3B-1BA",
+      "addressCity": "Olean",
+      "addressState": "NY",
+      "addressZipcode": "14760",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.095165,
+        "longitude": -78.43414
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442635595,
+          "streetAddress": "213 1/2 E Oak St #3B-1BA",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.095165,
+          "longitude": -78.43414,
+          "price": 900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 900.0,
+          "timeOnZillow": 843753000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3B-1BA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: On Point Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a6e0e92bc78ca704cd7b84d846a78b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/621cc02af1d3a5c22d6dda03721c1d6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f222559b5b559662ec17f42dffd06a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4ab5f4b7a9f6b0d795be0fa0f3c1d9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ab05f14848625c6b7f3f8af4e968d67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab40054e54d37b494e67e3e2f9c36f11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66966dc6acce37bc1c6240f93e4d8f02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cf5ad3ffea64e83abd4998768e2d834-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6b3223e1bf46bf3a62d220da4dae798-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b3d36a302cee72e89fdfe44f14e6502-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4248851165eda8194ffccaf56eb7efa6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04c4cd0290461441fefda8ff4af23907-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23b08239ddab018344e538be675a357d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/602f8097430721ebfe36accba3960239-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d99e220d0108dbeec5c1508d2c556bd8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cca13e82bb6ea7d03507464b7deb4d6a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29857612",
+      "id": "29857612",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "10xhu6zu5zr0p",
+      "imgSrc": "https://photos.zillowstatic.com/fp/79b4459f18200db6994b797bf8b5e470-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/117-N-5th-St-Olean-NY-14760/29857612_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "117 N 5th St, Olean, NY 14760",
+      "addressStreet": "117 N 5th St",
+      "addressCity": "Olean",
+      "addressState": "NY",
+      "addressZipcode": "14760",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1454,
+      "latLong": {
+        "latitude": 42.078117,
+        "longitude": -78.436806
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29857612,
+          "streetAddress": "117 N 5th St",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.078117,
+          "longitude": -78.436806,
+          "price": 1200.0,
+          "datePriceChanged": 1732348800000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1454.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 26,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 118700,
+          "rentZestimate": 1266,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 23)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "priceChange": -200,
+          "timeOnZillow": 2288526000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 58974.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 118700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-28 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: On Point Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/79b4459f18200db6994b797bf8b5e470-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00491fa8ec74ce64dfef714e565c8ab9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbb2678e37c75367702930d5beb7a000-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76279956959d5e1edf7731f1ab744e29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba3f1189d5b27eb3da098c6e9baa47d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61cb80b6b17cc381b0c6155d06003bcb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/560169d3003922adc3ef03b6d8a7fa34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95313cfb5990579e8452b4d7b3be18b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/812149f8b400dc15a808267d0e460760-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9441473dc5e12967f543390450e907d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38f8eb6fd3e1b084ea5dcbc3a2aa63a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23efe383f25f1bae0ee0e63b8e1e6c55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6f6a1254dfd1087a9fd67f2e07806fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a13ffbd3bdb7188a44c0d42121501f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3de2c199c5f9014165c8c312d1484cb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c491c0e01d02999160bddc3f3da12f2c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcb9cba83fd8c07a0dd7ccafe86581d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b580f728e78b426613cea49170e6b42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc49ed05e70ccca6c39d873dcbd0ac6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/712f67fd0392d0447d3d0b5572b4a275-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f779c6297cd0162b2b539994dcf451c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/537f145ee60ed813dfe8c8e3097dc05b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8015a724fd31bb2ebd241c000acdd417-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81e70f45f4c3d21ff5e88bd5d1945253-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70f0f499f34e00d5561aeda1ffffca65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b91bdefafb551ba1e82af06715746cb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/280f6f5cc78686ac1f18862a155a8902-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d1e1e90b30ed3fbcb9d4fa920f7daf5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da13950745c559a491912a93f845068d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50a263e3fe88d92034e6915d66736a70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2be99ccdaee0330e5ff23e9f92a6a866-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b04be4a5d91b5503718ba4a6b6441aa2-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29862632",
+      "id": "29862632",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "6j6vvsu3t25a",
+      "imgSrc": "https://photos.zillowstatic.com/fp/01f1ffd646248adc2fedb39b15b3104c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2079-Eldorado-Dr-Allegany-NY-14706/29862632_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "2079 Eldorado Dr, Allegany, NY 14706",
+      "addressStreet": "2079 Eldorado Dr",
+      "addressCity": "Allegany",
+      "addressState": "NY",
+      "addressZipcode": "14706",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1444,
+      "latLong": {
+        "latitude": 42.091446,
+        "longitude": -78.519516
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "87 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29862632,
+          "streetAddress": "2079 Eldorado Dr",
+          "zipcode": "14706",
+          "city": "Allegany",
+          "state": "NY",
+          "latitude": 42.091446,
+          "longitude": -78.519516,
+          "price": 2100.0,
+          "datePriceChanged": 1727852400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1444.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 87,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 231900,
+          "rentZestimate": 1963,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Oct 2)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "priceChange": -200,
+          "timeOnZillow": 7583930000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 193662.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 231900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: On Point Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/01f1ffd646248adc2fedb39b15b3104c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3809c6100ad6bc960b4ae12616bcff86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee32267f588b0b5f7f1f237837a98b0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01d7b56734f1ff066265ef88021b3980-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8be4ec327c11419e23323d32cea0c6b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/401060553588e016219edf7d7d76a36a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1b8355354c34199cf1841b68e428b8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/237e8cdc590b92775016dd40e16d69ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d8f5fbb3ca4b8c22d943e3426d159fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f03d113c510408da9b66f553c8b27b11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7d1f3ef3c25517e90e10b4e999541da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/531d473804ac1ba5ac27d887ee09e180-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27ffac941550eec4a8686970ebe1d800-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41dfd68ed5d80bd267f3f11d6ff64b18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60d87c3bcce88ce10bda45cdf1545d5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1122972dccccd62009fb754216b8e99f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7390fc955eaa24a6555980a70c404f75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd6dc06a312409b2cac48456ca49eb2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9454cef134b523ecac8741d5597c07be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b61bb45cf130631abce646ebb30afddb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f14819f45383d06995c20ee9092d673-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd60b63f5fb16e7f67d03fa3d1b90d35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f4a3668846f524a5491252bed6495cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b393f9161a4b792ef5c2a56fc181f50-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b5509e34967ee9f60390ac1e0d55c3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0da93613690cfad6f47daa3c042a84c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/209020efbce31bca2f387d8a5beaf5b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a43aa2ab193d6e003784b7dc7e19ab6-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "71191610",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e6082cee669b4a985c405d2874d2c1cc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3974-Route-417-LOT-43-Allegany-NY-14706/71191610_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,100/mo",
+      "priceLabel": "$1.1K",
+      "address": "3974 Route 417 LOT 43, Allegany, NY 14706",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1056,
+      "latLong": {
+        "latitude": 42.10176,
+        "longitude": -78.51647
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 71191610,
+          "streetAddress": "3974 Route 417 LOT 43",
+          "zipcode": "14706",
+          "city": "Allegany",
+          "state": "NY",
+          "latitude": 42.10176,
+          "longitude": -78.51647,
+          "price": 1100.0,
+          "datePriceChanged": 1731571200000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1056.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 969,
+          "listing_sub_type": {},
+          "priceReduction": "$218 (Nov 14)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "priceChange": -218,
+          "timeOnZillow": 2690587000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 28000.0,
+          "unit": "Lot 43",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: RHP Properties",
+      "timeOnZillow": 2690587000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamily"
+      ]
+    },
+    {
+      "zpid": "442689508",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0d5e57b7538de003b2ec6e3af09f8430-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/302-S-8th-St-1-Olean-NY-14760/442689508_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,075/mo",
+      "priceLabel": "$1.1K",
+      "address": "302 S 8th St #1, Olean, NY 14760",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 42.0743,
+        "longitude": -78.440155
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442689508,
+          "streetAddress": "302 S 8th St #1",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.0743,
+          "longitude": -78.440155,
+          "price": 1075.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1075.0,
+          "timeOnZillow": 585413000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "visited": false,
+      "timeOnZillow": 585413000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "29858290",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8c1f7b03266d1f18f476a9795a2bfb15-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/660-Garden-Ave-Olean-NY-14760/29858290_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$850/mo",
+      "priceLabel": "$850",
+      "address": "660 Garden Ave, Olean, NY 14760",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 42.078007,
+        "longitude": -78.41778
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29858290,
+          "streetAddress": "660 Garden Ave",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.078007,
+          "longitude": -78.41778,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 64000,
+          "rentZestimate": 1099,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 469966000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 41923.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-26 00:00:00",
+      "visited": false,
+      "timeOnZillow": 469966000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442531797",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/678d2afabadeba419104b9c347e2c8a1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/423-E-State-St-3-Olean-NY-14760/442531797_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$650/mo",
+      "priceLabel": "$650",
+      "address": "423 E State St #3, Olean, NY 14760",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.078053,
+        "longitude": -78.42436
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442531797,
+          "streetAddress": "423 E State St #3",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.078053,
+          "longitude": -78.42436,
+          "price": 650.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 650.0,
+          "timeOnZillow": 1146136000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-11 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: 3D Real Estate",
+      "timeOnZillow": 1146136000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "440625613",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d58cd6dcd9b8e2e745c9cd8685542bce-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1324-N-Union-St-3B-Olean-NY-14760/440625613_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$800/mo",
+      "priceLabel": "$800",
+      "address": "1324 N Union St #3B, Olean, NY 14760",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 450,
+      "latLong": {
+        "latitude": 42.09489,
+        "longitude": -78.4365
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440625613,
+          "streetAddress": "1324 N Union St #3B",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.09489,
+          "longitude": -78.4365,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 450.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 1566680000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1566680000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2057549062",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5547749c8902023ea6d8bbcee2a635e7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1884-Castle-Dr-Olean-NY-14760/2057549062_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$2,600/mo",
+      "priceLabel": "$2.6K",
+      "address": "1884 Castle Dr, Olean, NY 14760",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 42.080173,
+        "longitude": -78.47214
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "55 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057549062,
+          "streetAddress": "1884 Castle Dr",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.080173,
+          "longitude": -78.47214,
+          "price": 2600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1500.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 134700,
+          "rentZestimate": 1774,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 4792226000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 4792226000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "29857830",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/acbde88b6511708b956abc733fb2d190-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/114-S-6th-St-Olean-NY-14760/29857830_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$975/mo",
+      "priceLabel": "$975",
+      "address": "114 S 6th St, Olean, NY 14760",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.07668,
+        "longitude": -78.437904
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29857830,
+          "streetAddress": "114 S 6th St",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.07668,
+          "longitude": -78.437904,
+          "price": 975.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 126100,
+          "rentZestimate": 975,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 975.0,
+          "timeOnZillow": 929295000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 83333.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-13 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: On Point Property Management",
+      "timeOnZillow": 929295000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "442635595",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1a6e0e92bc78ca704cd7b84d846a78b3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/213-213-1-2-east-oak-street-olean-ny-14760-olean-ny-BJrZ3s/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$900/mo",
+      "priceLabel": "$900",
+      "address": "213 1/2 E Oak St #3B-1BA, Olean, NY 14760",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.095165,
+        "longitude": -78.43414
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442635595,
+          "streetAddress": "213 1/2 E Oak St #3B-1BA",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.095165,
+          "longitude": -78.43414,
+          "price": 900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 900.0,
+          "timeOnZillow": 843753000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3B-1BA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: On Point Property Management",
+      "timeOnZillow": 843753000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    },
+    {
+      "zpid": "29857612",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/79b4459f18200db6994b797bf8b5e470-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/117-N-5th-St-Olean-NY-14760/29857612_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "117 N 5th St, Olean, NY 14760",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1454,
+      "latLong": {
+        "latitude": 42.078117,
+        "longitude": -78.436806
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29857612,
+          "streetAddress": "117 N 5th St",
+          "zipcode": "14760",
+          "city": "Olean",
+          "state": "NY",
+          "latitude": 42.078117,
+          "longitude": -78.436806,
+          "price": 1200.0,
+          "datePriceChanged": 1732348800000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1454.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 118700,
+          "rentZestimate": 1266,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 23)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "priceChange": -200,
+          "timeOnZillow": 2288526000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 58974.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-28 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: On Point Property Management",
+      "timeOnZillow": 2288526000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "29862632",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/01f1ffd646248adc2fedb39b15b3104c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2079-Eldorado-Dr-Allegany-NY-14706/29862632_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,100/mo",
+      "priceLabel": "$2.1K",
+      "address": "2079 Eldorado Dr, Allegany, NY 14706",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1444,
+      "latLong": {
+        "latitude": 42.091446,
+        "longitude": -78.519516
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "87 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29862632,
+          "streetAddress": "2079 Eldorado Dr",
+          "zipcode": "14706",
+          "city": "Allegany",
+          "state": "NY",
+          "latitude": 42.091446,
+          "longitude": -78.519516,
+          "price": 2100.0,
+          "datePriceChanged": 1727852400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1444.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 231900,
+          "rentZestimate": 1963,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Oct 2)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "priceChange": -200,
+          "timeOnZillow": 7583930000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 193662.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: On Point Property Management",
+      "timeOnZillow": 7583930000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "22dad849",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

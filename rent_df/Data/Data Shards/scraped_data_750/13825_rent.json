@@ -1,0 +1,180 @@
+{
+  "listResults": [
+    {
+      "zpid": "216213406",
+      "id": "216213406",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2kp5tsa48f1mg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/139f78351817cb0384bad48ca2fb807f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/917-Flax-Island-Rd-Otego-NY-13825/216213406_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "917 Flax Island Rd, Otego, NY 13825",
+      "addressStreet": "917 Flax Island Rd",
+      "addressCity": "Otego",
+      "addressState": "NY",
+      "addressZipcode": "13825",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 0.0,
+      "latLong": {
+        "latitude": 42.432903,
+        "longitude": -75.21888
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 216213406,
+          "streetAddress": "917 Flax Island Rd",
+          "zipcode": "13825",
+          "city": "Otego",
+          "state": "NY",
+          "latitude": 42.432903,
+          "longitude": -75.21888,
+          "price": 2500.0,
+          "bathrooms": 0.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2638,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 436183000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 363441.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Benson Agency Real Estate, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/139f78351817cb0384bad48ca2fb807f-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "216213406",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/139f78351817cb0384bad48ca2fb807f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/917-Flax-Island-Rd-Otego-NY-13825/216213406_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "917 Flax Island Rd, Otego, NY 13825",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 0.0,
+      "latLong": {
+        "latitude": 42.432903,
+        "longitude": -75.21888
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 216213406,
+          "streetAddress": "917 Flax Island Rd",
+          "zipcode": "13825",
+          "city": "Otego",
+          "state": "NY",
+          "latitude": 42.432903,
+          "longitude": -75.21888,
+          "price": 2500.0,
+          "bathrooms": 0.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2638,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 436183000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 363441.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Benson Agency Real Estate, LLC",
+      "timeOnZillow": 436183000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "58248b9c",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

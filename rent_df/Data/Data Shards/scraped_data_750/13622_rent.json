@@ -1,0 +1,858 @@
+{
+  "listResults": [
+    {
+      "zpid": "442016933",
+      "id": "442016933",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "36kqu64qbjf4g",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c54812efd3a284331c67c4067b777612-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/11853-New-Frk-12E-Chaumont-NY-13622/442016933_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,250/mo",
+      "unformattedPrice": 2250,
+      "address": "11853 New Frk #12E, Chaumont, NY 13622",
+      "addressStreet": "11853 New Frk #12E",
+      "addressCity": "Chaumont",
+      "addressState": "NY",
+      "addressZipcode": "13622",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2660,
+      "latLong": {
+        "latitude": 44.09529,
+        "longitude": -76.11399
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "31 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442016933,
+          "streetAddress": "11853 New Frk #12E",
+          "zipcode": "13622",
+          "city": "Chaumont",
+          "state": "NY",
+          "latitude": 44.09529,
+          "longitude": -76.11399,
+          "price": 2250.0,
+          "datePriceChanged": 1730098800000,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2660.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 31,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 217200,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Oct 28)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2250.0,
+          "priceChange": -200,
+          "timeOnZillow": 2690973000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 12E",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 217200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Diamond Door Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c54812efd3a284331c67c4067b777612-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95ec89c4b5f4b28a905380449c3b2f38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ccaea3d2abec4317bf206ae2fc756f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfebcd57c9c66d0cb16f39c359951b46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a04a0566edb2812c07d6d9d60fe8bf38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a249d0c9eb77e7f33aa17a9acdfda58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/968a7cc640326385d8686bf96ac60aff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc0789e90f4904429b83382ec5f23289-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/705909c24841ccfb40e63fbfce456062-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02319f3cc22c6687df403dcff77007e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a604e1eed9c01362fbae19d7865a1b6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2e264e2dce804111c7aad996a62f874-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bafe1525f42c9faf5b8f5bd90978992b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5305e2d8f30c469430aad6eba22d146-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fed6977f7cf3ddbd503ffc52b15b5b86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76b46e9546e14adad5ea3548d3c78edb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c006c1f27643c590a7c33e76d872b0d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09202f6262a34d071e64185c77ca670b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c29f11219adaa004211ff04bb1cc3110-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ad1c41df4de678c118ecc3745056e95-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd1d627a3800d1f265f6cd12a5c18f21-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a807d8cb8e615e9d0c93a3bbdce242a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e535e99ccedc94f1245c1800a9c237b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36bd12d369068ffa2eb9ef999bd3ff98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfbcf102f3ba4856dd441db5e0b7fd88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a63d00e77d530da9c45a7c1b5ed9b0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/912f54af33a4640e244eec11f94e0558-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd7524fcafa55aab255db44e4cdf7a86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e000cfc8992ccfb0d8e963efb10d2705-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef06958ffffb9782e3dc3e4ce8bdb023-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e196d86bff64237bd2f956f30bf02550-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/238c85de3d940f3a30c0a4373044cab8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a8cb3a3d7c3cba43577b15f8e637942-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fa9d69b4348389c25a4c4ab9de22bc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cdd8b3cf62fcab9e123a4cf9292fcf57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1765bc52ad70973c45e59ca75ff1741-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6884abb66c794854206d244b882c8bf9-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442016933",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c54812efd3a284331c67c4067b777612-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/11853-New-Frk-12E-Chaumont-NY-13622/442016933_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,250/mo",
+      "priceLabel": "$2.3K",
+      "address": "11853 New Frk #12E, Chaumont, NY 13622",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2660,
+      "latLong": {
+        "latitude": 44.09529,
+        "longitude": -76.11399
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "31 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442016933,
+          "streetAddress": "11853 New Frk #12E",
+          "zipcode": "13622",
+          "city": "Chaumont",
+          "state": "NY",
+          "latitude": 44.09529,
+          "longitude": -76.11399,
+          "price": 2250.0,
+          "datePriceChanged": 1730098800000,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2660.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 217200,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Oct 28)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2250.0,
+          "priceChange": -200,
+          "timeOnZillow": 2690973000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 12E",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Diamond Door Realty",
+      "timeOnZillow": 2690973000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "44.00766--76.05528",
+      "id": "44.00766--76.05528",
+      "providerListingId": "qt38kvqnhpxh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/733449e999904df645ddf4e2b93d1a53-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/dexter-ny/hunters-run/5YyCcy/",
+      "statusType": "FOR_RENT",
+      "statusText": "Hunters Run",
+      "address": "1000 Hunters Run, Dexter, NY",
+      "addressStreet": "1000 Hunters Run # 884",
+      "addressCity": "Dexter",
+      "addressState": "NY",
+      "addressZipcode": "13634",
+      "units": [
+        {
+          "price": "$516+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$579+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1008628003,
+      "latLong": {
+        "latitude": 44.00766,
+        "longitude": -76.05528
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Hunters Run",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/733449e999904df645ddf4e2b93d1a53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95eeb46590b8a9d047271e48f6012314-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "442318103",
+      "id": "442318103",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3330ffmm40rjx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6c208881a6e2f6b9a5087c6e5e0318d6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/230-Lakeview-Dr-2-Dexter-NY-13634/442318103_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850/mo",
+      "unformattedPrice": 850,
+      "address": "230 Lakeview Dr #2, Dexter, NY 13634",
+      "addressStreet": "230 Lakeview Dr #2",
+      "addressCity": "Dexter",
+      "addressState": "NY",
+      "addressZipcode": "13634",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 44.007214,
+        "longitude": -76.04761
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442318103,
+          "streetAddress": "230 Lakeview Dr #2",
+          "zipcode": "13634",
+          "city": "Dexter",
+          "state": "NY",
+          "latitude": 44.007214,
+          "longitude": -76.04761,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 21,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 1862878000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-02 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Pier Property Holdings LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c208881a6e2f6b9a5087c6e5e0318d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92895eec77949dbe6c4a91bb9278fe8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0de3b21d3a58ef201c4a55a2719b0355-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67f00f6d15dbbd7ede47c68b1c8cd6d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b881d683bd09f5abb4e8e6b01895b520-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/993062a46e9d7b6aec262aa4650486ce-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2060881797",
+      "id": "2060881797",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "20kwje8ehznpy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/267ea70004e47f98186e822e0ccd9e0f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/107-Water-St-1-Dexter-NY-13634/2060881797_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "107 Water St #1, Dexter, NY 13634",
+      "addressStreet": "107 Water St #1",
+      "addressCity": "Dexter",
+      "addressState": "NY",
+      "addressZipcode": "13634",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 44.006027,
+        "longitude": -76.04421
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060881797,
+          "streetAddress": "107 Water St #1",
+          "zipcode": "13634",
+          "city": "Dexter",
+          "state": "NY",
+          "latitude": 44.006027,
+          "longitude": -76.04421,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 963,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 3405241000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Pier Property Holdings LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/267ea70004e47f98186e822e0ccd9e0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9355345a88706ad0b8b257cf3767896-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12d6aebae5ad05974355a3871f5df53a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ae2eb765824913e350f8a6736dec596-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bad4d733abd5cccd50255f6be1087e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/224158e0b4566a1ee1ee3ef021eb910c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f98f09ea7fc1ea2b0b129b3763889b45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c7365cf6601ca017a2349d35a21145a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5ab0c85555e1eb9d89584f5e53b55d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14cad29d5116958c7461a3963344787b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2053038686",
+      "id": "2053038686",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "rngqupe500qs",
+      "imgSrc": "https://photos.zillowstatic.com/fp/524f50eb7471e34a953cb1f6428f8ffe-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/201-west-main-street-2-brownville-ny-9PQ5Pk/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850+/mo",
+      "unformattedPrice": 850,
+      "address": "201 West Main Street - 2, 201 W Main St, Brownville, NY 13615",
+      "addressStreet": "201 W Main St #2",
+      "addressCity": "Brownville",
+      "addressState": "NY",
+      "addressZipcode": "13615",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 44.001785,
+        "longitude": -75.98587
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053038686,
+          "streetAddress": "201 W Main St #2",
+          "zipcode": "13615",
+          "city": "Brownville",
+          "state": "NY",
+          "latitude": 44.001785,
+          "longitude": -75.98587,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 892,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 913146000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Monument Property Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/524f50eb7471e34a953cb1f6428f8ffe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd2cdf59517a8280d58a7684573d0909-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0edd05d3a97c87d78f12e4ea67bad227-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4dff34e044a2b597c37b7475bf01da6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33de00eea4f95f6c9ab78691d962661b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c689f59196659b6ae736d900b5fb976f-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "209000285",
+      "id": "209000285",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "wz5t162kyz19",
+      "imgSrc": "https://photos.zillowstatic.com/fp/97a62db6af6e1f73e5c9d0469b3b682f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/109-Maynard-Ave-Dexter-NY-13634/209000285_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "109 Maynard Ave, Dexter, NY 13634",
+      "addressStreet": "109 Maynard Ave",
+      "addressCity": "Dexter",
+      "addressState": "NY",
+      "addressZipcode": "13634",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1360,
+      "latLong": {
+        "latitude": 44.00334,
+        "longitude": -76.05465
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "36 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 209000285,
+          "streetAddress": "109 Maynard Ave",
+          "zipcode": "13634",
+          "city": "Dexter",
+          "state": "NY",
+          "latitude": 44.00334,
+          "longitude": -76.05465,
+          "price": 2400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1360.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 36,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1500,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 3192420000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 131000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Genuine Homes Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/97a62db6af6e1f73e5c9d0469b3b682f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f9eb3a1013889438ff2bc4f743cf906-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e553750422452d5352cf65b3bef2957c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c307ad6eb9fbdca3e540d42ae78ab280-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b69ec4d2e27f863b23a98d31640e3a99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7bf30d287d5fd982dd24faa8db85431b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ebbb85017a20c16be28f7ad7032b565-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f41b44fefddd2c2a0ed25c7c596847f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b9a6f50c207067423f818aed2a4e395-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd5abe7ffd38c220d4c54b7d6d2f086a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f25017e494d0dc142d0ae377b560769b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30ec1b26092fc0f5037c844c179e984a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c82f85ca7689b3e693add5362df43aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fc9ec61b9fcddfd6a11669b62848a32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75bd24fbbe676c676687b20ec88726cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7adecf8f90973ae42b647db5f4b23a5d-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1eb03dcb",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "4eeeaffe"
+}

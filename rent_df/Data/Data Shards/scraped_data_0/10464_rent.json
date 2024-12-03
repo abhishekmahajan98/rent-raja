@@ -1,0 +1,3930 @@
+{
+  "listResults": [
+    {
+      "zpid": "215953665",
+      "id": "215953665",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3ct07d7m3gj4y",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f5fb9ca1b4e7ef095133b3961d2ea7b4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1130-Stadium-Ave-Bronx-NY-10465/215953665_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "1130 Stadium Ave, Bronx, NY 10465",
+      "addressStreet": "1130 Stadium Ave",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.83621,
+        "longitude": -73.817184
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215953665,
+          "streetAddress": "1130 Stadium Ave",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.83621,
+          "longitude": -73.817184,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 318200,
+          "rentZestimate": 2142,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 319759000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 318200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Oxford Property Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5fb9ca1b4e7ef095133b3961d2ea7b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/422f21e952735b033636f4fe87419ed4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d94d32f60298f9145d00501f59642a07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f4683fbeadf10bd91368aba56fb2427-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0d45e53c22ba1f21f0fb29ff9dc32e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a665c1662447880837520f9b0ee1072f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb39b4e2fe98533cfd541d75c4bcefa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c72f196742984fba7755bbfc70b9af7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14663d8c9aa46839a4f58b5dfc5ba110-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441780559",
+      "id": "441780559",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "241qeyf1133hf",
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/441780559_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "40 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441780559,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 40,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 3499155000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442080198",
+      "id": "442080198",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1xds47b7thzbp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e34846b8fc66f33e1cc615abc42b604b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/442080198_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442080198,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 2501052000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Remax",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e34846b8fc66f33e1cc615abc42b604b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eda2f7ea84239d5ff2fe1abe472533d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d00334e23ff9b1f63a66f4bcde81215a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/daa55cbea8e5972c3f1659d04a055a40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/819164c0a79f346040fa2a287b03bc94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72ae68870f07288d83d8a2f69d0a719b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29843212",
+      "id": "29843212",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "6cpp4h2647q5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6025689adac4436140f2c26131b27120-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/29843212_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1300,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29843212,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 3500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1300.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 624200,
+          "rentZestimate": 2507,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 814298000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 624200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Bestmatch Real Estate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6025689adac4436140f2c26131b27120-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ffd5597d4336cdf529abefd90b3caab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1a2adacc3efa91ed9f37d4407f48ac5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b5614692bcafe0da1cda669146541bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b854241e46fd888bb431de4fc985048-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/620f682d8558683fdb4a6ce788ae6713-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e53a796082a1ca6c012184cdebc3d6d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a1d36f535ce0f2f71ecc233411fc70e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd771a44209d2910275ed17b5f8a190d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bae8f1b1e9bc90e3b19d655161ec70f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5cdd5f86eac5c5a1094590c0a320d9e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52489360def18e18f4ff97532cbb588c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c7e7d1ad7c5f6b1054fcbc4e6a0f7ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ea71c00c958f1e469f7bbe395d9794a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13e3240f3a25f19aa7ed97566e94568f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2082037723",
+      "id": "2082037723",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "j55gvctmujtn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d60cad06f32547472dadb8bb62f42b90-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/2082037723_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 765,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082037723,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 765.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 13,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2079,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 1140415000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: eXp Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d60cad06f32547472dadb8bb62f42b90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c144afe87514d3b0eba167750bcb9324-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eba75d2f16f255e20b4e45951751603e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ca2b1b63b3a8bdfd6eb7131456a84f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38b94766e40cb42ccd2aeaace6187444-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e85d425cec2135cbd090d7f2c4e2d4ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d3b02b41702211e3a73d4a4e312f2c7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2095727576",
+      "id": "2095727576",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3f5pyak7dqsu0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/36d7ec0b9069c34520de581a59ec75b7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/2095727576_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,200/mo",
+      "unformattedPrice": 3200,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2095727576,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 3200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3196,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 1280762000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-08 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/36d7ec0b9069c34520de581a59ec75b7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440531635",
+      "id": "440531635",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5g1n79w1nb0v8",
+      "imgSrc": "https://photos.zillowstatic.com/fp/03f6a5eb1aa3b7072ddb8b753c6b6252-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/440531635_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440531635,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 2500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 1926772000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: eXp Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/03f6a5eb1aa3b7072ddb8b753c6b6252-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a54bcf182c0bdcb5efe6cdd551fbaba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c151f079173437c0559aa7537abda9e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/810cb3335ea20137a737c1b71d3a769f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/246d2f101093d7cdd60ae76629162d2c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68459f4fc3912e48d8034245c4072a59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7354861fd22d452ff894ae34ed72b560-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2069189831",
+      "id": "2069189831",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1htdgck2n8tt0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f210b49097c97fbbaee90b55ac66353a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1130-Stadium-Ave-APT-2K-Bronx-NY-10465/2069189831_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,195/mo",
+      "unformattedPrice": 2195,
+      "address": "1130 Stadium Ave APT 2K, Bronx, NY 10465",
+      "addressStreet": "1130 Stadium Ave APT 2K",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 40.836357,
+        "longitude": -73.81691
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2069189831,
+          "streetAddress": "1130 Stadium Ave APT 2K",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.836357,
+          "longitude": -73.81691,
+          "price": 2195.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2163,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2195.0,
+          "timeOnZillow": 2244803000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2K",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-28 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: NYC Empire Realty, Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f210b49097c97fbbaee90b55ac66353a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7887e6c8bfaeb4f0a6082afa7f0d097-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2856fd1fc6ce1f38343596651c9cacc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/551693caec1fc48bbc05c7f735d9786b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8c91119c033519bebaacbaaba7b2ddd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05e9fcd2b4779fcea316e64297b618ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef517f0c57602994c1a47bf44106ef45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/579c243c63b73f2e321476a9dc12f469-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c354457de0f51cf61b5ca925d290e1df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c138773b176635e700b7715a542431b3-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2101765595",
+      "id": "2101765595",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4m9h70yzkxbkt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0afc4663b7ba65302b5a339b46ad830d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3529-Mc-Owen-Ave-APT-1-Bronx-NY-10475/2101765595_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "3529 Mc Owen Ave APT 1, Bronx, NY 10475",
+      "addressStreet": "3529 Mc Owen Ave APT 1",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10475",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 40.888298,
+        "longitude": -73.81957
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "36 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2101765595,
+          "streetAddress": "3529 Mc Owen Ave APT 1",
+          "zipcode": "10475",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.888298,
+          "longitude": -73.81957,
+          "price": 2500.0,
+          "datePriceChanged": 1729321200000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 36,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2635,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Oct 19)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "priceChange": -200,
+          "timeOnZillow": 3190804000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Realty Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0afc4663b7ba65302b5a339b46ad830d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/967d6fb98271c157e74b4d1354c6bb0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d10bc290cbf9819542742f718700ce69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed5ea2a23867600f610cb6d2c340ffcc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a11d8163ef05c99f79911dc41ff76190-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9772219a1aaf18239b11f49d7612faa8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9566804543f20c131a7d8e2bf37e407f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442658948",
+      "id": "442658948",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "qdjnzwksjpyh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/519bc5fbd1cdaafa44051715b9b7230b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/528-Minnieford-Ave-UNIT-D-Bronx-NY-10464/442658948_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "528 Minnieford Ave UNIT D, Bronx, NY 10464",
+      "addressStreet": "528 Minnieford Ave UNIT D",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10464",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1600,
+      "latLong": {
+        "latitude": 40.85308,
+        "longitude": -73.78813
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442658948,
+          "streetAddress": "528 Minnieford Ave UNIT D",
+          "zipcode": "10464",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.85308,
+          "longitude": -73.78813,
+          "price": 4500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 687479000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit D",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: R NEW YORK",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/519bc5fbd1cdaafa44051715b9b7230b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/238afbcc4698dbe1cf3a068cd9e4fc5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e53b05defc6dfa78ca779b754061a6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c12293b6598a8c85cbf4ba472ee67731-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9875c620802d8b0d7ee5bf88068c6a0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/973bbdd59357f7de5920f72b563e19c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6cca7dff7ee2acbcdd9c01a2c590b3fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af21fe5483223245d034489fb736b27a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/033c0373b116aa8d17f04011ac0623c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dce186e4754950e186db71f0587c7169-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b21d66009e843edf0b4527f86ff6d0f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad3587f480df23dc4dda61ee23cd6859-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81f78afd72a0a97ffcafc4a526d1440a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98c4bb6356636e3c4911b28f391ac1a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46479b205b56ad1b15293347a41849ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ac6c1529ba391ce22ab24cee69caf3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a92f340760ed2ef13421032696ddc89e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89b866bd86cac9790838db8e510a4fa5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/177e7e9247fd827e1bedb7631a9c6067-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9258606ef16f0361131831c468c23c16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce223c27724780866cf8951975ae9ff4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d972773a0e854939f02136adb619bd5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7251e1822df4c0f0c19449211c53dc40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad0483a029eec3d10a4858b21e43936e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41a16412960e1deaebbe182c8033d0c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc2b6cfe1c2721126d02aea336ddb87c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b36f8131635e8e15f3c7f39e5e8a30e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2e17e0001b622433ce1a3c9f991ac8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/196ddf56541373579690e88d22f1b09c-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442690762",
+      "id": "442690762",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3t4w2xq7e1c5y",
+      "imgSrc": "https://photos.zillowstatic.com/fp/650adea8c5a017a5a563b2e1aea5ece5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/442690762_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,200/mo",
+      "unformattedPrice": 3200,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442690762,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 3200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 456318000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/650adea8c5a017a5a563b2e1aea5ece5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/192df7949d8c7041d47b4d49af6805a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d4e9e5f6ab517c6ebf04945cb80741b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3ea9b9144c70bb1f7ee940aa25408d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44f30ee014ef09341094d414507e1b52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d10a78c9660066d397513ddd6566e13-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29843210",
+      "id": "29843210",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3dusmhjt5u2te",
+      "imgSrc": "https://photos.zillowstatic.com/fp/75cfcecb6bf2706bfdfe84c02057494d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/29843210_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29843210,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 761100,
+          "rentZestimate": 2452,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 813650000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 761100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Bestmatch Real Estate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/75cfcecb6bf2706bfdfe84c02057494d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0eae0ee13007f2b08286aba7eed3502f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0cbef2df938b2eb803044b09ce97312-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1bb5db3c91cd4acd8748ce75a01676a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3acf28f5911a7a651de39f94af0590ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/925bee3ec8851430bd28bc2546a67d54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6651d791821e83aa1d0832848cbe6696-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29844476",
+      "id": "29844476",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "19t2dmm4h6k8u",
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/29844476_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,550/mo",
+      "unformattedPrice": 2550,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29844476,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 2550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2434,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2550.0,
+          "timeOnZillow": 623651000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: JOSEPH M D'ADAMO  R/E BROKER",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29844012",
+      "id": "29844012",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "19ekrb98de67d",
+      "imgSrc": "https://photos.zillowstatic.com/fp/30908977419c0b06e688d7153f9e9fe6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1628-Kennellworth-Pl-Bronx-NY-10465/29844012_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "1628 Kennellworth Pl, Bronx, NY 10465",
+      "addressStreet": "1628 Kennellworth Pl",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.847115,
+        "longitude": -73.821785
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29844012,
+          "streetAddress": "1628 Kennellworth Pl",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.847115,
+          "longitude": -73.821785,
+          "price": 2200.0,
+          "datePriceChanged": 1730271600000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2397,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Oct 30)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "priceChange": -200,
+          "timeOnZillow": 185251000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1047000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-30 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: In Motion Realty Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/30908977419c0b06e688d7153f9e9fe6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3eda7474923c3536ea13f3442293634-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cddf326f39b26bf6fe355151cc5fe44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6993c728923da703ce71cef6117455f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9adf68ee9da176fbfeddfd2215598008-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5f3555ede283f3000eb827a0ade997b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442151080",
+      "id": "442151080",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1hwytwm8zgc7s",
+      "imgSrc": "https://photos.zillowstatic.com/fp/86af94de8ab10b403d4f060c0fd26c65-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/151-Carroll-St-2-Bronx-NY-10464/442151080_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,777/mo",
+      "unformattedPrice": 3777,
+      "address": "151 Carroll St #2, Bronx, NY 10464",
+      "addressStreet": "151 Carroll St #2",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10464",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 40.8461,
+        "longitude": -73.785545
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442151080,
+          "streetAddress": "151 Carroll St #2",
+          "zipcode": "10464",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.8461,
+          "longitude": -73.785545,
+          "price": 3777.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 24,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3777.0,
+          "timeOnZillow": 2157188000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-29 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Global Realty Development",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/86af94de8ab10b403d4f060c0fd26c65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e03954e07bcdbbb138ddbce1b80d3d09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2491adb61bd35eaeac8c36b04eadf318-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d285372abd140bc0c7267570c422e7df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c730cc35e89bd79058ef0178f5f0dbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d361f88d396dac8e56249c0b0723000-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f56bc87d896c7b8e198e90252df7c954-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38646ad7dfc344dd192c47949ae30d89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76b2a1cd88edc3e7e763170c6df14e0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dd177fac5284599dd3fc1942c8fcc07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82f72673922e7b131429b4db710b4b8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c00a542a87ec7eb5991a0356393e8228-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a909b580f3dc82675e52657eab1719a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c5ba500ccb1001ae5c1b7c6a8e72820-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1b5d09412066e1235af5a1a277f3610-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a654770578537047fbcf428b2954c1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6dc4f8213feb7390117d6fd8a3708039-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ff35ac1a0f1c59602f4db9794ff74b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f4ed9cd377d7a4f16279d6bf34297f8-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2060652484",
+      "id": "2060652484",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "35yyeb98dmxx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/128286c9a2d985aaa3b45196bd1d31e8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/2060652484_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,550/mo",
+      "unformattedPrice": 2550,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060652484,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 2550.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2571,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2550.0,
+          "timeOnZillow": 876558000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: D'Adamo Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/128286c9a2d985aaa3b45196bd1d31e8-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "40.836285--73.816956",
+      "id": "40.836285--73.816956",
+      "providerListingId": "2wkembbngedx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/06d6dfe6aa820c9a66a6d64356c6bb74-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/1110-stadium-ave-bronx-ny-33fG/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "1110 Stadium Ave, Bronx, NY",
+      "addressStreet": "1110 Stadium Ave Apt 2D",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "units": [
+        {
+          "price": "$2,195+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,695+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 121630,
+      "latLong": {
+        "latitude": 40.836285,
+        "longitude": -73.816956
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/06d6dfe6aa820c9a66a6d64356c6bb74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e1cf702e1f533cd627e19d8cad90e5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1de47d11e7977caf54d707c653bc279-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ccdd9e6108b6524545a2beeccc2228e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/346f77c13915a8bfafb2ba4aa0044753-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfe34a1bd2b585d8fb9074c378c19a0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84d5180d964d12f4d96cb5178a6ae2b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91f473da3b1302ac81e9dea01518e764-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dc4a35efd3b2662c79cdc0a2a1c1c0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4cfe41b680bd5a019eb36eb910f6547-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/427ddf662eeaee6e5c44e902ef9de4d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d44d57d4b524b3508ce15606c1819f3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/441369a35c23cdea8782b799dd4db425-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "2062953080",
+      "id": "2062953080",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "kua33sj5w6cz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b173e8bcf273d72f97f39c495d5ba8fb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/2062953080_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "52 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062953080,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 2800.0,
+          "datePriceChanged": 1729234800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 52,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2638,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": 50,
+          "timeOnZillow": 4512316000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: RSB Realty Group.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b173e8bcf273d72f97f39c495d5ba8fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d5c3493c6214cc823f3715a1dd22c7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a50cf9c2fa82e3ab7435131b1a26122b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c74710f0456ffc459cf6f1e8f095efe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7486012e3cf44d64f7f298d94055aefb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52ecf1ae54fcb00b6d4316bdcb7ed245-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fd231b4b7bfd9074b79757f1aefa65b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef5171f0e4c3d51534a87cbc1bdd51d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5317132c328f78488fa9a3b67d81f04a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/675ffae120e68bbd05265a195fc5dfb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ace2a2c000095ce20ec0b1b0a38a0066-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e7b5014a13f369e8dd3a06520ad63d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f0b698eee322b8f4a8729175618f5fd-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2086424846",
+      "id": "2086424846",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "qdyt1xrksd3e",
+      "imgSrc": "https://photos.zillowstatic.com/fp/52ecf1ae54fcb00b6d4316bdcb7ed245-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/2086424846_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,750/mo",
+      "unformattedPrice": 2750,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1083,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2086424846,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 2750.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1083.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 29,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2695,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2750.0,
+          "timeOnZillow": 2516487000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: RSB Realty Group.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/52ecf1ae54fcb00b6d4316bdcb7ed245-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fd231b4b7bfd9074b79757f1aefa65b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef5171f0e4c3d51534a87cbc1bdd51d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07389ac3f2ec4f40747363ecf4e2cc30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5317132c328f78488fa9a3b67d81f04a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f348397a94fd0e8b2e1c43d0089f8520-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/675ffae120e68bbd05265a195fc5dfb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ace2a2c000095ce20ec0b1b0a38a0066-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e7b5014a13f369e8dd3a06520ad63d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d5c3493c6214cc823f3715a1dd22c7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c74710f0456ffc459cf6f1e8f095efe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7486012e3cf44d64f7f298d94055aefb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/734205ecd3f1d21dedee74f2c7c67b8b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30dfe7ad4d75f5e1b9fd4f89219c0490-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9a0a6e396e83fac4a424440d59121f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07bd3eee1000e7a2ea684c867200f875-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440510475",
+      "id": "440510475",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3n1dtqerw8sgr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d1b4a3014d0eef8ef757c6ddeb4949d1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/440510475_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "32 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440510475,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 2500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 32,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 479400,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 2848854000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 479400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: ZONE REALTY",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1b4a3014d0eef8ef757c6ddeb4949d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0217370c650cba1bf9a4c897727ea76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9abd4c5b6aaf65893940ec7b46a36816-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d750f3e244ada7111ddaa5f6bdd6d754-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72da486f47deddf90e74576a940bfbbd-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442638011",
+      "id": "442638011",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "ymkqrvdbvx0k",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3bee8dbf045efc1613b230bf449551fc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/106-Carroll-St-FLOOR-2-Bronx-NY-10464/442638011_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,027/mo",
+      "unformattedPrice": 3027,
+      "address": "106 Carroll St FLOOR 2, Bronx, NY 10464",
+      "addressStreet": "106 Carroll St FLOOR 2",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10464",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.84566,
+        "longitude": -73.78616
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442638011,
+          "streetAddress": "106 Carroll St FLOOR 2",
+          "zipcode": "10464",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.84566,
+          "longitude": -73.78616,
+          "price": 3027.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3027.0,
+          "timeOnZillow": 421959000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Affordable Housing",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bee8dbf045efc1613b230bf449551fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e06acc43c9400f37924346f44775205-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5925388bdbe6ca30dde24eab48df2d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3aba05e015fa40900cac217dd06cfc10-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29844107",
+      "id": "29844107",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1xjzfkt94jm1a",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5b6b636b854cd228c4a3f4960215b62f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3241-Spencer-Dr-Bronx-NY-10465/29844107_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,000/mo",
+      "unformattedPrice": 4000,
+      "address": "3241 Spencer Dr, Bronx, NY 10465",
+      "addressStreet": "3241 Spencer Dr",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 40.842415,
+        "longitude": -73.819305
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29844107,
+          "streetAddress": "3241 Spencer Dr",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.842415,
+          "longitude": -73.819305,
+          "price": 4000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 729300,
+          "rentZestimate": 3880,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 1393262000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 745000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 729300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams NY Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b6b636b854cd228c4a3f4960215b62f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdf08d0520e19843c69efa7fd9538d59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/731fc622cdfb7a68cd209e4b788111b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b35c449b102d68abcd6eb6a5f2488510-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbe3ab3a62388818f468ae76809df524-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7257a86b68b9e2b0b16dd2283d3da9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a5f7517bcb4b311dba862fc6dea14cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95363e05155e55ce7a1c91667e677d38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ce91fb51b3cfc8afdca492efd29521f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff0d52612f5a10e018fbbddd31024a2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eca631f09aa357123eafb10ba173c9fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a8f1d1875c5a6bf4035431161223dd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a953afc00fc0081cfb3301b77b52bba4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53de4098ae4d6df8fda558227c5ae183-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b19eb7c7f38017c5ac4323e3026c44e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4fb3d8efe8eb034bc9d391afb3ca0e23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71b96d1e038bb99192618154a1848737-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e33f42f7cc21f6c053b3738610d261c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b0dd26601cdfb9a5bdf3c85660cfa4b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2089045911",
+      "id": "2089045911",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "57e8yaqhak2am",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=40.84031295776367,-73.78418731689453&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=3nmcqsIfmvY27BmklNGGjDJzeNE=",
+      "detailUrl": "https://www.zillow.com/homedetails/87-City-Island-Ave-Bronx-NY-10464/2089045911_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,900/mo",
+      "unformattedPrice": 1900,
+      "address": "87 City Island Ave, Bronx, NY 10464",
+      "addressStreet": "87 City Island Ave",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10464",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=40.84031295776367,-73.78418731689453&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=y39NF1Z7w7GzFMAc8JieKJ6R8SY=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=40.84031295776367,-73.78418731689453&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=vFHKKSU0AO-3184jpTshKIiMUag=",
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 40.840313,
+        "longitude": -73.78419
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2089045911,
+          "streetAddress": "87 City Island Ave",
+          "zipcode": "10464",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.840313,
+          "longitude": -73.78419,
+          "price": 1900.0,
+          "datePriceChanged": 1731657600000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1144200,
+          "rentZestimate": 2846,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "priceChange": 300,
+          "timeOnZillow": 921270000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1144200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: ATLANTIC EMERITUS REALTY INC",
+      "rooms": []
+    },
+    {
+      "zpid": "440620280",
+      "id": "440620280",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "577y6823ju6xs",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d40b16b35d0b159e748a67c5c17b087e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3262-Layton-Ave-3-Bronx-NY-10465/440620280_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,350/mo",
+      "unformattedPrice": 2350,
+      "address": "3262 Layton Ave #3, Bronx, NY 10465",
+      "addressStreet": "3262 Layton Ave #3",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 40.835243,
+        "longitude": -73.81824
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "64 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440620280,
+          "streetAddress": "3262 Layton Ave #3",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.835243,
+          "longitude": -73.81824,
+          "price": 2350.0,
+          "datePriceChanged": 1728370800000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 64,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Oct 8)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "priceChange": -150,
+          "timeOnZillow": 5535619000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: HT Realty Group (DBA for Han Tang Realty Inc.)",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d40b16b35d0b159e748a67c5c17b087e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2e64fa2446904e449579ea95cc96b0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc9f0dc40c8bcd099480190327688292-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd8129af94cf775a7d05632d7f70a566-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab554e8ce77f6ed60bdfe5b91271136a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf032b3aac42528505c9eb3ee6f46322-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bae518849fa4b792f0908ecffdb061a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aefc8a5b7ea6a10f55ddf5011f6a0d67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fc86d0def03cdbec78281aff6c7e1ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec81b1dae9f18caf2363fcad7d34f126-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "346913655",
+      "id": "346913655",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3k41093q4h5uk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7a7663368d8f2782c81bd3cbf5cc3a54-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10465/346913655_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,200/mo",
+      "unformattedPrice": 3200,
+      "address": "(undisclosed Address), Bronx, NY 10465",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10465",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1300,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 346913655,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 3200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3054,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 2176528000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: RSB Realty Group.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a7663368d8f2782c81bd3cbf5cc3a54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b953adf74ed58fb34c17263ba4a962dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8c8006fc75915faf2fe8492cc524de2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59e0935fa5d41d62e1ff399a363cc23b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc0e66b37d7e06c48da459c6726e894a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/832cd2c178cc648ba0be562732557fb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1194edb6e1029867edb479be2b249b15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c114591bd638df1b81dc91801aeede2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea03a4778d730e6720a743a966649d33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16cf7524479b9ebde3244b719cd08171-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71af9c11937566b08c594f11fb0201de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6173944fb397dac2763e8f568e9fe958-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/317967d4d670fe9938c6b132a4f42c52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d76b8a3601891f963817e6115aed5f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/253e3947d24f93425adc2033199a532d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2186f68cb70362131d8e1043e5da40ba-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29850505",
+      "id": "29850505",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "24dt25z2wq8sn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/29e9eeb7f676256bd9c92fafacc66a96-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Bronx-NY-10464/29850505_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,350/mo",
+      "unformattedPrice": 2350,
+      "address": "(undisclosed Address), Bronx, NY 10464",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Bronx",
+      "addressState": "NY",
+      "addressZipcode": "10464",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "52 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29850505,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10464",
+          "city": "Bronx",
+          "state": "NY",
+          "price": 2350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 52,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 610900,
+          "rentZestimate": 2488,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "timeOnZillow": 4525600000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 610900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Realty One Group Dynasty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/29e9eeb7f676256bd9c92fafacc66a96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/028d5bb871d97f3754cd65340274292e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da7cbbcad5818104cb779dd4ab097c5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da6890bb4787d0c0a9aa06a0be33ec62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04b4c483da17faa0eb14e64437ee7b36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6bdf656eb056b40819791598069635e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4de5aeefba3fd31893588605c4c1b354-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2693d7646cd5312ecaca113576c242c-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "215953665",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f5fb9ca1b4e7ef095133b3961d2ea7b4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1130-Stadium-Ave-Bronx-NY-10465/215953665_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,400/mo",
+      "priceLabel": "$2.4K",
+      "address": "1130 Stadium Ave, Bronx, NY 10465",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.83621,
+        "longitude": -73.817184
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215953665,
+          "streetAddress": "1130 Stadium Ave",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.83621,
+          "longitude": -73.817184,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 318200,
+          "rentZestimate": 2142,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 319759000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Oxford Property Group",
+      "timeOnZillow": 319759000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid"
+      ]
+    },
+    {
+      "zpid": "2069189831",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f210b49097c97fbbaee90b55ac66353a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1130-Stadium-Ave-APT-2K-Bronx-NY-10465/2069189831_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,195/mo",
+      "priceLabel": "$2.2K",
+      "address": "1130 Stadium Ave APT 2K, Bronx, NY 10465",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 40.836357,
+        "longitude": -73.81691
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2069189831,
+          "streetAddress": "1130 Stadium Ave APT 2K",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.836357,
+          "longitude": -73.81691,
+          "price": 2195.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2163,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2195.0,
+          "timeOnZillow": 2244803000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2K",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-28 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: NYC Empire Realty, Inc.",
+      "timeOnZillow": 2244803000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2101765595",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0afc4663b7ba65302b5a339b46ad830d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3529-Mc-Owen-Ave-APT-1-Bronx-NY-10475/2101765595_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "3529 Mc Owen Ave APT 1, Bronx, NY 10475",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 40.888298,
+        "longitude": -73.81957
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "36 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2101765595,
+          "streetAddress": "3529 Mc Owen Ave APT 1",
+          "zipcode": "10475",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.888298,
+          "longitude": -73.81957,
+          "price": 2500.0,
+          "datePriceChanged": 1729321200000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2635,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Oct 19)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "priceChange": -200,
+          "timeOnZillow": 3190804000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Realty Group",
+      "timeOnZillow": 3190804000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442658948",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/519bc5fbd1cdaafa44051715b9b7230b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/528-Minnieford-Ave-UNIT-D-Bronx-NY-10464/442658948_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$4,500/mo",
+      "priceLabel": "$4.5K",
+      "address": "528 Minnieford Ave UNIT D, Bronx, NY 10464",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1600,
+      "latLong": {
+        "latitude": 40.85308,
+        "longitude": -73.78813
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442658948,
+          "streetAddress": "528 Minnieford Ave UNIT D",
+          "zipcode": "10464",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.85308,
+          "longitude": -73.78813,
+          "price": 4500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 687479000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit D",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: R NEW YORK",
+      "timeOnZillow": 687479000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "29844012",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/30908977419c0b06e688d7153f9e9fe6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1628-Kennellworth-Pl-Bronx-NY-10465/29844012_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,200/mo",
+      "priceLabel": "$2.2K",
+      "address": "1628 Kennellworth Pl, Bronx, NY 10465",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.847115,
+        "longitude": -73.821785
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29844012,
+          "streetAddress": "1628 Kennellworth Pl",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.847115,
+          "longitude": -73.821785,
+          "price": 2200.0,
+          "datePriceChanged": 1730271600000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2397,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Oct 30)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "priceChange": -200,
+          "timeOnZillow": 185251000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1047000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-30 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: In Motion Realty Group",
+      "timeOnZillow": 185251000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442151080",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/86af94de8ab10b403d4f060c0fd26c65-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/151-Carroll-St-2-Bronx-NY-10464/442151080_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,777/mo",
+      "priceLabel": "$3.8K",
+      "address": "151 Carroll St #2, Bronx, NY 10464",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 40.8461,
+        "longitude": -73.785545
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442151080,
+          "streetAddress": "151 Carroll St #2",
+          "zipcode": "10464",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.8461,
+          "longitude": -73.785545,
+          "price": 3777.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3777.0,
+          "timeOnZillow": 2157188000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-29 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Global Realty Development",
+      "timeOnZillow": 2157188000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "2wkembbngedx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/06d6dfe6aa820c9a66a6d64356c6bb74-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/1110-stadium-ave-bronx-ny-33fG/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$2,195+/mo",
+      "address": "1110 Stadium Ave, Bronx, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 700,
+      "lotId": 121630,
+      "latLong": {
+        "latitude": 40.836285,
+        "longitude": -73.816956
+      },
+      "variableData": {
+        "type": "3D_HOME",
+        "text": "3D Tour"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "40.836285--73.816956",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": true,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 2576514000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442638011",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3bee8dbf045efc1613b230bf449551fc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/106-Carroll-St-FLOOR-2-Bronx-NY-10464/442638011_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,027/mo",
+      "priceLabel": "$3.0K",
+      "address": "106 Carroll St FLOOR 2, Bronx, NY 10464",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 40.84566,
+        "longitude": -73.78616
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442638011,
+          "streetAddress": "106 Carroll St FLOOR 2",
+          "zipcode": "10464",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.84566,
+          "longitude": -73.78616,
+          "price": 3027.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3027.0,
+          "timeOnZillow": 421959000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Affordable Housing",
+      "timeOnZillow": 421959000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "29844107",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5b6b636b854cd228c4a3f4960215b62f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3241-Spencer-Dr-Bronx-NY-10465/29844107_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,000/mo",
+      "priceLabel": "$4.0K",
+      "address": "3241 Spencer Dr, Bronx, NY 10465",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 40.842415,
+        "longitude": -73.819305
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29844107,
+          "streetAddress": "3241 Spencer Dr",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.842415,
+          "longitude": -73.819305,
+          "price": 4000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 729300,
+          "rentZestimate": 3880,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 1393262000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 745000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-15 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams NY Realty",
+      "timeOnZillow": 1393262000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2089045911",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=40.84031295776367,-73.78418731689453&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=3nmcqsIfmvY27BmklNGGjDJzeNE=",
+      "detailUrl": "/homedetails/87-City-Island-Ave-Bronx-NY-10464/2089045911_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,900/mo",
+      "priceLabel": "$1.9K",
+      "address": "87 City Island Ave, Bronx, NY 10464",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=40.84031295776367,-73.78418731689453&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=y39NF1Z7w7GzFMAc8JieKJ6R8SY=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=40.84031295776367,-73.78418731689453&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=vFHKKSU0AO-3184jpTshKIiMUag=",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 40.840313,
+        "longitude": -73.78419
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2089045911,
+          "streetAddress": "87 City Island Ave",
+          "zipcode": "10464",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.840313,
+          "longitude": -73.78419,
+          "price": 1900.0,
+          "datePriceChanged": 1731657600000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1144200,
+          "rentZestimate": 2846,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "priceChange": 300,
+          "timeOnZillow": 921270000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: ATLANTIC EMERITUS REALTY INC",
+      "timeOnZillow": 921270000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "440620280",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d40b16b35d0b159e748a67c5c17b087e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3262-Layton-Ave-3-Bronx-NY-10465/440620280_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,350/mo",
+      "priceLabel": "$2.4K",
+      "address": "3262 Layton Ave #3, Bronx, NY 10465",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 40.835243,
+        "longitude": -73.81824
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "64 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440620280,
+          "streetAddress": "3262 Layton Ave #3",
+          "zipcode": "10465",
+          "city": "Bronx",
+          "state": "NY",
+          "latitude": 40.835243,
+          "longitude": -73.81824,
+          "price": 2350.0,
+          "datePriceChanged": 1728370800000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$150 (Oct 8)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "priceChange": -150,
+          "timeOnZillow": 5535619000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: HT Realty Group (DBA for Han Tang Realty Inc.)",
+      "timeOnZillow": 5535619000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "51086ad2",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

@@ -1,0 +1,587 @@
+{
+  "listResults": [
+    {
+      "zpid": "442516233",
+      "id": "442516233",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1fn1p1qt5k2r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1674b6a2991409257a70274ca59c8366-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/211-Westchester-Ave-FLOOR-2-Verplanck-NY-10596/442516233_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "211 Westchester Ave FLOOR 2, Verplanck, NY 10596",
+      "addressStreet": "211 Westchester Ave FLOOR 2",
+      "addressCity": "Verplanck",
+      "addressState": "NY",
+      "addressZipcode": "10596",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.25371,
+        "longitude": -73.95326
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442516233,
+          "streetAddress": "211 Westchester Ave FLOOR 2",
+          "zipcode": "10596",
+          "city": "Verplanck",
+          "state": "NY",
+          "latitude": 41.25371,
+          "longitude": -73.95326,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 13,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 1179468000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-10 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1674b6a2991409257a70274ca59c8366-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fe789c49e4f01d878fdb8a0b8949519-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cd427942efa55fde50d2e641c6ed58a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3112e13ba9d829c119ca0a69f423fab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebd3d8a02380a6f080d56bcda61f2a6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa3da89139f628e3ebb4ba35e158a4e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbe713476eef583be6cedc0dc0218a36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/caa32c21e55c25770193a4c29ac429ce-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442516233",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1674b6a2991409257a70274ca59c8366-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/211-Westchester-Ave-FLOOR-2-Verplanck-NY-10596/442516233_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "211 Westchester Ave FLOOR 2, Verplanck, NY 10596",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.25371,
+        "longitude": -73.95326
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442516233,
+          "streetAddress": "211 Westchester Ave FLOOR 2",
+          "zipcode": "10596",
+          "city": "Verplanck",
+          "state": "NY",
+          "latitude": 41.25371,
+          "longitude": -73.95326,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 1179468000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-10 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1179468000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "41.271187--73.93339",
+      "id": "41.271187--73.93339",
+      "providerListingId": "4509ers8at65t",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8770684e1a56fa4d3a9ccdecadee1ea4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/peekskill-ny/patricia-apartments-llc/9v6gKB/",
+      "statusType": "FOR_RENT",
+      "statusText": "Patricia Apartments LLC",
+      "address": "425 Sherman Ave, Peekskill, NY",
+      "addressStreet": "425 Sherman Ave # E07",
+      "addressCity": "Peekskill",
+      "addressState": "NY",
+      "addressZipcode": "10566",
+      "units": [
+        {
+          "price": "$2,499+",
+          "beds": "1",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2231528559,
+      "latLong": {
+        "latitude": 41.271187,
+        "longitude": -73.93339
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "SPECIAL_OFFER",
+        "text": "Special Offer"
+      },
+      "isSaved": false,
+      "buildingName": "Patricia Apartments LLC",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8770684e1a56fa4d3a9ccdecadee1ea4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6a10a7582536de81180327eb430cbf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10a9bab7f7d775d23a13759d13949a39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dcca6e1ccf6a17ff211f92d39645f4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6425deed2c612c2bf76ffa041692ebd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37c04a32082e9e0ff1207c190aa9fe66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cc5571d0375897b5f76ffbeb51d322a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de3001aa885455879477f02fd91d92b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dac650067a445fd81884bbac50b113b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b8aaee0b3aacfd62c80214e4bdb991f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b6f91e38945845c837b7742d897a1c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/add9126ba51aa632c1d1ef04dcf788f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/295fb18c9e5d337d27608c6b0f6905a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ea65c22dfd896ffd93803ab90995e72-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 17,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "32399031",
+      "id": "32399031",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2jf129de4wwkh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/132754e5421206fae9da3415eac70392-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/6-Roosevelt-Pl-Stony-Pt-NY-10980/32399031_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,950/mo",
+      "unformattedPrice": 3950,
+      "address": "6 Roosevelt Pl, Stony Pt, NY 10980",
+      "addressStreet": "6 Roosevelt Pl",
+      "addressCity": "Stony Pt",
+      "addressState": "NY",
+      "addressZipcode": "10980",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1800,
+      "latLong": {
+        "latitude": 41.233875,
+        "longitude": -73.98346
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32399031,
+          "streetAddress": "6 Roosevelt Pl",
+          "zipcode": "10980",
+          "city": "Stony Pt",
+          "state": "NY",
+          "latitude": 41.233875,
+          "longitude": -73.98346,
+          "price": 3950.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 517000,
+          "rentZestimate": 3843,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3950.0,
+          "timeOnZillow": 210395000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 296524.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 517000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Christie's Int. Real Estate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/132754e5421206fae9da3415eac70392-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce4e0ce22f73374613d1a0fcb9bad9ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34ee4e3f70bb36ad4203e3ba57eddec6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5bdcd73cbd017f9208dc543d1fcdb8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b34d702a32fa9c9745cc84ae4ea3f345-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85b948de4a7d02552c17fb7af26a5bf0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d577169ff21e8119307eb58df6dacd07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bd3685900d918a6e0c1ee72bc11f579-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/253f7eeb8b2dca2421144b196b110510-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e03a2af343359f5b3d5d3b3284dddb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4b5e9038b27e7706deb318cfb51bceb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ded04703a04f69d941da5da1ed78573-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/270c587185fc8ac72c824bafd6128246-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df82f827df7093d750a304b5923f769d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfe4cf355376e152906a42db22c219f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/515943b960874af125c396f750629b4d-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "299050070",
+      "id": "299050070",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4vybq96zs0ygc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/098c4c41661d66daf410f96e74c834af-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/276-Coachlight-Sq-Montrose-NY-10548/299050070_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "276 Coachlight Sq, Montrose, NY 10548",
+      "addressStreet": "276 Coachlight Sq",
+      "addressCity": "Montrose",
+      "addressState": "NY",
+      "addressZipcode": "10548",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 828,
+      "latLong": {
+        "latitude": 41.2524,
+        "longitude": -73.94817
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 299050070,
+          "streetAddress": "276 Coachlight Sq",
+          "zipcode": "10548",
+          "city": "Montrose",
+          "state": "NY",
+          "latitude": 41.2524,
+          "longitude": -73.94817,
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 828.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 250400,
+          "rentZestimate": 2187,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 1681269000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1223.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 250400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-04 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Keller Williams NY Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/098c4c41661d66daf410f96e74c834af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87af816b9425f0b4ab0c1b7a64044f7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d7e8b3e955cce35d8c4ed95e28fb481-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01c3efa6dee167695d52f1925983ee0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d845bfb603d978c5bdd966920b9d980b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88810ed9aaefcc20f16da94238db8029-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec32766659dd7c276743cf1b04deb91e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a7c32428fe7cb13da93347fcbe30685-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71f4579ab14e0a0f480ced5e215145fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ea7a6f4df215538be6d443e0ad33aa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a40f5d14fab298ca43344dc912e7aed1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86b739269f03b77b1b7dd74a4b028d83-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "16281cf7",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1a9f41a9"
+}

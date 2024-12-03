@@ -1,0 +1,732 @@
+{
+  "listResults": [
+    {
+      "zpid": "442548889",
+      "id": "442548889",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2ax6dsj026qfh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/99755c99849921f3429765e5837b7017-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1495-Route-83rd-Pine-Plains-NY-12567/442548889_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "1495 Route 83rd, Pine Plains, NY 12567",
+      "addressStreet": "1495 Route 83rd",
+      "addressCity": "Pine Plains",
+      "addressState": "NY",
+      "addressZipcode": "12567",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 3.0,
+      "area": 2200,
+      "latLong": {
+        "latitude": 42.027084,
+        "longitude": -73.68359
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442548889,
+          "streetAddress": "1495 Route 83rd",
+          "zipcode": "12567",
+          "city": "Pine Plains",
+          "state": "NY",
+          "latitude": 42.027084,
+          "longitude": -73.68359,
+          "price": 4500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 2.0,
+          "livingArea": 2200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 526900,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 993091000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 526900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-06 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Nomad",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/99755c99849921f3429765e5837b7017-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d224e8f0468b9b89e0bcda38c1ba80ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42f9c4dc62eca09bf3e4c602df836f18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11e364cee1ccd57891c11a9cc124e27c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd04e555076abfbc7254c1a2a8073e32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b808d082de9f3ca47ceda6e28919c86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7f4b3b8b04280f47936825400e8e401-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7cdd6fe1d516430d43199d4e681adc98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c096dbecfcc5bbee27d414439b0709e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f1728ead3155ec6a9780b049ef35de1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/952eb9476bb8ae069b7d897dac564623-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6dc562c25a37f36fac17561f419d91a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ccad1e803474ac97483fe161f05297f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0cc202d2119b0e6484b1590e7aff25d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a539748a615f3e76c500b4f58d1cda14-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1a0ab0bc49bacb087cbb0119f3dc996-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a563f7aea5d825b4cbc00b889910e028-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/606425f927ee22449c87c48c705aef9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb8d5679259e0583a7dc7322ba6bd33c-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29998685",
+      "id": "29998685",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "11sqre2rcn0zz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b3478fec89f1ac822f75f425577d8e9e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1955-County-Route-7-Ancram-NY-12502/29998685_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,950/mo",
+      "unformattedPrice": 2950,
+      "address": "1955 County Route 7, Ancram, NY 12502",
+      "addressStreet": "1955 County Route 7",
+      "addressCity": "Ancram",
+      "addressState": "NY",
+      "addressZipcode": "12502",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 42.08163,
+        "longitude": -73.59989
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29998685,
+          "streetAddress": "1955 County Route 7",
+          "zipcode": "12502",
+          "city": "Ancram",
+          "state": "NY",
+          "latitude": 42.08163,
+          "longitude": -73.59989,
+          "price": 2950.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 29,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 449600,
+          "rentZestimate": 3616,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2950.0,
+          "priceChange": -200,
+          "timeOnZillow": 2515319000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 394000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 449600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3478fec89f1ac822f75f425577d8e9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9b0f914bafd649cb97b0ce552c7465f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/542234d1eb55efd45cf17e88880021a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/868d76a02439a633b138344a76f04df0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab386bd2e57cbce88d1511476a693ead-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c627e85a83c7a0832a22fc733ff7159c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc7d4f00b579256a4540d1c6decff91e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d78bbde24cd11abf0f84ad1a7fffe7d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6d6151412ed1992be50e144fed83d6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6c4377de3671186ecf90cad478c48a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98e101f78d38a4b9423ea531a25532f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb46cf6074bb3d6afa7b50ceeed461a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/198ad479610e299e06d6d0ea79f95257-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91dd581123a9c14fbbcfb3838c5b8221-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30018161",
+      "id": "30018161",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4sgva5qyvpcpm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c466d948777ba785f415ae9e0ad741ac-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1325-County-Route-27-Craryville-NY-12521/30018161_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,500/mo",
+      "unformattedPrice": 5500,
+      "address": "1325 County Route 27, Craryville, NY 12521",
+      "addressStreet": "1325 County Route 27",
+      "addressCity": "Craryville",
+      "addressState": "NY",
+      "addressZipcode": "12521",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 42.136444,
+        "longitude": -73.67021
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "74 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30018161,
+          "streetAddress": "1325 County Route 27",
+          "zipcode": "12521",
+          "city": "Craryville",
+          "state": "NY",
+          "latitude": 42.136444,
+          "longitude": -73.67021,
+          "price": 5500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 74,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 595700,
+          "rentZestimate": 5287,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5500.0,
+          "timeOnZillow": 6440625000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 445860.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 595700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c466d948777ba785f415ae9e0ad741ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/415a2e262ffda19a8476c6f3b866f560-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15864901e335ccb33877235394f87d3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0fca24a4cbcfcf1928dee6b77a8fbdd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c269b3854a7085e0869e498459fdd451-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45668d7f5c633a6e23bb14e2fa548f30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8608baebfa6981b7ca2fea92bbde798-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92bb4a3915e5d27743d648e1fe4323ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a4052a28adad294579186309e9011e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ffce973a847005b3a8372f217aba9ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1e82ccde2dcbf6e0def72ab254e85fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c8e2205c9485a94b6c4863e2e71aec0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/009511519365f963fd42158f1cba6048-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6cf3623a6d8119aa1398035ae5144350-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eeca70f577ef423598da25072a74cc71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2fd636aa87aef08c240cd023422678d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80d6038d2d1c0312de388a0ee02871e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8aec3e8cb52b4eff23c1f94deb42f0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8910ba32d4bc151d4a137461d0d2a0b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/410143b46ecf8c1e89b80862ba11db71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af3b4d2a2929e1a3c2f1aadd4f1ecfa9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1df046e69b990b4ae300cf9b9e66586d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87f21556e139c33ae0b4720c7885cdcc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99e8b938b2b3b2fb75733eecca88386a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/298fb66a7c0ec668911659e4c0714528-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5a16a85886066e61fd5a49b5fad755a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06958c0fa1ca2b0827f826fd6d89f5d9-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442548889",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/99755c99849921f3429765e5837b7017-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1495-Route-83rd-Pine-Plains-NY-12567/442548889_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,500/mo",
+      "priceLabel": "$4.5K",
+      "address": "1495 Route 83rd, Pine Plains, NY 12567",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 3.0,
+      "area": 2200,
+      "latLong": {
+        "latitude": 42.027084,
+        "longitude": -73.68359
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442548889,
+          "streetAddress": "1495 Route 83rd",
+          "zipcode": "12567",
+          "city": "Pine Plains",
+          "state": "NY",
+          "latitude": 42.027084,
+          "longitude": -73.68359,
+          "price": 4500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 2.0,
+          "livingArea": 2200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 526900,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 993091000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-06 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Nomad",
+      "timeOnZillow": 993091000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    },
+    {
+      "zpid": "29998685",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b3478fec89f1ac822f75f425577d8e9e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1955-County-Route-7-Ancram-NY-12502/29998685_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,950/mo",
+      "priceLabel": "$3.0K",
+      "address": "1955 County Route 7, Ancram, NY 12502",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 42.08163,
+        "longitude": -73.59989
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29998685,
+          "streetAddress": "1955 County Route 7",
+          "zipcode": "12502",
+          "city": "Ancram",
+          "state": "NY",
+          "latitude": 42.08163,
+          "longitude": -73.59989,
+          "price": 2950.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 449600,
+          "rentZestimate": 3616,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2950.0,
+          "priceChange": -200,
+          "timeOnZillow": 2515319000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 394000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2515319000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30018161",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c466d948777ba785f415ae9e0ad741ac-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1325-County-Route-27-Craryville-NY-12521/30018161_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$5,500/mo",
+      "priceLabel": "$5.5K",
+      "address": "1325 County Route 27, Craryville, NY 12521",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 42.136444,
+        "longitude": -73.67021
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "74 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30018161,
+          "streetAddress": "1325 County Route 27",
+          "zipcode": "12521",
+          "city": "Craryville",
+          "state": "NY",
+          "latitude": 42.136444,
+          "longitude": -73.67021,
+          "price": 5500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 595700,
+          "rentZestimate": 5287,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5500.0,
+          "timeOnZillow": 6440625000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 445860.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 6440625000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "562e6f9f",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

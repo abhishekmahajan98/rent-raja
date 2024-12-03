@@ -1,0 +1,2539 @@
+{
+  "listResults": [
+    {
+      "zpid": "31371807",
+      "id": "31371807",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "17ave64awxd6f",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a407dbded556492956b8865e23590643-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Baldwin-NY-11510/31371807_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "(undisclosed Address), Baldwin, NY 11510",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Baldwin",
+      "addressState": "NY",
+      "addressZipcode": "11510",
+      "isUndisclosedAddress": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31371807,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11510",
+          "city": "Baldwin",
+          "state": "NY",
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 805700,
+          "rentZestimate": 5170,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 520396000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 805700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: voro llc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a407dbded556492956b8865e23590643-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06c7c0f89eb807eac44a0dbe354a3925-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6feab1e77cf5c837939dd7cc5e6f285a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2062052723",
+      "id": "2062052723",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4nung6dxvpv8c",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9dea8d64dd47ff17fea1086f50d3c4f0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/700-Parsonage-St-FLOOR-2-Baldwin-NY-11510/2062052723_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,550/mo",
+      "unformattedPrice": 2550,
+      "address": "700 Parsonage St FLOOR 2, Baldwin, NY 11510",
+      "addressStreet": "700 Parsonage St FLOOR 2",
+      "addressCity": "Baldwin",
+      "addressState": "NY",
+      "addressZipcode": "11510",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 40.637177,
+        "longitude": -73.6143
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "64 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062052723,
+          "streetAddress": "700 Parsonage St FLOOR 2",
+          "zipcode": "11510",
+          "city": "Baldwin",
+          "state": "NY",
+          "latitude": 40.637177,
+          "longitude": -73.6143,
+          "price": 2550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 64,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2574,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2550.0,
+          "timeOnZillow": 5581220000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9dea8d64dd47ff17fea1086f50d3c4f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a7c3f0c3d257438da0d0b59d6e93f15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a54f20a72f892595f91b005a2c111193-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5655fd499a8bcfca0a83f82e901f969-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/468fd77287c88cbf18d590f535240d53-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "348742876",
+      "id": "348742876",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1hpnhb8yve39z",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9901e405e01db62d7db93670cdb60331-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Baldwin-NY-11510/348742876_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "(undisclosed Address), Baldwin, NY 11510",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Baldwin",
+      "addressState": "NY",
+      "addressZipcode": "11510",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 348742876,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11510",
+          "city": "Baldwin",
+          "state": "NY",
+          "price": 3500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3818,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 786314000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Coldwell Banker American Homes",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9901e405e01db62d7db93670cdb60331-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/703ae2c1b920ecf355afce9e0092c2aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5fe9836865e0e879b45265a073b432c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c21105185dea9a6968cf1ef8c1004de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f60e9daf7a07a6739096c5125bddf5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9779581c2da3c21a2647fa119d2464a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab268260e0d60766e6bb912e6135924f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cc91db98a0cbf0ce6d956472af6e693-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d76beaaf3d04b740cc34cc7d981b7f0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/599b584260643760eeb440aefa35b650-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f0b30ec516e9351645c7ee79164bace-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da1b0c9cc55592a70db457810e7a0013-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2b858a556bd3950a9c6d7021985e630-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32e8b17963e8e117c30210c74c652cb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/714c13a433dc8e58802e1c458fd8f75e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/934d84c5aac98396c89664921d428872-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36d527d84568d42050ff1f17e95dd8c7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2101267393",
+      "id": "2101267393",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4h1anzg2k3fhn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cf1cc80e94a638d986ff6a674260fbac-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Freeport-NY-11520/2101267393_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,799/mo",
+      "unformattedPrice": 2799,
+      "address": "(undisclosed Address), Freeport, NY 11520",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Freeport",
+      "addressState": "NY",
+      "addressZipcode": "11520",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 688,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "32 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2101267393,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11520",
+          "city": "Freeport",
+          "state": "NY",
+          "price": 2799.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 688.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 32,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2563,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2799.0,
+          "timeOnZillow": 2770929000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-11 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf1cc80e94a638d986ff6a674260fbac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ad01b8a9faa38266e873427a474f6b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/981e49918394a24689c9fbb758063061-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a28889bea6a3a69bfd67e16db99cc9d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2e3b5e9fc45266ddf4f97e0ada38ea7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b57cf3756cfdfbd7a68380bd56e39dc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e86290ecfef19f42014ab71d78bc8c86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddfe93590c428317cf2ce636da0402f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc0b1fc0ef17523bf3340ca0113c8054-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31411452",
+      "id": "31411452",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "35c5qxnmrm7qc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0ecbb252e1cfe08b3138af22498bba68-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/25-Morris-St-Freeport-NY-11520/31411452_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,675/mo",
+      "unformattedPrice": 3675,
+      "address": "25 Morris St, Freeport, NY 11520",
+      "addressStreet": "25 Morris St",
+      "addressCity": "Freeport",
+      "addressState": "NY",
+      "addressZipcode": "11520",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.64549,
+        "longitude": -73.59101
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31411452,
+          "streetAddress": "25 Morris St",
+          "zipcode": "11520",
+          "city": "Freeport",
+          "state": "NY",
+          "latitude": 40.64549,
+          "longitude": -73.59101,
+          "price": 3675.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 20,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 594800,
+          "rentZestimate": 3727,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3675.0,
+          "timeOnZillow": 1729158000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 407000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 594800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ecbb252e1cfe08b3138af22498bba68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69122726ab720da535f23cf30130a694-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d273c49a0a510b7953039d875ea7e0d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d4585c43c54d496d6e476470f8ce428-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f020b25d5cc26c3359a4ed0d4950ced9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/faadf71ffa05a7966895f1792528f909-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99924df4544a69c84783f00e710f3bde-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12d8a50178360f4abdd01a5c3a05eb8b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31216339",
+      "id": "31216339",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "257euz99he46k",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fc7fddf1084bda972dff8e87f9f92e0b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Baldwin-NY-11510/31216339_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "(undisclosed Address), Baldwin, NY 11510",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Baldwin",
+      "addressState": "NY",
+      "addressZipcode": "11510",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 400,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31216339,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11510",
+          "city": "Baldwin",
+          "state": "NY",
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 33,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 598800,
+          "rentZestimate": 1719,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 2929176000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 598800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Search Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc7fddf1084bda972dff8e87f9f92e0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b03582b65d2c19464c3f83e76906773-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2fdd2ad582aab0d55712a4dcfabb0c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d22bc44c7831adcde6ba08ed15106295-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb911f3cc4ab5a5621780a3092c92bc7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c56de8ad0cc9f9158f86f5735715671-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16c3b9ac2676d7d68f70453a5d7c761e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/196e78e01fe52403a7e61c43469e60e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bedcac1b9f2db352be7b19089338754-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eccb5eece67673071fd61d4fd30b099d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31376742",
+      "id": "31376742",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "90p9bkqk49tv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/42552b379f216fe7d289b832e57cba91-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/93-N-Ocean-Ave-Freeport-NY-11520/31376742_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,300/mo",
+      "unformattedPrice": 2300,
+      "address": "93 N Ocean Ave, Freeport, NY 11520",
+      "addressStreet": "93 N Ocean Ave",
+      "addressCity": "Freeport",
+      "addressState": "NY",
+      "addressZipcode": "11520",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 530,
+      "latLong": {
+        "latitude": 40.66014,
+        "longitude": -73.58802
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31376742,
+          "streetAddress": "93 N Ocean Ave",
+          "zipcode": "11520",
+          "city": "Freeport",
+          "state": "NY",
+          "latitude": 40.66014,
+          "longitude": -73.58802,
+          "price": 2300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 530.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 29,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 844400,
+          "rentZestimate": 2396,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "timeOnZillow": 2588689000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 521000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 844400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Realty Greater",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/42552b379f216fe7d289b832e57cba91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e149ab0922346e212e187b6e765b396-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7b655232dd07b021f3be97bf668250f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51ed0f105d76e7004baecc8a35ef5896-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f685f318db7de627bff16db2f1adf2cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/866e37b307900e8e1a43b7b228f70930-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440683537",
+      "id": "440683537",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "6vdnb6phzfuc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/db7395131f753e63d3d74d2164c360af-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Baldwin-NY-11510/440683537_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "(undisclosed Address), Baldwin, NY 11510",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Baldwin",
+      "addressState": "NY",
+      "addressZipcode": "11510",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "62 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440683537,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11510",
+          "city": "Baldwin",
+          "state": "NY",
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 62,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 5409662000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/db7395131f753e63d3d74d2164c360af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90694e50215e74eb82ffbd621250eaec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a7507607e14310765137c13b16d1f9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8c5b6644938dcc957e5807b4e160b2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b44286e4ec779f53c1e1980717acc68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93597fa55521fd5cfa2f83bc72566650-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73ddbd2edb4d0045714f8f367e55b195-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54afd43df175b0cb9f832ecb257b49e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d01269072ac06db66ddf46cc95f89269-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f581d8c172fab091da9e9be6a17bbd58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d3b30eae8aaa2dbbf7d822d5cb07673-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/398b359e4524f3ecc52527e2d0e3df5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cdfd24e57b7415447e9648db4685335-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6158393cc5ff9da7ee843c5778ad7014-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73bafd3dcb536f3e89cfb3c67c5223e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cb2bda9768ddef9bc605f00203bb63a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440552438",
+      "id": "440552438",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "pmw79gej4cvy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/25f4514febd2d280f4fc4fa797cef459-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2477-Park-Ave-FLOOR-2-Baldwin-NY-11510/440552438_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "2477 Park Ave FLOOR 2, Baldwin, NY 11510",
+      "addressStreet": "2477 Park Ave FLOOR 2",
+      "addressCity": "Baldwin",
+      "addressState": "NY",
+      "addressZipcode": "11510",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1258,
+      "latLong": {
+        "latitude": 40.649967,
+        "longitude": -73.610176
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "66 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440552438,
+          "streetAddress": "2477 Park Ave FLOOR 2",
+          "zipcode": "11510",
+          "city": "Baldwin",
+          "state": "NY",
+          "latitude": 40.649967,
+          "longitude": -73.610176,
+          "price": 3500.0,
+          "datePriceChanged": 1732262400000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1258.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 66,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 22)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "priceChange": -200,
+          "timeOnZillow": 5705332000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Coldwell Banker American Homes",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/25f4514febd2d280f4fc4fa797cef459-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7aca186eb097667f2fb1661d9845dc76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92c20845bc0eb0bfbdd1eeb434027430-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52028e6872930e2b60d1bcaff65a8906-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e16e1d0fa217fb469398280f352d9675-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa6e026316e8452e2c9e3ba4f5306467-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ef7eb1cfd442e453a7de60e44c5621f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5cb8370b9956c4328b01f1230078c173-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9667e525153a45d1225c403ac1f6f688-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d70b3c0d149e84b846093b1bf907adec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c22a3971deb45033ab7226816d80006-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0458bccafd1ce4133b1474521d881304-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54f3b764c966a43557e038c580c87d42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1648cfed55422702f177a3680c229c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/378d3623d815b8c17c40ea94b51e5d91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eeeb0d25787ed482a8ef6b7cefc21627-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c85f8fd42416eace225d444c64bfc5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bff1c9eca61799c8c496e86473c7511d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c39e8d4446f5d8136465f3e96345861-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2085319986",
+      "id": "2085319986",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3950m19xurwxr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/51526b6baa24c1fa016d30ab4838e833-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/39-Anchor-St-APT-J-Freeport-NY-11520/2085319986_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "39 Anchor St APT J, Freeport, NY 11520",
+      "addressStreet": "39 Anchor St APT J",
+      "addressCity": "Freeport",
+      "addressState": "NY",
+      "addressZipcode": "11520",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.640015,
+        "longitude": -73.597946
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2085319986,
+          "streetAddress": "39 Anchor St APT J",
+          "zipcode": "11520",
+          "city": "Freeport",
+          "state": "NY",
+          "latitude": 40.640015,
+          "longitude": -73.597946,
+          "price": 2800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 33,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 364100,
+          "rentZestimate": 2726,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "timeOnZillow": 2901300000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt J",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 364100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Douglas Elliman",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/51526b6baa24c1fa016d30ab4838e833-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd690279f2c66bf3d2476063f7a28ca2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0a8f5a70cc40af8039ddc4f4745636f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbaf7e57939042b285acbbced73ae8ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3141e235a0f848c05ba1f3cd403a20e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98f890083c60617e0effea41a8104a27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50d4418b3be94e97b645289fa19ef4f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/487c73fea6800cb017e4c13938b3d005-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/521fd197e12c7db86ccefda7f30a337e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/653c051d41ac259f5d823d58646816ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/592d29f88d57cd6ebdf276ff732787ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07dd0c09bd755ab01b9e892ccf3b5512-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7ebdbf5805e8984b5edd3f38c8bee88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfcc3a34c3fdf4b294b1da7ac9bad7f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e0ff00d09e782c9d6d60e833be4e82b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd497c6c7c896aec01cc36607afbea0f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0e1739ca30095fe4d3f3d8b439ccd53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f3c6e3c40d19ee0d5b545491467e3c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d003c33404e27a6530edcedc62f32e82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdae028b6119f8e2abee4937bd5e0f48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/152f24dce260a2ece8d73ca459e833ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5fc5b071b85439991485ec82aa6e21f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca89fedcafd0235de68bac5769ea573e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5455f90a7fa0a9e002ad99fd0b499a7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97a4f5d188c70b2adf577b0cdd8c08fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/002b17b7a3ca449b40719d304294d03e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/059ba2e716e0d00ddee4ec57d843c304-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d137c9d456e988f84207b953be672171-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45ef108670a46e69e0c831a1ee96fde4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0070a202fe7355e88e2791f0ef8fc91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76e406c5b8c8c1596a8989e620bf96ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dae475b3a0066a3f6bdec243c4ae9201-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5b22f6410e839c7a4a5adcecac240ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d0df236b46c24982d3fea7729796643-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1ce9db37c7a944627fd7f6ca9bcec9b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2132882175",
+      "id": "2132882175",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5e5wuxz29c3x",
+      "imgSrc": "https://photos.zillowstatic.com/fp/10b3b15852beef022cfe381801f0690e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/250-W-Merrick-Rd-APT-1F-Freeport-NY-11520/2132882175_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "250 W Merrick Rd APT 1F, Freeport, NY 11520",
+      "addressStreet": "250 W Merrick Rd APT 1F",
+      "addressCity": "Freeport",
+      "addressState": "NY",
+      "addressZipcode": "11520",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 720,
+      "latLong": {
+        "latitude": 40.65265,
+        "longitude": -73.59127
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "50 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2132882175,
+          "streetAddress": "250 W Merrick Rd APT 1F",
+          "zipcode": "11520",
+          "city": "Freeport",
+          "state": "NY",
+          "latitude": 40.65265,
+          "longitude": -73.59127,
+          "price": 2800.0,
+          "datePriceChanged": 1732435200000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 720.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 50,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 203300,
+          "rentZestimate": 2889,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 24)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -200,
+          "timeOnZillow": 4334920000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1F",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 203300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: REAL ESTATE HOMES LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/10b3b15852beef022cfe381801f0690e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1bb158aadfd064108f3fe81f7a2e89d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff910b2ac2928f79e7400d837099b36a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07f630e4d519b60ca84145f906c5a81e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdca87bcc17b2e38372027bb1bef7ec8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/067dc52e5466a4d33a22a556eb00eba1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8d5256b77d75f4585ae86aca0f9451b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1ea26e1c386e90def28bf7b5ef47606-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32c60ab60732b744db4df6d51ba3fae9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eeda35a6c64cc422fe093ed51ccf9b18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1415f9ecc84f7cfcbba5db30fe9f6670-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab374ec1313fa52d382c76723cd389a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e04968a8799cb6edf161321caa07f63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68e4adfb7c9a574fb2f98f14bf479ee2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8844338d9d4f47956c184f9b2e65296-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/137746be2c1ab5244ddd510f5e53c615-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc4d28168a9ba7724bc6c1ee9fab7939-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/362a7a3e115ce26e1e92975bb25a83bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/784a274e2f852cf218935150a9423940-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/775751e7950f49c87355a4d9f195740e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/200633f9085cf56e7922f0f19e38548a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26051ef63a87ac2a5c790b309ae7a37b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93327f9bd15f58819d250da398b4d113-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04652d102b512e82da4fc65fe614d897-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/be06bb016b937cb36f90f371ddd08631-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c71cab59129add75810c9abd0b26a865-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "40.65238--73.61631",
+      "id": "40.65238--73.61631",
+      "providerListingId": "583w7pq4hctqn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8cb9df2ae162b2ddf07724b2e4400b36-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/680-merrick-rd-baldwin-ny-97jDrL/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "680 Merrick Rd, Baldwin, NY",
+      "addressStreet": "680 Merrick Rd Floor 1",
+      "addressCity": "Baldwin",
+      "addressState": "NY",
+      "addressZipcode": "11510",
+      "units": [
+        {
+          "price": "$3,750+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2010294498,
+      "latLong": {
+        "latitude": 40.65238,
+        "longitude": -73.61631
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "108 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cb9df2ae162b2ddf07724b2e4400b36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab24e785681a7d6e4e42e3292c3b61b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f092aa774c0bb0cc48c7b26736be4cd7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/919aac5e57f3e62ec4374ada7c6debb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ec32feb3b245eab8ec68793518633ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aceb6162758ae5fe11200bbb9046a74b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd0b4f13de18efe80e755ab1789116cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51ef37cc075d2824caf4b88df6f11d46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8493e0cab090507eb3760399f2face9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28c6ed7d4f9f34dc47b04c44e8d21e30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cefcdad22a91b9e47f4bec548470f4a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e33dd624f45be210c8254dd87e951a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4288182b8a6432f8dd8e6a9f8f750163-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f48c55573eaa9dbe118fae1690980868-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "31361734",
+      "id": "31361734",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "359md005wwfbp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8e2fcf950ab65b2dabd131462678149c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/265-Randall-Ave-Freeport-NY-11520/31361734_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$6,000/mo",
+      "unformattedPrice": 6000,
+      "address": "265 Randall Ave, Freeport, NY 11520",
+      "addressStreet": "265 Randall Ave",
+      "addressCity": "Freeport",
+      "addressState": "NY",
+      "addressZipcode": "11520",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1626,
+      "latLong": {
+        "latitude": 40.658962,
+        "longitude": -73.59673
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "178 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31361734,
+          "streetAddress": "265 Randall Ave",
+          "zipcode": "11520",
+          "city": "Freeport",
+          "state": "NY",
+          "latitude": 40.658962,
+          "longitude": -73.59673,
+          "price": 6000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1626.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 178,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 683600,
+          "rentZestimate": 5814,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 6000.0,
+          "timeOnZillow": 15407418000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 456000.0,
+          "lotAreaValue": 9583.2,
+          "lotAreaUnit": "sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 683600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: NextHome Platinum Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e2fcf950ab65b2dabd131462678149c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8879d9445749b1475ee99ced7c3eb6c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7647382ed9f3269d909347d9cca6acac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4638e9288261792cf6d6d4406ea8fac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f00aa57869f4204024bd35a6f334e20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d05488d0557f9d905b8709ab1c38c6b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d742137dceaa378746ef7652c24ac3fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19c589982966e96c36d4960bebfc3132-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b06008fcfced854bd09961b825f9ec1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddee937a2f59e7f1f28d186e4f77e7ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84fd1032742d593fe76edce13569527e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb706eff6d860cf15f4e5965fa7401ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89e51b41e5332bda25c173d974343b57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9a944bc45db63a454176b2d873be1dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25268abbed40777dd4319101b7268908-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37a56017f20823ff49c19eac8e7490a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b72c9f7b9633264b789b3b223f58ed0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75abcf6c2ea825e0cf6b0327c2aa7397-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4662624fec39f8f07b5dab2c7c73d782-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd8cebd051560340de490816aefd0048-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cfc1bc9366332b0cce1dfca5cb436e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/965edd98dc6baf393293a68c7f5b6f89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f118b9d3593123a592762cfaff5a7c90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b80fc0a688290e07597f3687e50338e-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31364607",
+      "id": "31364607",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1n5cvj1qgfmuu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/22fc176d3fee3e6a37049a96c14beb93-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2616-W-End-Ave-Baldwin-NY-11510/31364607_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,480/mo",
+      "unformattedPrice": 2480,
+      "address": "2616 W End Ave, Baldwin, NY 11510",
+      "addressStreet": "2616 W End Ave",
+      "addressCity": "Baldwin",
+      "addressState": "NY",
+      "addressZipcode": "11510",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.646004,
+        "longitude": -73.61598
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "40 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31364607,
+          "streetAddress": "2616 W End Ave",
+          "zipcode": "11510",
+          "city": "Baldwin",
+          "state": "NY",
+          "latitude": 40.646004,
+          "longitude": -73.61598,
+          "price": 2480.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 40,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2417,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2480.0,
+          "timeOnZillow": 3514590000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 608000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Lucksky Brothers Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/22fc176d3fee3e6a37049a96c14beb93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e313a1a57a5d70385e6ac32d915e1a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a1eaa195857fa5675fec88acd1cabad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e9e330829e4bc689ad33b32224939b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ccfcf11567474063e62f266c804eb5a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/113411882d9794f2d1fc10629fc1c47b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22135e211cf5d20a7cb4861dee527380-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2062052723",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9dea8d64dd47ff17fea1086f50d3c4f0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/700-Parsonage-St-FLOOR-2-Baldwin-NY-11510/2062052723_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,550/mo",
+      "priceLabel": "$2.6K",
+      "address": "700 Parsonage St FLOOR 2, Baldwin, NY 11510",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 40.637177,
+        "longitude": -73.6143
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "64 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062052723,
+          "streetAddress": "700 Parsonage St FLOOR 2",
+          "zipcode": "11510",
+          "city": "Baldwin",
+          "state": "NY",
+          "latitude": 40.637177,
+          "longitude": -73.6143,
+          "price": 2550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2574,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2550.0,
+          "timeOnZillow": 5581220000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 5581220000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31411452",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0ecbb252e1cfe08b3138af22498bba68-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/25-Morris-St-Freeport-NY-11520/31411452_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,675/mo",
+      "priceLabel": "$3.7K",
+      "address": "25 Morris St, Freeport, NY 11520",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.64549,
+        "longitude": -73.59101
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31411452,
+          "streetAddress": "25 Morris St",
+          "zipcode": "11520",
+          "city": "Freeport",
+          "state": "NY",
+          "latitude": 40.64549,
+          "longitude": -73.59101,
+          "price": 3675.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 594800,
+          "rentZestimate": 3727,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3675.0,
+          "timeOnZillow": 1729158000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 407000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 1729158000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31376742",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/42552b379f216fe7d289b832e57cba91-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/93-N-Ocean-Ave-Freeport-NY-11520/31376742_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,300/mo",
+      "priceLabel": "$2.3K",
+      "address": "93 N Ocean Ave, Freeport, NY 11520",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 530,
+      "latLong": {
+        "latitude": 40.66014,
+        "longitude": -73.58802
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31376742,
+          "streetAddress": "93 N Ocean Ave",
+          "zipcode": "11520",
+          "city": "Freeport",
+          "state": "NY",
+          "latitude": 40.66014,
+          "longitude": -73.58802,
+          "price": 2300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 530.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 844400,
+          "rentZestimate": 2396,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2300.0,
+          "timeOnZillow": 2588689000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 521000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Realty Greater",
+      "timeOnZillow": 2588689000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "440552438",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/25f4514febd2d280f4fc4fa797cef459-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2477-Park-Ave-FLOOR-2-Baldwin-NY-11510/440552438_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,500/mo",
+      "priceLabel": "$3.5K",
+      "address": "2477 Park Ave FLOOR 2, Baldwin, NY 11510",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1258,
+      "latLong": {
+        "latitude": 40.649967,
+        "longitude": -73.610176
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "66 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440552438,
+          "streetAddress": "2477 Park Ave FLOOR 2",
+          "zipcode": "11510",
+          "city": "Baldwin",
+          "state": "NY",
+          "latitude": 40.649967,
+          "longitude": -73.610176,
+          "price": 3500.0,
+          "datePriceChanged": 1732262400000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1258.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 22)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "priceChange": -200,
+          "timeOnZillow": 5705332000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Floor 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Coldwell Banker American Homes",
+      "timeOnZillow": 5705332000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2085319986",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/51526b6baa24c1fa016d30ab4838e833-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/39-Anchor-St-APT-J-Freeport-NY-11520/2085319986_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "price": "$2,800/mo",
+      "priceLabel": "$2.8K",
+      "address": "39 Anchor St APT J, Freeport, NY 11520",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.640015,
+        "longitude": -73.597946
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2085319986,
+          "streetAddress": "39 Anchor St APT J",
+          "zipcode": "11520",
+          "city": "Freeport",
+          "state": "NY",
+          "latitude": 40.640015,
+          "longitude": -73.597946,
+          "price": 2800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 364100,
+          "rentZestimate": 2726,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "timeOnZillow": 2901300000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt J",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Douglas Elliman",
+      "timeOnZillow": 2901300000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2132882175",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/10b3b15852beef022cfe381801f0690e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/250-W-Merrick-Rd-APT-1F-Freeport-NY-11520/2132882175_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "price": "$2,800/mo",
+      "priceLabel": "$2.8K",
+      "address": "250 W Merrick Rd APT 1F, Freeport, NY 11520",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 720,
+      "latLong": {
+        "latitude": 40.65265,
+        "longitude": -73.59127
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "50 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2132882175,
+          "streetAddress": "250 W Merrick Rd APT 1F",
+          "zipcode": "11520",
+          "city": "Freeport",
+          "state": "NY",
+          "latitude": 40.65265,
+          "longitude": -73.59127,
+          "price": 2800.0,
+          "datePriceChanged": 1732435200000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 720.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 203300,
+          "rentZestimate": 2889,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 24)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -200,
+          "timeOnZillow": 4334920000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1F",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: REAL ESTATE HOMES LLC",
+      "timeOnZillow": 4334920000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "plid": "583w7pq4hctqn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8cb9df2ae162b2ddf07724b2e4400b36-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/680-merrick-rd-baldwin-ny-97jDrL/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$3,750+/mo",
+      "address": "680 Merrick Rd, Baldwin, NY",
+      "minBeds": 3,
+      "minBaths": 1.0,
+      "lotId": 2010294498,
+      "latLong": {
+        "latitude": 40.65238,
+        "longitude": -73.61631
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "108 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "40.65238--73.61631",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 9339567000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "31361734",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8e2fcf950ab65b2dabd131462678149c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/265-Randall-Ave-Freeport-NY-11520/31361734_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$6,000/mo",
+      "priceLabel": "$6.0K",
+      "address": "265 Randall Ave, Freeport, NY 11520",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1626,
+      "latLong": {
+        "latitude": 40.658962,
+        "longitude": -73.59673
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "178 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31361734,
+          "streetAddress": "265 Randall Ave",
+          "zipcode": "11520",
+          "city": "Freeport",
+          "state": "NY",
+          "latitude": 40.658962,
+          "longitude": -73.59673,
+          "price": 6000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1626.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 683600,
+          "rentZestimate": 5814,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 6000.0,
+          "timeOnZillow": 15407418000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 456000.0,
+          "lotAreaValue": 9583.2,
+          "lotAreaUnit": "sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: NextHome Platinum Properties",
+      "timeOnZillow": 15407418000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "31364607",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/22fc176d3fee3e6a37049a96c14beb93-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2616-W-End-Ave-Baldwin-NY-11510/31364607_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,480/mo",
+      "priceLabel": "$2.5K",
+      "address": "2616 W End Ave, Baldwin, NY 11510",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.646004,
+        "longitude": -73.61598
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "40 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31364607,
+          "streetAddress": "2616 W End Ave",
+          "zipcode": "11510",
+          "city": "Baldwin",
+          "state": "NY",
+          "latitude": 40.646004,
+          "longitude": -73.61598,
+          "price": 2480.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2417,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2480.0,
+          "timeOnZillow": 3514590000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 608000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Lucksky Brothers Realty",
+      "timeOnZillow": 3514590000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "1471d1a7",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

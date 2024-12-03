@@ -1,0 +1,1081 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "29769257",
+      "id": "29769257",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3z9c7g24p7tcc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/891a3568e4f97a8319c6706b9d13bc6f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4125-Vestal-Rd-Vestal-NY-13850/29769257_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "4125 Vestal Rd, Vestal, NY 13850",
+      "addressStreet": "4125 Vestal Rd",
+      "addressCity": "Vestal",
+      "addressState": "NY",
+      "addressZipcode": "13850",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.097775,
+        "longitude": -75.97373
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29769257,
+          "streetAddress": "4125 Vestal Rd",
+          "zipcode": "13850",
+          "city": "Vestal",
+          "state": "NY",
+          "latitude": 42.097775,
+          "longitude": -75.97373,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 197300,
+          "rentZestimate": 1416,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 443088000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 175700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 197300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/891a3568e4f97a8319c6706b9d13bc6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/933d581e256314943957671696dd4845-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b8cd630fb71f8082e5a1ca56a566c26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1e8d878f3c824e5c6200ad5b6371a0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce59ae7b16f03ad60ae6e4334da66053-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca78284b1d8a207bdba09e44e0d81dfd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c442f447b8376a5e560d4e98b91eac04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29376a071b524fed27da014cc89c4cb0-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29772033",
+      "id": "29772033",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1rntwybseheuc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/35577b53b26337a51c8d18a83e279b56-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/833-Murray-Hill-Rd-Vestal-NY-13850/29772033_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "833 Murray Hill Rd, Vestal, NY 13850",
+      "addressStreet": "833 Murray Hill Rd",
+      "addressCity": "Vestal",
+      "addressState": "NY",
+      "addressZipcode": "13850",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.080685,
+        "longitude": -75.957695
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29772033,
+          "streetAddress": "833 Murray Hill Rd",
+          "zipcode": "13850",
+          "city": "Vestal",
+          "state": "NY",
+          "latitude": 42.080685,
+          "longitude": -75.957695,
+          "price": 2000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 204000,
+          "rentZestimate": 1955,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 452869000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 169700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 204000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Kost Property Management LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/35577b53b26337a51c8d18a83e279b56-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/265c9884ac1af20c80241d34d834722c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63bc53e8bf4e4b5f41d5257b72c3b70e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3da8936c01fcf24dbede77b50915c6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c013504cdde79ed5b5bed168fa58b36a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab303ef5bf7d585c54b2c21bff28d3d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/111446ac5d23ecb7765f35cda8e43e47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/686967f0c61d43723a80bdb6ae34a8b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd740826fd77b0cbfc505aacbeb41498-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/093fb5e53d238718e1c2b17aba37bb2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64ae16b614b5ebaf06987b7edca4001b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d165fc2a92766499b97ec3a0b504bf41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a928b30250b4e1b8b100b0cf9f755f68-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29722222",
+      "id": "29722222",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2xyaxrsmsnx8m",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d62815d1e57008f6e84b3f82256d422e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/72-Matthews-St-Binghamton-NY-13905/29722222_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,250/mo",
+      "unformattedPrice": 3250,
+      "address": "72 Matthews St, Binghamton, NY 13905",
+      "addressStreet": "72 Matthews St",
+      "addressCity": "Binghamton",
+      "addressState": "NY",
+      "addressZipcode": "13905",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 42.1016,
+        "longitude": -75.94246
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29722222,
+          "streetAddress": "72 Matthews St",
+          "zipcode": "13905",
+          "city": "Binghamton",
+          "state": "NY",
+          "latitude": 42.1016,
+          "longitude": -75.94246,
+          "price": 3250.0,
+          "bathrooms": 3.0,
+          "bedrooms": 5.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 145,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2482,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3250.0,
+          "timeOnZillow": 12545209000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 143333.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Bearcats Housing LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d62815d1e57008f6e84b3f82256d422e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03d9df862bd861539fff18fb884130a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cff91940221da558dca3b3f91863c2e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/151cd41c0aae7c0e1aabed4055679c62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/302cc5513cdfcb392e51d79467fbbe02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c29199f44e889b89b0fe8bd764339e0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40f9414396594e5ef93514c9a70ee04e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0522284840b6e11030d632caad51f978-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de5fe01e9199c4425b3fcecb6f0b6a63-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442791080",
+      "id": "442791080",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5c5j6crnz4gzh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0278afa57af990682f688010e54d8339-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/38-Hill-Ave-APT-6-Johnson-City-NY-13790/442791080_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "38 Hill Ave APT 6, Johnson City, NY 13790",
+      "addressStreet": "38 Hill Ave APT 6",
+      "addressCity": "Johnson City",
+      "addressState": "NY",
+      "addressZipcode": "13790",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.101555,
+        "longitude": -75.95379
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442791080,
+          "streetAddress": "38 Hill Ave APT 6",
+          "zipcode": "13790",
+          "city": "Johnson City",
+          "state": "NY",
+          "latitude": 42.101555,
+          "longitude": -75.95379,
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 100375000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 6",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0278afa57af990682f688010e54d8339-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/efa68cfc887d7ed9b0f090f00a00614f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b292be9fecb3fe28f4f537099466a1f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a00dbcc4154d1535c8a5f4da335bf16d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28bd5e0a0e87a752516f956dc47b2693-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21d086209a212f8473a32f0b104f13ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/265aaa6bebef4e6c0db60a910646b2db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80d0f92a2dda1ea2afb1c2d373857bcb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/94f90ad6c2613ef59245c66d85b4e251-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41397488d35f32ae5b6e13d6e09c3031-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f070d74416b418a219d0960a7de026c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e789188617ebc1e8ef2d172ee7677ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79d493d58610ffaa3ac40432c53efeb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3491933678cf5e81dfd61fddf1b24f5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c34bfcac4b029fb282358291c9a4df6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3d0d4fc415dc8a06b1733b31deb4374-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b728489196e294e6f9dd3f85d7890e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/592130163cd079369a6f9feb92400d34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2320a9a004e469c181a034311555287-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/49c2834517c7127c4841c8e00c8ad7ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eae6531dbdb9414823410404153bde9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bba3d3a71f60a8abee09d93b804ec03e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ab212147fa27fe18d00c73f261be593-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2ed1eeae288af9ddbe4acce63a11306-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/668568ec93786c9c7f1a9339ee969ec6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25fed7a09bd0ae1a09b433d7c9ecaa2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a87fc9545524fc183f0e00fd37a0c815-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7f8858911349b1ec23c2101770540cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3148f001cca076b9e9238d72a2c177e-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.10028--75.957375",
+      "id": "42.10028--75.957375",
+      "providerListingId": "4u1eacukx63p6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2d4a26f9aa1ec7e1a85d53dc3c622d44-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/260-ackley-ave-johnson-city-ny-987B2d/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "260 Ackley Ave, Johnson City, NY",
+      "addressStreet": "260 Ackley Ave  Floor 1",
+      "addressCity": "Johnson City",
+      "addressState": "NY",
+      "addressZipcode": "13790",
+      "units": [
+        {
+          "price": "$1,600+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2012523033,
+      "latLong": {
+        "latitude": 42.10028,
+        "longitude": -75.957375
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d4a26f9aa1ec7e1a85d53dc3c622d44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a05c9eec301ae3c7f18193f509a71971-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4b53cff9c9b2890477ef6eed206402d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7a4717c712e17ee10a83536b9bf85c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1460bfa9ff2b2abe40c9eb90ea7ce11a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36e1336852e2aa2059e4e7d88b533529-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7947c05c54c2f8a6fb033042d7307fe6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6a6729c8e9618ad5cf2d79a9d43a5bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea37e9be91516c89449d7b1eeaa60a45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14597274e2e1f40f4aeca32eda3d6c8a-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "2097044886",
+      "id": "2097044886",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "xhp09qadj94m",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cf1dbb21f3dcb5ed24d18188b130c1d8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/38-Floral-Ave-Binghamton-NY-13905/2097044886_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,625/mo",
+      "unformattedPrice": 2625,
+      "address": "38 Floral Ave, Binghamton, NY 13905",
+      "addressStreet": "38 Floral Ave",
+      "addressCity": "Binghamton",
+      "addressState": "NY",
+      "addressZipcode": "13905",
+      "isUndisclosedAddress": false,
+      "beds": 7,
+      "baths": 5.0,
+      "area": 3000,
+      "latLong": {
+        "latitude": 42.109455,
+        "longitude": -75.94826
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "35 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2097044886,
+          "streetAddress": "38 Floral Ave",
+          "zipcode": "13905",
+          "city": "Binghamton",
+          "state": "NY",
+          "latitude": 42.109455,
+          "longitude": -75.94826,
+          "price": 2625.0,
+          "bathrooms": 5.0,
+          "bedrooms": 7.0,
+          "livingArea": 3000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 35,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 222800,
+          "rentZestimate": 2772,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2625.0,
+          "timeOnZillow": 3026793000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 222800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-06-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf1dbb21f3dcb5ed24d18188b130c1d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c01a4d46be03d95122871a91e6aad51f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91d8680ea3260be24797c5ddd3e483dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fee6bd2dc395d0e6a46854f41304e925-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2f9c1e41be15e4814e0c7909b81382d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e351c202981b49edae7edd3b54878cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69b56da3a6d594968405d7e84c4860c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c782f58b44362b869616d0d179ba88c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bbdcd14957699e94a4d20468b43fa5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd035ad8854cb3e56e6da4d7971e3e31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9dff19bcc5fcbb7390834a409fa64cd3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8af40b71ccf982126692f99549f54e94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6784dce4e29ed2e9cf7408e33e7a6c1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edac9dfaf41348ba8d8473d2bfab14e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1823ddc6c3376bfe459f25950cdf0d78-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29756785",
+      "id": "29756785",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1823utdh4tpdz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6a24d2364f13e1b87b341bc868dc2a3c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/74-Ackley-Ave-Johnson-City-NY-13790/29756785_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "74 Ackley Ave, Johnson City, NY 13790",
+      "addressStreet": "74 Ackley Ave",
+      "addressCity": "Johnson City",
+      "addressState": "NY",
+      "addressZipcode": "13790",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1706,
+      "latLong": {
+        "latitude": 42.105362,
+        "longitude": -75.95978
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29756785,
+          "streetAddress": "74 Ackley Ave",
+          "zipcode": "13790",
+          "city": "Johnson City",
+          "state": "NY",
+          "latitude": 42.105362,
+          "longitude": -75.95978,
+          "price": 1500.0,
+          "datePriceChanged": 1731916800000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1706.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1424,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 18)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "priceChange": -100,
+          "timeOnZillow": 975576000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 95376.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-12 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Brick & Ivy Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a24d2364f13e1b87b341bc868dc2a3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/582db0b66daaacc9bb3814f74c090df7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10786a97e8f7475e1b0f3e01292f0bfd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39f54db383afa7a0c7a532085289cfb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f1ae2e9694357a31f78e471c9876a95-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e52b072b35b62e0af3bae48dcec05a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f309309e0702c8924a8785c87e8f707b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82b57fc169bd08863b9990b27c92bf8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/036e4c42ff27bde9a2e011a93dfba524-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0092e730cb637b74c9eaabe223a26a8-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "340046341",
+      "id": "340046341",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1b74cbuckuhxs",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5bebca26c602b57a59da04a20227668d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/38-Hill-Ave-5-Johnson-City-NY-13790/340046341_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "38 Hill Ave #5, Johnson City, NY 13790",
+      "addressStreet": "38 Hill Ave #5",
+      "addressCity": "Johnson City",
+      "addressState": "NY",
+      "addressZipcode": "13790",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.101562,
+        "longitude": -75.9538
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 340046341,
+          "streetAddress": "38 Hill Ave #5",
+          "zipcode": "13790",
+          "city": "Johnson City",
+          "state": "NY",
+          "latitude": 42.101562,
+          "longitude": -75.9538,
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1442,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 2421805000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 5",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bebca26c602b57a59da04a20227668d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/290beb7ac792e6587465206e6b7931f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/adfdc8562b049496b91da642a0f24233-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e91b773bfd12944a1c12aee06e803432-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9431cfa9bbe7314d58ea6fac5517dd56-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7126ada80445824a69d293d9d3d13bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d1d759f2a50ac18ccbdd11435c22713-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcb56a7659096e23fa86bf9c587fae6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4011d86a7b7e0ca56484e8870acefc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/994b7e1424cc62c38dc6abdfdb92a04c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2453915ed2e04a0e3d9da7c25dbeab00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eccba4e490e9c8e963d95f36b9523f50-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9fcb1720f584224d4ad94f1e49950bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb6fdcaa5d2fbb9f277d44948ac30029-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47716c4e02901b1d3fbf249d44db3ce4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/812375a865b2a13414ba1897d03d4a1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65562b09ab63d0e5b4c10e16202e3273-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b39ebde95a2323e55d87f882c8decf3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c80140594987fc1d1faae5652c8bb363-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1522c0335e12ed933fd145d7cf108ae-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1dc9805b"
+}

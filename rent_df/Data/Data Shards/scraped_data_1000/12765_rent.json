@@ -1,0 +1,331 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "67910722",
+      "id": "67910722",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "54dy3yt12ecz0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/53cb4cd2d85b17a649f0deca57b51627-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/362-Rose-Rd-Woodbourne-NY-12788/67910722_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "362 Rose Rd, Woodbourne, NY 12788",
+      "addressStreet": "362 Rose Rd",
+      "addressCity": "Woodbourne",
+      "addressState": "NY",
+      "addressZipcode": "12788",
+      "isUndisclosedAddress": false,
+      "beds": 8,
+      "baths": 3.0,
+      "area": 3200,
+      "latLong": {
+        "latitude": 41.807373,
+        "longitude": -74.59159
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 67910722,
+          "streetAddress": "362 Rose Rd",
+          "zipcode": "12788",
+          "city": "Woodbourne",
+          "state": "NY",
+          "latitude": 41.807373,
+          "longitude": -74.59159,
+          "price": 4500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 8.0,
+          "livingArea": 3200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 373500,
+          "rentZestimate": 4361,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 502223000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 366621.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 373500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Flag Realty Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/53cb4cd2d85b17a649f0deca57b51627-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/844f403b297bbea3a0d3456d9832de51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14a0a92eff40b5065b18e7e3e19d1b19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/298976a175761efe8654c19556f50a25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcad8caa2b9585add3adf134a462adaa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/203d8b2d8893456ad0d8e54ce171ea7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5420754998122cc2213c99e8e616a523-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9398faf0c8389972fef512f01e9c0e9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c9b9462cf1acad99f43d65ce5cbbb84-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9516d16440a85960a775863129b0de80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6bebb59359a3ed76009613093808d06d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de61749cb3f2ffd56742a073fdc82807-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33c9eeb5c7eabd1b57b7c5795fe9ebdc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/552cc807f9f0fcd5065e64c31837db06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80028a17fdb7f00638b4b3c2fc016bd8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2619b76011a3b0c8dd78f26ddf52f41d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d89e20af025cc81fa3d356de20ff1a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b662278e26a5245bf5216807bb90b02c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fc6e4d913a231e5e69b0f97fd1a5d85-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9edaf0617f1f971665b809644597d45c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3602d10d15c36f84391ba6dea5eccaeb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/433ddfa2873878f215429fcf81108310-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c634584586dfb73fe8bcb733a90a3cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef651995aca47d83e9b71e9fd25067b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea28a5e862a6a1566267a80c74cef11d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91533ae91c8cbb1cf4901683398b3f23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/352d0e3e9e1874bc662fd9da8bb0cd4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e752970d9b2751b1cb19b0f02ba2198-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0e41d5f8aebc1b9fccb2ad59db1e6d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb44b073d9a995950f2667f13e15d0d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95ae8ec7c9be133e41a46a8a304c85c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07b572d055b501b919a41df44da6b3cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8434941c253acdfe8ad487d3e3b05d8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04b364fa060cffb54dcf94d8277ecc01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65aff45f523f7c7da53f04ab2ee37627-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/774b2885b91f2f3e984018404f554e1b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2065398758",
+      "id": "2065398758",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4k02vg6c3358t",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c5c8a657eb58cf55ca15152824fa31ae-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/7-Denman-Mountain-Rd-1-Grahamsville-NY-12740/2065398758_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,100/mo",
+      "unformattedPrice": 1100,
+      "address": "7 Denman Mountain Rd #1, Grahamsville, NY 12740",
+      "addressStreet": "7 Denman Mountain Rd #1",
+      "addressCity": "Grahamsville",
+      "addressState": "NY",
+      "addressZipcode": "12740",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 41.85484,
+        "longitude": -74.55412
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2065398758,
+          "streetAddress": "7 Denman Mountain Rd #1",
+          "zipcode": "12740",
+          "city": "Grahamsville",
+          "state": "NY",
+          "latitude": 41.85484,
+          "longitude": -74.55412,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1180,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 231281000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Resort Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5c8a657eb58cf55ca15152824fa31ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4755eb0cc6bd448577a75b7da06a673-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5fe4ff5bf5c61c9ce78332727796b81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19b57ad2042f12a546cc4c8bcf271634-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69b9d9a088e98c15b29d8dcbf5740828-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b53f03b8fe09f807bd5b12d999c52344-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "700a3526"
+}

@@ -1,0 +1,800 @@
+{
+  "listResults": [
+    {
+      "zpid": "441839883",
+      "id": "441839883",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "294y3mcxdzbz1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/be4182ca61150a143453577c60b9ff06-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/albion-ny/canal-town-commons/CHzmd7/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "Canal Town Commons, 1 Lydun Drive Ext #16, Albion, NY 14411",
+      "addressStreet": "1 Lydun Drive Ext #16",
+      "addressCity": "Albion",
+      "addressState": "NY",
+      "addressZipcode": "14411",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 43.255722,
+        "longitude": -78.185974
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441839883,
+          "streetAddress": "1 Lydun Drive Ext #16",
+          "zipcode": "14411",
+          "city": "Albion",
+          "state": "NY",
+          "latitude": 43.255722,
+          "longitude": -78.185974,
+          "price": 950.0,
+          "datePriceChanged": 1729926000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 38,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "priceChange": 100,
+          "timeOnZillow": 3354359000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 16",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-13 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: DeGeorge Acquisition Group LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/be4182ca61150a143453577c60b9ff06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33ad1c7661634198e1ebda69655b1525-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d0efb5f9d43d1ab9951b0968633f08e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9bdfa1953344dc0b7e99f8fb297d8c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2cf8a7acb1b178f9652d46b2744e030-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98dbe064409600fbc6e27e38b04419ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6809a2b9f569039d83837b70cb56da32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33b6b3c32f3c8162f53eedea2a9f941b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f3b84797b7bbbd3ed77010fdfee5886-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/524cc40e50ddf968d5f0fdd6e8508aee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b46ac980d12cffac9d3fac782ddb517-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5dd6c7af14ea21092798d55fb8415231-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b4d56fcf46e210bbefffc426069541a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45d7d877f62f5b3d824b4460f6859a7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/423e13d9785a0c45b276c2c00c4246f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f2a88fbd66c9e84c973fd9ae95b0e22-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a685633d6dc72daa93b092bf4a5fe5d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2763e9e0bea9418c9a646611e7a407b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6c889a9ad899f905c74a1fc8a3d4acd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10c6b47a0a90aa5042f99364877af51d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aed54a54035ac73b341d5f2031e11ccb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fa11ea7914fabe322d3bc9c99c16190-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf23c6f6238c0270bc6d6f249c4e750b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/969e9e117b449aa5ff0234f56ac0f88c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6c5d036de622706c0b8c17f126c7571-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8889103cc1f91aa719aaccea7001e0f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e0e3d2d004b93d8890803c854f353b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa692e84c389b1eaf86278b9624f4e2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66631410aa2739b1766844f1e7ed2a74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbdd59cfe34a599effbb9df7297d545d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7ee07fbaa24609b494b3d4c073300b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4be7eb0b9f5ab728a796f35939349523-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80ed53483f53e2a0f2124801e7f690c5-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "373347663",
+      "id": "373347663",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2tu3jt4d08wup",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2229ec87a987ccd0de875d35b7feef38-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/waterport-ny/lake-country-gardens/Cd4pZg/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850/mo",
+      "unformattedPrice": 850,
+      "address": "Lake Country Gardens, 2049 Eagle Harbor Waterport Rd #9, Waterport, NY 14571",
+      "addressStreet": "2049 Eagle Harbor Waterport Rd #9",
+      "addressCity": "Waterport",
+      "addressState": "NY",
+      "addressZipcode": "14571",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 43.316303,
+        "longitude": -78.25096
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 373347663,
+          "streetAddress": "2049 Eagle Harbor Waterport Rd #9",
+          "zipcode": "14571",
+          "city": "Waterport",
+          "state": "NY",
+          "latitude": 43.316303,
+          "longitude": -78.25096,
+          "price": 850.0,
+          "datePriceChanged": 1732176000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 138,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 991,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "priceChange": -100,
+          "timeOnZillow": 11976760000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 9",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: DeGeorge Acquisition Group LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2229ec87a987ccd0de875d35b7feef38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91902ee5c6ab7ff345cee7c89ae69cae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/755546d23b4d967cfb0464b03b9b125e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc823d604634d25ac0edf3232c4e03ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7bc39c3ea69cf810731948f790c9ce97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d2e4d28e735306b1dc32db5717eb605-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10190b0e11ac8e2174996037311a2700-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06d8559b49c17e34cb8770941ba622b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d1068f87f4759879d14aa1c773788b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85acf50a0cde8beea0284b104e6bc393-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db9c7df7bcf89dd441e2b90c7f19e974-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfaf3b421e1b953d23c73e66ddab7753-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ae6ea6556bc1cffc53d77eddbc1bbcf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5486461db23ccb8aa570e417ba2e8f82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/94949cc1baee9b5c9412704e71ee0a71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae759f5a7a1e4042014b521ccec1d60a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43fe207a344b5006fbdd128f4e976ecb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4af34de1a6203e5bab5b32227fd93560-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ad61f47afe17daace5bd7bd5a08e93f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/251e959535a09a880bd5ac55056a6aef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dac246aac7f211275d71db223079d7db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb8bd42dff33c12921987eb8ffe7318c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e455f9a2a43c684a3bc7d6264754a5bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1465c2a680b679be3685d793913b0106-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7db893da98b15dee375d541b2f4a8fc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fef1587d7acebac619a09517c37977f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71d3a7689a62ba687ddc4fd6fd231002-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98c79db5c1b58598f0618fd17d87d9ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6966ed79c8757915fa4442f2fd600d21-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b8f3e0684922b0d737eb6b4b6e43611-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25f12a4f9b089315b03445c02a3e3e1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f15aecacf0fe49a05df4035830ea09bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7cb72d83d9d639fa1daf0dcecd3d483c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddd3fd26a877985f435100b90efd6a21-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b918033f9c8fd24a66b4250cbb369e6a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "345680103",
+      "id": "345680103",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "28n37bn5331pz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c1cb6b723394629cc72466d2d81f3c02-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/465-E-State-St-1-Albion-NY-14411/345680103_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,195/mo",
+      "unformattedPrice": 1195,
+      "address": "465 E State St #1, Albion, NY 14411",
+      "addressStreet": "465 E State St #1",
+      "addressCity": "Albion",
+      "addressState": "NY",
+      "addressZipcode": "14411",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.24738,
+        "longitude": -78.17916
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 345680103,
+          "streetAddress": "465 E State St #1",
+          "zipcode": "14411",
+          "city": "Albion",
+          "state": "NY",
+          "latitude": 43.24738,
+          "longitude": -78.17916,
+          "price": 1195.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1001,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1195.0,
+          "timeOnZillow": 410375000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1cb6b723394629cc72466d2d81f3c02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eddd8678697fe19a4da4d292794e2196-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff30ad8025c56332482f2921b77abd89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f11249ed195b5d54895da4357215eda1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16080deff8cdce3d018d321ced14531a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d31c6b934c3a358213e1f623a1013ebd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5968ac4f619a05b59e517a295f0676e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfb5080178c42ccc9cb9a69eaa15ef90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/726fa4da11818f6b4e36ca4907cac373-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "441839883",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/be4182ca61150a143453577c60b9ff06-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/albion-ny/canal-town-commons/CHzmd7/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "1 Lydun Drive Ext #16, Albion, NY 14411",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 43.255722,
+        "longitude": -78.185974
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441839883,
+          "streetAddress": "1 Lydun Drive Ext #16",
+          "zipcode": "14411",
+          "city": "Albion",
+          "state": "NY",
+          "latitude": 43.255722,
+          "longitude": -78.185974,
+          "price": 950.0,
+          "datePriceChanged": 1729926000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "priceChange": 100,
+          "timeOnZillow": 3354359000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 16",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-13 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: DeGeorge Acquisition Group LLC",
+      "timeOnZillow": 3354359000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "373347663",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2229ec87a987ccd0de875d35b7feef38-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/waterport-ny/lake-country-gardens/Cd4pZg/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$850/mo",
+      "priceLabel": "$850",
+      "address": "2049 Eagle Harbor Waterport Rd #9, Waterport, NY 14571",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 43.316303,
+        "longitude": -78.25096
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 373347663,
+          "streetAddress": "2049 Eagle Harbor Waterport Rd #9",
+          "zipcode": "14571",
+          "city": "Waterport",
+          "state": "NY",
+          "latitude": 43.316303,
+          "longitude": -78.25096,
+          "price": 850.0,
+          "datePriceChanged": 1732176000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 991,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "priceChange": -100,
+          "timeOnZillow": 11976760000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 9",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: DeGeorge Acquisition Group LLC",
+      "timeOnZillow": 11976760000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "345680103",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c1cb6b723394629cc72466d2d81f3c02-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/465-E-State-St-1-Albion-NY-14411/345680103_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,195/mo",
+      "priceLabel": "$1.2K",
+      "address": "465 E State St #1, Albion, NY 14411",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.24738,
+        "longitude": -78.17916
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 345680103,
+          "streetAddress": "465 E State St #1",
+          "zipcode": "14411",
+          "city": "Albion",
+          "state": "NY",
+          "latitude": 43.24738,
+          "longitude": -78.17916,
+          "price": 1195.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1001,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1195.0,
+          "timeOnZillow": 410375000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 410375000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "6ad612d",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

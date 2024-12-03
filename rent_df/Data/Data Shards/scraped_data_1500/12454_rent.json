@@ -1,0 +1,327 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "2096405374",
+      "id": "2096405374",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2x6tpy2pch324",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3fe221ef224ce7320bcef40274cc4dfc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Hensonville-NY-12439/2096405374_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$5,000/mo",
+      "unformattedPrice": 5000,
+      "address": "(undisclosed Address), Hensonville, NY 12439",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Hensonville",
+      "addressState": "NY",
+      "addressZipcode": "12439",
+      "isUndisclosedAddress": true,
+      "beds": 4,
+      "baths": 4.0,
+      "area": 2058,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2096405374,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12439",
+          "city": "Hensonville",
+          "state": "NY",
+          "price": 5000.0,
+          "bathrooms": 4.0,
+          "bedrooms": 4.0,
+          "livingArea": 2058.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 497200,
+          "rentZestimate": 4967,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5000.0,
+          "timeOnZillow": 380255000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 497200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fe221ef224ce7320bcef40274cc4dfc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0962523a7ab66908af48cbff3b62cb8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9d9f33c18bc7374afbcf6c295519d5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b467b13d3d8bb71c2385a87e52b4bce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87e4d2283217a0b73ed9924d45675aa6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3dcaf40fbbf988d8f5e24d401e45d1db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/432c26c6451ec2389a2bd512e7dec11a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f24359fc5730140e7f07ab7609262dac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d685240a421d13e0998f19bd49cd37d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/686a79df0d2b7a826ce7dda47f8b2cd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/802f2c50edff55b46704698151e94e92-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d52ff54cc99731d81e4735b7e0f5bfaa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e14191327380710a5bcfd419d34e3333-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13b44605ccabf6ab448f3693c28e215f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee5b87ec9915da3a47e20c88bc86d8fe-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30509156",
+      "id": "30509156",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1cp2qhu5k1se1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3a1a366f319ed95803dda6ee0448c89d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/170-Maplecrest-Rd-Hensonville-NY-12439/30509156_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$7,495/mo",
+      "unformattedPrice": 7495,
+      "address": "170 Maplecrest Rd, Hensonville, NY 12439",
+      "addressStreet": "170 Maplecrest Rd",
+      "addressCity": "Hensonville",
+      "addressState": "NY",
+      "addressZipcode": "12439",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 4.0,
+      "latLong": {
+        "latitude": 42.282913,
+        "longitude": -74.207344
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30509156,
+          "streetAddress": "170 Maplecrest Rd",
+          "zipcode": "12439",
+          "city": "Hensonville",
+          "state": "NY",
+          "latitude": 42.282913,
+          "longitude": -74.207344,
+          "price": 7495.0,
+          "bathrooms": 4.0,
+          "bedrooms": 5.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 33,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 577800,
+          "rentZestimate": 7016,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 7495.0,
+          "timeOnZillow": 2869011000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 344615.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 577800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Oxford Property Group USA",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a1a366f319ed95803dda6ee0448c89d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f55a5e15bf90062fd55e2f7f1e0dd75b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e81a9d4bef20d521522526b9c5f07cbf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71fb0ca974cced894cd8add70e7ae5f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/616928b96ecd47fb2f9a49c2868a245e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79b0472fbfa6410212167c203e7b079f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46e4295b97413ca81f4dc7a8df873a75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b31e18f3564b7a8038d09728c53b97ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9670f0c2b0b533870958445427069c90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b65e264f928c6f13eb6075bb84cc54f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e5f6c6fbc39864b094b2b0de5fcaf96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8859c67cd63c0f8d621fd101c028a32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f00c4b323e0a91d6dc9fbc18b8fbfccf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b02af2f9b01a79a1bc9ea11b93218f27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0422a144f5b10584750adefc6936eca5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78cec2c2618a8bed63dd4ce22de4060d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44e74d3e405f4cc3687f66469250fe7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b19d2b27c538fdcea4faacf091f8215-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62a331075be0d9811588947545b6a2f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d9bfb59af75aeb583a90438d1f56127-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18e7d9c442bad32dbc943b201e3902db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9daee2e95a37952d099ff3dad22f6e81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1907fe8da0c8ac060c5aac2db15d3c4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c49c550a2f05427e3a86b3e989f8870d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95e56fb2985098a8647bfde7f0019fb0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29765777e4c28eff43426bbd24e56c01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7145f5e5f561554f4a12a1c77e4270ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73e1396656c74e4be0b06a4991bc2ae0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc45a47b9a8b28e10fb42982cf917fb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1396e90f1b505bfa22335c71048461da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/460c86a0b4c7b54639a0ba2aab8a0ef4-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "22ed30a0"
+}

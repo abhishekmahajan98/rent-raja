@@ -1,0 +1,216 @@
+{
+  "listResults": [
+    {
+      "zpid": "2096136808",
+      "id": "2096136808",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1t7hw4s3xw78n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/98ffad2eacddc871c3f92c6993dc72bf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1107-N-Creek-Rd-TRLR-61-Porter-Corners-NY-12859/2096136808_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,295/mo",
+      "unformattedPrice": 1295,
+      "address": "1107 N Creek Rd TRLR 61, Porter Corners, NY 12859",
+      "addressStreet": "1107 N Creek Rd TRLR 61",
+      "addressCity": "Porter Corners",
+      "addressState": "NY",
+      "addressZipcode": "12859",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 980,
+      "latLong": {
+        "latitude": 43.138634,
+        "longitude": -73.88855
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2096136808,
+          "streetAddress": "1107 N Creek Rd TRLR 61",
+          "zipcode": "12859",
+          "city": "Porter Corners",
+          "state": "NY",
+          "latitude": 43.138634,
+          "longitude": -73.88855,
+          "price": 1295.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 980.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1521,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "timeOnZillow": 409678000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Trlr 61",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/98ffad2eacddc871c3f92c6993dc72bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af532cd6e9498da75a9d4bbea8859f39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f678875f3618031a4079099946a3b08a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d79c7d8097b4750994250835cec0fab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fee9cca38c267d79d9edb4073010d0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4be3e10b5d4c42502f2da51f3214037a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dba660229206ab090954e49ca92a697-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c974eda85dcdaaff6e863a565128731-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e61b932f9fd532862cf148532f39a14-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2096136808",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/98ffad2eacddc871c3f92c6993dc72bf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1107-N-Creek-Rd-TRLR-61-Porter-Corners-NY-12859/2096136808_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,295/mo",
+      "priceLabel": "$1.3K",
+      "address": "1107 N Creek Rd TRLR 61, Porter Corners, NY 12859",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 980,
+      "latLong": {
+        "latitude": 43.138634,
+        "longitude": -73.88855
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2096136808,
+          "streetAddress": "1107 N Creek Rd TRLR 61",
+          "zipcode": "12859",
+          "city": "Porter Corners",
+          "state": "NY",
+          "latitude": 43.138634,
+          "longitude": -73.88855,
+          "price": 1295.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 980.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1521,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "timeOnZillow": 409678000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Trlr 61",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "timeOnZillow": 409678000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "2365ef26",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

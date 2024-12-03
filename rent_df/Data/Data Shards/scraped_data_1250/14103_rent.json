@@ -1,0 +1,1234 @@
+{
+  "listResults": [
+    {
+      "zpid": "442774351",
+      "id": "442774351",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3s1ne4x7uyhd0",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=43.21662139892578,-78.39073944091797&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=q0uA-5ch3uxxvaby4GC-JH-HS3I=",
+      "detailUrl": "https://www.zillow.com/homedetails/715-Gwinn-St-1-Medina-NY-14103/442774351_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,295/mo",
+      "unformattedPrice": 1295,
+      "address": "715 Gwinn St #1, Medina, NY 14103",
+      "addressStreet": "715 Gwinn St #1",
+      "addressCity": "Medina",
+      "addressState": "NY",
+      "addressZipcode": "14103",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=43.21662139892578,-78.39073944091797&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=wg6bkkZbVrwO6hBl2peyHZhzWGA=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=43.21662139892578,-78.39073944091797&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=p3OD5dw0TICmDX59PVHj330JDj4=",
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.21662,
+        "longitude": -78.39074
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442774351,
+          "streetAddress": "715 Gwinn St #1",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.21662,
+          "longitude": -78.39074,
+          "price": 1295.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "timeOnZillow": 229675000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2081478384",
+      "id": "2081478384",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4e90xjb6hrk36",
+      "imgSrc": "https://photos.zillowstatic.com/fp/14698f04914f1b6b830ece8c5941a0cd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/507-Ohio-St-APT-2-Medina-NY-14103/2081478384_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$875/mo",
+      "unformattedPrice": 875,
+      "address": "507 Ohio St APT 2, Medina, NY 14103",
+      "addressStreet": "507 Ohio St APT 2",
+      "addressCity": "Medina",
+      "addressState": "NY",
+      "addressZipcode": "14103",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.219795,
+        "longitude": -78.396576
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2081478384,
+          "streetAddress": "507 Ohio St APT 2",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.219795,
+          "longitude": -78.396576,
+          "price": 875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 795,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 875.0,
+          "timeOnZillow": 183699000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-25 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/14698f04914f1b6b830ece8c5941a0cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f828ac5f0e8e7fd6cff19246160a101e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/284904d191d93a5545b9972c7fb0131f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ea6c17edee49b137a528acf6b83e87b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8747fd4f5f3150f36c3c72acf072aaf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/482b3289842d2db95fe4d2bf7fc8a27f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99426a27d5dea27abbde6174e7db9646-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/619c3070911a882a75e387a3fd11bd8b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2518756919cf6e800d04e8d3ad2b1026-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9f6f8ca471a6a7ea2ed6945444ab767-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a00789404dab6c129e82d7c31e24bc0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/543e027528147a8fef77c6f41c2eee87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffeff7378faa8be0b8c1e2c698b7f869-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bec40e4b6feb14cd06808e52f2b587ec-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2062598888",
+      "id": "2062598888",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "31qeezb9fqas",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4acfb89afa652b0070c1eaf023f39f93-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/103-North-Ave-1-Medina-NY-14103/2062598888_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,195/mo",
+      "unformattedPrice": 1195,
+      "address": "103 North Ave #1, Medina, NY 14103",
+      "addressStreet": "103 North Ave #1",
+      "addressCity": "Medina",
+      "addressState": "NY",
+      "addressZipcode": "14103",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 43.217033,
+        "longitude": -78.386925
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062598888,
+          "streetAddress": "103 North Ave #1",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.217033,
+          "longitude": -78.386925,
+          "price": 1195.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1132,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1195.0,
+          "timeOnZillow": 2188731000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4acfb89afa652b0070c1eaf023f39f93-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442099810",
+      "id": "442099810",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3h2j6fdkenmv5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ae047308fad75aad6a058feecbd9c250-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/215-Pearl-St-3-Medina-NY-14103/442099810_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$695/mo",
+      "unformattedPrice": 695,
+      "address": "215 Pearl St #3, Medina, NY 14103",
+      "addressStreet": "215 Pearl St #3",
+      "addressCity": "Medina",
+      "addressState": "NY",
+      "addressZipcode": "14103",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 43.221622,
+        "longitude": -78.38988
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442099810,
+          "streetAddress": "215 Pearl St #3",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.221622,
+          "longitude": -78.38988,
+          "price": 695.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 29,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 695.0,
+          "timeOnZillow": 2530091000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-26 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Skyroc Properties and Asset Management, Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae047308fad75aad6a058feecbd9c250-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b05d1d1432fbc8b91e337a6c1cff4e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4efc2b7276029aa37b958419bfe3588d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b30753c5ceda2104e15ca5bc0ff86728-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec7bc6c4732741baf553dc0cf6926529-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1d6fc8bc0fa797b3bfededf787fb9bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d27fce1aad0d5d68358dc0aaa0df92d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b587fd0673443972101bfef9ad8b73c-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "439640106",
+      "id": "439640106",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1zkn3k9fcsvx1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9e9fd6e5f192f282f0a2b15deb1bd686-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/11328-Ridge-Rd-3-Medina-NY-14103/439640106_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$995/mo",
+      "unformattedPrice": 995,
+      "address": "11328 Ridge Rd #3, Medina, NY 14103",
+      "addressStreet": "11328 Ridge Rd #3",
+      "addressCity": "Medina",
+      "addressState": "NY",
+      "addressZipcode": "14103",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 43.266167,
+        "longitude": -78.39029
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "89 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439640106,
+          "streetAddress": "11328 Ridge Rd #3",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.266167,
+          "longitude": -78.39029,
+          "price": 995.0,
+          "datePriceChanged": 1729494000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 89,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$5 (Oct 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 995.0,
+          "priceChange": -5,
+          "timeOnZillow": 7711632000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e9fd6e5f192f282f0a2b15deb1bd686-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e956ed5276887a76cb52d61a6e796933-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ccf881d54d6ac4842ed40fdc8db0d18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01a4abd5b9816146f21cb1010f3e084a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/329a11f132b99bdf0128587caaba55cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9a0d85aa59cce9778ae1df06eb20688-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f3304f86167ca1ecdcad91da24058e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29ba554af28e3078a9492e6005f4aab7-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441588479",
+      "id": "441588479",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "325av4bvtp7dv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7a1365b61c4a6df6d9d872e8da311bfa-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/459-E-Oak-Orchard-St-Medina-NY-14103/441588479_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,600/mo",
+      "unformattedPrice": 3600,
+      "address": "459 E Oak Orchard St, Medina, NY 14103",
+      "addressStreet": "459 E Oak Orchard St",
+      "addressCity": "Medina",
+      "addressState": "NY",
+      "addressZipcode": "14103",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 10028,
+      "latLong": {
+        "latitude": 43.214645,
+        "longitude": -78.37265
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "47 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441588479,
+          "streetAddress": "459 E Oak Orchard St",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.214645,
+          "longitude": -78.37265,
+          "price": 3600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 10028.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 47,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "timeOnZillow": 4144215000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Berkshire Hathaway Homeservices Zambito Realtors",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a1365b61c4a6df6d9d872e8da311bfa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e60eb2af27b8befa100fc41d8df4933f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4542764368129884ac42dcde6ccb8bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39e300b353cef28788b29fb8fc7cdd18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da501625bbcf0db3d3f91ce4bdd9cc04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52c2cc37508af766f0d5e65aec58dd8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2bafa95ebcd8850dccbea6c5bd2d49e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4d8873e4467a45cf72c81ebbc6bd4a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5df2380fe7e257b7fb1fb23e7f322848-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a708f41c6a37960d13020c92cff662f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/708aeb4cc3d6f3be6f2cd11ad6fa593d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72f7d4de8f4a754ad7a08501612c0f8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a7d62ec545a6e5d8b6cd109a0dec5bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2aca0d8aab2494db370a8b7617d58df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bceb044390906aa10349fa324f7d6381-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8c081dd575be1ed85f94b4bf338be9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8afff2f9fc7daabad16d3b0d14b41dfa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ed48a7722eddc7c6cad111b2526a41a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97b765ee7a0df165d985ba00a7bcb6eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcb902c5c48771080c4590912f99495e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56c1d71906cbd3cee0d7baa3ba86a0b8-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442774351",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=43.21662139892578,-78.39073944091797&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=q0uA-5ch3uxxvaby4GC-JH-HS3I=",
+      "detailUrl": "/homedetails/715-Gwinn-St-1-Medina-NY-14103/442774351_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,295/mo",
+      "priceLabel": "$1.3K",
+      "address": "715 Gwinn St #1, Medina, NY 14103",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=43.21662139892578,-78.39073944091797&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=wg6bkkZbVrwO6hBl2peyHZhzWGA=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=43.21662139892578,-78.39073944091797&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=p3OD5dw0TICmDX59PVHj330JDj4=",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.21662,
+        "longitude": -78.39074
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442774351,
+          "streetAddress": "715 Gwinn St #1",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.21662,
+          "longitude": -78.39074,
+          "price": 1295.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "timeOnZillow": 229675000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 229675000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2081478384",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/14698f04914f1b6b830ece8c5941a0cd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/507-Ohio-St-APT-2-Medina-NY-14103/2081478384_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$875/mo",
+      "priceLabel": "$875",
+      "address": "507 Ohio St APT 2, Medina, NY 14103",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.219795,
+        "longitude": -78.396576
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2081478384,
+          "streetAddress": "507 Ohio St APT 2",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.219795,
+          "longitude": -78.396576,
+          "price": 875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 795,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 875.0,
+          "timeOnZillow": 183699000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-25 00:00:00",
+      "visited": false,
+      "timeOnZillow": 183699000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2062598888",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4acfb89afa652b0070c1eaf023f39f93-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/103-North-Ave-1-Medina-NY-14103/2062598888_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,195/mo",
+      "priceLabel": "$1.2K",
+      "address": "103 North Ave #1, Medina, NY 14103",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 43.217033,
+        "longitude": -78.386925
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062598888,
+          "streetAddress": "103 North Ave #1",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.217033,
+          "longitude": -78.386925,
+          "price": 1195.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1132,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1195.0,
+          "timeOnZillow": 2188731000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2188731000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442099810",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ae047308fad75aad6a058feecbd9c250-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/215-Pearl-St-3-Medina-NY-14103/442099810_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$695/mo",
+      "priceLabel": "$695",
+      "address": "215 Pearl St #3, Medina, NY 14103",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 43.221622,
+        "longitude": -78.38988
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442099810,
+          "streetAddress": "215 Pearl St #3",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.221622,
+          "longitude": -78.38988,
+          "price": 695.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 695.0,
+          "timeOnZillow": 2530091000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-26 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Skyroc Properties and Asset Management, Inc.",
+      "timeOnZillow": 2530091000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "439640106",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9e9fd6e5f192f282f0a2b15deb1bd686-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/11328-Ridge-Rd-3-Medina-NY-14103/439640106_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$995/mo",
+      "priceLabel": "$995",
+      "address": "11328 Ridge Rd #3, Medina, NY 14103",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 43.266167,
+        "longitude": -78.39029
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "89 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439640106,
+          "streetAddress": "11328 Ridge Rd #3",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.266167,
+          "longitude": -78.39029,
+          "price": 995.0,
+          "datePriceChanged": 1729494000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$5 (Oct 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 995.0,
+          "priceChange": -5,
+          "timeOnZillow": 7711632000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 7711632000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441588479",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7a1365b61c4a6df6d9d872e8da311bfa-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/459-E-Oak-Orchard-St-Medina-NY-14103/441588479_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,600/mo",
+      "priceLabel": "$3.6K",
+      "address": "459 E Oak Orchard St, Medina, NY 14103",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 10028,
+      "latLong": {
+        "latitude": 43.214645,
+        "longitude": -78.37265
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "47 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441588479,
+          "streetAddress": "459 E Oak Orchard St",
+          "zipcode": "14103",
+          "city": "Medina",
+          "state": "NY",
+          "latitude": 43.214645,
+          "longitude": -78.37265,
+          "price": 3600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 10028.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "timeOnZillow": 4144215000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Berkshire Hathaway Homeservices Zambito Realtors",
+      "timeOnZillow": 4144215000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "597e860d",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

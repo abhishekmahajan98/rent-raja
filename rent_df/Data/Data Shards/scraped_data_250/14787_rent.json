@@ -1,0 +1,614 @@
+{
+  "listResults": [
+    {
+      "zpid": "442748348",
+      "id": "442748348",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4fkvhmga4qq3e",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e4e90f0d9e3775492656a8a4da8c566c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/6-Memorial-Dr-1-Mayville-NY-14757/442748348_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "6 Memorial Dr #1, Mayville, NY 14757",
+      "addressStreet": "6 Memorial Dr #1",
+      "addressCity": "Mayville",
+      "addressState": "NY",
+      "addressZipcode": "14757",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.235607,
+        "longitude": -79.49306
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442748348,
+          "streetAddress": "6 Memorial Dr #1",
+          "zipcode": "14757",
+          "city": "Mayville",
+          "state": "NY",
+          "latitude": 42.235607,
+          "longitude": -79.49306,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 265603000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4e90f0d9e3775492656a8a4da8c566c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e3bb4b84dd56ec3d25dcbe0787b9980-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e20c4595a71574f89b1931761e8879c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65643ee14a6b5b5d21bbbcf2e62bc028-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/225bd268c540001bf85cf0f68be5eb5c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/697ece508b4275e176daff6ce798bc54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6a11f752b8a7daed15083daafafbeae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7059e2bb0d65350b085d6006c4596368-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2082153728",
+      "id": "2082153728",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3quaw5j12865y",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6ed5c29f12dfc91692254420e730d88b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/65-Cass-St-APT-1-Westfield-NY-14787/2082153728_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$875/mo",
+      "unformattedPrice": 875,
+      "address": "65 Cass St APT 1, Westfield, NY 14787",
+      "addressStreet": "65 Cass St APT 1",
+      "addressCity": "Westfield",
+      "addressState": "NY",
+      "addressZipcode": "14787",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 42.330967,
+        "longitude": -79.57265
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082153728,
+          "streetAddress": "65 Cass St APT 1",
+          "zipcode": "14787",
+          "city": "Westfield",
+          "state": "NY",
+          "latitude": 42.330967,
+          "longitude": -79.57265,
+          "price": 875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1145,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 875.0,
+          "timeOnZillow": 807740000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ed5c29f12dfc91692254420e730d88b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dda39bb9ebb55ad7405690a25fddf70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbe661dde94d199feeabe69d788cb49e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbf66b0bb55343f7f855a4bac4db567d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2df7ba513805a0fdbad75f412a20e886-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c1c6a2207bdcdcff90791d980bc968a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7cd7a530a9378c7f6dbf61fc3e890f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b3e8df9795b83d06b77c61b8a7fd4a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc1186bf3a89e8ba67ddb2506adde54f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75e805056c0e7d4185d225cf1f564408-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c63376863b97b6566111515c85c4c70a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29928870",
+      "id": "29928870",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "440xepqf2ft43",
+      "imgSrc": "https://photos.zillowstatic.com/fp/efd1aac1317ec49483c7c80e65f1985f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/28-E-2nd-St-Westfield-NY-14787/29928870_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,995/mo",
+      "unformattedPrice": 1995,
+      "address": "28 E 2nd St, Westfield, NY 14787",
+      "addressStreet": "28 E 2nd St",
+      "addressCity": "Westfield",
+      "addressState": "NY",
+      "addressZipcode": "14787",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1896,
+      "latLong": {
+        "latitude": 42.318768,
+        "longitude": -79.57368
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "113 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29928870,
+          "streetAddress": "28 E 2nd St",
+          "zipcode": "14787",
+          "city": "Westfield",
+          "state": "NY",
+          "latitude": 42.318768,
+          "longitude": -79.57368,
+          "price": 1995.0,
+          "datePriceChanged": 1725951600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1896.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 113,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 137800,
+          "rentZestimate": 2011,
+          "listing_sub_type": {},
+          "priceReduction": "$155 (Sep 10)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1995.0,
+          "priceChange": -155,
+          "timeOnZillow": 9843572000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 108235.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 137800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/efd1aac1317ec49483c7c80e65f1985f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442748348",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e4e90f0d9e3775492656a8a4da8c566c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/6-Memorial-Dr-1-Mayville-NY-14757/442748348_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "6 Memorial Dr #1, Mayville, NY 14757",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.235607,
+        "longitude": -79.49306
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442748348,
+          "streetAddress": "6 Memorial Dr #1",
+          "zipcode": "14757",
+          "city": "Mayville",
+          "state": "NY",
+          "latitude": 42.235607,
+          "longitude": -79.49306,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 265603000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 265603000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2082153728",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6ed5c29f12dfc91692254420e730d88b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/65-Cass-St-APT-1-Westfield-NY-14787/2082153728_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$875/mo",
+      "priceLabel": "$875",
+      "address": "65 Cass St APT 1, Westfield, NY 14787",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 42.330967,
+        "longitude": -79.57265
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082153728,
+          "streetAddress": "65 Cass St APT 1",
+          "zipcode": "14787",
+          "city": "Westfield",
+          "state": "NY",
+          "latitude": 42.330967,
+          "longitude": -79.57265,
+          "price": 875.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1145,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 875.0,
+          "timeOnZillow": 807740000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 807740000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "29928870",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/efd1aac1317ec49483c7c80e65f1985f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/28-E-2nd-St-Westfield-NY-14787/29928870_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,995/mo",
+      "priceLabel": "$2.0K",
+      "address": "28 E 2nd St, Westfield, NY 14787",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1896,
+      "latLong": {
+        "latitude": 42.318768,
+        "longitude": -79.57368
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "113 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29928870,
+          "streetAddress": "28 E 2nd St",
+          "zipcode": "14787",
+          "city": "Westfield",
+          "state": "NY",
+          "latitude": 42.318768,
+          "longitude": -79.57368,
+          "price": 1995.0,
+          "datePriceChanged": 1725951600000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1896.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 137800,
+          "rentZestimate": 2011,
+          "listing_sub_type": {},
+          "priceReduction": "$155 (Sep 10)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1995.0,
+          "priceChange": -155,
+          "timeOnZillow": 9843572000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 108235.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 9843572000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "2c7c7d20",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

@@ -1,0 +1,2905 @@
+{
+  "listResults": [
+    {
+      "zpid": "442333689",
+      "id": "442333689",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2w5trpgamq8h6",
+      "detailUrl": "https://www.zillow.com/homedetails/Franklin-Square-NY-11010/442333689_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,700/mo",
+      "unformattedPrice": 2700,
+      "address": "(undisclosed Address), Franklin Square, NY 11010",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442333689,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "price": 2700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 531200,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "timeOnZillow": 1699483000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 531200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442768738",
+      "id": "442768738",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "25ek9zjvz1cc1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f5c385aec3c83e5b6eda06bbca19fb4c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Franklin-Square-NY-11010/442768738_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "(undisclosed Address), Franklin Square, NY 11010",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442768738,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "price": 2500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 164073000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-21 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keystone Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5c385aec3c83e5b6eda06bbca19fb4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6fc3e2dedf9c0b73e3d965f61a39254-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b6f22cc1e39484839181347ba026050-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86fb619b644330c1bec2548dc49b892c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6685e91e40ebd84660bfb532fe738464-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd79e9b53e1ed84abf124fc3315b849c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82de51064c9dcd93a898bb2ba1a9a24c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1206508c8fcd5cf3193768338e416768-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82861f98ef6d12ccec9c1298535b1b59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e612ddb8a2681321026060ac901e61e1-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31214512",
+      "id": "31214512",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1dm3v1n20vawz",
+      "detailUrl": "https://www.zillow.com/homedetails/Franklin-Square-NY-11010/31214512_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,750/mo",
+      "unformattedPrice": 2750,
+      "address": "(undisclosed Address), Franklin Square, NY 11010",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31214512,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "price": 2750.0,
+          "datePriceChanged": 1731571200000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 961200,
+          "rentZestimate": 3781,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 14)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2750.0,
+          "priceChange": -50,
+          "timeOnZillow": 838388000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 961200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-13 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31213979",
+      "id": "31213979",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4dmkxgffwk7vg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/627cb095bdbbe09efcb09e14af907976-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Franklin-Square-NY-11010/31213979_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "(undisclosed Address), Franklin Square, NY 11010",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": true,
+      "beds": 0,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31213979,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 767300,
+          "rentZestimate": 1982,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 661986000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 767300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/627cb095bdbbe09efcb09e14af907976-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46066c6a499901d7f88a502f4c958487-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f23e8ed10ef7992912d168f678bc8bb8-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31206602",
+      "id": "31206602",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "56ra729n0b50z",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bb04db2e57ff7c5e6ac08089cd17c22e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/271-Semton-Blvd-Franklin-Square-NY-11010/31206602_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,800/mo",
+      "unformattedPrice": 3800,
+      "address": "271 Semton Blvd, Franklin Square, NY 11010",
+      "addressStreet": "271 Semton Blvd",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 40.700165,
+        "longitude": -73.6647
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "38 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31206602,
+          "streetAddress": "271 Semton Blvd",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "latitude": 40.700165,
+          "longitude": -73.6647,
+          "price": 3800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 38,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 627400,
+          "rentZestimate": 3636,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3800.0,
+          "timeOnZillow": 3295112000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 429000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 627400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb04db2e57ff7c5e6ac08089cd17c22e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d545fa3cf2597334e9266a7cea84875-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0d908525e0f6f3d6761ee91d3f0d49e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19912c992a97a9786a5842c89b06dd9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4da160f57992d87477f66259c5506e1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6dc09cc9fb85d4f734132fb9553e4e10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8058766142e73e5aef601cd3fca43d1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32a8cac76b7a9211211685dcf885db2d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31189146",
+      "id": "31189146",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2cyqrhpsqjx82",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4c39755afc1978879a5f917ea0148439-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Franklin-Square-NY-11010/31189146_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,700/mo",
+      "unformattedPrice": 2700,
+      "address": "(undisclosed Address), Franklin Square, NY 11010",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 890,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31189146,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "price": 2700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 890.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 633700,
+          "rentZestimate": 3135,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "timeOnZillow": 1226366000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 633700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: John Savoretti Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c39755afc1978879a5f917ea0148439-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d234865ff0bf7109c402cb9cb43fcd30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f26294f2bf739f278352efb4abddcfe7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/921d8cc41db954a059ebcc062145fdbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84ea7d796e7cfeb80dc7b7364e702b1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ec7276794c8d2e49fa51f22d4396d81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a377e4a410bbe6b1471c7d1be8b54b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/acd4c64c72928e65757d59d210f13443-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c11c083529daf3b468b7735d07daa51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04ca0680812883f57a2e9c6ba2a72d84-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5d172ebb5ba28d418f8d9f18f3d4708-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7eedf1012dee68313147921cdf1cc11e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0030346bb286f5940acd8f0e9eb4c18-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441954122",
+      "id": "441954122",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3fubt9313dbm3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/37fc4391bd7d7b78022da234376009ab-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Franklin-Square-NY-11010/441954122_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,600/mo",
+      "unformattedPrice": 2600,
+      "address": "(undisclosed Address), Franklin Square, NY 11010",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "32 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441954122,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "price": 2600.0,
+          "datePriceChanged": 1731398400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 32,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 12)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "priceChange": -200,
+          "timeOnZillow": 2846199000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: John Savoretti Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/37fc4391bd7d7b78022da234376009ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64e9f8df308ec544b881dcb62218c76b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/429c8534c68d8d1b3d0294fc86a7486c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89c9912099f16f3bb3c5d1682f48a947-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2038ea5dd9ab89e84692baea3ef7a57d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12a0345a91faccded93913bb8f2fec3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09adf7ec922638a2792ddc17a44bad09-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31204664",
+      "id": "31204664",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4dt5qg1kyej2g",
+      "detailUrl": "https://www.zillow.com/homedetails/Franklin-Square-NY-11010/31204664_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,750/mo",
+      "unformattedPrice": 1750,
+      "address": "(undisclosed Address), Franklin Square, NY 11010",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "38 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31204664,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "price": 1750.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 900.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 38,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 663300,
+          "rentZestimate": 1901,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "timeOnZillow": 3339191000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 663300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: voro llc",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442344771",
+      "id": "442344771",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4jtw8hc83bu38",
+      "imgSrc": "https://photos.zillowstatic.com/fp/07966e411cc52c4d90d001ef7ecc5ad6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Franklin-Square-NY-11010/442344771_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,700/mo",
+      "unformattedPrice": 1700,
+      "address": "(undisclosed Address), Franklin Square, NY 11010",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442344771,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "price": 1700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 1642141000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/07966e411cc52c4d90d001ef7ecc5ad6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/069156e2d26a0b151fe120749943a139-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46bbc3ca3f5d401cdb0b951f7b35ba90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2448d5f68ede8ccd1ba1497a9c5564c3-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "167518935",
+      "id": "167518935",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "45cvcsmp5qrph",
+      "imgSrc": "https://photos.zillowstatic.com/fp/670f78333cd6dbf4b10a5387143b65d6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Franklin-Square-NY-11010/167518935_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "(undisclosed Address), Franklin Square, NY 11010",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "62 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 167518935,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 62,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1778,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 5358760000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Sewanhaka Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/670f78333cd6dbf4b10a5387143b65d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02b8f002fef235a5a768f38b2c2be2ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7849ac977ebbe1ddd8e53eaeaf496856-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10530c4cbdd7eed675d310264d882531-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72fdb2d1950d91a1d2c585fc513f8918-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9aad8b5cd014fd6e675376c921e229f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2053554470",
+      "id": "2053554470",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2x58pk9w025sv",
+      "detailUrl": "https://www.zillow.com/homedetails/Franklin-Square-NY-11010/2053554470_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "(undisclosed Address), Franklin Square, NY 11010",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053554470,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2197,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 235021000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440958514",
+      "id": "440958514",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "be9zr0sp05rd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/aeb431d2620f1b4e8501e9d7024e0062-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Franklin-Square-NY-11010/440958514_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "(undisclosed Address), Franklin Square, NY 11010",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440958514,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "price": 2500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 850563000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: X-Cap Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/aeb431d2620f1b4e8501e9d7024e0062-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c16e5262890a8ae48186f3e636e37af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae5efaacd628bf3bd4aa33f5c7a039c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a02ad688d90bbf82f5f2b8e1b306b65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c40224b4847c4734c84e74bcad675a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0fd395b5a92c9980f968d6f86a930d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7733c3f992a73158c5e13cd8f14cbf2a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31215125",
+      "id": "31215125",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "31puxm0uqf96r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/14c8af0ec13d5ee9c91b84fdeefa4751-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/West-Hempstead-NY-11552/31215125_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,850/mo",
+      "unformattedPrice": 2850,
+      "address": "(undisclosed Address), West Hempstead, NY 11552",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "West Hempstead",
+      "addressState": "NY",
+      "addressZipcode": "11552",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31215125,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11552",
+          "city": "West Hempstead",
+          "state": "NY",
+          "price": 2850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 718800,
+          "rentZestimate": 2838,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2850.0,
+          "timeOnZillow": 554529000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 718800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: voro llc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/14c8af0ec13d5ee9c91b84fdeefa4751-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9b147ab6d24f7edc2c8ad6c405b5369-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5da59a958e7c8d50c572794272dec0a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/258ff802f394dcaa1d2a1733cd325ecf-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442317080",
+      "id": "442317080",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1nje4td0d2145",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6a61cd601cac4904473308f536943fda-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1099-Park-Ln-N-1-Franklin-Square-NY-11010/442317080_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,800/mo",
+      "unformattedPrice": 3800,
+      "address": "1099 Park Ln N #1, Franklin Square, NY 11010",
+      "addressStreet": "1099 Park Ln N #1",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 1.0,
+      "area": 1277,
+      "latLong": {
+        "latitude": 40.69007,
+        "longitude": -73.68285
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442317080,
+          "streetAddress": "1099 Park Ln N #1",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "latitude": 40.69007,
+          "longitude": -73.68285,
+          "price": 3800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 4.0,
+          "livingArea": 1277.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 21,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3800.0,
+          "timeOnZillow": 1824666000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-02 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Millionaire Minds Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a61cd601cac4904473308f536943fda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f25926c9617341819df2dc3066a0a07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7582b0c3e2bf9758aeb21a9907fd41b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25cf0c0b4e5f2d772bbcae5de622e78a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f0c07c5cb8e618cc0340df357846ca0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/963151718ca647c41e0fc5e9eaf13cc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/457de6e9ba6e85ebda8273f88083223d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2060319636",
+      "id": "2060319636",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3eekuzfm9ggjp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e4ad741e4880eda8bd5e1f1916297871-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Elmont-NY-11003/2060319636_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,825/mo",
+      "unformattedPrice": 1825,
+      "address": "(undisclosed Address), Elmont, NY 11003",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Elmont",
+      "addressState": "NY",
+      "addressZipcode": "11003",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060319636,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11003",
+          "city": "Elmont",
+          "state": "NY",
+          "price": 1825.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1851,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1825.0,
+          "timeOnZillow": 1050896000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Premier Property Mngmt",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4ad741e4880eda8bd5e1f1916297871-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f8a1d23f9eb192cc397720a37bdc0c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1859b1441e491e49a6d07cb0f266a578-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ccb2067992bd4b5d5c0b198c790b2388-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d51697f0a067bdb9c9429082659bd30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6811df0dbb99c53454352db76f0becd4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32773901b9807ac96cda66e33201c588-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0ccb7d06846a3a3ea3da5fbb9066d1b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31213153",
+      "id": "31213153",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ge8rnd72hhn9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/732bb6d72631ddbc3473b8f11c04e4da-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Franklin-Square-NY-11010/31213153_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "(undisclosed Address), Franklin Square, NY 11010",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "31 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31213153,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 31,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 778700,
+          "rentZestimate": 2159,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 2756724000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 778700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Premier Property Mngmt",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/732bb6d72631ddbc3473b8f11c04e4da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9aaef2687e24ea1653aaa88442bc5f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2df5049de0334df66f43b000f1cb6dc7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a80b6e2504fb4672d0f2292d2d4192f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/603427776842bb6219887b4b59e0d8d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/196fc93ee9b22376d46b64e4302a856b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c7ff30833bcc4cc0d78113c370858d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/abb5587616be504e485755a33ada7d3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4086ceac5af35ac731156000b290c949-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4f54a1aa43de05926bba39bf9149925-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d10da3b58488887187fee1f2472dc08f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/700996f4980f4dad79015c106da85913-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c0df6891b99e8de97d257ca48802881-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/906aee959bc39cd8e0de01e4ba3dd9bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09eab3a08c12682f9ea8266dd3842bc5-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31216008",
+      "id": "31216008",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2gb3brpsvsnn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/eb53ab2a87a3808fb32ee2c1def2dbc2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/281-Dogwood-Ave-West-Hempstead-NY-11552/31216008_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,950/mo",
+      "unformattedPrice": 3950,
+      "address": "281 Dogwood Ave, West Hempstead, NY 11552",
+      "addressStreet": "281 Dogwood Ave",
+      "addressCity": "West Hempstead",
+      "addressState": "NY",
+      "addressZipcode": "11552",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.699547,
+        "longitude": -73.664215
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31216008,
+          "streetAddress": "281 Dogwood Ave",
+          "zipcode": "11552",
+          "city": "West Hempstead",
+          "state": "NY",
+          "latitude": 40.699547,
+          "longitude": -73.664215,
+          "price": 3950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3376,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3950.0,
+          "timeOnZillow": 1390434000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 572000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Voro LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb53ab2a87a3808fb32ee2c1def2dbc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d2ebd1734406dfe585c5cd79383fc7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/48e11740d54f52666dbef6ca140949fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/170fa60e1b4f09eff02674afb8a60671-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c1a8c931cf641dd8ade19f9bf39abbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6248e14e28f622e3130a10319419ff7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17d6268c303836ced4f3aa66a0215ed4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5d26206e6d11027564faadaa11ec8f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55ed312b8778be1e54e5a04a014e54a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b774fd24623175d46742ecca71c50243-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a162f3ecaf7455249455afbb50561572-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31215296",
+      "id": "31215296",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4xv00gkp9uhnc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b46d914428f42f4b15b85af5c5c8877b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/647-Dogwood-Ave-West-Hempstead-NY-11552/31215296_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,750/mo",
+      "unformattedPrice": 4750,
+      "address": "647 Dogwood Ave, West Hempstead, NY 11552",
+      "addressStreet": "647 Dogwood Ave",
+      "addressCity": "West Hempstead",
+      "addressState": "NY",
+      "addressZipcode": "11552",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1570,
+      "latLong": {
+        "latitude": 40.689762,
+        "longitude": -73.6675
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31215296,
+          "streetAddress": "647 Dogwood Ave",
+          "zipcode": "11552",
+          "city": "West Hempstead",
+          "state": "NY",
+          "latitude": 40.689762,
+          "longitude": -73.6675,
+          "price": 4750.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1570.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 790600,
+          "rentZestimate": 4722,
+          "listing_sub_type": {},
+          "priceReduction": "$250 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4750.0,
+          "priceChange": -250,
+          "timeOnZillow": 1956584000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 501000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 790600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Douglas Elliman",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b46d914428f42f4b15b85af5c5c8877b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4f0655a35d43c3bdd3e50f60f4935fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a25d356fce40631760f2a0b2074ac57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9672b3a128d092e14112a30fb78c9727-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2055619253",
+      "id": "2055619253",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "177kb7jmu8prc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/63fb5edd37d06e1aa7004d5b3883260d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1174-Russel-St-Franklin-Square-NY-11010/2055619253_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "1174 Russel St, Franklin Square, NY 11010",
+      "addressStreet": "1174 Russel St",
+      "addressCity": "Franklin Square",
+      "addressState": "NY",
+      "addressZipcode": "11010",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.70644,
+        "longitude": -73.67733
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055619253,
+          "streetAddress": "1174 Russel St",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "latitude": 40.70644,
+          "longitude": -73.67733,
+          "price": 2100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 465300,
+          "rentZestimate": 2066,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 1630070000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 465300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Coldwell Banker American Homes",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/63fb5edd37d06e1aa7004d5b3883260d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a009d015b105c25caf35ed2b06298674-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d54adf5e135c07813707c21d847c7c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6f6a697c3ad6fb15e5796bce23123b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd129d3e5279e39bf74a5be347ecb196-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f3580646fb392d843f8810b5bab113f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f105f4b66eb1d97cf1b2a7bebbf38eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8eeffc8f663c2fe1cd7d788c31f3e587-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/593ed1b445c79ae30c0cdcc379dec255-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9be32799671083bb8dd5e9e575bf91fc-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31204054",
+      "id": "31204054",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3r2tk93mtcpwy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5c0a69b73be9c76535b24b992ab9164a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/476-Lucille-Ave-Elmont-NY-11003/31204054_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,150/mo",
+      "unformattedPrice": 2150,
+      "address": "476 Lucille Ave, Elmont, NY 11003",
+      "addressStreet": "476 Lucille Ave",
+      "addressCity": "Elmont",
+      "addressState": "NY",
+      "addressZipcode": "11003",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 40.695606,
+        "longitude": -73.68663
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31204054,
+          "streetAddress": "476 Lucille Ave",
+          "zipcode": "11003",
+          "city": "Elmont",
+          "state": "NY",
+          "latitude": 40.695606,
+          "longitude": -73.68663,
+          "price": 2150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 763300,
+          "rentZestimate": 2154,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2150.0,
+          "timeOnZillow": 2648691000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 510000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 763300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: EXP Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c0a69b73be9c76535b24b992ab9164a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76379ba9395a4ee5ef87d27287ca3238-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6f000acf2eafb263dfe5bdfe01c1ce9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87a33034617f57d6ade4d41c3d4b8cb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6cb6d8249509146e6d30de421c358d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c02120184532aebe657a3e1cd8ae28a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2bbb7e105f7053cee32707c49c31d83a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f3c15447713adae1c5e578c0639d96e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3539f30c5adef490c471ee88994dd00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b056ba32836d558bea492798cbee0801-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1baca46a528c93865297a932de37879f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65c069fb23b1f549fc59a3644d0d6ed6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e3e46f58b08d232f8adb64fcbfd1e76-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31191001",
+      "id": "31191001",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "wwsd6yqf3ygv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ffcacad3f1aecdcac73df6179a80de3d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/648-7th-St-Garden-City-NY-11530/31191001_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,600/mo",
+      "unformattedPrice": 2600,
+      "address": "648 7th St, Garden City, NY 11530",
+      "addressStreet": "648 7th St",
+      "addressCity": "Garden City",
+      "addressState": "NY",
+      "addressZipcode": "11530",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.71098,
+        "longitude": -73.663574
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "40 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31191001,
+          "streetAddress": "648 7th St",
+          "zipcode": "11530",
+          "city": "Garden City",
+          "state": "NY",
+          "latitude": 40.71098,
+          "longitude": -73.663574,
+          "price": 2600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 40,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 870300,
+          "rentZestimate": 2681,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 3527624000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 513000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 870300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Douglas Elliman",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffcacad3f1aecdcac73df6179a80de3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40f385c68b1c1a180664cc094eb88bda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b418fc85211a85363073ce3af0c8309b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5141ce3d7abb0f3dda6ebdf1b8b91967-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7adc4d3fe949a96aefd805b96db485a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f86ea2365d2cffbd110a0008e863312e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca214af86d09e41fbd57f9fc0fd86a49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a5e720c2b99e33a0e2a5682259c369c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6ada1d7817a43cbf9386f6dc9f5feb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/769544317f0c04bdffe8503a3c1b4386-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0670471a19ef89f0d3d839287909092b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "31206602",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bb04db2e57ff7c5e6ac08089cd17c22e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/271-Semton-Blvd-Franklin-Square-NY-11010/31206602_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,800/mo",
+      "priceLabel": "$3.8K",
+      "address": "271 Semton Blvd, Franklin Square, NY 11010",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 40.700165,
+        "longitude": -73.6647
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "38 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31206602,
+          "streetAddress": "271 Semton Blvd",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "latitude": 40.700165,
+          "longitude": -73.6647,
+          "price": 3800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 627400,
+          "rentZestimate": 3636,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3800.0,
+          "timeOnZillow": 3295112000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 429000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 3295112000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442317080",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6a61cd601cac4904473308f536943fda-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1099-Park-Ln-N-1-Franklin-Square-NY-11010/442317080_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,800/mo",
+      "priceLabel": "$3.8K",
+      "address": "1099 Park Ln N #1, Franklin Square, NY 11010",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 1.0,
+      "area": 1277,
+      "latLong": {
+        "latitude": 40.69007,
+        "longitude": -73.68285
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442317080,
+          "streetAddress": "1099 Park Ln N #1",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "latitude": 40.69007,
+          "longitude": -73.68285,
+          "price": 3800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 4.0,
+          "livingArea": 1277.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3800.0,
+          "timeOnZillow": 1824666000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-02 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Millionaire Minds Realty",
+      "timeOnZillow": 1824666000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31216008",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/eb53ab2a87a3808fb32ee2c1def2dbc2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/281-Dogwood-Ave-West-Hempstead-NY-11552/31216008_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,950/mo",
+      "priceLabel": "$4.0K",
+      "address": "281 Dogwood Ave, West Hempstead, NY 11552",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.699547,
+        "longitude": -73.664215
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31216008,
+          "streetAddress": "281 Dogwood Ave",
+          "zipcode": "11552",
+          "city": "West Hempstead",
+          "state": "NY",
+          "latitude": 40.699547,
+          "longitude": -73.664215,
+          "price": 3950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3376,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3950.0,
+          "timeOnZillow": 1390434000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 572000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Voro LLC",
+      "timeOnZillow": 1390434000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "31215296",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b46d914428f42f4b15b85af5c5c8877b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/647-Dogwood-Ave-West-Hempstead-NY-11552/31215296_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,750/mo",
+      "priceLabel": "$4.8K",
+      "address": "647 Dogwood Ave, West Hempstead, NY 11552",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1570,
+      "latLong": {
+        "latitude": 40.689762,
+        "longitude": -73.6675
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31215296,
+          "streetAddress": "647 Dogwood Ave",
+          "zipcode": "11552",
+          "city": "West Hempstead",
+          "state": "NY",
+          "latitude": 40.689762,
+          "longitude": -73.6675,
+          "price": 4750.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1570.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 790600,
+          "rentZestimate": 4722,
+          "listing_sub_type": {},
+          "priceReduction": "$250 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4750.0,
+          "priceChange": -250,
+          "timeOnZillow": 1956584000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 501000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Douglas Elliman",
+      "timeOnZillow": 1956584000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2055619253",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/63fb5edd37d06e1aa7004d5b3883260d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1174-Russel-St-Franklin-Square-NY-11010/2055619253_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,100/mo",
+      "priceLabel": "$2.1K",
+      "address": "1174 Russel St, Franklin Square, NY 11010",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.70644,
+        "longitude": -73.67733
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055619253,
+          "streetAddress": "1174 Russel St",
+          "zipcode": "11010",
+          "city": "Franklin Square",
+          "state": "NY",
+          "latitude": 40.70644,
+          "longitude": -73.67733,
+          "price": 2100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 465300,
+          "rentZestimate": 2066,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 1630070000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Coldwell Banker American Homes",
+      "timeOnZillow": 1630070000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "31204054",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5c0a69b73be9c76535b24b992ab9164a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/476-Lucille-Ave-Elmont-NY-11003/31204054_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,150/mo",
+      "priceLabel": "$2.2K",
+      "address": "476 Lucille Ave, Elmont, NY 11003",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 40.695606,
+        "longitude": -73.68663
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31204054,
+          "streetAddress": "476 Lucille Ave",
+          "zipcode": "11003",
+          "city": "Elmont",
+          "state": "NY",
+          "latitude": 40.695606,
+          "longitude": -73.68663,
+          "price": 2150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 763300,
+          "rentZestimate": 2154,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2150.0,
+          "timeOnZillow": 2648691000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 510000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: EXP Realty",
+      "timeOnZillow": 2648691000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "31191001",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ffcacad3f1aecdcac73df6179a80de3d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/648-7th-St-Garden-City-NY-11530/31191001_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,600/mo",
+      "priceLabel": "$2.6K",
+      "address": "648 7th St, Garden City, NY 11530",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.71098,
+        "longitude": -73.663574
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "40 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31191001,
+          "streetAddress": "648 7th St",
+          "zipcode": "11530",
+          "city": "Garden City",
+          "state": "NY",
+          "latitude": 40.71098,
+          "longitude": -73.663574,
+          "price": 2600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 870300,
+          "rentZestimate": 2681,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 3527624000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 513000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Douglas Elliman",
+      "timeOnZillow": 3527624000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "221b7e92",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

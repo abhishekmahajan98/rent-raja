@@ -1,0 +1,458 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "2080894305",
+      "id": "2080894305",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3f8za8pc10qeb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0d63f47b869bf0a76c3f3c7a379eb53b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Durham-NY-12422/2080894305_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "(undisclosed Address), Durham, NY 12422",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Durham",
+      "addressState": "NY",
+      "addressZipcode": "12422",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 16.0,
+      "area": 1000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2080894305,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12422",
+          "city": "Durham",
+          "state": "NY",
+          "price": 1600.0,
+          "bathrooms": 16.0,
+          "bedrooms": 1.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 45,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1493,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 3935014000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d63f47b869bf0a76c3f3c7a379eb53b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c159b0e291113af9b2b7c01f9d0dfc86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcf317eeedebcea71c67945c02979f22-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2110135363",
+      "id": "2110135363",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "e9fvyj5vf62a",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.392818450927734,-74.1463851928711&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=goIlL23fHHvhBBAaT6bnOjRjBtU=",
+      "detailUrl": "https://www.zillow.com/homedetails/521-Brown-Rd-1-East-Durham-NY-12423/2110135363_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "521 Brown Rd #1, East Durham, NY 12423",
+      "addressStreet": "521 Brown Rd #1",
+      "addressCity": "East Durham",
+      "addressState": "NY",
+      "addressZipcode": "12423",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.392818450927734,-74.1463851928711&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=pX0sHB77hmrPQmna76EqAdWQ1N8=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.392818450927734,-74.1463851928711&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=mki3AfIFSgDKmDBLDsyPoQjG-X0=",
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 42.39282,
+        "longitude": -74.146385
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2110135363,
+          "streetAddress": "521 Brown Rd #1",
+          "zipcode": "12423",
+          "city": "East Durham",
+          "state": "NY",
+          "latitude": 42.39282,
+          "longitude": -74.146385,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1215,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 460452000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "55569892",
+      "id": "55569892",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1enagg132p3e0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f4b186a473473097e0980fd50c7a14e5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/East-Durham-NY-12423/55569892_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "(undisclosed Address), East Durham, NY 12423",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "East Durham",
+      "addressState": "NY",
+      "addressZipcode": "12423",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 55569892,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12423",
+          "city": "East Durham",
+          "state": "NY",
+          "price": 2400.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 249200,
+          "rentZestimate": 2215,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 374677000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 249200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4b186a473473097e0980fd50c7a14e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac0f5ab5d4ac29d85c694d18cbde10e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42fd5c85ff9188257699ea0daeb03090-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad4b7dcb38b4893cf042a52e2e9d6ef2-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30507619",
+      "id": "30507619",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "g0umj0tdsy73",
+      "imgSrc": "https://photos.zillowstatic.com/fp/236903f94929f484837e597b86ad2b77-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/542-County-Route-21-Windham-NY-12496/30507619_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "542 County Route 21, Windham, NY 12496",
+      "addressStreet": "542 County Route 21",
+      "addressCity": "Windham",
+      "addressState": "NY",
+      "addressZipcode": "12496",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1446,
+      "latLong": {
+        "latitude": 42.344494,
+        "longitude": -74.24638
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30507619,
+          "streetAddress": "542 County Route 21",
+          "zipcode": "12496",
+          "city": "Windham",
+          "state": "NY",
+          "latitude": 42.344494,
+          "longitude": -74.24638,
+          "price": 1800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1446.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 311700,
+          "rentZestimate": 3640,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 448975000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 225231.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 311700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/236903f94929f484837e597b86ad2b77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7e88c959ca8370cc35c4d76ec0dd54b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6266afa7837f59e5063e8ec817145f13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a1643b65597ac10eaf170878627dbde-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0bf461ecdb41abe16099d61205e2514-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/635d20dc15dc10b96ce916db0512efb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a95e99e79de9cde0a7bdb16f6440375-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37d642e09332c374bc428032b11d9c39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40c25bc00d9cb66013dc094a8684f509-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/813b5911a23df3b4acbb3eeed82d7cc3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0262268555d7ffd4d34069bcce34ec78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc9eeae0f4a2ad632575e30d5f94ea8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35d5cceaaa682735fa50e57896a720c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f48e15401709831210046b9458860c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcde48ce76764431f149eff87be9e928-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/326023b7b6343336c183da64ff45be0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c5e10d18f3189d604a00b4fe82a05a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4723814ef582170e0493de7509e2465c-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "16e34199"
+}

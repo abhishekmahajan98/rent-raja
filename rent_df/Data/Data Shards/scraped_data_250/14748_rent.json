@@ -1,0 +1,134 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "442755273",
+      "id": "442755273",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "26m64829ktggq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f7f83adda3b565c59f77f66e4034178a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/89-91-summit-street-salamanca-ny-14779-salamanca-ny-9kryxv/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "89-91 Summit Street, Salamanca NY 14779, 89-91 Summit St #2B-1BA, Salamanca, NY 14779",
+      "addressStreet": "89-91 Summit St #2B-1BA",
+      "addressCity": "Salamanca",
+      "addressState": "NY",
+      "addressZipcode": "14779",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.152447,
+        "longitude": -78.71413
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442755273,
+          "streetAddress": "89-91 Summit St #2B-1BA",
+          "zipcode": "14779",
+          "city": "Salamanca",
+          "state": "NY",
+          "latitude": 42.152447,
+          "longitude": -78.71413,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 226651000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2B-1BA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-20 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: On Point Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7f83adda3b565c59f77f66e4034178a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65fb4becfb7bc2f0ccae3f2b2e906446-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d61500ee884f156ad6950188c366fd8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/253f89bc6efddc2bdf0081f47a8ca6c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e31575e62619acf198eaff0a6d2d8d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76427b8a6f1dd5a10a7ea2b5e3d907d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1815f8e32d0ab9a774c24c20e626fd25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1ba00d1a9b800d9220d8bf0703f5ac6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53fa2d457e7191161f78808634e66f2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c74f31fbc651570fdae5a3176b9ff6c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd2c3d47da8a385b4d669584dee4cc2c-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "12868198"
+}

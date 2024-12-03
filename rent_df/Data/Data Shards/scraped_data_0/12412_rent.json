@@ -1,0 +1,485 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "32883958",
+      "id": "32883958",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1fqwnbg0kks9n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9cd89269db7c2fad3fd47277917afd98-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/109-The-Middle-Way-Mount-Tremper-NY-12457/32883958_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,500/mo",
+      "unformattedPrice": 5500,
+      "address": "109 The Middle Way, Mount Tremper, NY 12457",
+      "addressStreet": "109 The Middle Way",
+      "addressCity": "Mount Tremper",
+      "addressState": "NY",
+      "addressZipcode": "12457",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 2010,
+      "latLong": {
+        "latitude": 42.046185,
+        "longitude": -74.23146
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 hour ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32883958,
+          "streetAddress": "109 The Middle Way",
+          "zipcode": "12457",
+          "city": "Mount Tremper",
+          "state": "NY",
+          "latitude": 42.046185,
+          "longitude": -74.23146,
+          "price": 5500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 2010.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 842500,
+          "rentZestimate": 3725,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5500.0,
+          "timeOnZillow": 6183000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1135484.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 842500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-23 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cd89269db7c2fad3fd47277917afd98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d4ad6e94337ca1d46ca48b2a3f22ebb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d544bf7f8543ed27bab0873529cb5906-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c120eb1392a415e18b217c3fd9ed1005-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ccd3d48b95900beb5c674883a1d5589-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/394172aca234a1989eb93b56c432fcc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90bf375ac8549cdf44e0a665bdad209d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/190c381204fde03c44d6bc6f0fdc3286-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3b1dc6cff49350346c5115e8e5e0056-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2a4a065bef2e38be61b3e0604347845-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03e8e926e1b6144d26e558f8be9db35e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fec149f0cceb34070caa6392f08e86e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59fdc2d957f522ef03ac933791f46b98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b0969d6424cf0046804d209341d52fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b38d0e7a909c48fc94b4275f1c6576b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f508878555359312b913c37a0334c5b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5224360f42e6152ca4d2528b63bc9f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/996ca65476ed12dec58c197728ac1d95-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a0ddee929788b24c33633be190979d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95fd3139d51131372edc0d9e1a0c6524-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/245501cd128508d70a0d4613cf38c671-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/378823c625a26369418f19c85d9954c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4816217f344561083fe8fc281195546-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8cf35271c468359c1991f47e99bd7ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2a7d876fcf3c69ed4b8905914b607e7-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441791292",
+      "id": "441791292",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "17nrk4587tsw5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9aaba30e08bf0904263a10d91fa7084a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5401-Route-212-APT-2-Mount-Tremper-NY-12457/441791292_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "5401 Route 212 APT 2, Mount Tremper, NY 12457",
+      "addressStreet": "5401 Route 212 APT 2",
+      "addressCity": "Mount Tremper",
+      "addressState": "NY",
+      "addressZipcode": "12457",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 42.0445,
+        "longitude": -74.27729
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441791292,
+          "streetAddress": "5401 Route 212 APT 2",
+          "zipcode": "12457",
+          "city": "Mount Tremper",
+          "state": "NY",
+          "latitude": 42.0445,
+          "longitude": -74.27729,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 3436383000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Keller Williams Realty Hudson Valley North",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9aaba30e08bf0904263a10d91fa7084a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1aa3c2c2ffa928c3089e2fb40eb94155-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/534fbb0e4b1e21069e091471ac4ace76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0587c8959652d6bcf4908afcd1b7c305-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06645a9e6ab865a281dca9bfe78ef5db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfd59190688199e3e49d73313b8ee113-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62122159802589db109841b120e76be7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/950ed415e27e2cfc2fcbe62bdc6bd29e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c3fdb6bd896a10d47618f3277445d74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/222455c2b034b7e32f0bd75555615c80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06115d4cd6321fb9e06b9f4ccb3e635b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/559fed6f3f42a701830269b79e5b4f5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9743d87f91f521703b3b399223e8036d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2c5bdb8519cf10b1568944d77b24129-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebd122a3499a513c264267ab3c56580e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a717563501ad652b830289ba4c2b06bd-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32872829",
+      "id": "32872829",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "56vcxm1gju810",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b97257977978611b6eb2421501e8d909-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/22-Riseley-Rd-Shandaken-NY-12457/32872829_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,900/mo",
+      "unformattedPrice": 2900,
+      "address": "22 Riseley Rd, Shandaken, NY 12457",
+      "addressStreet": "22 Riseley Rd",
+      "addressCity": "Shandaken",
+      "addressState": "NY",
+      "addressZipcode": "12457",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.045,
+        "longitude": -74.28155
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32872829,
+          "streetAddress": "22 Riseley Rd",
+          "zipcode": "12457",
+          "city": "Shandaken",
+          "state": "NY",
+          "latitude": 42.045,
+          "longitude": -74.28155,
+          "price": 2900.0,
+          "datePriceChanged": 1730012400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 286900,
+          "rentZestimate": 2163,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Oct 27)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2900.0,
+          "priceChange": -300,
+          "timeOnZillow": 3385891000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 190734.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 286900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b97257977978611b6eb2421501e8d909-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2df11b1f454c3636a48de13381e26559-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbf7e3d40370132061839cc796530f35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e920bcd16e05588458c13206209f367-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64bd15707cd5f4498e1193f567c60de2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d3b596cf3b2f0464c61f18aae86059e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fa96f3897abdb37f905c90739e57cba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbd6c93105a7d01b9f75f2e5d6e4262d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10d37a6bc82349ccdde1a5e6ac2e6994-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39ef23f425e3fefb12d1b2271914a26b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b210bb661ef5b717e87195f999b4f7f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4212447634bb75caf2808d822e519efe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a25cf042aac039541672fe550339b3cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/025193dcb90cfe399d8b01745bee0b44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1115685c50fd69044442a932249f9994-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d68673f41d56d99320b3a15c13a2c38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5368f0f47ff06dac453003d8f04ba0e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72219ab1645baa3173a98850156fa928-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "fd36f85"
+}

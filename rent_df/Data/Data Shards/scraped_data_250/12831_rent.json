@@ -1,0 +1,2816 @@
+{
+  "listResults": [
+    {
+      "zpid": "345090175",
+      "id": "345090175",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2fqzf36xva0jk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6d55703a2ede4d59d7086d8d374ebf98-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/93-White-Birch-Est-Fort-Edward-NY-12828/345090175_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,499/mo",
+      "unformattedPrice": 1499,
+      "address": "93 White Birch Est, Fort Edward, NY 12828",
+      "addressStreet": "93 White Birch Est",
+      "addressCity": "Fort Edward",
+      "addressState": "NY",
+      "addressZipcode": "12828",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 960,
+      "latLong": {
+        "latitude": 43.2532,
+        "longitude": -73.65276
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 345090175,
+          "streetAddress": "93 White Birch Est",
+          "zipcode": "12828",
+          "city": "Fort Edward",
+          "state": "NY",
+          "latitude": 43.2532,
+          "longitude": -73.65276,
+          "price": 1499.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 960.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 270000,
+          "rentZestimate": 1642,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1499.0,
+          "timeOnZillow": 701214000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 270000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d55703a2ede4d59d7086d8d374ebf98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8315f3dbf2a77e398bf5731c6f829b06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e07bd9b2c53041b834b938e1e7c8bbbf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c11153de82a5ffb784cc74cf0d48706-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87591d82b989b0ff9a42d188f33381f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40334245806a42c1132753ed84ab2d0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/538f9033838138c9716e714ab4ee0eb5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f45ab91445cb831246cc56240cc32a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e90a2c35033a87a48f1b5383b6fb7017-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7580581708f428b9fc632afd2682d4dd-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "98702900",
+      "id": "98702900",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "8et6attv28kt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a806bac9b0bd93766a8f9fa911cc1b1a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/9-Rolling-Green-Dr-Wilton-NY-12831/98702900_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,600/mo",
+      "unformattedPrice": 3600,
+      "address": "9 Rolling Green Dr, Wilton, NY 12831",
+      "addressStreet": "9 Rolling Green Dr",
+      "addressCity": "Wilton",
+      "addressState": "NY",
+      "addressZipcode": "12831",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 4.0,
+      "area": 2139,
+      "latLong": {
+        "latitude": 43.15171,
+        "longitude": -73.71544
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 98702900,
+          "streetAddress": "9 Rolling Green Dr",
+          "zipcode": "12831",
+          "city": "Wilton",
+          "state": "NY",
+          "latitude": 43.15171,
+          "longitude": -73.71544,
+          "price": 3600.0,
+          "bathrooms": 4.0,
+          "bedrooms": 3.0,
+          "livingArea": 2139.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 943100,
+          "rentZestimate": 3181,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "timeOnZillow": 460090000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 602900.0,
+          "lotAreaValue": 1.01,
+          "lotAreaUnit": "acres",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 943100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-02-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a806bac9b0bd93766a8f9fa911cc1b1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0be59cecc2ecd9adfae7761b34c31d7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b54e43bcc00432d4a14ed084d8c4c226-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3cfd684fa6ac4b84a9d83a2cdf44652-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c06cb466e9d44281ba91e7469273e6d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9385e42988acaf3e8a72e911b835ae9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da4ab7ab83bc3921145e0d28659cc97b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41bdf5c583bfed57eedb7b9b7734dc2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbd75f5bfea7cbd35f93ba023ea59245-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d294faf171f814f0349260253e05ac9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/694f63c34ea467802d0112eb9feb809c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64455183ea4d7b70ee3e58d3f29ce430-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/555c354bf957b60894c8b65cbfc5f0f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2178f2ab32758361fbcb84d2318f881a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa00c527c906b6153d0db4370bacba27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/429455d4b713fc4c32ada24f31b3693e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23c58ec4565fe83aac90202164fcdf80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de09afcf6c49238223b6f02cea777a28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7e4483127d34ac396ce16cb1b6184d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/645b1c3b078068f698f91e4767013b69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8551217feb63a9aba17d628bc51718c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f51c3c96fbf192cfa4914ce28b03389-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e08583e492dcc1fa4b5d2cc0858fb92-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf3893b5edf997c00302cb8bb61b2f89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dbd81ecb2feb56c6b8aa36169f6b7b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e541528a84e886bc2053c57f43ae87bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f75bd1b0b1d7d4fa08b37838a5e94b7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01df7479fde430623ecc67d9387df764-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2d1b21f05524d0e47b5d9238fbde279-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7bf2dd6a0a4fe33d3449861aaa3b3d83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d11744f2e9c2bd8c295a3ca128f821ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7547483bbf2ae31e103ad6721cd71590-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7693b6032b56af98bbeddeef494e9828-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff8f88d6ca8497f6b362c768b91af5ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fefec3351691a92fdb0aea3790444e62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f29ad9aa729266de9e0c4a2fb1984a7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d42927ab254025fc206f2a6fcef00e6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42f2e3bbcf0a217676a22ff2b0ee73d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa53e1e31486de1a2a5e4b029cd9fae7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c7b6e24f36ff98a125cd7f798dde4bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06b1d8a45a6fe1d9d0207101391f81b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6e183b02a6461ab4efbc86755857767-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84b92646d46c79663e45814bec97d8e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86eb987b3e6d0f660662b47fabfe4332-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae82517e2d7992dd0caa5bf625142cce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e322c45eb37dbd1ad33b13c65ee392c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f3c9fa4d68022e0c79ce5d4a929eb3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6611bb3538dc45b903f255df87e3a9ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfeb5284f7b53b5b61d6ffac61bc7e9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2928e4ea39e3ed2137a558305406dd39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f50e241a3b8350bfc4c5ba7294a20fab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f760afa70b9cc27c9488de0a49360b9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9d40656c7498a0953f4f38a6d39b5a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1c11f6ff28b7bcd78262d9bc55d1f6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9eb235db33668b26907caf682952091f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e3c32422ba49d0f9653857037173d5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8d160e6d1c9cd3678609ad716cf0fb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ccc9fdaedd1250da6394daef8c856db7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8dd26feddf13eb43b09a6ae3326f209-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfb2c02b9834c5cb2ebcee6a4f48e2ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61f4493ad32fe66c492dfa287485116d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32449749",
+      "id": "32449749",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2b0m5xn9y79kw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/492141bdc43404d87f447f67d7a933ed-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/20-22-Cardinal-Ln-Gansevoort-NY-12831/32449749_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "20-22 Cardinal Ln, Gansevoort, NY 12831",
+      "addressStreet": "20-22 Cardinal Ln",
+      "addressCity": "Gansevoort",
+      "addressState": "NY",
+      "addressZipcode": "12831",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1022,
+      "latLong": {
+        "latitude": 43.18012,
+        "longitude": -73.65505
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32449749,
+          "streetAddress": "20-22 Cardinal Ln",
+          "zipcode": "12831",
+          "city": "Gansevoort",
+          "state": "NY",
+          "latitude": 43.18012,
+          "longitude": -73.65505,
+          "price": 2000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1022.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 24,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 383600,
+          "rentZestimate": 1841,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 2104814000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 335714.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 383600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/492141bdc43404d87f447f67d7a933ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/269485d15f79b5165e9139527d6ac4af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8f7c33e17315f2ad6bd3bf3971c31ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c629340d1d07bc0637b7324c944a6c67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b2cdf3d27f2d1d5febb51d1a7fe135c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64a7d0c54126eb1b143223ece06b15d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56fabcf414130bd2f0eaa47284f615c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4970e021393fb3cd55c5968b3030927d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/212e53b6f850b00b71b4ae9ac9a805cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df9a48301e7571eb0788fe3542df8f64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8495d3525d4d717b988df8567ada4038-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ee1a2adc6c3291d491d46abbec4cfe3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbcef0fc021273811680595ff19b81aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51f3b65ce5f0242c9da5974a80b47bb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/059f33cbf14c1f4b82687f8e4de1afbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56293b6b3b17f3284855dc7cfdd4c05f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a154e5ab9e963c85ad38e73b8b4dfe4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89e5f9a2a487e5c586524870015c2496-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b358718629356b5f5e4724682cb005ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad6d71d3c90788c6e100b2adae0f87e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a231efcf7df3dc5c09863e6ae6d9fa0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de2b1486361b2c2e2526b1a6a661e90f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bffbb7b8f0f672f428977b5f9a3e2aaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5829d2e974243ab443eb960d007a7682-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3a7a10504f725ec1bebc1ce2ea848b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/180df6901698fecf15656ebb998a5c40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3da0b06242dd214a20baa0432d9d1565-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2cb89fb93c22cef0cf2b0b557d251b53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c15fb44591e97958bda056de75eebf51-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2055493797",
+      "id": "2055493797",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3z9ddnd4c82cj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9365cfe9e07f3f2b3f622c0a46045f11-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Gansevoort-NY-12831/2055493797_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$975/mo",
+      "unformattedPrice": 975,
+      "address": "(undisclosed Address), Gansevoort, NY 12831",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Gansevoort",
+      "addressState": "NY",
+      "addressZipcode": "12831",
+      "isUndisclosedAddress": true,
+      "beds": 0,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055493797,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12831",
+          "city": "Gansevoort",
+          "state": "NY",
+          "price": 975.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1445,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 975.0,
+          "timeOnZillow": 813546000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9365cfe9e07f3f2b3f622c0a46045f11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8259a22db117b4010f51c129107e44cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0138eba30c71e3412efeadaf7e13b8cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/997affda69e2a92f91d76de3c57869f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b29235f4fa1d7515d07266bd797d686-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/504ae79532b09e939aeb3574fe32b38a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19b83e1c090dc1733672b75a6c1da507-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a9f20bf95716b7bae1753a227d4cf8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/deec5b9741fd085583a3f758d72eb653-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2096712049",
+      "id": "2096712049",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "337f6374g7g43",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7628e380273b9130fa6e9649a0a49f05-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1080-Route-9-Gansevoort-NY-12831/2096712049_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "1080 Route 9, Gansevoort, NY 12831",
+      "addressStreet": "1080 Route 9",
+      "addressCity": "Gansevoort",
+      "addressState": "NY",
+      "addressZipcode": "12831",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.211075,
+        "longitude": -73.715225
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2096712049,
+          "streetAddress": "1080 Route 9",
+          "zipcode": "12831",
+          "city": "Gansevoort",
+          "state": "NY",
+          "latitude": 43.211075,
+          "longitude": -73.715225,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1112,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 1301918000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7628e380273b9130fa6e9649a0a49f05-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a30493d4bb38c8751b4dcbb614048a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c78b5273587856b704ed7d8d1dac71a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6803d8a6f8c576d7ab059edad7967a05-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7500e55d80d773ea93a509742786795b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/029d8169203e38da057de835c06d1130-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/772f4392aeb0f2f951a63e5c6c90da2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6f9bd494cb6d58074156959c239cad9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/989414946b41e2e8774bbbaf2c818288-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc05c8bd76285cf577dec427a5ffeb65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e0258c32cd3d6585ce4c92036bcbe1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da6fdaf174a9b15f0b175a3acc103650-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "62645494",
+      "id": "62645494",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3mdvt26evgqw9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7bd820700349120a645c051c0cdad58c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/148-Edie-Rd-Saratoga-Springs-NY-12866/62645494_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,000/mo",
+      "unformattedPrice": 3000,
+      "address": "148 Edie Rd, Saratoga Springs, NY 12866",
+      "addressStreet": "148 Edie Rd",
+      "addressCity": "Saratoga Springs",
+      "addressState": "NY",
+      "addressZipcode": "12866",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1862,
+      "latLong": {
+        "latitude": 43.123985,
+        "longitude": -73.70694
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 62645494,
+          "streetAddress": "148 Edie Rd",
+          "zipcode": "12866",
+          "city": "Saratoga Springs",
+          "state": "NY",
+          "latitude": 43.123985,
+          "longitude": -73.70694,
+          "price": 3000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1862.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 20,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3507,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 1742047000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 532075.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7bd820700349120a645c051c0cdad58c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/332e8ceabb3075f1652c24861d0565ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30e7cb7f0bb15e119e01fce67d170153-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3166da0c123a5630dab319eac50b3087-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/873306844a9bf3ff0a56cf8b4a5b2bc7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e71e9f2ffad5212f88ae1c3764abe9c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f54f9137a26a2b4ea2733567067dd7d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b8d74a08bff96b0916cb68d29220b6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca2c1afd74463257ed10b26943b9d874-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf70af48cf4629b7242a535fe970443b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "98680545",
+      "id": "98680545",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5bzf0xcnuxjq5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6c36a1cfe87dbad293ebcab63c3398c6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4-Oldham-Pl-Wilton-NY-12831/98680545_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,200/mo",
+      "unformattedPrice": 3200,
+      "address": "4 Oldham Pl, Wilton, NY 12831",
+      "addressStreet": "4 Oldham Pl",
+      "addressCity": "Wilton",
+      "addressState": "NY",
+      "addressZipcode": "12831",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2141,
+      "latLong": {
+        "latitude": 43.152424,
+        "longitude": -73.742546
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "43 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 98680545,
+          "streetAddress": "4 Oldham Pl",
+          "zipcode": "12831",
+          "city": "Wilton",
+          "state": "NY",
+          "latitude": 43.152424,
+          "longitude": -73.742546,
+          "price": 3200.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2141.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 43,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 563700,
+          "rentZestimate": 2918,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 3752614000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 491500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 563700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Track Realty & Track Rental",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c36a1cfe87dbad293ebcab63c3398c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5538dc8c5d01229108c536868eb11924-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8daff322d0cd5a0f102aa44fbf97732-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8d7f1dadfbf634dddd887c5dce385cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86661321dc93ecb3cba6a5e346f573e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50087bd882af472214ad28f8d4e66e91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f81bbb8632825daa1627f804338622b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b050d90cd0c6d0d7ccc2351cd801d595-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71ccb1dc7770ed5fb2d9dd6fe65c14e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6df25890c4834b2d986c71b7bcb3dfdc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8c1a0ac1911c742548a58daf7446bf5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e312927796b944e119125680b07bf5a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc7099f5c8ee95da7fb2236d51880419-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/690ad98b750137e0de1f922374dd0fb6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32459016",
+      "id": "32459016",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4z9ga293wcj8g",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a4bbf5f62f76be75b10282a3f0ef8a6d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/19-Timberlane-Dr-Wilton-NY-12831/32459016_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "19 Timberlane Dr, Wilton, NY 12831",
+      "addressStreet": "19 Timberlane Dr",
+      "addressCity": "Wilton",
+      "addressState": "NY",
+      "addressZipcode": "12831",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1600,
+      "latLong": {
+        "latitude": 43.139633,
+        "longitude": -73.76465
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32459016,
+          "streetAddress": "19 Timberlane Dr",
+          "zipcode": "12831",
+          "city": "Wilton",
+          "state": "NY",
+          "latitude": 43.139633,
+          "longitude": -73.76465,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1600.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 418500,
+          "rentZestimate": 2353,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 515140000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 313900.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 418500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-02-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4bbf5f62f76be75b10282a3f0ef8a6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0d52e251eb641e0c1771bbabe6f2440-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7357fc7f3ddf95568d815a86d71a4e9a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a096d5008670e6cdb9796ead621da501-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea9fba660aebfcc6cf4cc832148d6dce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db3481cf10ba9aefdb19b95fdfb854d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9472de7b89aee4a135ee56c39178c60d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6054b4eada29ef3d1729511012483f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c135dc98c9d8c96c27db203d98579d06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/416ad821454ca7422e5e321454d2cd64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e76930ebd2e89acf083e85c611cb25a5-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442718572",
+      "id": "442718572",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "xnuatesd7fb3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b6083970ed4490d2374d82494c1100b7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/104-Townhouse-Dr-Gansevoort-NY-12831/442718572_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "104 Townhouse Dr, Gansevoort, NY 12831",
+      "addressStreet": "104 Townhouse Dr",
+      "addressCity": "Gansevoort",
+      "addressState": "NY",
+      "addressZipcode": "12831",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 43.180058,
+        "longitude": -73.74244
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442718572,
+          "streetAddress": "104 Townhouse Dr",
+          "zipcode": "12831",
+          "city": "Gansevoort",
+          "state": "NY",
+          "latitude": 43.180058,
+          "longitude": -73.74244,
+          "price": 2000.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 375808000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Property Pro Realty Group, inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6083970ed4490d2374d82494c1100b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95b50dbc61e22ceccb6b61b41da5904b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3c28ab3151cd71cfaa32e59bfb0644a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d9612e5bac299027d54012a4205d7b6-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2080469298",
+      "id": "2080469298",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2zgtgu4a0vr2u",
+      "imgSrc": "https://photos.zillowstatic.com/fp/244b00d1a2e5efc79a67b41ff628e1d0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1618-Route-9-LOT-14-Fort-Edward-NY-12828/2080469298_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,375/mo",
+      "unformattedPrice": 1375,
+      "address": "1618 Route 9 LOT 14, Fort Edward, NY 12828",
+      "addressStreet": "1618 Route 9 LOT 14",
+      "addressCity": "Fort Edward",
+      "addressState": "NY",
+      "addressZipcode": "12828",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 924,
+      "latLong": {
+        "latitude": 43.270447,
+        "longitude": -73.648544
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "64 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2080469298,
+          "streetAddress": "1618 Route 9 LOT 14",
+          "zipcode": "12828",
+          "city": "Fort Edward",
+          "state": "NY",
+          "latitude": 43.270447,
+          "longitude": -73.648544,
+          "price": 1375.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 924.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 64,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1444,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1375.0,
+          "timeOnZillow": 5550054000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Lot 14",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/244b00d1a2e5efc79a67b41ff628e1d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/088a3fa04042ee7d9a97b894b5a16310-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b220610edc5d4bc82dd623c1e3c443c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e674132e16e7e1a8bed3b3e03206518-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ff559edbc729c86fb1604d451bc5a57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f84985af4f2feb6265c131450674c597-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3a49b106975130c6ec48c0a2b269fe7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/654ba4e22b354f28115fe1a9e40b252a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96e9c20fcd1a5be32941a8db80ce0f25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ed604a3283f35748099eb45b8cf59ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c99c7be23ccad4a66318801aee91b3c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4c1a1813e9eab29d9444127b493587f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad567ac0ccbb66f25a9aab24df5e1b6e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04bac2281c41f4266fbe60cce40ff762-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fec576d4a379a09ed863ad3a824b5c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5b1397343d11b354aa97b3ac894e824-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c05d6a5bc435b5c1375e52fb221cace-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1db173aba79c552e905d121d96e13947-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55706d0596e60f44252a44a9b6262b82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63d3e469ad1504ae31b0a6224be33bff-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442344816",
+      "id": "442344816",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "238g7wc8b7fnx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/155f7e8a8d15f6f111aaa7104d3dd177-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/40-McIntyre-St-UNIT-B7-Fort-Edward-NY-12828/442344816_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,400/mo",
+      "unformattedPrice": 1400,
+      "address": "40 McIntyre St UNIT B7, Fort Edward, NY 12828",
+      "addressStreet": "40 McIntyre St UNIT B7",
+      "addressCity": "Fort Edward",
+      "addressState": "NY",
+      "addressZipcode": "12828",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.275105,
+        "longitude": -73.5795
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442344816,
+          "streetAddress": "40 McIntyre St UNIT B7",
+          "zipcode": "12828",
+          "city": "Fort Edward",
+          "state": "NY",
+          "latitude": 43.275105,
+          "longitude": -73.5795,
+          "price": 1400.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "priceChange": 100,
+          "timeOnZillow": 1656538000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit B7",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-04 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Veno Properties LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/155f7e8a8d15f6f111aaa7104d3dd177-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02071d7aafa3b7896798a0fb1fcb0b66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ba0142502178775880c3a2472e64c30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e581f4804da3a337a014f5bae1e37142-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e32a1d16e1446535099d65537dad7d02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c96c122ae94ec71917dad545f4e962b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25f6fb55ec8f7efd10fa41ca4f2d5b1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6d583bbaa5517c9fc79265f39a39d14-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25816cae3fd7ae8dadebc44c239d4fa9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16111cd98561d154580d7614759cce32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b76159630cfed5fb059e7d5d4eafda8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/093ece8b3408be1881337acdff3bd041-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bccb672647e45c1305163e11577e2d8b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7662563988368ea80c4294398d0acd0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f20ede9bc70a8ec1f44926a2879689ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/794b00a07b760f2703b4f70ccc9f0c8b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e32407fb0858fe7102873e461bbf42e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1034b99e74fe7469666fad1840350b25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6490f02fb135484497b05f0397397031-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9b25ab1ab72583f24fb4c2a780ad137-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/760ae3eb0fb3c17ee339374a6b0ff7a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76e8f3cdd1620f6cc7853283c555a290-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ff519967bb86c3944b104029f5e9632-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1826b5889268672a7cdb68c28e91703b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fef7fc115fa9c48ad974b8b6d6e3e5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d9a7ab3f1d1bf9365718d7546a5c8bf-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "80208099",
+      "id": "80208099",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4gu43xvuashu1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2dd67309c9ffbed422db9221825ed22a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/22-Kendrick-Hill-Rd-Saratoga-Springs-NY-12866/80208099_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "22 Kendrick Hill Rd, Saratoga Springs, NY 12866",
+      "addressStreet": "22 Kendrick Hill Rd",
+      "addressCity": "Saratoga Springs",
+      "addressState": "NY",
+      "addressZipcode": "12866",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 4.0,
+      "area": 3000,
+      "latLong": {
+        "latitude": 43.11542,
+        "longitude": -73.67561
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "104 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 80208099,
+          "streetAddress": "22 Kendrick Hill Rd",
+          "zipcode": "12866",
+          "city": "Saratoga Springs",
+          "state": "NY",
+          "latitude": 43.11542,
+          "longitude": -73.67561,
+          "price": 4500.0,
+          "datePriceChanged": 1728025200000,
+          "bathrooms": 4.0,
+          "bedrooms": 3.0,
+          "livingArea": 3000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 104,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 975600,
+          "rentZestimate": 4498,
+          "listing_sub_type": {},
+          "priceReduction": "$250 (Oct 4)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "priceChange": -250,
+          "timeOnZillow": 9070782000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 686100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 975600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Blake, REALTORS",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dd67309c9ffbed422db9221825ed22a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9857af82cc53d79a0c1ab7ca88c6c216-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf81bd37aa5c88d3f4eac9691cc2db2c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9eafc0489ed41df88b76e023b8d15f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/598bd7a67f6b7b40a09599a8e52f8b28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/844be1efe27be8af5cfcd53dcb815542-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0720e9776fc4ad6471e4e219624eef9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1480c93f9e10b3dd08316ae93ca5acd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/777ee705641b13359021a6752f578f24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24d1ed1e94d7d7e971fd8c16b883d585-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9688ddd6de27833c27a62704ab803fe0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96fc2a6f44aac8a44d2cf7952b2fbc65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1248c785cfec203fa6d2d5985e6ddbbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14c486706182b9dc30e12ad0d4b85849-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1660717e6f956a244fe4feccf1edfba9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62dd96ebc4f04c20dd8513b58563c156-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0b8e7f8a53b695767c814c8f50a91c7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/439a0ea4abc2920cab2e75cb48a977bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9571d348dd0a55652cf3d1e35307e30e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afd42f4a1755d3cdaa3ae82730f27165-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/140065410563a7691bcac74a59bf0d9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4408ac03cefc1c36cbb5fa08de5a393d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47497487ae9312d42645418afb30c616-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ebbe211cff9bd7164878a5f40e0cb2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e87c5aa26bf14cd1e2cbf83562ba0fc8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b310a847d6617cd06d02fc7ad962066e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec17b51f8d2827e0e187b362980ebcf2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f15028b1b9fb77b47b9176fde0faa3ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7e44a4737890e925c144d21be849f5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/107b14f279beb0687fd4228e267d855c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c3d43d7759900d9ae6ddfec3a1b97b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa894fbea03faa7a0110afad7d006d7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d398607446c67d3f0e1a4ee7d8e659fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6474eb77f8e308ae88874fde5e0425c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79e09ec3e81849e7e21152800562a681-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf3387b53a88858fa859690b07e31118-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb9c7f78efe4af9e919fe51e0d5a9388-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c87af0ae5bea9eee0166266c493f713a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76f07775f5ce7a3e62cf18d41814e382-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1318402ddba146a3135e4873975a6f3-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "345090175",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6d55703a2ede4d59d7086d8d374ebf98-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/93-White-Birch-Est-Fort-Edward-NY-12828/345090175_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,499/mo",
+      "priceLabel": "$1.5K",
+      "address": "93 White Birch Est, Fort Edward, NY 12828",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 960,
+      "latLong": {
+        "latitude": 43.2532,
+        "longitude": -73.65276
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 345090175,
+          "streetAddress": "93 White Birch Est",
+          "zipcode": "12828",
+          "city": "Fort Edward",
+          "state": "NY",
+          "latitude": 43.2532,
+          "longitude": -73.65276,
+          "price": 1499.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 960.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 270000,
+          "rentZestimate": 1642,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1499.0,
+          "timeOnZillow": 701214000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 701214000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "98702900",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a806bac9b0bd93766a8f9fa911cc1b1a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/9-Rolling-Green-Dr-Wilton-NY-12831/98702900_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,600/mo",
+      "priceLabel": "$3.6K",
+      "address": "9 Rolling Green Dr, Wilton, NY 12831",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 4.0,
+      "area": 2139,
+      "latLong": {
+        "latitude": 43.15171,
+        "longitude": -73.71544
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 98702900,
+          "streetAddress": "9 Rolling Green Dr",
+          "zipcode": "12831",
+          "city": "Wilton",
+          "state": "NY",
+          "latitude": 43.15171,
+          "longitude": -73.71544,
+          "price": 3600.0,
+          "bathrooms": 4.0,
+          "bedrooms": 3.0,
+          "livingArea": 2139.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 943100,
+          "rentZestimate": 3181,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "timeOnZillow": 460090000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 602900.0,
+          "lotAreaValue": 1.01,
+          "lotAreaUnit": "acres",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-02-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 460090000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32449749",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/492141bdc43404d87f447f67d7a933ed-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/20-22-Cardinal-Ln-Gansevoort-NY-12831/32449749_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "20-22 Cardinal Ln, Gansevoort, NY 12831",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1022,
+      "latLong": {
+        "latitude": 43.18012,
+        "longitude": -73.65505
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32449749,
+          "streetAddress": "20-22 Cardinal Ln",
+          "zipcode": "12831",
+          "city": "Gansevoort",
+          "state": "NY",
+          "latitude": 43.18012,
+          "longitude": -73.65505,
+          "price": 2000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1022.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 383600,
+          "rentZestimate": 1841,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 2104814000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 335714.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2104814000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2096712049",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7628e380273b9130fa6e9649a0a49f05-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1080-Route-9-Gansevoort-NY-12831/2096712049_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,150/mo",
+      "priceLabel": "$1.2K",
+      "address": "1080 Route 9, Gansevoort, NY 12831",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 43.211075,
+        "longitude": -73.715225
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2096712049,
+          "streetAddress": "1080 Route 9",
+          "zipcode": "12831",
+          "city": "Gansevoort",
+          "state": "NY",
+          "latitude": 43.211075,
+          "longitude": -73.715225,
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1112,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 1301918000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1301918000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "62645494",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7bd820700349120a645c051c0cdad58c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/148-Edie-Rd-Saratoga-Springs-NY-12866/62645494_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,000/mo",
+      "priceLabel": "$3.0K",
+      "address": "148 Edie Rd, Saratoga Springs, NY 12866",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1862,
+      "latLong": {
+        "latitude": 43.123985,
+        "longitude": -73.70694
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 62645494,
+          "streetAddress": "148 Edie Rd",
+          "zipcode": "12866",
+          "city": "Saratoga Springs",
+          "state": "NY",
+          "latitude": 43.123985,
+          "longitude": -73.70694,
+          "price": 3000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1862.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3507,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3000.0,
+          "timeOnZillow": 1742047000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 532075.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1742047000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "98680545",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6c36a1cfe87dbad293ebcab63c3398c6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/4-Oldham-Pl-Wilton-NY-12831/98680545_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,200/mo",
+      "priceLabel": "$3.2K",
+      "address": "4 Oldham Pl, Wilton, NY 12831",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2141,
+      "latLong": {
+        "latitude": 43.152424,
+        "longitude": -73.742546
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "43 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 98680545,
+          "streetAddress": "4 Oldham Pl",
+          "zipcode": "12831",
+          "city": "Wilton",
+          "state": "NY",
+          "latitude": 43.152424,
+          "longitude": -73.742546,
+          "price": 3200.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2141.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 563700,
+          "rentZestimate": 2918,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 3752614000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 491500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Track Realty & Track Rental",
+      "timeOnZillow": 3752614000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32459016",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a4bbf5f62f76be75b10282a3f0ef8a6d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/19-Timberlane-Dr-Wilton-NY-12831/32459016_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "19 Timberlane Dr, Wilton, NY 12831",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1600,
+      "latLong": {
+        "latitude": 43.139633,
+        "longitude": -73.76465
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32459016,
+          "streetAddress": "19 Timberlane Dr",
+          "zipcode": "12831",
+          "city": "Wilton",
+          "state": "NY",
+          "latitude": 43.139633,
+          "longitude": -73.76465,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1600.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 418500,
+          "rentZestimate": 2353,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 515140000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 313900.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-02-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 515140000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442718572",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b6083970ed4490d2374d82494c1100b7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/104-Townhouse-Dr-Gansevoort-NY-12831/442718572_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "104 Townhouse Dr, Gansevoort, NY 12831",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 43.180058,
+        "longitude": -73.74244
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442718572,
+          "streetAddress": "104 Townhouse Dr",
+          "zipcode": "12831",
+          "city": "Gansevoort",
+          "state": "NY",
+          "latitude": 43.180058,
+          "longitude": -73.74244,
+          "price": 2000.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 375808000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Property Pro Realty Group, inc.",
+      "timeOnZillow": 375808000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2080469298",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/244b00d1a2e5efc79a67b41ff628e1d0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1618-Route-9-LOT-14-Fort-Edward-NY-12828/2080469298_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,375/mo",
+      "priceLabel": "$1.4K",
+      "address": "1618 Route 9 LOT 14, Fort Edward, NY 12828",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 924,
+      "latLong": {
+        "latitude": 43.270447,
+        "longitude": -73.648544
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "64 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2080469298,
+          "streetAddress": "1618 Route 9 LOT 14",
+          "zipcode": "12828",
+          "city": "Fort Edward",
+          "state": "NY",
+          "latitude": 43.270447,
+          "longitude": -73.648544,
+          "price": 1375.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 924.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1444,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1375.0,
+          "timeOnZillow": 5550054000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Lot 14",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "timeOnZillow": 5550054000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442344816",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/155f7e8a8d15f6f111aaa7104d3dd177-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/40-McIntyre-St-UNIT-B7-Fort-Edward-NY-12828/442344816_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,400/mo",
+      "priceLabel": "$1.4K",
+      "address": "40 McIntyre St UNIT B7, Fort Edward, NY 12828",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.275105,
+        "longitude": -73.5795
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442344816,
+          "streetAddress": "40 McIntyre St UNIT B7",
+          "zipcode": "12828",
+          "city": "Fort Edward",
+          "state": "NY",
+          "latitude": 43.275105,
+          "longitude": -73.5795,
+          "price": 1400.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1400.0,
+          "priceChange": 100,
+          "timeOnZillow": 1656538000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit B7",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-04 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Veno Properties LLC",
+      "timeOnZillow": 1656538000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "80208099",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2dd67309c9ffbed422db9221825ed22a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/22-Kendrick-Hill-Rd-Saratoga-Springs-NY-12866/80208099_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,500/mo",
+      "priceLabel": "$4.5K",
+      "address": "22 Kendrick Hill Rd, Saratoga Springs, NY 12866",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 4.0,
+      "area": 3000,
+      "latLong": {
+        "latitude": 43.11542,
+        "longitude": -73.67561
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "104 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 80208099,
+          "streetAddress": "22 Kendrick Hill Rd",
+          "zipcode": "12866",
+          "city": "Saratoga Springs",
+          "state": "NY",
+          "latitude": 43.11542,
+          "longitude": -73.67561,
+          "price": 4500.0,
+          "datePriceChanged": 1728025200000,
+          "bathrooms": 4.0,
+          "bedrooms": 3.0,
+          "livingArea": 3000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 975600,
+          "rentZestimate": 4498,
+          "listing_sub_type": {},
+          "priceReduction": "$250 (Oct 4)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "priceChange": -250,
+          "timeOnZillow": 9070782000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 686100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Blake, REALTORS",
+      "timeOnZillow": 9070782000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "51933736",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}
