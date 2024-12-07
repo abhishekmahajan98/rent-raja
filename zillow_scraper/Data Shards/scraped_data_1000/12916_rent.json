@@ -1,0 +1,437 @@
+{
+  "listResults": [
+    {
+      "zpid": "442503001",
+      "id": "442503001",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4qtxa7xk0sj8n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e79973266ce8f31677adf58e139de772-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1259-Washington-St-208-Brushton-NY-12916/442503001_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$795/mo",
+      "unformattedPrice": 795,
+      "address": "1259 Washington St #208, Brushton, NY 12916",
+      "addressStreet": "1259 Washington St #208",
+      "addressCity": "Brushton",
+      "addressState": "NY",
+      "addressZipcode": "12916",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 697,
+      "latLong": {
+        "latitude": 44.83042,
+        "longitude": -74.51423
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442503001,
+          "streetAddress": "1259 Washington St #208",
+          "zipcode": "12916",
+          "city": "Brushton",
+          "state": "NY",
+          "latitude": 44.83042,
+          "longitude": -74.51423,
+          "price": 795.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 697.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 795.0,
+          "timeOnZillow": 1293145000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 208",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e79973266ce8f31677adf58e139de772-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63e66d3c861e190f743697b65176a348-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92646534c42328e70b749657e9962eb5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6976a1dfaec0179d12492724d8f7854e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/41bb6b8a6efe747e29a7043ddb99bc30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a96c790a427fa07eafb0ebefea26d9ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b84632c88ec2b2f48e20d71ee516c674-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8523595703cf49013f141e086b2235c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bbdfb63d81812a18cf2a1c8db805d04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb9e30c919f9fe6e26862b3064e4f11e-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "215820189",
+      "id": "215820189",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3hurjwbst0tjk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0c8a4230ebaaa815862b501cde7aff07-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1259-Washington-St-Brushton-NY-12916/215820189_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$949/mo",
+      "unformattedPrice": 949,
+      "address": "1259 Washington St, Brushton, NY 12916",
+      "addressStreet": "1259 Washington St",
+      "addressCity": "Brushton",
+      "addressState": "NY",
+      "addressZipcode": "12916",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 704,
+      "latLong": {
+        "latitude": 44.830433,
+        "longitude": -74.51423
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215820189,
+          "streetAddress": "1259 Washington St",
+          "zipcode": "12916",
+          "city": "Brushton",
+          "state": "NY",
+          "latitude": 44.830433,
+          "longitude": -74.51423,
+          "price": 949.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 704.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 952,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 949.0,
+          "timeOnZillow": 2484127000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 266667.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c8a4230ebaaa815862b501cde7aff07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf17fc2425c5d364064b16fe83c12a5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/983c4e63a0e23c3f752723aa990d6f28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67b9e4cd5159779943fb1ec8517774a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fda2c99edb8e8627494376c59c1dfa45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31c41b481eef3f04ae20e1b2dfbe8f40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eca2df992f5777164b3c68aaecec9b33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b2786e187e7e536c623326bd8163ca5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb60400e1ab221681449f2de44616e75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/620a73fcb82300803acf3e2466a29e87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f90055eb3426ef55fc708e05b0a3f57c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09c1c3e8b0158f030cac5759c5c46b6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/468568d3a493c28d1e82ec82d7b6097b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22f5ab20e386b506768b947beb0387d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6c8c18a74611a0e5bdb1d701838c1e4-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442503001",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e79973266ce8f31677adf58e139de772-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1259-Washington-St-208-Brushton-NY-12916/442503001_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$795/mo",
+      "priceLabel": "$795",
+      "address": "1259 Washington St #208, Brushton, NY 12916",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 697,
+      "latLong": {
+        "latitude": 44.83042,
+        "longitude": -74.51423
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442503001,
+          "streetAddress": "1259 Washington St #208",
+          "zipcode": "12916",
+          "city": "Brushton",
+          "state": "NY",
+          "latitude": 44.83042,
+          "longitude": -74.51423,
+          "price": 795.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 697.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 795.0,
+          "timeOnZillow": 1293145000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 208",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1293145000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "215820189",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0c8a4230ebaaa815862b501cde7aff07-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1259-Washington-St-Brushton-NY-12916/215820189_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$949/mo",
+      "priceLabel": "$949",
+      "address": "1259 Washington St, Brushton, NY 12916",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 704,
+      "latLong": {
+        "latitude": 44.830433,
+        "longitude": -74.51423
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215820189,
+          "streetAddress": "1259 Washington St",
+          "zipcode": "12916",
+          "city": "Brushton",
+          "state": "NY",
+          "latitude": 44.830433,
+          "longitude": -74.51423,
+          "price": 949.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 704.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 952,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 949.0,
+          "timeOnZillow": 2484127000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 266667.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2484127000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "7ccc7ec8",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

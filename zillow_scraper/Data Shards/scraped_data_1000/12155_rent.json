@@ -1,0 +1,621 @@
+{
+  "listResults": [
+    {
+      "zpid": "2057783259",
+      "id": "2057783259",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "33v4h7e04ak84",
+      "imgSrc": "https://photos.zillowstatic.com/fp/29048087cea8e355c07324435f7e77ca-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/240-Hade-Hollow-Rd-1-Cooperstown-NY-13326/2057783259_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,100/mo",
+      "unformattedPrice": 1100,
+      "address": "240 Hade Hollow Rd #1, Cooperstown, NY 13326",
+      "addressStreet": "240 Hade Hollow Rd #1",
+      "addressCity": "Cooperstown",
+      "addressState": "NY",
+      "addressZipcode": "13326",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.708927,
+        "longitude": -74.879364
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057783259,
+          "streetAddress": "240 Hade Hollow Rd #1",
+          "zipcode": "13326",
+          "city": "Cooperstown",
+          "state": "NY",
+          "latitude": 42.708927,
+          "longitude": -74.879364,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1402,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 693764000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/29048087cea8e355c07324435f7e77ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdca4eb21f837c96cadd5a175ce59e04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edc115f748f218d9a9cc94a221b0142f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c0d6bbc3093928bca6972e34a97b7f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/338d1098dcbac3908f3f8077a4173711-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c0cd2f680e0a4323c320c1b5777f05a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d0d97dd88f740c686a116c57312bdb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/749eef706e46d3f7111e1ef57a8f4470-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b410f0d9dc9a41bd855e96347507851-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc72a9fa0de3668a5bf571240967e133-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/665c75dd8ac5a94ccc3a58bfa5e580a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/333c67b02a70634774258100a5735aa5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71265802f0d65fb0804581c95b55a8a2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441734003",
+      "id": "441734003",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3k754ap86n7dv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d3057d84a49d10521b3d7aaa4e6a98b3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/15-Depot-St-UNIT-1-3-Schenevus-NY-12155/441734003_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$995/mo",
+      "unformattedPrice": 995,
+      "address": "15 Depot St UNIT 1-3, Schenevus, NY 12155",
+      "addressStreet": "15 Depot St UNIT 1-3",
+      "addressCity": "Schenevus",
+      "addressState": "NY",
+      "addressZipcode": "12155",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.54473,
+        "longitude": -74.82136
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441734003,
+          "streetAddress": "15 Depot St UNIT 1-3",
+          "zipcode": "12155",
+          "city": "Schenevus",
+          "state": "NY",
+          "latitude": 42.54473,
+          "longitude": -74.82136,
+          "price": 995.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 995.0,
+          "timeOnZillow": 73865000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1-3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3057d84a49d10521b3d7aaa4e6a98b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a48e5c02e144518681e0c889cc0f0b1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b59a609ac5f553b74da997f6ba0042cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1caaeb12692841242adc7411a708f703-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b54308cfa604b984ede59e199b6b5547-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6ec1148ae8c3e700aa03c91de263252-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/142f650a842f29d8950dba7d66debd2a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2057783259",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/29048087cea8e355c07324435f7e77ca-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/240-Hade-Hollow-Rd-1-Cooperstown-NY-13326/2057783259_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,100/mo",
+      "priceLabel": "$1.1K",
+      "address": "240 Hade Hollow Rd #1, Cooperstown, NY 13326",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.708927,
+        "longitude": -74.879364
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2057783259,
+          "streetAddress": "240 Hade Hollow Rd #1",
+          "zipcode": "13326",
+          "city": "Cooperstown",
+          "state": "NY",
+          "latitude": 42.708927,
+          "longitude": -74.879364,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1402,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 693764000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "visited": false,
+      "timeOnZillow": 693764000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "441734003",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d3057d84a49d10521b3d7aaa4e6a98b3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/15-Depot-St-UNIT-1-3-Schenevus-NY-12155/441734003_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$995/mo",
+      "priceLabel": "$995",
+      "address": "15 Depot St UNIT 1-3, Schenevus, NY 12155",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 500,
+      "latLong": {
+        "latitude": 42.54473,
+        "longitude": -74.82136
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "20 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441734003,
+          "streetAddress": "15 Depot St UNIT 1-3",
+          "zipcode": "12155",
+          "city": "Schenevus",
+          "state": "NY",
+          "latitude": 42.54473,
+          "longitude": -74.82136,
+          "price": 995.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 995.0,
+          "timeOnZillow": 73865000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1-3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 73865000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "83950708",
+      "id": "83950708",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2d0u6u82z34w",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b842792da9a2836c80c3f71e30cb917d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Cooperstown-NY-13326/83950708_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,999/mo",
+      "unformattedPrice": 1999,
+      "address": "(undisclosed Address), Cooperstown, NY 13326",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Cooperstown",
+      "addressState": "NY",
+      "addressZipcode": "13326",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 83950708,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13326",
+          "city": "Cooperstown",
+          "state": "NY",
+          "price": 1999.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 291000,
+          "rentZestimate": 2186,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1999.0,
+          "timeOnZillow": 256395000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 291000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Forget-Me-Not Farms",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b842792da9a2836c80c3f71e30cb917d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5d2eb317ffa517bddfb72ba249f5e32-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d89c6b415f5a343f332a159ea9c51b7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/407fb3e53f77723ba9628754c2afb1a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53f263a509760514303c75af16f8db51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d34aa93b4b76a7624f809a014b65c2b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65a70331f3c65ce52d70c54ae7d5aa25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5347f6bbf95714b59810feed1d2b59ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de286b751add08ad1ec3a5a633b050e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d5d7fee2ed97dad76de9f8805356288-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5117d6ae45551de6ed997b258a44a14f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4ba900ee37dc1c9505a1f914f7a7002-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1879d1ff3619d7ad12c66d127c8be03-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92dc14ce1d67174b8715fe2d5f97be45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/543560b42dbf3699113883870d5883d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43af780a8c0cd7970406bfe9ba84557b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1eaf3987f38050b1cfc7e37d41c3cda9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/202c6e3ec2657567f7cf6a5f4143806c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0afe3bd4ec5ba1c599a78b03a2bacc7-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.537624--74.91151",
+      "id": "42.537624--74.91151",
+      "providerListingId": "5c9wc8pv1773h",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.53762435913086,-74.91150665283203&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=mow9t3793ra0zJYMudBlBgo4a0k=",
+      "detailUrl": "/b/building/42.537624,-74.91151_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "6558 New York 7",
+      "address": "6558 New Frk, Maryland, NY",
+      "addressStreet": "6558 New Frk # 3",
+      "addressCity": "Maryland",
+      "addressState": "NY",
+      "addressZipcode": "12116",
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.53762435913086,-74.91150665283203&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=eERa8iPBSwxIiFo0phGw1N6Fmy8=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.53762435913086,-74.91150665283203&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=fCz8F1TjaHyBNOQVir95BbDShNo=",
+      "units": [
+        {
+          "price": "$1,100+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2724638392,
+      "latLong": {
+        "latitude": 42.537624,
+        "longitude": -74.91151
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "isSaved": false,
+      "buildingName": "6558 New York 7",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    }
+  ],
+  "resultsHash": "5e5eae89",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "7ef20632"
+}

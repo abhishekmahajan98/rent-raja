@@ -1,0 +1,895 @@
+{
+  "listResults": [
+    {
+      "zpid": "442612753",
+      "id": "442612753",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "36es4s7tnhebu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9de413b28a54714011fa8a05a4cce2c3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/141-Old-State-State-Rd-2-Broadalbin-NY-12025/442612753_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "141 Old State State Rd #2, Broadalbin, NY 12025",
+      "addressStreet": "141 Old State State Rd #2",
+      "addressCity": "Broadalbin",
+      "addressState": "NY",
+      "addressZipcode": "12025",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 43.062706,
+        "longitude": -74.12214
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442612753,
+          "streetAddress": "141 Old State State Rd #2",
+          "zipcode": "12025",
+          "city": "Broadalbin",
+          "state": "NY",
+          "latitude": 43.062706,
+          "longitude": -74.12214,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 791794000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9de413b28a54714011fa8a05a4cce2c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fecc97e5a7f6e6870852987638db1227-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfc965b0726b6febf04d0d015981ed2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a68e747bf76840fecb7c5b026d3e7859-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84a4407611c4485924a0f20d7e03104b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8d2a9ffdc0c98f72a4095d818fba270-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4430794d7918a40ae9919fc1dbf7c066-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6bcfdd3a7ecad7ead7b0180b58444d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe3eacf7fd910c2fa202dadd18467fb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b990775369cca920b7548467b77f74b0-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2067308807",
+      "id": "2067308807",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "gqgpevc4a395",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0cbac592e9cc7ad6143dfbe23b016896-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/131-Bushnell-Rd-1-Mayfield-NY-12117/2067308807_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,650/mo",
+      "unformattedPrice": 1650,
+      "address": "131 Bushnell Rd #1, Mayfield, NY 12117",
+      "addressStreet": "131 Bushnell Rd #1",
+      "addressCity": "Mayfield",
+      "addressState": "NY",
+      "addressZipcode": "12117",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 43.156475,
+        "longitude": -74.21689
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2067308807,
+          "streetAddress": "131 Bushnell Rd #1",
+          "zipcode": "12117",
+          "city": "Mayfield",
+          "state": "NY",
+          "latitude": 43.156475,
+          "longitude": -74.21689,
+          "price": 1650.0,
+          "datePriceChanged": 1731052800000,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 38,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1230,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 8)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "priceChange": -50,
+          "timeOnZillow": 3314950000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cbac592e9cc7ad6143dfbe23b016896-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/543cca03700ee761180302b83bca1509-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5685ebaffcbbe46e59e7763b2571f889-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93c535ec9c041e33f42a254a8b22217c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f8afbe507b5a9a87624e58dcb4fce20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b13ab348f76db3f1fa6b1e66da8b93e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cdc18af50cebff6e27c8eac89721f925-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0fef8408189ca523384699e11e15b6a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90060db7e435ae82180d0001ddab8b6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95ce0405c30ff52c4e847807ca244fe0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8464f3e640597525d0bb33a1c9ab4dab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc51d4cd5d89a1bd318f7c156b02a548-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f61f59ed80aa86ec0e80ed563959946-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65c7e5a44892ce83f783817a253f4a9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0e3112f2651e13b116fbc60c610f5eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ae39937dcc2b2c277a39f4c09289444-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb0412d5ef50adc566971f4327841c59-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/94e8ba1aabd0a6c92fff0ea55e5ef6bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c187dbc30987799b3401a031e4a494f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/febc9f3a6f7ab187d822e9a6773567ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce6bf0e87babc94df82d602e252f5132-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30461530",
+      "id": "30461530",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4hpf9uem4uwjg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/35ea3aef75fd08b2a9b8e4ca774ae599-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/108-Wendell-Ave-Broadalbin-NY-12025/30461530_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,034/mo",
+      "unformattedPrice": 2034,
+      "address": "108 Wendell Ave, Broadalbin, NY 12025",
+      "addressStreet": "108 Wendell Ave",
+      "addressCity": "Broadalbin",
+      "addressState": "NY",
+      "addressZipcode": "12025",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1224,
+      "latLong": {
+        "latitude": 43.109226,
+        "longitude": -74.15862
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30461530,
+          "streetAddress": "108 Wendell Ave",
+          "zipcode": "12025",
+          "city": "Broadalbin",
+          "state": "NY",
+          "latitude": 43.109226,
+          "longitude": -74.15862,
+          "price": 2034.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1224.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 15,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 226400,
+          "rentZestimate": 2088,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2034.0,
+          "timeOnZillow": 1310435000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 180701.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 226400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-08 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/35ea3aef75fd08b2a9b8e4ca774ae599-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30470779",
+      "id": "30470779",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3k051t66347ez",
+      "imgSrc": "https://photos.zillowstatic.com/fp/69183995ef38f46b039dc73b6b061bae-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1487-County-Highway-110-Broadalbin-NY-12025/30470779_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "1487 County Highway 110, Broadalbin, NY 12025",
+      "addressStreet": "1487 County Highway 110",
+      "addressCity": "Broadalbin",
+      "addressState": "NY",
+      "addressZipcode": "12025",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1420,
+      "latLong": {
+        "latitude": 43.143414,
+        "longitude": -74.13672
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30470779,
+          "streetAddress": "1487 County Highway 110",
+          "zipcode": "12025",
+          "city": "Broadalbin",
+          "state": "NY",
+          "latitude": 43.143414,
+          "longitude": -74.13672,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1420.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2267,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 788561000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 232558.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Capital District",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/69183995ef38f46b039dc73b6b061bae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2bbe803e535b089c3704404d472f79d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b21fc9e51723e7e8deaf24c1654cc13e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78ab55fcc0aa6a203ed57da578385612-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/475e59037d1f87ecd6aa0eadb7aa5526-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a65f5a7e7d3e018be0e19268f1197276-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afa81d885daabefd678c9c6bd40ead18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf2fdef0f2b3bf723bbc611de64310e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3e51d06741f84879aa4f6af9cc6f7df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fee74e76bccfd57457e9d3dd4e7494f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53406110ebcead369f588a43fcfda2e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2949f005695ea4d14c98566b1e487f4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d4c7f4f64a83d9d57a145db464f224a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d265fb6d527531cae529eaac133c64bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a0f121d0cdfd4fc1a818fc09f3ee0d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bbee13a4502cbfaeaf2adc4b2611ef7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c91549629e60c514c99ae9a0f83c156a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/253313b1efa076416576986ffaeba98c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03ac22bedf33c53c79122872c3da11b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e970c66d37b3d82267b1ed7fe3c2e19-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442612753",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9de413b28a54714011fa8a05a4cce2c3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/141-Old-State-State-Rd-2-Broadalbin-NY-12025/442612753_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "141 Old State State Rd #2, Broadalbin, NY 12025",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 43.062706,
+        "longitude": -74.12214
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442612753,
+          "streetAddress": "141 Old State State Rd #2",
+          "zipcode": "12025",
+          "city": "Broadalbin",
+          "state": "NY",
+          "latitude": 43.062706,
+          "longitude": -74.12214,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 791794000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "visited": false,
+      "timeOnZillow": 791794000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2067308807",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0cbac592e9cc7ad6143dfbe23b016896-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/131-Bushnell-Rd-1-Mayfield-NY-12117/2067308807_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,650/mo",
+      "priceLabel": "$1.7K",
+      "address": "131 Bushnell Rd #1, Mayfield, NY 12117",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 43.156475,
+        "longitude": -74.21689
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2067308807,
+          "streetAddress": "131 Bushnell Rd #1",
+          "zipcode": "12117",
+          "city": "Mayfield",
+          "state": "NY",
+          "latitude": 43.156475,
+          "longitude": -74.21689,
+          "price": 1650.0,
+          "datePriceChanged": 1731052800000,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1230,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 8)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "priceChange": -50,
+          "timeOnZillow": 3314950000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 3314950000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30461530",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/35ea3aef75fd08b2a9b8e4ca774ae599-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/108-Wendell-Ave-Broadalbin-NY-12025/30461530_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,034/mo",
+      "priceLabel": "$2.0K",
+      "address": "108 Wendell Ave, Broadalbin, NY 12025",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1224,
+      "latLong": {
+        "latitude": 43.109226,
+        "longitude": -74.15862
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30461530,
+          "streetAddress": "108 Wendell Ave",
+          "zipcode": "12025",
+          "city": "Broadalbin",
+          "state": "NY",
+          "latitude": 43.109226,
+          "longitude": -74.15862,
+          "price": 2034.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1224.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 226400,
+          "rentZestimate": 2088,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2034.0,
+          "timeOnZillow": 1310435000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 180701.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-08 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1310435000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "30470779",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/69183995ef38f46b039dc73b6b061bae-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1487-County-Highway-110-Broadalbin-NY-12025/30470779_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "1487 County Highway 110, Broadalbin, NY 12025",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1420,
+      "latLong": {
+        "latitude": 43.143414,
+        "longitude": -74.13672
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30470779,
+          "streetAddress": "1487 County Highway 110",
+          "zipcode": "12025",
+          "city": "Broadalbin",
+          "state": "NY",
+          "latitude": 43.143414,
+          "longitude": -74.13672,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1420.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2267,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 788561000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 232558.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Capital District",
+      "timeOnZillow": 788561000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "4b4559fd",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

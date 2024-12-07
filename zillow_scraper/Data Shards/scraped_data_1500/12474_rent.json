@@ -1,0 +1,506 @@
+{
+  "listResults": [
+    {
+      "zpid": "30072044",
+      "id": "30072044",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "30wve0xnyu5zq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3fdac33fa89a7054a64b43e6ecb8b1d2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/70-Woodchuck-Rd-Roxbury-NY-12474/30072044_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "70 Woodchuck Rd, Roxbury, NY 12474",
+      "addressStreet": "70 Woodchuck Rd",
+      "addressCity": "Roxbury",
+      "addressState": "NY",
+      "addressZipcode": "12474",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 3000,
+      "latLong": {
+        "latitude": 42.229992,
+        "longitude": -74.570435
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30072044,
+          "streetAddress": "70 Woodchuck Rd",
+          "zipcode": "12474",
+          "city": "Roxbury",
+          "state": "NY",
+          "latitude": 42.229992,
+          "longitude": -74.570435,
+          "price": 3500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 3000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 449500,
+          "rentZestimate": 2575,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 198048000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 315100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 449500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-10 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fdac33fa89a7054a64b43e6ecb8b1d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/faeaca899c46ed4f82ded3c2090a6a18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9ad7f982e36f5748ca298072e41c6ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/947380d92b5fd45d2949bc5e74c6a2e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34308feee56f3c2371c6c6427f1598ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c33ec03671d0b37aea497ed835f6862-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "215790105",
+      "id": "215790105",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1mpncp6vuw6vp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bfd07fa57beb2dfc05f3b4d7dde305d4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/270-Pines-Dr-9-2-Denver-NY-12421/215790105_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "270 Pines Dr #9-2, Denver, NY 12421",
+      "addressStreet": "270 Pines Dr #9-2",
+      "addressCity": "Denver",
+      "addressState": "NY",
+      "addressZipcode": "12421",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2000,
+      "latLong": {
+        "latitude": 42.244125,
+        "longitude": -74.58149
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215790105,
+          "streetAddress": "270 Pines Dr #9-2",
+          "zipcode": "12421",
+          "city": "Denver",
+          "state": "NY",
+          "latitude": 42.244125,
+          "longitude": -74.58149,
+          "price": 3500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2000.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3884,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 2185236000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 105000.0,
+          "unit": "# 9-2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfd07fa57beb2dfc05f3b4d7dde305d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7fff57657d685b794f2a6052ca6a916-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff0e041181c2d708b4fcfb7d3e082127-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a38cf6ae13932a36ec3ee8d1d50b460e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8fc4dbda69401e7a6b7b65dc6c0c9b9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e84b7d4651541c39986b4a9d0ded22d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a118d4e20cc4e5c1e3dbfc431c300dff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddd60cbb4398f43fcc6eade6b1369a6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bca12d72fe009b3205f2398ad8924da3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96c244d5cf1426b571773e023f507226-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13ff97cff6c02d024aa36eab6c01c8fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad9a46c7d64bbb5d7828b95e8ae0c531-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5b91ff7b81dd4a4bcdac3f894bb061f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98dd8148465361853a0a8b5218e82b6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e241b548403bc5bf064a4dce54a3f5b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ccbaaa2575cdb7d1e2544afadf2d585-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d83a01dc12200ff150465e200d46c10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe1bc546217f0202f7a2b160f5a21f96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d7b365b013c003e2d314f4e316cf983-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c2f4ef7eab1f45574d26f53da4e79be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e58bf851070a1259b1b902a346980ef9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b464e55948a453670220fc1851d93059-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e55f1833c078708e0dcbae1371930dbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08ccc2cc532507149eb7e472dadce635-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ded62e33fece57b93644cbc3352aec3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0a55cd4cd5c0b111fd6ca8a722b3486-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0db8dabcad37ab45cf917a0a4373539d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d705d84d3c6135955f153b282ede2c33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a396e6c7a21571c99e0806823ab3c7ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3e4948f4f91aa0642420c33f4550688-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8847042502b8f37e17bc970ce321a2c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36d5f71920bc3facf17038da71d126e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/457fc809159db3e9732bf82d9b0fc500-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b446f25429cb38b46c8d65e609bba69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99c1beb4ba288da23b24da17bd3d4c3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d6807b2e027acfc6edbff138f4eac11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a48ecb3d0e662eda791bff0509ca84d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "30072044",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3fdac33fa89a7054a64b43e6ecb8b1d2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/70-Woodchuck-Rd-Roxbury-NY-12474/30072044_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,500/mo",
+      "priceLabel": "$3.5K",
+      "address": "70 Woodchuck Rd, Roxbury, NY 12474",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 3000,
+      "latLong": {
+        "latitude": 42.229992,
+        "longitude": -74.570435
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30072044,
+          "streetAddress": "70 Woodchuck Rd",
+          "zipcode": "12474",
+          "city": "Roxbury",
+          "state": "NY",
+          "latitude": 42.229992,
+          "longitude": -74.570435,
+          "price": 3500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 3000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 449500,
+          "rentZestimate": 2575,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 198048000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 315100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-10 00:00:00",
+      "visited": false,
+      "timeOnZillow": 198048000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "215790105",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bfd07fa57beb2dfc05f3b4d7dde305d4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/270-Pines-Dr-9-2-Denver-NY-12421/215790105_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$3,500/mo",
+      "priceLabel": "$3.5K",
+      "address": "270 Pines Dr #9-2, Denver, NY 12421",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2000,
+      "latLong": {
+        "latitude": 42.244125,
+        "longitude": -74.58149
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 215790105,
+          "streetAddress": "270 Pines Dr #9-2",
+          "zipcode": "12421",
+          "city": "Denver",
+          "state": "NY",
+          "latitude": 42.244125,
+          "longitude": -74.58149,
+          "price": 3500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2000.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3884,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 2185236000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 105000.0,
+          "unit": "# 9-2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2185236000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "7bed429d",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

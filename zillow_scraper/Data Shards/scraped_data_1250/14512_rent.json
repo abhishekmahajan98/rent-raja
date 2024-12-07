@@ -1,0 +1,231 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "441199565",
+      "id": "441199565",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3bv2z8zs5v2xr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3a31ef8a2e12d8291d421f61aeb7c537-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Rushville-NY-14544/441199565_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,150/mo",
+      "unformattedPrice": 1150,
+      "address": "(undisclosed Address), Rushville, NY 14544",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Rushville",
+      "addressState": "NY",
+      "addressZipcode": "14544",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441199565,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "14544",
+          "city": "Rushville",
+          "state": "NY",
+          "price": 1150.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 51,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1150.0,
+          "timeOnZillow": 4431364000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a31ef8a2e12d8291d421f61aeb7c537-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f17d3aedaa132525dd8d8d3041e2a0cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afaf8bfa81a7ccd8ab70ad6be10f82ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96fe82675ada6e5deb55e0862a87e8c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/deae85f8c69a4d353416dee640ef997b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a112f3284285768167f414cb431fd371-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8a131b2fe99143ab574e5d74257e8d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66932c49f412b6288360d0ba41d68abc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30cb9251e0402996bcff2e97aa5a171e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6095e2392c8c8d0289fe7b0dd8b49b39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c01490e0f1558c0cf61adbb54105e84-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7974deb15f7f704c2c987ab6b12b6266-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31884059",
+      "id": "31884059",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1xuqm4h6qfnc4",
+      "imgSrc": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.7691535949707,-77.3354263305664&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=lvzZ2K-a2GNderuFw5BTVZtc2M4=",
+      "detailUrl": "https://www.zillow.com/homedetails/5265-Old-West-Lake-Rd-Canandaigua-NY-14424/31884059_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,000/mo",
+      "unformattedPrice": 5000,
+      "address": "5265 Old West Lake Rd, Canandaigua, NY 14424",
+      "addressStreet": "5265 Old West Lake Rd",
+      "addressCity": "Canandaigua",
+      "addressState": "NY",
+      "addressZipcode": "14424",
+      "isUndisclosedAddress": false,
+      "streetViewURL": "https://maps.googleapis.com/maps/api/streetview?size=575x242&location=42.7691535949707,-77.3354263305664&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=9rDHbqoZwyyWEIRjfyLSG2--WxQ=",
+      "streetViewMetadataURL": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.7691535949707,-77.3354263305664&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=gqt_kjDYUv1b6hSkVRulSlJxaFA=",
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2318,
+      "latLong": {
+        "latitude": 42.769154,
+        "longitude": -77.33543
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31884059,
+          "streetAddress": "5265 Old West Lake Rd",
+          "zipcode": "14424",
+          "city": "Canandaigua",
+          "state": "NY",
+          "latitude": 42.769154,
+          "longitude": -77.33543,
+          "price": 5000.0,
+          "datePriceChanged": 1731398400000,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2318.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 33,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3856,
+          "listing_sub_type": {},
+          "priceReduction": "$2,200 (Nov 12)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5000.0,
+          "priceChange": -2200,
+          "timeOnZillow": 2866164000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 288526.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "5827054b"
+}

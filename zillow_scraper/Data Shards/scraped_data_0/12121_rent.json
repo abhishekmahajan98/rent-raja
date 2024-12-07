@@ -1,0 +1,1369 @@
+{
+  "listResults": [
+    {
+      "zpid": "345669544",
+      "id": "345669544",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3mbcjxgd821tv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e0a8f145bc0dd4e01b3dbe2f85e945ba-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/157-State-Route-67-1-Mechanicville-NY-12118/345669544_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,695/mo",
+      "unformattedPrice": 1695,
+      "address": "157 State Route 67 #1, Mechanicville, NY 12118",
+      "addressStreet": "157 State Route 67 #1",
+      "addressCity": "Mechanicville",
+      "addressState": "NY",
+      "addressZipcode": "12118",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.892765,
+        "longitude": -73.675575
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "144 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 345669544,
+          "streetAddress": "157 State Route 67 #1",
+          "zipcode": "12118",
+          "city": "Mechanicville",
+          "state": "NY",
+          "latitude": 42.892765,
+          "longitude": -73.675575,
+          "price": 1695.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 144,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 298100,
+          "rentZestimate": 1783,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1695.0,
+          "timeOnZillow": 12450387000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 298100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Redway Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0a8f145bc0dd4e01b3dbe2f85e945ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e2af1ebac5998b143c85659d89467da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d0be8f077f466ae4b195adedcb165cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/844842e2861bd127b92c50f6980c961e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95baf0ff1e5744029b3b4e254ba7c895-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f78a0545e195d8909debadb00a072c6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da6fff6b631ee9d338f37d4763057015-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a028311526dd174d4d454d38a2a82b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/791ce8cbee8937d19e499eca65d4fa2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6728e0d2787193a0c12d47f9631a93e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1604fee6aff6911f1e31b4b259b72619-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/040f3e635aa2f753b2d54a001032d02a-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "345669544",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e0a8f145bc0dd4e01b3dbe2f85e945ba-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/157-State-Route-67-1-Mechanicville-NY-12118/345669544_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,695/mo",
+      "priceLabel": "$1.7K",
+      "address": "157 State Route 67 #1, Mechanicville, NY 12118",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.892765,
+        "longitude": -73.675575
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "144 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 345669544,
+          "streetAddress": "157 State Route 67 #1",
+          "zipcode": "12118",
+          "city": "Mechanicville",
+          "state": "NY",
+          "latitude": 42.892765,
+          "longitude": -73.675575,
+          "price": 1695.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 298100,
+          "rentZestimate": 1783,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1695.0,
+          "timeOnZillow": 12450387000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Redway Property Management",
+      "timeOnZillow": 12450387000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2055915288",
+      "id": "2055915288",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "h2wzpwmxbpbd",
+      "imgSrc": "https://photos.zillowstatic.com/fp/67ca748a711cb5cae790df4ea95154b7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/90-William-St-SUITE-2-Mechanicville-NY-12118/2055915288_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "90 William St SUITE 2, Mechanicville, NY 12118",
+      "addressStreet": "90 William St SUITE 2",
+      "addressCity": "Mechanicville",
+      "addressState": "NY",
+      "addressZipcode": "12118",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 42.90742,
+        "longitude": -73.68792
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055915288,
+          "streetAddress": "90 William St SUITE 2",
+          "zipcode": "12118",
+          "city": "Mechanicville",
+          "state": "NY",
+          "latitude": 42.90742,
+          "longitude": -73.68792,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1317,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 2595928000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Suite 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/67ca748a711cb5cae790df4ea95154b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/702a7b51b477123b4e0991a0bba1c995-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b7c5eb33c40b801291b02805764fe8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfb6a1fc013c33ae8339d02eb70be319-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab83568c1fc5caae1aa61f08b2c31bde-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f16582d0972f77e40dec701cc592973-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fd91d1f58cc21c6a5aac4cf4c45de5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8ff5049893c114c95ac58bc72952796-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/943665fe78d9d61cb5c4496763f46d85-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1019a056a58c9a31b6f3ed27b7f098e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/abcd5a36e8fae6e8f5028952846dbed5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cef664aaf1afb0ee430bf0770a173f18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c10e234ad54716599f36659db74bc17b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fac52e5a5257917b016c182c209e178-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8578e1504871840deb67b40b3bdc9431-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3aa4b7425ef3e8af77de8e831d1d698e-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "403819108",
+      "id": "403819108",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3uzufhd4qk72r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4d0594a2a736110f28f847c00aff6217-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/42-Saratoga-Ave-3E-Mechanicville-NY-12118/403819108_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,295/mo",
+      "unformattedPrice": 1295,
+      "address": "42 Saratoga Ave #3E, Mechanicville, NY 12118",
+      "addressStreet": "42 Saratoga Ave #3E",
+      "addressCity": "Mechanicville",
+      "addressState": "NY",
+      "addressZipcode": "12118",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 42.908318,
+        "longitude": -73.68586
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 403819108,
+          "streetAddress": "42 Saratoga Ave #3E",
+          "zipcode": "12118",
+          "city": "Mechanicville",
+          "state": "NY",
+          "latitude": 42.908318,
+          "longitude": -73.68586,
+          "price": 1295.0,
+          "datePriceChanged": 1730271600000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 113,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Oct 30)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1295.0,
+          "priceChange": -50,
+          "timeOnZillow": 9820811000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3E",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Green Springs Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d0594a2a736110f28f847c00aff6217-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2378c70e0eebdeabc0dbdd8817c27b57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1eed131e59d769c63917b2ca4b161cc3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c77d2a18b3293dfefdec8dad21c855ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5dcb11df5bc482b225e37eb6b17534c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f094edc66d2bc87dc24d5754a1350fae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/167cff779ee4d9c8b3f352fdfc78b0b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d05448aedd883ba674dcc153b7916b70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffe62e1df009f953c21cfbdd54087252-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60f64de83f92200ae90b936ada7647fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d26ce9b0e909c05b3245d90066bde853-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05e3876c50e362bcf61eef6bc13fa45c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09f4002e103f7bbb437b70847e69a02b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6b8e50aa65ff53d7f355a82490c0f52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36b595cf1a99fa18298278c04bc4701d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4eb788cf81c3ef2f79063d5168cbadb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/265ab1e6e0930d6e122e388c043bc419-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91fbb387b44d8a0f5e9d1a85f9e88354-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33a6dd2aa6d985831af76a2bfe5a3ae8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/300ad459dcde498058a059e719c1d5bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/185ec416b82f6866192f4330dc10d9a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65ad80ae1dd21fc1c3b8c9c6bfab3dff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71b512d6baecc80801deb5f426f1c9eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15a16c845b491a366cc73c7f7ade6024-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a063f72b41ccc98001dda73abeba312d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f617c7265f08e3a1c03743a2612f5473-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2082669320",
+      "id": "2082669320",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "418zwkxfr1t4g",
+      "imgSrc": "https://photos.zillowstatic.com/fp/03828b886043c90a441f8ac5e2c2b9dc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/20-Gilbert-St-2-Mechanicville-NY-12118/2082669320_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,000/mo",
+      "unformattedPrice": 1000,
+      "address": "20 Gilbert St #2, Mechanicville, NY 12118",
+      "addressStreet": "20 Gilbert St #2",
+      "addressCity": "Mechanicville",
+      "addressState": "NY",
+      "addressZipcode": "12118",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.90899,
+        "longitude": -73.6847
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082669320,
+          "streetAddress": "20 Gilbert St #2",
+          "zipcode": "12118",
+          "city": "Mechanicville",
+          "state": "NY",
+          "latitude": 42.90899,
+          "longitude": -73.6847,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 1100.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1283,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 180424000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/03828b886043c90a441f8ac5e2c2b9dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/139f14748018708601b4714a2b58277e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e73c5b8a5df0fe02638e298fded5f5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54309b380c3627e587be6211679a564b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/794c70215d74c302d6425bd1f22ca3c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0d52698ec7aba01973d24174d58f7aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aca97d02f231bcd9a27ddec868df9be3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f00d19482b609db35365db97e9bcf56-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e2898657c9db083d6cb7ffd4f96e9ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b27263e993a61f5406f3b4eddd076b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f6d733a5a1b33bf04b9b574b8e45f09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7cb4e316f295b498b4d24fbb85190764-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a066136fe1fb13d670d772b6f075fb7-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2091848154",
+      "id": "2091848154",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1t2jknkg648vx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b1c83cfbb0944aea78fa8b620f4b4525-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-Birch-Glen-Dr-A-Waterford-NY-12188/2091848154_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,700/mo",
+      "unformattedPrice": 1700,
+      "address": "10 Birch Glen Dr #A, Waterford, NY 12188",
+      "addressStreet": "10 Birch Glen Dr #A",
+      "addressCity": "Waterford",
+      "addressState": "NY",
+      "addressZipcode": "12188",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1076,
+      "latLong": {
+        "latitude": 42.82281,
+        "longitude": -73.7029
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2091848154,
+          "streetAddress": "10 Birch Glen Dr #A",
+          "zipcode": "12188",
+          "city": "Waterford",
+          "state": "NY",
+          "latitude": 42.82281,
+          "longitude": -73.7029,
+          "price": 1700.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1076.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1718,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 1290567000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1c83cfbb0944aea78fa8b620f4b4525-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/638f1a8718d34af80aff4a76ea5a25d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ceeeec7d605c1883be8859e96a41c124-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37e57cfdc68e580061db292877ea9488-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cdbf508bf4473fac2ae6eec8f9e515bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fba67d9b0a9a0dd99e107bf0aaa0d6f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8fb23e616f7cfd5b5fe1555d0b1eb64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/922144878d8cff93952c493fec9418f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cd7753002887643e91894aaecb88a99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c297d9bed3cffdd903baccb419232cb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a56326ae3193ac0fbd07bc309c3e2ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a264f2528b6e687808031f2fb8c6f7eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff60919e3a310c729da85f6a0cc5ee65-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2053243566",
+      "id": "2053243566",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "r05y9rb30dum",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ba51d74363d21e00db5e9f486bf2d846-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/157-3rd-St-UNIT-1-Waterford-NY-12188/2053243566_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,300/mo",
+      "unformattedPrice": 1300,
+      "address": "157 3rd St UNIT 1, Waterford, NY 12188",
+      "addressStreet": "157 3rd St UNIT 1",
+      "addressCity": "Waterford",
+      "addressState": "NY",
+      "addressZipcode": "12188",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 950,
+      "latLong": {
+        "latitude": 42.79669,
+        "longitude": -73.6734
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053243566,
+          "streetAddress": "157 3rd St UNIT 1",
+          "zipcode": "12188",
+          "city": "Waterford",
+          "state": "NY",
+          "latitude": 42.79669,
+          "longitude": -73.6734,
+          "price": 1300.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 950.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1623,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1300.0,
+          "timeOnZillow": 929736000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba51d74363d21e00db5e9f486bf2d846-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e77efe9f1aebfe9142e878be8d828ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89895e36d76cbdea0d3b638542a7b6b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13c2935737f1ec5c7c612b79874fc0d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5ad46c66e5dc5b167ed9d126dbf819e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/496832ef7fb7217e0ac0b9710c4caf9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c19e15189572dc64b0e9289247e60c10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/688e67bf08a450d104da5c503763c4aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/296de5f253328e29d2a3499665824e2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb6553b4683001c5578e67fad4fda95b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1772c72605b3b28ac316830302615571-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2059039048",
+      "id": "2059039048",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "10yq94rz9vn94",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9f09f4e85f5f9ad834a1f9540ae2d11e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/209-1st-Ave-1-Mechanicville-NY-12118/2059039048_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,075/mo",
+      "unformattedPrice": 2075,
+      "address": "209 1st Ave #1, Mechanicville, NY 12118",
+      "addressStreet": "209 1st Ave #1",
+      "addressCity": "Mechanicville",
+      "addressState": "NY",
+      "addressZipcode": "12118",
+      "isUndisclosedAddress": false,
+      "beds": 5,
+      "baths": 2.0,
+      "area": 1800,
+      "latLong": {
+        "latitude": 42.901123,
+        "longitude": -73.690346
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2059039048,
+          "streetAddress": "209 1st Ave #1",
+          "zipcode": "12118",
+          "city": "Mechanicville",
+          "state": "NY",
+          "latitude": 42.901123,
+          "longitude": -73.690346,
+          "price": 2075.0,
+          "datePriceChanged": 1732089600000,
+          "bathrooms": 2.0,
+          "bedrooms": 5.0,
+          "livingArea": 1800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 33,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2142,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2075.0,
+          "priceChange": 25,
+          "timeOnZillow": 2854047000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Premium realty group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f09f4e85f5f9ad834a1f9540ae2d11e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f18522298df16a3278ca13fc88fc4031-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5da6cd8adb23d6a29323cab71c85f90b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b8c63c8bdd86bdfdde13b81598af916-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d995e2a966342e744823b3fab6dea05-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a2c3d649a3ddbc83238ade26fc565f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8118130708144762b32abc1ea7a3e4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5b72a57ad980dd8f27c0af6313448e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55b7399d5d3b4e43916eca31032d37e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d4fda33cc965aa75d0562469465ec3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8977f0ce864d12f7b6b944f0689fbcf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2eaf44b7a14921e628decf75d53e1c23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c59d714c29a9bef5123d56886665a422-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26ea2ec08c5ba6a4843bdffe5fef9f55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/264ee6dd391345b11ca1d404d0bdffda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbffb1d2964a9aa9ad16e3152b3e3ccb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4345c4dd3d79e4cf3132f58d943f5dcb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2020ce57f33fd5fb48ed108b11a2bdc9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54348e1ceb3d75505ce8dc5a1062d921-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2086902373",
+      "id": "2086902373",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "tyjmxtqc3n7v",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2490534212ae42cfb7f9729645a8a9f4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/213-N-2nd-Ave-Mechanicville-NY-12118/2086902373_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,650/mo",
+      "unformattedPrice": 1650,
+      "address": "213 N 2nd Ave, Mechanicville, NY 12118",
+      "addressStreet": "213 N 2nd Ave",
+      "addressCity": "Mechanicville",
+      "addressState": "NY",
+      "addressZipcode": "12118",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 42.90541,
+        "longitude": -73.69196
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2086902373,
+          "streetAddress": "213 N 2nd Ave",
+          "zipcode": "12118",
+          "city": "Mechanicville",
+          "state": "NY",
+          "latitude": 42.90541,
+          "longitude": -73.69196,
+          "price": 1650.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1778,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "timeOnZillow": 1649038000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2490534212ae42cfb7f9729645a8a9f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a14deab2c0a70e09c7c5f802bf8828d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e5e81bfd6655c65c2124facfa15bf30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/044c629e353018a9ef68a0470aae7253-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47a5e78fee0742c457efd5fd790f4d54-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/421a427324504338b2765c287f313092-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57b75631ce72979f31fe9c65c8ff02f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6dd7d4f3c56ee57f6ed70715759bf352-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/194e7b4bc3406c1a0433f7f16901fa5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44b99b166c06f3648d1f1633236bff41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63d33f686eb078dccfb7a14730e7cfe8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/852928b4496bc7925f78f2cfa8823005-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e24110d20e093066835d13da285f1ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4a834edd6f5333af05e36407365b88f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82cc107a1ede04f8d09b52d8302f8a33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a46bfb00533793864537093364e471e-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442269353",
+      "id": "442269353",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4y49an3qbhh1n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/17b70819af9f00128faae5f1a954b90a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/193-S-Main-St-2-Mechanicville-NY-12118/442269353_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "193 S Main St #2, Mechanicville, NY 12118",
+      "addressStreet": "193 S Main St #2",
+      "addressCity": "Mechanicville",
+      "addressState": "NY",
+      "addressZipcode": "12118",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.89662,
+        "longitude": -73.68793
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442269353,
+          "streetAddress": "193 S Main St #2",
+          "zipcode": "12118",
+          "city": "Mechanicville",
+          "state": "NY",
+          "latitude": 42.89662,
+          "longitude": -73.68793,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 1959525000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Coldwell Banker Prime Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/17b70819af9f00128faae5f1a954b90a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18928b181f00a31f1adebedb51585a3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cb9d2371378f8282fc73703eebfc1d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/056299e35ac97b298840eb00c623f4a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fc7ec06eb8d50ad0433d742859ee9c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66448aece725fa452e0487a986eb285a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06ade1fea76a4a4b839a7cf1160de145-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5fbbb53356124dc290032eecec204414-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82fc2fe49ba26588afaf510999f8521f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c7ddeaf635bdad16aaeab61d8dac49b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc24a5dd9d3ffe45c47ebac8a287c4ed-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "9bd2391",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "34dd38b6"
+}

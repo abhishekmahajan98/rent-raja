@@ -1,0 +1,420 @@
+{
+  "listResults": [
+    {
+      "zpid": "442111139",
+      "id": "442111139",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4edzrs3vgrnhr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/574e6a5fa0f02e85ce65933d8be69efd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Fly-Creek-NY-13337/442111139_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "(undisclosed Address), Fly Creek, NY 13337",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Fly Creek",
+      "addressState": "NY",
+      "addressZipcode": "13337",
+      "isUndisclosedAddress": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 770,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442111139,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13337",
+          "city": "Fly Creek",
+          "state": "NY",
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 770.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 27,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 131600,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 2359409000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 131600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/574e6a5fa0f02e85ce65933d8be69efd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13fc532995534fa7aad6284169b2447d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd02cf1cdde49207a0d591e1cc35be7b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2067297648",
+      "id": "2067297648",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2r7mp50qxje13",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cb9314dbde1a69d9c3b650e885d21a7e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/6208-State-Highway-28-APT-1-Fly-Creek-NY-13337/2067297648_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$800/mo",
+      "unformattedPrice": 800,
+      "address": "6208 State Highway 28 APT 1, Fly Creek, NY 13337",
+      "addressStreet": "6208 State Highway 28 APT 1",
+      "addressCity": "Fly Creek",
+      "addressState": "NY",
+      "addressZipcode": "13337",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 42.71874,
+        "longitude": -74.982155
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2067297648,
+          "streetAddress": "6208 State Highway 28 APT 1",
+          "zipcode": "13337",
+          "city": "Fly Creek",
+          "state": "NY",
+          "latitude": 42.71874,
+          "longitude": -74.982155,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 44,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1088,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 3833550000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-06 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: CAND Corp",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb9314dbde1a69d9c3b650e885d21a7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b462a16aad6e526557159d9f83c6e371-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80c0042851035f16887db833aaa9190d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9585c832d412c1a619fda55810222422-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e1fef82318a139a2e5f7b963c8fd0c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1be454eaf0560825d985c7b7e49d5f28-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2067297648",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/cb9314dbde1a69d9c3b650e885d21a7e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/6208-State-Highway-28-APT-1-Fly-Creek-NY-13337/2067297648_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$800/mo",
+      "priceLabel": "$800",
+      "address": "6208 State Highway 28 APT 1, Fly Creek, NY 13337",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 42.71874,
+        "longitude": -74.982155
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2067297648,
+          "streetAddress": "6208 State Highway 28 APT 1",
+          "zipcode": "13337",
+          "city": "Fly Creek",
+          "state": "NY",
+          "latitude": 42.71874,
+          "longitude": -74.982155,
+          "price": 800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1088,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 800.0,
+          "timeOnZillow": 3833550000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-06 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: CAND Corp",
+      "timeOnZillow": 3833550000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "442361544",
+      "id": "442361544",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "179nu2yp5mwxa",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c213c166a3e17db242cb35399a8b005c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-Chestnut-St-2-Cooperstown-NY-13326/442361544_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,750/mo",
+      "unformattedPrice": 2750,
+      "address": "10 Chestnut St #2, Cooperstown, NY 13326",
+      "addressStreet": "10 Chestnut St #2",
+      "addressCity": "Cooperstown",
+      "addressState": "NY",
+      "addressZipcode": "13326",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1033,
+      "latLong": {
+        "latitude": 42.70203,
+        "longitude": -74.92685
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442361544,
+          "streetAddress": "10 Chestnut St #2",
+          "zipcode": "13326",
+          "city": "Cooperstown",
+          "state": "NY",
+          "latitude": 42.70203,
+          "longitude": -74.92685,
+          "price": 2750.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1033.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2750.0,
+          "timeOnZillow": 1591836000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-02-03 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c213c166a3e17db242cb35399a8b005c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef226087600e77db64266e60fdfb7f38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9074e4810e4c5c93d607807334108787-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee09f00455f9aacf6f51de5451454333-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/daba55d7319a479dd8648fe68e088397-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "6008e16e",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "194d9328"
+}

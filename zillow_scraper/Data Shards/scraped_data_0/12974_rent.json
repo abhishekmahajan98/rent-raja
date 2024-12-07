@@ -1,0 +1,409 @@
+{
+  "listResults": [
+    {
+      "zpid": "30423978",
+      "id": "30423978",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4trx4g0066yyq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/89d07369821d805c9f312acd623f3170-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/12-Henry-St-Port-Henry-NY-12974/30423978_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "12 Henry St, Port Henry, NY 12974",
+      "addressStreet": "12 Henry St",
+      "addressCity": "Port Henry",
+      "addressState": "NY",
+      "addressZipcode": "12974",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 44.046726,
+        "longitude": -73.46123
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30423978,
+          "streetAddress": "12 Henry St",
+          "zipcode": "12974",
+          "city": "Port Henry",
+          "state": "NY",
+          "latitude": 44.046726,
+          "longitude": -73.46123,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 29,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1596,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 2580990000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 69700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-24 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/89d07369821d805c9f312acd623f3170-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c686f98a2481ac27b885e550c0e2687b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8bc7439b7e542839f5e9ee50ce49f5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8c6f35a0de65645b7e1ea282472fe2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/efa03bc40f34c547c18936f341ec4d14-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442033345",
+      "id": "442033345",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "15qwh51aacc32",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ed2d6faa352b36438f27a6fc5d2a0cdb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4325-Main-St-C-Pt-Henry-NY-12974/442033345_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "4325 Main St #C, Pt Henry, NY 12974",
+      "addressStreet": "4325 Main St #C",
+      "addressCity": "Pt Henry",
+      "addressState": "NY",
+      "addressZipcode": "12974",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 44.048893,
+        "longitude": -73.45981
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442033345,
+          "streetAddress": "4325 Main St #C",
+          "zipcode": "12974",
+          "city": "Pt Henry",
+          "state": "NY",
+          "latitude": 44.048893,
+          "longitude": -73.45981,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 29,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 2586891000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# C",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed2d6faa352b36438f27a6fc5d2a0cdb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9aade448bbd64c8a66ccbe49d0b1e3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d127552ad151f58fc88139322673afde-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e144d157fb16e21a5411e079b4b9cd4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42289edd6984ba29f82fbd539d7b7955-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de691d54a11fe343baf9847888c8ecb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/461eb369b6e35f3c4b7c22eec663d05b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0134e7dfea9f08d0e0b19c7ee28bdef-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "30423978",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/89d07369821d805c9f312acd623f3170-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/12-Henry-St-Port-Henry-NY-12974/30423978_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,600/mo",
+      "priceLabel": "$1.6K",
+      "address": "12 Henry St, Port Henry, NY 12974",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 44.046726,
+        "longitude": -73.46123
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30423978,
+          "streetAddress": "12 Henry St",
+          "zipcode": "12974",
+          "city": "Port Henry",
+          "state": "NY",
+          "latitude": 44.046726,
+          "longitude": -73.46123,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1596,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 2580990000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 69700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-10-24 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2580990000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442033345",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ed2d6faa352b36438f27a6fc5d2a0cdb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/4325-Main-St-C-Pt-Henry-NY-12974/442033345_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "4325 Main St #C, Pt Henry, NY 12974",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 44.048893,
+        "longitude": -73.45981
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "29 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442033345,
+          "streetAddress": "4325 Main St #C",
+          "zipcode": "12974",
+          "city": "Pt Henry",
+          "state": "NY",
+          "latitude": 44.048893,
+          "longitude": -73.45981,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 2586891000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# C",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2586891000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "3bb324b",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

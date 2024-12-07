@@ -1,0 +1,1489 @@
+{
+  "listResults": [
+    {
+      "zpid": "59541518",
+      "id": "59541518",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3517mbfhc5mev",
+      "imgSrc": "https://photos.zillowstatic.com/fp/24548af3b1d89dc5d4fbe528d3e4a8ef-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/12-Arpage-Dr-W-Shirley-NY-11967/59541518_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "12 Arpage Dr W, Shirley, NY 11967",
+      "addressStreet": "12 Arpage Dr W",
+      "addressCity": "Shirley",
+      "addressState": "NY",
+      "addressZipcode": "11967",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.764774,
+        "longitude": -72.87264
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59541518,
+          "streetAddress": "12 Arpage Dr W",
+          "zipcode": "11967",
+          "city": "Shirley",
+          "state": "NY",
+          "latitude": 40.764774,
+          "longitude": -72.87264,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 417300,
+          "rentZestimate": 3746,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 546002000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 351852.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 417300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/24548af3b1d89dc5d4fbe528d3e4a8ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84d7b4a0990a0bee06d19aa57dc00bae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/783b9be2a275d48680dc87595159d133-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a5f10829a1958c531fd654a38aeb7df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e07e7ece0d40d2e3f5eb3034dc4cb59a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebf82c8835a5179b54e722731cb8d4f4-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "142092473",
+      "id": "142092473",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2smw22049xw02",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a0d83cdc7f4036fd4268507b789f0ac5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Shirley-NY-11967/142092473_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,000/mo",
+      "unformattedPrice": 4000,
+      "address": "(undisclosed Address), Shirley, NY 11967",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Shirley",
+      "addressState": "NY",
+      "addressZipcode": "11967",
+      "isUndisclosedAddress": true,
+      "beds": 4,
+      "baths": 1.0,
+      "area": 1400,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 142092473,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11967",
+          "city": "Shirley",
+          "state": "NY",
+          "price": 4000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 4.0,
+          "livingArea": 1400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3989,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 298511000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0d83cdc7f4036fd4268507b789f0ac5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8096e339b5b991c33d6544358e53f11f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e5d5b8938e3e7cad752a1ae01144985-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f70fa8bd469e9dcb9f58b55d6b33b86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f699585152459c5793504b12f9f91053-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1252c66d2406c3ac0a0feb728a83601-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d76b80afdf94d949f8c4221548bc555-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "142093361",
+      "id": "142093361",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4uaxztx5wrvq6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/edec5f2b2b1315074a879f1f4db7e219-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/107-Moriches-Dr-Mastic-Beach-NY-11951/142093361_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,950/mo",
+      "unformattedPrice": 3950,
+      "address": "107 Moriches Dr, Mastic Beach, NY 11951",
+      "addressStreet": "107 Moriches Dr",
+      "addressCity": "Mastic Beach",
+      "addressState": "NY",
+      "addressZipcode": "11951",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.756794,
+        "longitude": -72.85439
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 142093361,
+          "streetAddress": "107 Moriches Dr",
+          "zipcode": "11951",
+          "city": "Mastic Beach",
+          "state": "NY",
+          "latitude": 40.756794,
+          "longitude": -72.85439,
+          "price": 3950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3772,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3950.0,
+          "timeOnZillow": 601766000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 224444.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/edec5f2b2b1315074a879f1f4db7e219-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b62ff3d66ac47ba3089f8f87ce37675-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b424d7dc14bd04b1eda4973d73f280d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb558e72b7860366258137e63335b152-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20c20ba63b1e3969a6768843ee36101c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1813dc16bec6e635287503b937597935-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d633b2a68cef5593f506c61524499a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92e775c0d2603e073333876684c3e424-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1959e109681c9fa21b22d5c7e64e6758-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7887c9d86bad1ffd921a7108ab9be599-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec5eb5544e09a175106d82baa72d0899-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34d04e5ed34eed3fd97d50c8e4e0abaa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/039176b52ec515d340841f03c1aadbe9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ab51ea0a86b3b3980a6a7e184df24b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22296cf150126153139d47d9667feba5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56fad406f614bfb0a464f7145444d76b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3840522f1107576f6b5f1f73c2592546-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d220b4b8d66b23cc87f8be6936ab127-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99153b1485c6ee9e65c2a3633e27190e-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59536875",
+      "id": "59536875",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1xehtg62zd6gj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/429ee6d58e2bceb92c0d15821b69ac7b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-Beacon-St-Shirley-NY-11967/59536875_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "10 Beacon St, Shirley, NY 11967",
+      "addressStreet": "10 Beacon St",
+      "addressCity": "Shirley",
+      "addressState": "NY",
+      "addressZipcode": "11967",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 10000,
+      "latLong": {
+        "latitude": 40.779064,
+        "longitude": -72.86329
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59536875,
+          "streetAddress": "10 Beacon St",
+          "zipcode": "11967",
+          "city": "Shirley",
+          "state": "NY",
+          "latitude": 40.779064,
+          "longitude": -72.86329,
+          "price": 3500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 10000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 547400,
+          "rentZestimate": 3910,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 867581000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 448148.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 547400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Coldwell Banker Easton Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/429ee6d58e2bceb92c0d15821b69ac7b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59546892",
+      "id": "59546892",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "48rjwacxqsem2",
+      "imgSrc": "https://photos.zillowstatic.com/fp/79bfe948dc317e312f8c0def05e7e219-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Shirley-NY-11967/59546892_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,600/mo",
+      "unformattedPrice": 3600,
+      "address": "(undisclosed Address), Shirley, NY 11967",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Shirley",
+      "addressState": "NY",
+      "addressZipcode": "11967",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1200,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59546892,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11967",
+          "city": "Shirley",
+          "state": "NY",
+          "price": 3600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 33,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 421700,
+          "rentZestimate": 3735,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3600.0,
+          "timeOnZillow": 2883262000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 421700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-19 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/79bfe948dc317e312f8c0def05e7e219-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87e66be4fa703e1c21c33eb830b797d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6243371c16d91480c399b9e28d2a9923-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6f0d84df74e952fbac9b6a92c6975f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f6244dd99e876115a112838c7c373f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95f4f3928f1dc56e39517fc1a4f1bf08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7391776063a0e1c342f106dc9123d5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15920b3c21aab20a22929bbf5f34f059-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6170887b6f901199d6946c7e189e8c60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0b0c9c3c103180c623185b23be543cc-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "142090282",
+      "id": "142090282",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2dfwztn7evukm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0faa60e794572217f0c5b5c35a63250a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Mastic-Beach-NY-11951/142090282_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "(undisclosed Address), Mastic Beach, NY 11951",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Mastic Beach",
+      "addressState": "NY",
+      "addressZipcode": "11951",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "48 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 142090282,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11951",
+          "city": "Mastic Beach",
+          "state": "NY",
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 48,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3974,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 4177883000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Resource Realty Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0faa60e794572217f0c5b5c35a63250a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3dc7a991aacca0066a9b335f14a22bc7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4d2e3ff5a71e48eb95ee841221744af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d975d1b28fd56796e3ea62d1dc5c094-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "142092894",
+      "id": "142092894",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "242qr5fzsaab8",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7051832a2677529fc85d220cda335d3d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/91-Locust-Dr-Mastic-Beach-NY-11951/142092894_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,950/mo",
+      "unformattedPrice": 2950,
+      "address": "91 Locust Dr, Mastic Beach, NY 11951",
+      "addressStreet": "91 Locust Dr",
+      "addressCity": "Mastic Beach",
+      "addressState": "NY",
+      "addressZipcode": "11951",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 40.759087,
+        "longitude": -72.84403
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 142092894,
+          "streetAddress": "91 Locust Dr",
+          "zipcode": "11951",
+          "city": "Mastic Beach",
+          "state": "NY",
+          "latitude": 40.759087,
+          "longitude": -72.84403,
+          "price": 2950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3873,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2950.0,
+          "timeOnZillow": 1674745000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 177777.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Real Broker NY LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7051832a2677529fc85d220cda335d3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/984ea93d3f51a915ce98f1571d513da0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eacdb782be6ec24902f4f240907b255c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ed7704fe5d6d6f5ce41529421d1fa31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe49fc093e58c87d7055bf12ea590bc7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d2647af4ee973d175a53a9d83e02eff-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59534821",
+      "id": "59534821",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "udezqkfhj4s7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6800c5eaed109ff38341bd60306b88a2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Center-Moriches-NY-11934/59534821_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$14,000/mo",
+      "unformattedPrice": 14000,
+      "address": "(undisclosed Address), Center Moriches, NY 11934",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Center Moriches",
+      "addressState": "NY",
+      "addressZipcode": "11934",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59534821,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11934",
+          "city": "Center Moriches",
+          "state": "NY",
+          "price": 14000.0,
+          "datePriceChanged": 1689577200000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 73,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 646600,
+          "rentZestimate": 2886,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 14000.0,
+          "priceChange": 9800,
+          "timeOnZillow": 6310107000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "lotAreaValue": 0.36,
+          "lotAreaUnit": "acres",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 646600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Nest Seekers International",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6800c5eaed109ff38341bd60306b88a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b86e19b279b45ce662d09d3565522b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5dc9567c23b9caa73bbb6358dc8a5707-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9afec06625035ec9b9c49bed37918ad0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a480799e240efc15ae065d12daa32c3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c24713ff7e0b94dbeb8fb886e3d13e33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69df97642555d504b3c748740beaac1b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2612dfb62484711490780f0bf0d5dd8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8137d9c9b90bc2f4b60893281f36e91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9437aa278332f81b5c01f4e363ed474-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/14f83df8483fe6ea2d640e5481c50b0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/677184abe45ea97d91dea8053f8dd9ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/49c3105047e4fda0f47485acf752619a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc8abe10ea63b2a1345c6fd24d9c61b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02a94b821af499a751dbc7324c6e4f44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5911868cca0d8028a0a74a5287d70c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e10ebf0486147f564ca79c88dfc0b3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ac469a4d73f935084b8cd68f06cfe38-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9948dd05825957ac362bbd2e90dd6ec5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bff03f86ce73f8398242de707a2de24c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/100dfadd55ea2474b2dbb4288559aef6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f84a7cf156518c80a79f1fdea7355e0-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59541760",
+      "id": "59541760",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "6rv671bjqece",
+      "imgSrc": "https://photos.zillowstatic.com/fp/95adf1ffdcb9c53eefb0be0322114869-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/23-Birchwood-Dr-Shirley-NY-11967/59541760_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "23 Birchwood Dr, Shirley, NY 11967",
+      "addressStreet": "23 Birchwood Dr",
+      "addressCity": "Shirley",
+      "addressState": "NY",
+      "addressZipcode": "11967",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1074,
+      "latLong": {
+        "latitude": 40.763493,
+        "longitude": -72.86563
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "64 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59541760,
+          "streetAddress": "23 Birchwood Dr",
+          "zipcode": "11967",
+          "city": "Shirley",
+          "state": "NY",
+          "latitude": 40.763493,
+          "longitude": -72.86563,
+          "price": 3500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1074.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 64,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3309,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 5577495000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 324075.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Charles Rutenberg Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/95adf1ffdcb9c53eefb0be0322114869-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/94bbd374a0a790f95555a2df2ab30915-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "59541518",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/24548af3b1d89dc5d4fbe528d3e4a8ef-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/12-Arpage-Dr-W-Shirley-NY-11967/59541518_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,000/mo",
+      "priceLabel": "$2.0K",
+      "address": "12 Arpage Dr W, Shirley, NY 11967",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.764774,
+        "longitude": -72.87264
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59541518,
+          "streetAddress": "12 Arpage Dr W",
+          "zipcode": "11967",
+          "city": "Shirley",
+          "state": "NY",
+          "latitude": 40.764774,
+          "longitude": -72.87264,
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 417300,
+          "rentZestimate": 3746,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 546002000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 351852.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "visited": false,
+      "timeOnZillow": 546002000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "142093361",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/edec5f2b2b1315074a879f1f4db7e219-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/107-Moriches-Dr-Mastic-Beach-NY-11951/142093361_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,950/mo",
+      "priceLabel": "$4.0K",
+      "address": "107 Moriches Dr, Mastic Beach, NY 11951",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.756794,
+        "longitude": -72.85439
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 142093361,
+          "streetAddress": "107 Moriches Dr",
+          "zipcode": "11951",
+          "city": "Mastic Beach",
+          "state": "NY",
+          "latitude": 40.756794,
+          "longitude": -72.85439,
+          "price": 3950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3772,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3950.0,
+          "timeOnZillow": 601766000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 224444.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "visited": false,
+      "timeOnZillow": 601766000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "59536875",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/429ee6d58e2bceb92c0d15821b69ac7b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/10-Beacon-St-Shirley-NY-11967/59536875_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,500/mo",
+      "priceLabel": "$3.5K",
+      "address": "10 Beacon St, Shirley, NY 11967",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 10000,
+      "latLong": {
+        "latitude": 40.779064,
+        "longitude": -72.86329
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59536875,
+          "streetAddress": "10 Beacon St",
+          "zipcode": "11967",
+          "city": "Shirley",
+          "state": "NY",
+          "latitude": 40.779064,
+          "longitude": -72.86329,
+          "price": 3500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 10000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 547400,
+          "rentZestimate": 3910,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 867581000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 448148.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Coldwell Banker Easton Properties",
+      "timeOnZillow": 867581000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "142092894",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7051832a2677529fc85d220cda335d3d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/91-Locust-Dr-Mastic-Beach-NY-11951/142092894_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,950/mo",
+      "priceLabel": "$3.0K",
+      "address": "91 Locust Dr, Mastic Beach, NY 11951",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 40.759087,
+        "longitude": -72.84403
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 142092894,
+          "streetAddress": "91 Locust Dr",
+          "zipcode": "11951",
+          "city": "Mastic Beach",
+          "state": "NY",
+          "latitude": 40.759087,
+          "longitude": -72.84403,
+          "price": 2950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3873,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2950.0,
+          "timeOnZillow": 1674745000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 177777.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Real Broker NY LLC",
+      "timeOnZillow": 1674745000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "59541760",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/95adf1ffdcb9c53eefb0be0322114869-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/23-Birchwood-Dr-Shirley-NY-11967/59541760_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,500/mo",
+      "priceLabel": "$3.5K",
+      "address": "23 Birchwood Dr, Shirley, NY 11967",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1074,
+      "latLong": {
+        "latitude": 40.763493,
+        "longitude": -72.86563
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "64 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59541760,
+          "streetAddress": "23 Birchwood Dr",
+          "zipcode": "11967",
+          "city": "Shirley",
+          "state": "NY",
+          "latitude": 40.763493,
+          "longitude": -72.86563,
+          "price": 3500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1074.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3309,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 5577495000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 324075.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Charles Rutenberg Realty",
+      "timeOnZillow": 5577495000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "385236f7",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

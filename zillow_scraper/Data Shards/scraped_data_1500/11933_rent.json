@@ -1,0 +1,4279 @@
+{
+  "listResults": [
+    {
+      "zpid": "32669961",
+      "id": "32669961",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1849cmhsx9wzc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7baa7843eaa5a7910aed646936748b42-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/47-Hornpipe-Dr-Riverhead-NY-11901/32669961_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "47 Hornpipe Dr, Riverhead, NY 11901",
+      "addressStreet": "47 Hornpipe Dr",
+      "addressCity": "Riverhead",
+      "addressState": "NY",
+      "addressZipcode": "11901",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 40.97345,
+        "longitude": -72.71313
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32669961,
+          "streetAddress": "47 Hornpipe Dr",
+          "zipcode": "11901",
+          "city": "Riverhead",
+          "state": "NY",
+          "latitude": 40.97345,
+          "longitude": -72.71313,
+          "price": 2500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 635200,
+          "rentZestimate": 5487,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 382159000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 498385.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 635200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7baa7843eaa5a7910aed646936748b42-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dad6a42f1a94a1c910521313b56c5802-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c119fbc897953759cbb38caaf64d868-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a8e89f6422e0136d946af33271c03ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46b71996086dfd1cad62c6330198e723-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6d61d42dc592aa6796c31921627e51a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aaaea56a5a8beea3c8bdb28a727d7994-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e81332da487b3fecce158827dfd886d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/053eb7dad2aac00b1cd7fd7ac63c4ad7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cdf9d23faa83d22003d3f4ee1a0e7592-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/130d4440d308c0495fd952f542fe3eef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39dfcb15cd13e6b7b571b137d0682732-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7eff1c6305cdfd196913a01ae75a0eef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17514970a4b6295c7692a79e2f6cacbd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbee3ab63ff9cc87bc18242a32764591-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b165fafae3f51d36d779a0cc4c3ed90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60be166ffe7d94aeb727223ba56c0e9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c92dd767401d757c06f58a14583ca7fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ab4c0328bc7fa3bff6c3d00526e4798-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59502449",
+      "id": "59502449",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "v2as9y1cju7x",
+      "detailUrl": "https://www.zillow.com/homedetails/Manorville-NY-11949/59502449_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,900/mo",
+      "unformattedPrice": 2900,
+      "address": "(undisclosed Address), Manorville, NY 11949",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Manorville",
+      "addressState": "NY",
+      "addressZipcode": "11949",
+      "isUndisclosedAddress": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59502449,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11949",
+          "city": "Manorville",
+          "state": "NY",
+          "price": 2900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 710500,
+          "rentZestimate": 2918,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2900.0,
+          "timeOnZillow": 1400334000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 710500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Re Max Sparrow Realty",
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59498198",
+      "id": "59498198",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "12aw78ymmf0yq",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ed4362df111f3fa67b85376fd9bbe429-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/307-Prairie-Ct-Manorville-NY-11949/59498198_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "countryCurrency": "$",
+      "price": "$3,700/mo",
+      "unformattedPrice": 3700,
+      "address": "307 Prairie Ct, Manorville, NY 11949",
+      "addressStreet": "307 Prairie Ct",
+      "addressCity": "Manorville",
+      "addressState": "NY",
+      "addressZipcode": "11949",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.857094,
+        "longitude": -72.80628
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59498198,
+          "streetAddress": "307 Prairie Ct",
+          "zipcode": "11949",
+          "city": "Manorville",
+          "state": "NY",
+          "latitude": 40.857094,
+          "longitude": -72.80628,
+          "price": 3700.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 33,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 524300,
+          "rentZestimate": 3617,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3700.0,
+          "timeOnZillow": 2862367000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 425926.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 524300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Stoebe & Co.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed4362df111f3fa67b85376fd9bbe429-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65453f3aca5da94cef70aca029616ccc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c50c7033368b6d95ef2fb9de4c3ea08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c34c0646c33ebb42984bc352949496c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf82f7e9e52a8ceafbe9aabc353901cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65fd52cd0dd77535fa0f053c735234df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9fbe6007cd22e0cbf0cf2b63045acba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a817396a63e1f23e5149714ba568a196-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e4f94936b9c01534e0630640496a107-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62cc415ceb14d1ce90898fb1adb5a9dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c142049d7669818d64a0479b4b303713-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f365a3c08c1f3b2f7135275fa3da7fc6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ae9292fd747cb4c1d999c4e66e29d78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36b9f7ec13d56cde6eb72526196a925e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55b987f0e8c15c5512e74e8418dde647-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3dd9aedc616d43d222f50774be7b0044-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e68e748fd79b5014e57c90022ae1adbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50ba8c5c231d91930b3f607a1f482260-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "64690756",
+      "id": "64690756",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "57j6f7xeunctv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/73519d4cd2587c2f5b186a8d60f4d3ab-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Baiting-Hollow-NY-11933/64690756_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$7,000/mo",
+      "unformattedPrice": 7000,
+      "address": "(undisclosed Address), Baiting Hollow, NY 11933",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Baiting Hollow",
+      "addressState": "NY",
+      "addressZipcode": "11933",
+      "isUndisclosedAddress": true,
+      "beds": 4,
+      "baths": 4.0,
+      "area": 3000,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 64690756,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11933",
+          "city": "Baiting Hollow",
+          "state": "NY",
+          "price": 7000.0,
+          "bathrooms": 4.0,
+          "bedrooms": 4.0,
+          "livingArea": 3000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 815900,
+          "rentZestimate": 6757,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 7000.0,
+          "timeOnZillow": 892850000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "lotAreaValue": 1.32,
+          "lotAreaUnit": "acres",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 815900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Nest Seekers International",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/73519d4cd2587c2f5b186a8d60f4d3ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/002ed7f6f336530352d5a034381dad5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e339b1d26535e70384280785ab2b07b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11394cb0b7efe760db829ea7a301c0e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55c11897a914293e61afb9c94c3a4f7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07ebd9f3a0e349e1eba2d683c0321638-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26acfa9876e0ddbd2674f3f1239f294d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64b338a75a718268c14303f2a9345c44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9778f33fcd9571e71c90e2bf445e3743-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76af99d65a72dc381b9c9d6dd7daf781-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cda29be744d26b66f671bbb10504c999-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6a74c7906b3b23c8792e4c99a180a18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5bd8297f37058db599c3868ed7881b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2efc90844665bb5184435676a6988dbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/deb4ad2151bba6b49656d2b62cb36bd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02a65587ac156ade384d6a376d634e06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa95f58e12d81bd7221c109d4267500d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/445ab695eb8943254c05ad769679a9d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b29cd642a3309ec417d7f0899acf4cd3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44bfb0c12b29658590f53b0ab0c4034b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c793f9282b0e6a1ba11ff7fe4dfbba2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e78cf897b3c4fb05590ce486df810f7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c3875a6732d20240cf603207617a45b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06fe36c169136eea78014219771ebf22-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6db9f60e4be9ef56c41237fd49898aec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9402c08384409f14e0a0f028a400699-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ade1951ded3e0596681cab44c6bc3bbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb5cf380778c70060640aa5a85a1ea29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc370bf9c9f506a5a52595fdc7f3df98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21b9ceab82e11b5007fc99c04559ea03-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "394695696",
+      "id": "394695696",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "239sre1f5rkqx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/67cbae6853f7dbdef28f54a7c8011dbc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/80-Park-Rd-Riverhead-NY-11901/394695696_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,000/mo",
+      "unformattedPrice": 4000,
+      "address": "80 Park Rd, Riverhead, NY 11901",
+      "addressStreet": "80 Park Rd",
+      "addressCity": "Riverhead",
+      "addressState": "NY",
+      "addressZipcode": "11901",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 40.96934,
+        "longitude": -72.710335
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 394695696,
+          "streetAddress": "80 Park Rd",
+          "zipcode": "11901",
+          "city": "Riverhead",
+          "state": "NY",
+          "latitude": 40.96934,
+          "longitude": -72.710335,
+          "price": 4000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 900.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 429900,
+          "rentZestimate": 2820,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 1659785000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "lotAreaValue": 0.25,
+          "lotAreaUnit": "acres",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 429900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Brown Harris Stevens",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/67cbae6853f7dbdef28f54a7c8011dbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf789b6c1639b72f5a7990fc9259bf19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff93d414edcce8e80bd0a17d00efa9f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f1262d202b7a36bccb6652f39448e45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ae73f63ccb48f54cfff72c41fd76b99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15f250eaf15c2dd99ccea877063136c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/919782119c0d41739aef33571e3bfec4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4382552a77f8f638ee652507c859e69f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77795a323de229f97fab592216f6f753-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32670680",
+      "id": "32670680",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "57ad9tkach4zx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e847f6038cdef947c1e9bb9e5a1349f1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/126-Cliff-Rd-E-Wading-River-NY-11792/32670680_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$30,000/mo",
+      "unformattedPrice": 30000,
+      "address": "126 Cliff Rd E, Wading River, NY 11792",
+      "addressStreet": "126 Cliff Rd E",
+      "addressCity": "Wading River",
+      "addressState": "NY",
+      "addressZipcode": "11792",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 40.966946,
+        "longitude": -72.811134
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32670680,
+          "streetAddress": "126 Cliff Rd E",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.966946,
+          "longitude": -72.811134,
+          "price": 30000.0,
+          "datePriceChanged": 1710140400000,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 190,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 814900,
+          "rentZestimate": 7248,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 30000.0,
+          "priceChange": 13333,
+          "timeOnZillow": 16438061000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 608181.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 814900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Marquis New York LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e847f6038cdef947c1e9bb9e5a1349f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/391320752b29950024718e6b114d84a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6c368cf99635e54e0451f48bb751605-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11fb870e7ae6e6e239bb9cf2b985c558-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f35f885f6d1e4bcdbae26cd2937d7be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/150f7ca84aa802ec1def60021d42ae51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c36b0aaa6db8d76df991e19caee6caa8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/951c13d3b45b1f7705be230a17ace0d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcc135eda080a7ebcf4725ab52c8e30f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5c35c2d99d6cb932c2abff89fe76526-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/602246ad89112965c1279ab71a0759be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cf80cd3dd390643f78dd74029648980-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e131d41da25006e7f5f5cd9486922c2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56b110104d0b9b8f74091d29a0c50eba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3997229d1e10e7da101d86fea896add6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2a8183742d32d779b730a2a7fb5477f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f4e60bc4972dbc2c631a2afbadb94cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/916650a9937c4f773eda1156581cfa41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a66010146cd7d6a71d6cf232f0bf2989-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d086d7239b8840c448ed76951ad2b08-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32670602",
+      "id": "32670602",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2p8g42m8x3psh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0320ffd7dae8e01ec1c48c6f1126b66f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/75-Cliff-Rd-E-Wading-River-NY-11792/32670602_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$10,833/mo",
+      "unformattedPrice": 10833,
+      "address": "75 Cliff Rd E, Wading River, NY 11792",
+      "addressStreet": "75 Cliff Rd E",
+      "addressCity": "Wading River",
+      "addressState": "NY",
+      "addressZipcode": "11792",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2500,
+      "latLong": {
+        "latitude": 40.96666,
+        "longitude": -72.81373
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32670602,
+          "streetAddress": "75 Cliff Rd E",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.96666,
+          "longitude": -72.81373,
+          "price": 10833.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 502700,
+          "rentZestimate": 5368,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 10833.0,
+          "timeOnZillow": 543549000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 391819.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 502700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: LuxuryBeachGetaway",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0320ffd7dae8e01ec1c48c6f1126b66f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b61a4cfc8581b7ec61cf073d22170168-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f2ae22cdba289c515f8f84cf5a9e383-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dea699b0e18869eb6c0a5bb831d3977-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/357012d4a4bbeebc7e72abb8a90ea706-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5cd2b68ab6ac2baf3674a28222e2754-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72649752c2cd3041f601252ccdcc8e7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea14e5878bbf29551f8c2c2d6c022078-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca9318bb35727809b8814f58e03fabf4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c54839558d203f9e77e913d58d4acac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e83f01c04344a40d6b24e4e3a2837bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15cd362e15e68b574082b6a79501cef6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7367cf2b15a19d2d04a24d7f93a588b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a8e8cdfe875caaa8328f31ee1ee10fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37b8326b40e9e1c156fb80eff3d4cf18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6297de7d15c4c15d5200e668cc60c685-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a28760528634a71f5e09156ee05392ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2abaf7575b9a8082b8adc78607730d49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/749f295d74ed4771373bc646c82e66f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40a255772a79eec0fc018a700906a935-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/663e52b7515d1c1eae5c551109474752-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6cb735461de1b697f3af47c5302e801-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29f3a3081a5c40c187eb124db1c53f99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c6e88e49d847023f079755c0fe8a42b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a25461746a03c52ae32cf42d3ad2f45f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e39402ae02688271a28310dc7ff78e29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8249a20f24061cabb0f5e54c5885f75f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0b4dbd4e8cecd92a09cd4809ee781f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eaf404da5a2b6fa988a32b8194bde7c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9891e920effa31e196743e9d15bced3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bad7bcf51b3b9f73ccd664d342b8d4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91e09400ad303ec3327c2122b9965b2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/896cdb408a6ac13d7f36192b275cbf18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d8b0f743eda648de301e9444bd07d4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9268f3542b6dbe6218c97c46f376b486-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46a2d28441cf4f11dde9c13c3baf5a36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/abf50331ea4b08bfef39b55043cfa8ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/725b3845abc2174f3345c175d5d0a287-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57308f19c3c58a2e33d5e449e43f99e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb14ef0fcf84bfce7ae583f1c167050c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c698235e941fc6d0505a56580ab549b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/355a7a2821503397081743bf4cddfad6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0842444becaa137ff0c9267a6ff52a6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47caf18d51af055cac72f8ff1eecb816-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1d1ea89aad9048b9eadb87bbc1dbb6e-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32669982",
+      "id": "32669982",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4yr0e40srx3e9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/642d8191eac276c921133e9d7e36c0f6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/212-Park-Rd-Riverhead-NY-11901/32669982_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$6,000/mo",
+      "unformattedPrice": 6000,
+      "address": "212 Park Rd, Riverhead, NY 11901",
+      "addressStreet": "212 Park Rd",
+      "addressCity": "Riverhead",
+      "addressState": "NY",
+      "addressZipcode": "11901",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1922,
+      "latLong": {
+        "latitude": 40.973587,
+        "longitude": -72.71214
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32669982,
+          "streetAddress": "212 Park Rd",
+          "zipcode": "11901",
+          "city": "Riverhead",
+          "state": "NY",
+          "latitude": 40.973587,
+          "longitude": -72.71214,
+          "price": 6000.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1922.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 612100,
+          "rentZestimate": 4820,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 6000.0,
+          "timeOnZillow": 1042277000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 484392.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 612100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/642d8191eac276c921133e9d7e36c0f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d60b8fecae5943d9c74184a118cd69f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6413042d52e6beee93214198060a1a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76a380a866fa08b51285a73a1f460a5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae6dc836a0517ea79a4554b93e19225c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8de1ab8bb4b9e5e4ca6429520c62b79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2aa1dbd56fc78f40a9a26428491de50f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/147ba28442e2299c4cbfc35ebf89e7fc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a26ae782d154015e7d7812b161e0296b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a3fcbabbd53054fdc72be691c4e6549-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e47664ced25a0118364d1ff732951d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cddbfceb2e26b8cec83345697e8b984-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b7a04e51ae6d075605c7ef3628f0210-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8193e803004c70149b82a17db931aff7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec4f37b3560b096a9c5d8a8426269450-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9d68e36c2556872ceed948df8a95e2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa32e494f0f0a24cc362fa251148b22d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d09f6bbe5f2a43b4713042578953d9b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78e4fcb4aaee1d88178b52d7761bd6b0-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32671519",
+      "id": "32671519",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5ex5p3w5087a",
+      "imgSrc": "https://photos.zillowstatic.com/fp/46f074f4e1a396bb64bafc342fbf71d6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1932-Edwards-Ave-Baiting-Hollow-NY-11933/32671519_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$6,500/mo",
+      "unformattedPrice": 6500,
+      "address": "1932 Edwards Ave, Baiting Hollow, NY 11933",
+      "addressStreet": "1932 Edwards Ave",
+      "addressCity": "Baiting Hollow",
+      "addressState": "NY",
+      "addressZipcode": "11933",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 40.96494,
+        "longitude": -72.768364
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32671519,
+          "streetAddress": "1932 Edwards Ave",
+          "zipcode": "11933",
+          "city": "Baiting Hollow",
+          "state": "NY",
+          "latitude": 40.96494,
+          "longitude": -72.768364,
+          "price": 6500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 607500,
+          "rentZestimate": 4355,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 6500.0,
+          "timeOnZillow": 969646000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 518837.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 607500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: LuxuryBeachGetaway",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/46f074f4e1a396bb64bafc342fbf71d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b660eee1717c66e2e7d78d70e0b52063-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a4de437d4cfe673f496df00f0efaff2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/688278e150152fda8d7ff7e0bb9d2978-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f46ef4e18fae75cbbe49cce668aefb8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70a5ee917296e5f14e0c7dd6891a74a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/08b0b5fc7bff546c05aa6d9053c4e85e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff12fa58cc6947e631e11aeb755dbe0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43b9e7d2781b279fdbe096d5093a09b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a2e0415e0e2a002fb6ff2e2588a415c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/398985b5399ffe8ee26978749f7d9058-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac92539c56251b8308e7b12c27f6ecab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/517a3c09e1e33d437d8f3a6df6dcd1d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f24f2341476db9844847aa110c603ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/647cbd41c98a6995067d49c9af90272c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db906d9d631b05903d50647ba0f66146-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4fa6aa0c5ed4f548c0f2151ab92fca9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd18229c49e2983237c281a503d28324-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/945ce34e671bcc6387ddb198fa0d7495-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ba2de0934e4b41940718cd5389f98cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b53c0bee29794b122eb6c9b7c429fd53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38e9bacbaaa2d2727a0342bb360d218f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d380ae5e968989797653aefd49bbe45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ceb45cbfd930136c94cbefadc4549bc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1de3793e918b3e3f1f816d04d047b0e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85964db1f66b86324118bc7898adc67f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c992d0a55a247cb119ff788a0e99016-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61170724eca089962f034df33b397ca1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a25461746a03c52ae32cf42d3ad2f45f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6cb735461de1b697f3af47c5302e801-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e39402ae02688271a28310dc7ff78e29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8249a20f24061cabb0f5e54c5885f75f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0b4dbd4e8cecd92a09cd4809ee781f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eaf404da5a2b6fa988a32b8194bde7c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9891e920effa31e196743e9d15bced3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bad7bcf51b3b9f73ccd664d342b8d4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91e09400ad303ec3327c2122b9965b2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/896cdb408a6ac13d7f36192b275cbf18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d8b0f743eda648de301e9444bd07d4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9268f3542b6dbe6218c97c46f376b486-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29f3a3081a5c40c187eb124db1c53f99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46a2d28441cf4f11dde9c13c3baf5a36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/abf50331ea4b08bfef39b55043cfa8ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/725b3845abc2174f3345c175d5d0a287-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57308f19c3c58a2e33d5e449e43f99e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb14ef0fcf84bfce7ae583f1c167050c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c698235e941fc6d0505a56580ab549b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/355a7a2821503397081743bf4cddfad6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0842444becaa137ff0c9267a6ff52a6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47caf18d51af055cac72f8ff1eecb816-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1d1ea89aad9048b9eadb87bbc1dbb6e-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32672511",
+      "id": "32672511",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3hfubej2e1e41",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ae3faf0cef971cfeccb8b4e7d9046240-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/103-17th-St-Wading-River-NY-11792/32672511_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,975/mo",
+      "unformattedPrice": 2975,
+      "address": "103 17th St, Wading River, NY 11792",
+      "addressStreet": "103 17th St",
+      "addressCity": "Wading River",
+      "addressState": "NY",
+      "addressZipcode": "11792",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 625,
+      "latLong": {
+        "latitude": 40.95929,
+        "longitude": -72.809975
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32672511,
+          "streetAddress": "103 17th St",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.95929,
+          "longitude": -72.809975,
+          "price": 2975.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 625.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 374800,
+          "rentZestimate": 2669,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2975.0,
+          "timeOnZillow": 518228000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 246502.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 374800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-02-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae3faf0cef971cfeccb8b4e7d9046240-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c56e0699eacc63c07a3a2c4202b618f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d63d3cdcc677558ad6405915ef45fe77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a966884c5d98d3544a9c7619b9e4e0f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0379ea21c6eb78400487f9a97b7ecf3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecec8900c7e6f796dbaaa53a3ac14178-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3aee2f33d753668f86a61678a06f377-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e37e2ea6210fa21827ff8b7da4ee7ec7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89917ac831809a9e5bd09298591dc686-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c30185cbd7d2a93e790158b37ec7a363-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9be78e6e34473ceb8959f8e54fe48a3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ca44c0bd992a76e65f79e4ecb2b325b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d18ca8942b716de6899859e0ee0cc1a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90d8507e70f14322752799c8b17186e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/190fa9dd1b9182ee4fad74594423dcfc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/053b48d5368d93d65a1b37af04172c07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ed7e7b35f48839d7fad2a8178b78d76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5ec191b61b03b9680234cd66bf58208-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96bca9d0b0314cada2a63b89d5006925-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11b78a38619f0c52a3b6e90fc8c2f70c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b55aa27e5c81105d5fbe6eacf44711bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c51296f7616d163e2f8d65370275e926-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1330c1e2f579d69ad33a07c0d7c28f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb4d93425dab8112ebd9062e32bd5334-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4101f57343d3ecce9a70777a5b533ea1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/898a4d8fea5958ba4c24281fbef82213-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d5864d8798fedd518809b8d28c71fa9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a58507ba8bfb012bca7c02913f5b7357-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a08662bcb39afc7bc3bc31042e0e5d25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/315eff12b1c12e71ab104bf315fda5da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c6c1910ae8f47f3c01fa9d41bc36b93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a15d972fd4f03215c40f4012a7d453f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ef43589adc3167b0882ab0e4d7aafd2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59493648",
+      "id": "59493648",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "33v30jrmpgrcm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8cb59e2c1e28a216d2a17486e797b941-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/8-Donnelly-Ct-Manorville-NY-11949/59493648_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,700/mo",
+      "unformattedPrice": 2700,
+      "address": "8 Donnelly Ct, Manorville, NY 11949",
+      "addressStreet": "8 Donnelly Ct",
+      "addressCity": "Manorville",
+      "addressState": "NY",
+      "addressZipcode": "11949",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 40.86827,
+        "longitude": -72.78237
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59493648,
+          "streetAddress": "8 Donnelly Ct",
+          "zipcode": "11949",
+          "city": "Manorville",
+          "state": "NY",
+          "latitude": 40.86827,
+          "longitude": -72.78237,
+          "price": 2700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 724800,
+          "rentZestimate": 3820,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "timeOnZillow": 244441000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 756481.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 724800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cb59e2c1e28a216d2a17486e797b941-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/787e62f38de709356753099956465677-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffe95718bf1f058d5b80f66a62b55c10-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/039b1f58ce725479dc217b10df177ee7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e752abcd69d1dfb3e39df5c316b11270-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df2f6e786fb822c10836cec862995621-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dea00f15ad09db5fe8b41cf46fc3a64d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9872140a4f9aafc0420da1dec5ba6f09-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3d4e4bebb0bdeb2b86bb4d694c980d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/294b080ba110fcfbef49235de7592963-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbd9fb4e4206165262b3299c207e6812-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "248852090",
+      "id": "248852090",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3agnr75dc035x",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6e2f4e0bd066e12c207e9bcc8186e3b2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/54-Cliff-Rd-E-Wading-River-NY-11792/248852090_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$7,463/mo",
+      "unformattedPrice": 7463,
+      "address": "54 Cliff Rd E, Wading River, NY 11792",
+      "addressStreet": "54 Cliff Rd E",
+      "addressCity": "Wading River",
+      "addressState": "NY",
+      "addressZipcode": "11792",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 40.96738,
+        "longitude": -72.81457
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 248852090,
+          "streetAddress": "54 Cliff Rd E",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.96738,
+          "longitude": -72.81457,
+          "price": 7463.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 766400,
+          "rentZestimate": 8053,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 7463.0,
+          "timeOnZillow": 954974000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 702906.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 766400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: LuxuryBeachGetaway",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e2f4e0bd066e12c207e9bcc8186e3b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50fff529c71fefb13e74e9890d29990f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a32c7b07e9d89d200d7bfadb265c1ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3e05b68206c310696a8479b38a1d720-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab400e995806a872dbf306408d1cf4de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d16e82d7624f5c7e1ddcf9930b93054c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5b3cafd4e71cd3817f10e23fe1b140a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc0565d52ad6763b5210ede8acc99603-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c67c8c38526e90325d6745ca415ee5c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e1b5d1145e0ea427c002aed7cf65a52-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ba2b144cfab3bda7778fc4bb007483a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b91d3bc9381151f5946e23a51e74296c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d903816964a76fc86177555423331991-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6ca4535f954cbd0fd2717e90388bd6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/176cbfd4257f1de501f82eb7b8a6e541-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9817c59a086ceaa33590eb03b1b6e161-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fb13f3cae66267468c8b53b10458753-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc490a7c5c6bfa06634251bc8d3dea9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a4fc966b67facc3acb198a9c6d22baf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/845ac2cdd957e2ed9f2a71b7a5d296d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51f14eed285b42f55f1afc7f4f09877b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69755aac8304035431f4141ab627a217-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6bccab13f8a50016f4cf9b7fb27a45ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b357eadef256c31b62fc569c18161065-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a7729cdda568d4ed9bd59b0a6377b93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43f26e701b5225f29c0d1e9a581454da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/376081fc2b550ce5e0cdbcac1ed30d2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbc43ff8c92d2b689857bfafd697f4e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36cfacfe5889ce1e95797a91f8fc39f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ce382ebbbaca3738471a75c95c56e11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c7007c2e8ee7691e5e54d3774b3bd83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7292083a2fba4536f33f4cf302275db8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b39de7fcd5dcbb8696a1e1d7df8d14a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68b3bef313e25ad19ae000fe50b3e349-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/085614d7cf79b72c5be4b86339e750b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f78b2ff912ea479a01e5bcaabfac6a44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a2b895dbd9f87cc824b746eea850534-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90e6c0bf6529d3f1fead0fab16a9ec13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed3ff810f565783547a71620ebbe88da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6174e1e9fcbbe624d2f1e9fb0ce2d457-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e52b30d024626e8901fdebe12457c60c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d434aedff2259f8ff7137457b8de9687-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3e5be56a4c3678236b0c6717811c28d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec9939fc199c2f31babfde914c626ddf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0fb26773928e7402adf66f840014806-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f2a1e28388a91a254f61c0ae0e4bf46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ffc71a7565b3fe12342cddfb644d064-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0849e29f3943f75139c7357219803b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa252161ee171acda124775a3c839ee4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f19e741aa02bedf05bb0ee66d67881e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1d1b8e1000a93709fccf325ccf9bede-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d56c67cb885e53351be79db0c7f10d4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/580d610b404cd97be7f5c148baf65e74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70ec077da9107d9a5cd0abe5894f7f34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d005647c90e4b9ef296896f94bfb8b86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf8a8c3c48199f4e3f9867739d0dfd40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c5f6adc6088a8225f8048db0a330350-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a221d0981b95b338774f75fe49881b5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36b958e002038dcc7c9c99d0a72f9639-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5cf5489ed76556997d703641d85313a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcd279c46d2eba5e1d62d3e62f50f2f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/424428f2063f9ff9ad26f48c60e2764b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e570f2d0aa647ec6ac5b5fbca372c58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a1e081379f5f7f46f0570af6661265b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d87342293e66f852608322a2f41212ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ae949103fe3bbac81a3b7893ccba200-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7bfc22c27eb8df42c3d8a6e2b9925032-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa47a7f552f13f47c4f005a602409a56-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0e2915ea9c4116dfb6659127ab0e676-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e82cca645e423c57d8ac19c3699f93d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5ac9fd6ada302d23f35545cafc0c151-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9541c9f9559c74fcef65a25ca36727fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74fd82e9cf6795c0d92efb90c0819ccb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a0b45eee14401ce16d9e0a36bb05bda-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b5f3cd918fcc4b0e8bec3ce1697e60e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9155aa0734a7114d4fd01c9de3d0684b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8387e3e3e04da198f65bfa968da0f3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/232dd86a84cb34f8ad66776fd1268d6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99950dceda0f497028eea14f9c715960-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a623c4299ef5930fa0a2d0391cfc755d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f153cb03efb3c2cb243422569c000c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d11343515b76126f7897cfa5b539963b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31a450fec5c787c024f9843b5862d782-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbd9ae1c6558bf13bb5ea6d7be05ea1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2090a617ac2cfd521d824a65e71e786-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4f8f0630589906469f78de66c5052b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f563a95e217f04b75fadea6934ab6ef5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73c47135bbac1b34375085c0ddc0a69b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32670553",
+      "id": "32670553",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "bx4cks338ruu",
+      "imgSrc": "https://photos.zillowstatic.com/fp/aac76332d24fca94793d3733cf5d24a5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2803-N-Wading-River-Rd-Wading-River-NY-11792/32670553_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$8,000/mo",
+      "unformattedPrice": 8000,
+      "address": "2803 N Wading River Rd, Wading River, NY 11792",
+      "addressStreet": "2803 N Wading River Rd",
+      "addressCity": "Wading River",
+      "addressState": "NY",
+      "addressZipcode": "11792",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 3500,
+      "latLong": {
+        "latitude": 40.965763,
+        "longitude": -72.82035
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32670553,
+          "streetAddress": "2803 N Wading River Rd",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.965763,
+          "longitude": -72.82035,
+          "price": 8000.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 3500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 908100,
+          "rentZestimate": 7354,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 8000.0,
+          "timeOnZillow": 863173000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 759957.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 908100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: LuxuryBeachGetaway",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/aac76332d24fca94793d3733cf5d24a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9f48da7e82822159028c44c369e3fb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dc3739b556e4f025fbfce558fc813a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e8d5397516ab31f160a62d4ef996f17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e2e5c4a0935dda5f1eff6487c8d780f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47d35c9ce02516c6b840db15c3523f70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2db9d8d140ee8964ba6687d4f660e7d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84d1c12d4e3671182b5aeee96ea71e34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/281574d23e0d6712c73bc0477e21da84-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71a177172371cc7d685a6d40cebfcf26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5659fd0b990289a12de7189a10f2a858-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9158b1d713cce3d213d3cf9e658e850e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d1b10eaa48e7260ec23f3b99bc8f6ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/449ce639d4d0cf35b2652677e6bfe7a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e387d23326dc4c0655d38622ee03137-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f27b130c6a08cab211e2133ba063260c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b468168d04d77cfcc8f1f133c30c9cdb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f23dcdda7117e68bd48e2d29f6cc464-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0de35813336fe0bc5f0ece92aecf2d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa3ce3fcbe2eee720ddd23903ec2e44b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b69628fea1122c7f448dd1f6719454dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f111673f9818d33f2519c9a1d9f925bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a88fcd9f64bee87a93dffee449033dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/254228cba47101308fbe525af7e2e5a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a0bb78e1ab0936d0445dcb1e0a36669-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef268802bee3b0b20e20def1bf191b9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/642bb4f6bf1c4634bb0ffbb7adf7b508-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f783ae9e5069ffe5f8afc890c9d6ea6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db013777962d209d319bf0e1003834dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d8d3e2fe7384084ab4699bcc209e891-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22681b82b5b2be4d77bc8001f23b6539-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9f1181341e6ea707095a458bb4ed126-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5bdca56d5d9e58b4f3f1ba49899bedc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8a0b1d72b941762591b121b0119b672-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7060623250aab6b4a6f0b81dc0c40bed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83b19263a6915eec2f36f03c790a9deb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58604066db1159dc280ce39f31c82306-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0db851a5a1321216a997455526269de1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29f3a3081a5c40c187eb124db1c53f99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6cb735461de1b697f3af47c5302e801-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8692790115bcdd38fa4aeee1afa39f31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a25461746a03c52ae32cf42d3ad2f45f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e39402ae02688271a28310dc7ff78e29-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8249a20f24061cabb0f5e54c5885f75f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0b4dbd4e8cecd92a09cd4809ee781f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eaf404da5a2b6fa988a32b8194bde7c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9891e920effa31e196743e9d15bced3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9268f3542b6dbe6218c97c46f376b486-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/abf50331ea4b08bfef39b55043cfa8ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb14ef0fcf84bfce7ae583f1c167050c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bad7bcf51b3b9f73ccd664d342b8d4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91e09400ad303ec3327c2122b9965b2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/896cdb408a6ac13d7f36192b275cbf18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d8b0f743eda648de301e9444bd07d4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46a2d28441cf4f11dde9c13c3baf5a36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/725b3845abc2174f3345c175d5d0a287-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/57308f19c3c58a2e33d5e449e43f99e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c698235e941fc6d0505a56580ab549b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7368afb681653455cb3000a817b1f3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/355a7a2821503397081743bf4cddfad6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0842444becaa137ff0c9267a6ff52a6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47caf18d51af055cac72f8ff1eecb816-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1d1ea89aad9048b9eadb87bbc1dbb6e-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2110756983",
+      "id": "2110756983",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2dms6rm8b8g7w",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ed73452a58f70ec6ba69e9d93d00388a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/79-15th-St-2-Wading-River-NY-11792/2110756983_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,226/mo",
+      "unformattedPrice": 2226,
+      "address": "79 15th St #2, Wading River, NY 11792",
+      "addressStreet": "79 15th St #2",
+      "addressCity": "Wading River",
+      "addressState": "NY",
+      "addressZipcode": "11792",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.960056,
+        "longitude": -72.81174
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "31 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2110756983,
+          "streetAddress": "79 15th St #2",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.960056,
+          "longitude": -72.81174,
+          "price": 2226.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 31,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2191,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2226.0,
+          "timeOnZillow": 2687493000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Signature Premier Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed73452a58f70ec6ba69e9d93d00388a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8b9a5a455f4e30c7452019ff6a50be2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fab68eef17b1738db0321d06b2427629-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb7b65cf00f5a8cc953c0a83b7ebbc30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c206f96915a4a0cdc0f026db418237ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/163bb7317ae66946689b016bf3ff2122-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97d864b61e300ece096e6cfdb0b39acb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c04fce51ddbe0dd24dd53c69454a4037-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/066c7eeefeaefe85a34e43973f08adec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1b77d2e33a4eefb349ba13bf36dd674-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebfa43c9023cb54b85e0c00f08cf6c98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7dc33557f78f297242b009be6b2000d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b30c00697e81a79a1bd7abeaa8ac105-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59327106",
+      "id": "59327106",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3d85gc0c4cmm4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/82056ea3a39ff76bea093f6e6901a71b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/39-Ava-Ct-Manorville-NY-11949/59327106_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$2,850/mo",
+      "unformattedPrice": 2850,
+      "address": "39 Ava Ct, Manorville, NY 11949",
+      "addressStreet": "39 Ava Ct",
+      "addressCity": "Manorville",
+      "addressState": "NY",
+      "addressZipcode": "11949",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.862778,
+        "longitude": -72.793236
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59327106,
+          "streetAddress": "39 Ava Ct",
+          "zipcode": "11949",
+          "city": "Manorville",
+          "state": "NY",
+          "latitude": 40.862778,
+          "longitude": -72.793236,
+          "price": 2850.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 383900,
+          "rentZestimate": 3032,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2850.0,
+          "timeOnZillow": 1386737000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 193871.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 383900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Signature Premier Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/82056ea3a39ff76bea093f6e6901a71b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd773f831c4776cadb26942e4818f950-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42b9784cb8dce94a7929958dfc39cdaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68d8887e1b50df5102226ffe1beb50f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22efd465e66cffa072e137aed9aa54ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2893745937da4945eed9e0a8b2a7985-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db0f423659e237424fc78149de1ac9e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1f0378a2a0da5681844e671de1263c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/21142ef67ad3210a0cf9d1378dfb8912-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dcff72404ac2ca3435b48368590734bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76ffd6f6f981480b09faaa9e0f83bcba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eda9c760edd01ede4a495302de6b47d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25c717bcb0c6810b8e90697fd984647f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3baa7321ef406fd496a1ef785a25a61b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32670119",
+      "id": "32670119",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "531gve7x1fmmr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ea2f45648aa77da88c299e96a8ddff1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/7-Sebastian-Dr-Riverhead-NY-11901/32670119_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$8,000/mo",
+      "unformattedPrice": 8000,
+      "address": "7 Sebastian Dr, Riverhead, NY 11901",
+      "addressStreet": "7 Sebastian Dr",
+      "addressCity": "Riverhead",
+      "addressState": "NY",
+      "addressZipcode": "11901",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.968826,
+        "longitude": -72.70807
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "54 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32670119,
+          "streetAddress": "7 Sebastian Dr",
+          "zipcode": "11901",
+          "city": "Riverhead",
+          "state": "NY",
+          "latitude": 40.968826,
+          "longitude": -72.70807,
+          "price": 8000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 54,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 797700,
+          "rentZestimate": 7143,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 8000.0,
+          "timeOnZillow": 4691357000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 664155.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 797700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Compass Greater NY LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea2f45648aa77da88c299e96a8ddff1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cef915523320acc8efa7a9ac4acb198f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eccee5d7df7d8578e6b30a082afb59a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70a5b92b316ccac0c5366586204a3fea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c8f3674d0d0d60e36c162719c247db4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef9c276ce356d6304b1467c5a41aa0f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c6c05f3766d787167a8bb716069c072-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4d80d98a229294c861a79fa966c7ac4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36aa71cf52edd7c2258929e569c479bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a907967bb225b779332a9f11c230d5aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f773aa1ef91696fd1e9a34109649cf35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/327ec756ef372997b1c63673e5042ba3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c95bbd8f89013164c5360811a2669b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30a2736fc391d3222670279dabd2cc8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b6d9602bfb1ec637359a1530fb46aa8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71a6215583588c8380d0f1520389aab4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c49a87e1955393eacaa94e48b2f1ab6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af951db37ae3998fda278711b60cf864-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ccb952583d50a3aed069c7287796f4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab4d42212003c85637b061cc60f5d186-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66cecdb67afd6787cac2acfece01ba3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4660f2442648e65b997b3bd62dfe4a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd5d1b1009a3c48a1e41d871cb63d006-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6dd69fa3292486fe9783e012bd55d50-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8108fb2c47e1868b52c32f33f4f877d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1ae29b4045b6dab100aa1463432e84d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3eda3fb567fd1ec4b5a3b8746d2fa38e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/813faf796953b1b5e58f2ceed14debd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e4c79164c128e8cfc99f687bbc54b98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32d5813326256e96498b0a66956323c2-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32670666",
+      "id": "32670666",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2u6t3pbk2j78e",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f57a13e48db024e709ee0ed73794ec68-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/124-Cliff-Rd-E-Wading-River-NY-11792/32670666_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$2,350/mo",
+      "unformattedPrice": 2350,
+      "address": "124 Cliff Rd E, Wading River, NY 11792",
+      "addressStreet": "124 Cliff Rd E",
+      "addressCity": "Wading River",
+      "addressState": "NY",
+      "addressZipcode": "11792",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.966972,
+        "longitude": -72.81146
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "312 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32670666,
+          "streetAddress": "124 Cliff Rd E",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.966972,
+          "longitude": -72.81146,
+          "price": 2350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 312,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2238,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "timeOnZillow": 26995064000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 468195.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Coldwell Banker Reliable R E",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f57a13e48db024e709ee0ed73794ec68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e14bd94e6928ca2039b99e8d9067f61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/691ac9dd708f9e65384265d8391bff08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f5d4639aeffcfeb0db8ed16e0b3ce07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ef0e720de4b74ac387410004ff516b17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1ff89729606c6cbaa0de028d9815f5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70d527aa268d8e3f21d9bc9204ec5af8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/acf27d47c516992e7fafebc3c0f3c15d-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32669961",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7baa7843eaa5a7910aed646936748b42-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/47-Hornpipe-Dr-Riverhead-NY-11901/32669961_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "47 Hornpipe Dr, Riverhead, NY 11901",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 40.97345,
+        "longitude": -72.71313
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32669961,
+          "streetAddress": "47 Hornpipe Dr",
+          "zipcode": "11901",
+          "city": "Riverhead",
+          "state": "NY",
+          "latitude": 40.97345,
+          "longitude": -72.71313,
+          "price": 2500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 635200,
+          "rentZestimate": 5487,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 382159000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 498385.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 382159000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "59498198",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ed4362df111f3fa67b85376fd9bbe429-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/307-Prairie-Ct-Manorville-NY-11949/59498198_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Condo for rent",
+      "price": "$3,700/mo",
+      "priceLabel": "$3.7K",
+      "address": "307 Prairie Ct, Manorville, NY 11949",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.857094,
+        "longitude": -72.80628
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59498198,
+          "streetAddress": "307 Prairie Ct",
+          "zipcode": "11949",
+          "city": "Manorville",
+          "state": "NY",
+          "latitude": 40.857094,
+          "longitude": -72.80628,
+          "price": 3700.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "CONDO",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 524300,
+          "rentZestimate": 3617,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3700.0,
+          "timeOnZillow": 2862367000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 425926.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Stoebe & Co.",
+      "timeOnZillow": 2862367000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid"
+      ]
+    },
+    {
+      "zpid": "394695696",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/67cbae6853f7dbdef28f54a7c8011dbc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/80-Park-Rd-Riverhead-NY-11901/394695696_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,000/mo",
+      "priceLabel": "$4.0K",
+      "address": "80 Park Rd, Riverhead, NY 11901",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 40.96934,
+        "longitude": -72.710335
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 394695696,
+          "streetAddress": "80 Park Rd",
+          "zipcode": "11901",
+          "city": "Riverhead",
+          "state": "NY",
+          "latitude": 40.96934,
+          "longitude": -72.710335,
+          "price": 4000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 900.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 429900,
+          "rentZestimate": 2820,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4000.0,
+          "timeOnZillow": 1659785000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "lotAreaValue": 0.25,
+          "lotAreaUnit": "acres",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Brown Harris Stevens",
+      "timeOnZillow": 1659785000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid"
+      ]
+    },
+    {
+      "zpid": "32670680",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e847f6038cdef947c1e9bb9e5a1349f1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/126-Cliff-Rd-E-Wading-River-NY-11792/32670680_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$30,000/mo",
+      "priceLabel": "$30K",
+      "address": "126 Cliff Rd E, Wading River, NY 11792",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 40.966946,
+        "longitude": -72.811134
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32670680,
+          "streetAddress": "126 Cliff Rd E",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.966946,
+          "longitude": -72.811134,
+          "price": 30000.0,
+          "datePriceChanged": 1710140400000,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 814900,
+          "rentZestimate": 7248,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 30000.0,
+          "priceChange": 13333,
+          "timeOnZillow": 16438061000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 608181.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Marquis New York LLC",
+      "timeOnZillow": 16438061000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid"
+      ]
+    },
+    {
+      "zpid": "32670602",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0320ffd7dae8e01ec1c48c6f1126b66f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/75-Cliff-Rd-E-Wading-River-NY-11792/32670602_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$10,833/mo",
+      "priceLabel": "$11K",
+      "address": "75 Cliff Rd E, Wading River, NY 11792",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2500,
+      "latLong": {
+        "latitude": 40.96666,
+        "longitude": -72.81373
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32670602,
+          "streetAddress": "75 Cliff Rd E",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.96666,
+          "longitude": -72.81373,
+          "price": 10833.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 502700,
+          "rentZestimate": 5368,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 10833.0,
+          "timeOnZillow": 543549000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 391819.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: LuxuryBeachGetaway",
+      "timeOnZillow": 543549000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32669982",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/642d8191eac276c921133e9d7e36c0f6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/212-Park-Rd-Riverhead-NY-11901/32669982_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$6,000/mo",
+      "priceLabel": "$6.0K",
+      "address": "212 Park Rd, Riverhead, NY 11901",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 1922,
+      "latLong": {
+        "latitude": 40.973587,
+        "longitude": -72.71214
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32669982,
+          "streetAddress": "212 Park Rd",
+          "zipcode": "11901",
+          "city": "Riverhead",
+          "state": "NY",
+          "latitude": 40.973587,
+          "longitude": -72.71214,
+          "price": 6000.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 1922.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 612100,
+          "rentZestimate": 4820,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 6000.0,
+          "timeOnZillow": 1042277000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 484392.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1042277000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32671519",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/46f074f4e1a396bb64bafc342fbf71d6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1932-Edwards-Ave-Baiting-Hollow-NY-11933/32671519_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$6,500/mo",
+      "priceLabel": "$6.5K",
+      "address": "1932 Edwards Ave, Baiting Hollow, NY 11933",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 40.96494,
+        "longitude": -72.768364
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32671519,
+          "streetAddress": "1932 Edwards Ave",
+          "zipcode": "11933",
+          "city": "Baiting Hollow",
+          "state": "NY",
+          "latitude": 40.96494,
+          "longitude": -72.768364,
+          "price": 6500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 607500,
+          "rentZestimate": 4355,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 6500.0,
+          "timeOnZillow": 969646000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 518837.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: LuxuryBeachGetaway",
+      "timeOnZillow": 969646000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32672511",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ae3faf0cef971cfeccb8b4e7d9046240-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/103-17th-St-Wading-River-NY-11792/32672511_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,975/mo",
+      "priceLabel": "$3.0K",
+      "address": "103 17th St, Wading River, NY 11792",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 625,
+      "latLong": {
+        "latitude": 40.95929,
+        "longitude": -72.809975
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32672511,
+          "streetAddress": "103 17th St",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.95929,
+          "longitude": -72.809975,
+          "price": 2975.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 625.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 374800,
+          "rentZestimate": 2669,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2975.0,
+          "timeOnZillow": 518228000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 246502.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-02-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 518228000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "59493648",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8cb59e2c1e28a216d2a17486e797b941-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/8-Donnelly-Ct-Manorville-NY-11949/59493648_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,700/mo",
+      "priceLabel": "$2.7K",
+      "address": "8 Donnelly Ct, Manorville, NY 11949",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 40.86827,
+        "longitude": -72.78237
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59493648,
+          "streetAddress": "8 Donnelly Ct",
+          "zipcode": "11949",
+          "city": "Manorville",
+          "state": "NY",
+          "latitude": 40.86827,
+          "longitude": -72.78237,
+          "price": 2700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 700.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 724800,
+          "rentZestimate": 3820,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "timeOnZillow": 244441000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 756481.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "visited": false,
+      "timeOnZillow": 244441000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "248852090",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6e2f4e0bd066e12c207e9bcc8186e3b2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/54-Cliff-Rd-E-Wading-River-NY-11792/248852090_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$7,463/mo",
+      "priceLabel": "$7.5K",
+      "address": "54 Cliff Rd E, Wading River, NY 11792",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 3.0,
+      "latLong": {
+        "latitude": 40.96738,
+        "longitude": -72.81457
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 248852090,
+          "streetAddress": "54 Cliff Rd E",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.96738,
+          "longitude": -72.81457,
+          "price": 7463.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 766400,
+          "rentZestimate": 8053,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 7463.0,
+          "timeOnZillow": 954974000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 702906.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: LuxuryBeachGetaway",
+      "timeOnZillow": 954974000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32670553",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/aac76332d24fca94793d3733cf5d24a5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2803-N-Wading-River-Rd-Wading-River-NY-11792/32670553_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$8,000/mo",
+      "priceLabel": "$8.0K",
+      "address": "2803 N Wading River Rd, Wading River, NY 11792",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 3500,
+      "latLong": {
+        "latitude": 40.965763,
+        "longitude": -72.82035
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32670553,
+          "streetAddress": "2803 N Wading River Rd",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.965763,
+          "longitude": -72.82035,
+          "price": 8000.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 3500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 908100,
+          "rentZestimate": 7354,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 8000.0,
+          "timeOnZillow": 863173000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 759957.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: LuxuryBeachGetaway",
+      "timeOnZillow": 863173000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2110756983",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ed73452a58f70ec6ba69e9d93d00388a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/79-15th-St-2-Wading-River-NY-11792/2110756983_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,226/mo",
+      "priceLabel": "$2.2K",
+      "address": "79 15th St #2, Wading River, NY 11792",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.960056,
+        "longitude": -72.81174
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "31 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2110756983,
+          "streetAddress": "79 15th St #2",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.960056,
+          "longitude": -72.81174,
+          "price": 2226.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2191,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2226.0,
+          "timeOnZillow": 2687493000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Signature Premier Properties",
+      "timeOnZillow": 2687493000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "59327106",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/82056ea3a39ff76bea093f6e6901a71b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/39-Ava-Ct-Manorville-NY-11949/59327106_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$2,850/mo",
+      "priceLabel": "$2.9K",
+      "address": "39 Ava Ct, Manorville, NY 11949",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.862778,
+        "longitude": -72.793236
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59327106,
+          "streetAddress": "39 Ava Ct",
+          "zipcode": "11949",
+          "city": "Manorville",
+          "state": "NY",
+          "latitude": 40.862778,
+          "longitude": -72.793236,
+          "price": 2850.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 383900,
+          "rentZestimate": 3032,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2850.0,
+          "timeOnZillow": 1386737000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 193871.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Signature Premier Properties",
+      "timeOnZillow": 1386737000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "32670119",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ea2f45648aa77da88c299e96a8ddff1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/7-Sebastian-Dr-Riverhead-NY-11901/32670119_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$8,000/mo",
+      "priceLabel": "$8.0K",
+      "address": "7 Sebastian Dr, Riverhead, NY 11901",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.968826,
+        "longitude": -72.70807
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "54 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32670119,
+          "streetAddress": "7 Sebastian Dr",
+          "zipcode": "11901",
+          "city": "Riverhead",
+          "state": "NY",
+          "latitude": 40.968826,
+          "longitude": -72.70807,
+          "price": 8000.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 797700,
+          "rentZestimate": 7143,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 8000.0,
+          "timeOnZillow": 4691357000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 664155.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Compass Greater NY LLC",
+      "timeOnZillow": 4691357000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "32670666",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f57a13e48db024e709ee0ed73794ec68-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/124-Cliff-Rd-E-Wading-River-NY-11792/32670666_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$2,350/mo",
+      "priceLabel": "$2.4K",
+      "address": "124 Cliff Rd E, Wading River, NY 11792",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.966972,
+        "longitude": -72.81146
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "312 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32670666,
+          "streetAddress": "124 Cliff Rd E",
+          "zipcode": "11792",
+          "city": "Wading River",
+          "state": "NY",
+          "latitude": 40.966972,
+          "longitude": -72.81146,
+          "price": 2350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2238,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2350.0,
+          "timeOnZillow": 26995064000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 468195.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Coldwell Banker Reliable R E",
+      "timeOnZillow": 26995064000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "15bc177b",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

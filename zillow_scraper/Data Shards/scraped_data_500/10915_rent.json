@@ -1,0 +1,216 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "59793011",
+      "id": "59793011",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "npzk3gp85ne6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6dfe8732e4c4e0f3884a79eab1b749be-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/170-Dickerson-Ave-Montgomery-NY-12549/59793011_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$7,000/mo",
+      "unformattedPrice": 7000,
+      "address": "170 Dickerson Ave, Montgomery, NY 12549",
+      "addressStreet": "170 Dickerson Ave",
+      "addressCity": "Montgomery",
+      "addressState": "NY",
+      "addressZipcode": "12549",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 3102,
+      "latLong": {
+        "latitude": 41.561245,
+        "longitude": -74.33673
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59793011,
+          "streetAddress": "170 Dickerson Ave",
+          "zipcode": "12549",
+          "city": "Montgomery",
+          "state": "NY",
+          "latitude": 41.561245,
+          "longitude": -74.33673,
+          "price": 7000.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 3102.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 755100,
+          "rentZestimate": 4250,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 7000.0,
+          "timeOnZillow": 2636218000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 766900.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 755100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Howard Hanna | Rand Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6dfe8732e4c4e0f3884a79eab1b749be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/efd907e97e1401adaabc9c6f7b268254-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/622632bc12c4b5bf2e3f9b44f1223f7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/839074e2552d5b3637205f56f9b50565-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0463275a87e43458f77694837555115-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd2ad16165ed57ff9d40a82181cf16e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a38e4040fe54e3983e73fc82a3f901b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d4c139c221e929261fefcc740a95919a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb3b0ee80a23a7cc527f1b7ddb84a3fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89f41b47340516c7fca369ee2449efe4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edc2f31ebb0c8453eec4bd3bf7055174-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d952dc0754dcf6ab01030fd2f6b5dcfb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c5f9b2da273e18499b0dff2dbb7965c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92bc139093060bdf1933479fec1f0d18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30ac1f357ffef51390326cc2c47402cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8fef7b850158d4269b9fab49c9ae53cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7df49855bdc6c184d5c0979faa591860-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ddf1c0ad15b484761183b6de9a23520-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e70e68bac927748045462f2a89431a36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43ef7015f7d497e1b517e83a242b79a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e768abdcf1d9677103c0546f3061384-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7d2420a5898a5fdf37f0ec75216742a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d489e6dbf3171f02e15a663359161e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d27a23ceb59143cadf998ec939d24abf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b08c06c19eccd60f669ceb0dde09c0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2ab4daa0625436cd3a00eff8485e7b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/750a535575b5050278f30d8909efe753-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f447dffa6947ae349de1c21f939db0a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5339ee95ea6207254ebfe0efab602849-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15b986f4dc8d5cf74b49b471976e8257-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3ff597d4e3abd6a80b37eb6e2c384ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1be2767653d750ef672f212f33148bba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebd4c11eed2f03286e9589573d5a7d0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/357391b4400eb824c03e4d259759dc06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/07321828e6a3a3eeec69d49514e95e7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b39467f2c5df30bda5b80e87b09c197-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "5608d51e"
+}

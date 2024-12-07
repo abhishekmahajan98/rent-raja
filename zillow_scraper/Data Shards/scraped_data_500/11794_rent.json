@@ -1,0 +1,373 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "59321532",
+      "id": "59321532",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "609v7pfdu14q",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6fc44c59b34d86a505b0fc4e8633fafd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Stony-Brook-NY-11790/59321532_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,000/mo",
+      "unformattedPrice": 2000,
+      "address": "(undisclosed Address), Stony Brook, NY 11790",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Stony Brook",
+      "addressState": "NY",
+      "addressZipcode": "11790",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 725,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59321532,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "11790",
+          "city": "Stony Brook",
+          "state": "NY",
+          "price": 2000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 725.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 620900,
+          "rentZestimate": 2596,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2000.0,
+          "timeOnZillow": 523408000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 620900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fc44c59b34d86a505b0fc4e8633fafd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66b8636a7c6b441e4a9926e3c3dfdc5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df0316be658f91c8a1f629d78785d0cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3f4384b6943e3fb9b2549a84692c925-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99c9172ffe816cb5088d1ac36689357a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99088e8226acdff50d433db6ec3e4227-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d58244a1be193f7b39a29a4902b4f79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24d6651e5509e37a6ef8702ba95dac73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a00913b636014e4a11da7684902b7be9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4cad883746024414a98c607da7e8676e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edb4e47fc819c3034ccc9ede7dbfc783-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "59463184",
+      "id": "59463184",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2mwt83vqz1n5k",
+      "imgSrc": "https://photos.zillowstatic.com/fp/dd2bfa8ce18ae2a78360e59d34b48f24-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/48-Brook-Dr-Stony-Brook-NY-11790/59463184_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,990/mo",
+      "unformattedPrice": 3990,
+      "address": "48 Brook Dr, Stony Brook, NY 11790",
+      "addressStreet": "48 Brook Dr",
+      "addressCity": "Stony Brook",
+      "addressState": "NY",
+      "addressZipcode": "11790",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.9286,
+        "longitude": -73.13278
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 59463184,
+          "streetAddress": "48 Brook Dr",
+          "zipcode": "11790",
+          "city": "Stony Brook",
+          "state": "NY",
+          "latitude": 40.9286,
+          "longitude": -73.13278,
+          "price": 3990.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 577400,
+          "rentZestimate": 4158,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3990.0,
+          "timeOnZillow": 1236474000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 259259.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 577400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-09 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Aliano real estate",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd2bfa8ce18ae2a78360e59d34b48f24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/122f669720044ce7fee9f0d5aac02df3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b579ad5c62274464a5b9502f781491c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc692bc73e38fb468ebaa68d129bd56b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/927834254be9c9a35bcf3b486d7eabcf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e6ca68634feed5d7d0c9c4c43353f40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/67e998b939b805e44051efb4de976bc7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10b7065999e6a6b5ff0b2d6a0d478124-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae4f6598c0df21aaaa14e92092c42c15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b50f36c6da74aaeddd9a6059eef7f69a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7574b691f5874f171928b2cc2405e936-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cea348f5b9925a82bb748a11c9dbe777-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/755793722ad7d771ad160450da14fbeb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c915db3cacf3d6a989f7f83feee5286a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc5e99bb4e1d043446bfbf289c2b722f-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "402706038",
+      "id": "402706038",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3feuxphzuc43r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f04e926310ebfd8b78d822fa33c994d3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1262-N-Country-Rd-1-Stony-Brook-NY-11790/402706038_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,300/mo",
+      "unformattedPrice": 3300,
+      "address": "1262 N Country Rd #1, Stony Brook, NY 11790",
+      "addressStreet": "1262 N Country Rd #1",
+      "addressCity": "Stony Brook",
+      "addressState": "NY",
+      "addressZipcode": "11790",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.90574,
+        "longitude": -73.13977
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 402706038,
+          "streetAddress": "1262 N Country Rd #1",
+          "zipcode": "11790",
+          "city": "Stony Brook",
+          "state": "NY",
+          "latitude": 40.90574,
+          "longitude": -73.13977,
+          "price": 3300.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3300.0,
+          "timeOnZillow": 798747000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f04e926310ebfd8b78d822fa33c994d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d61e71de967609e8bc1d798f3df1eaa9-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "32b19b93"
+}

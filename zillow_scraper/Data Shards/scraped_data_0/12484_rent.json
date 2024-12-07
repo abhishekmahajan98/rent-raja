@@ -1,0 +1,926 @@
+{
+  "listResults": [
+    {
+      "zpid": "84106790",
+      "id": "84106790",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "40yfdk2yxf13d",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b86636cea259f891035fb1aa582c4fb2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/17-Winfield-Cors-Stone-Ridge-NY-12484/84106790_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,200/mo",
+      "unformattedPrice": 3200,
+      "address": "17 Winfield Cors, Stone Ridge, NY 12484",
+      "addressStreet": "17 Winfield Cors",
+      "addressCity": "Stone Ridge",
+      "addressState": "NY",
+      "addressZipcode": "12484",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 41.821743,
+        "longitude": -74.195786
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 84106790,
+          "streetAddress": "17 Winfield Cors",
+          "zipcode": "12484",
+          "city": "Stone Ridge",
+          "state": "NY",
+          "latitude": 41.821743,
+          "longitude": -74.195786,
+          "price": 3200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 773300,
+          "rentZestimate": 4270,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 916853000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 594444.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 773300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b86636cea259f891035fb1aa582c4fb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56a1a086df2c18f90f2de96199c4bb6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c81fc7dfccad18e8722fc31587fe282-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/386673a8499cb1fbdd26ad37528c8f6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c3136f6772a69ddb3ef4d7ef0234b93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bea1e87707226a664f0af3860b9a6418-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9cff8860a593cd2da42f5590147d1ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ffbb950dc76d830268ff1ddd6473ee5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/181615a55b7dcbdb6cb9aef3f308e591-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442422057",
+      "id": "442422057",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "pt1nwavyffxz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f01b5375c9a3f9d303a0849900bc7fc0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4685-Route-209-10-Accord-NY-12404/442422057_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "4685 Route 209 #10, Accord, NY 12404",
+      "addressStreet": "4685 Route 209 #10",
+      "addressCity": "Accord",
+      "addressState": "NY",
+      "addressZipcode": "12404",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 41.815926,
+        "longitude": -74.19916
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442422057,
+          "streetAddress": "4685 Route 209 #10",
+          "zipcode": "12404",
+          "city": "Accord",
+          "state": "NY",
+          "latitude": 41.815926,
+          "longitude": -74.19916,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 1410749000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 10",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f01b5375c9a3f9d303a0849900bc7fc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb26f0662791af71e2847959aeab319a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b9db3b4f70618fcbd961f4ce7864a17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/489743aca1166017da25272ee0cec6c0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4e11a17353b39bdbfe33957829c100a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f1bb87f44228bc330b7b0e1e3863a7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85e1272f48744a5062d9a66cb1f6fd8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68b7ce21ca1f9602dfc6f5ccdc32157a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35e36abdb0fcc92a86df3d4df4a6b4bd-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2055705864",
+      "id": "2055705864",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "ykew8d2e7u61",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5bc3ca9381da485f0f94686a7a6ac842-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Stone-Ridge-NY-12484/2055705864_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,850/mo",
+      "unformattedPrice": 1850,
+      "address": "(undisclosed Address), Stone Ridge, NY 12484",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Stone Ridge",
+      "addressState": "NY",
+      "addressZipcode": "12484",
+      "isUndisclosedAddress": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "135 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055705864,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12484",
+          "city": "Stone Ridge",
+          "state": "NY",
+          "price": 1850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 135,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 264200,
+          "rentZestimate": 1649,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1850.0,
+          "timeOnZillow": 11690829000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 264200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bc3ca9381da485f0f94686a7a6ac842-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2076874251",
+      "id": "2076874251",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "kcyss51busbp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2a86f72be2b96e90412fdcd66adf9d1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/107-Main-St-1-High-Falls-NY-12440/2076874251_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,800/mo",
+      "unformattedPrice": 2800,
+      "address": "107 Main St #1, High Falls, NY 12440",
+      "addressStreet": "107 Main St #1",
+      "addressCity": "High Falls",
+      "addressState": "NY",
+      "addressZipcode": "12440",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.82701,
+        "longitude": -74.12821
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2076874251,
+          "streetAddress": "107 Main St #1",
+          "zipcode": "12440",
+          "city": "High Falls",
+          "state": "NY",
+          "latitude": 41.82701,
+          "longitude": -74.12821,
+          "price": 2800.0,
+          "datePriceChanged": 1728284400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2138,
+          "listing_sub_type": {},
+          "priceReduction": "$450 (Oct 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -450,
+          "timeOnZillow": 804152000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a86f72be2b96e90412fdcd66adf9d1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c99d1c78d132ed30f6f885056075b94b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cc80c550518b0bdc7b2b478b63f01ee3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0511da4837552d716ff1a3fbdd4da0a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/933d7d62acca40dc89038b5cdb7d427f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/82ddc9bf23c3f27bbe023a7c5e9d4a49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56a910f4426254b3305cd5154f9690e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a1fd4808589f2920b3d735b0f4681ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c15c3e48d8675eb7e0144ece554a211-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a43f35d1e2d51821fe496ba7b8f175c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35751c550d57e618a2c8f2c51a1ceebb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/126eff59dc95658ba457eec0057a7ac0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df911749bcb6d12e4fac79bac977abb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5b88c8e1e4613c19f2b57c25e861ac9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f21408d6259a8dd69e241122b36ad58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2540ac33bad94943cdc988effe28f20d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc17749905b375b86903f13e3e191062-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77cb72813a202dc9a1b4b882283d7156-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d84e6f134a5c81d3e15e625ce61598f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/130c49cc51b2774b14133746c13e5144-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed3eb15dd0fbf9296b5c221c1ec6bdd0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ead97f49c50afd1e003dfe3d69890cb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2c73f5cf5a3c24e43c826ce01a33410-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eff593833e39df2045a192391413deb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/05cc1ad6994d937c1496a981f1ccf680-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20fab25bdeeb32c3cef9e337aec554c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f59a3f60c716f9c627ad1b3b74819c62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbd965f9a7a0ceef140804156b773f3a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "41.869457--74.12531",
+      "id": "41.869457--74.12531",
+      "providerListingId": "1dgmsmayv2p1r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/155e08be1e6a4cac541ed98107682b93-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/kingston-ny/woodland-country-apartments/9kZkKN/",
+      "statusType": "FOR_RENT",
+      "statusText": "Woodland Country Apartments",
+      "address": "3140 Route 209, Kingston, NY",
+      "addressStreet": "3140 Route 209 # 3C",
+      "addressCity": "Kingston",
+      "addressState": "NY",
+      "addressZipcode": "12401",
+      "units": [
+        {
+          "price": "$1,650+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,800+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,500+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2188240940,
+      "latLong": {
+        "latitude": 41.869457,
+        "longitude": -74.12531
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Woodland Country Apartments",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/155e08be1e6a4cac541ed98107682b93-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4e7a1c07b79bbb0aa05a1d227aab0bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3d97c3e79c069437e6475b41b379dc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ebf7372b471a3ae94cfb3a29566f8e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce4e7b03e30b074b0e951b467f5230b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4669e534d632004a5368299eb16fe4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6199c545856cfe3b25ac5cc3763d4b96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3309a84173a0524d798060b562634f6c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1091e547fa634f610287b85a8a7140f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da80f0005bc73255ecce32bfca7e62cc-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "84106790",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b86636cea259f891035fb1aa582c4fb2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/17-Winfield-Cors-Stone-Ridge-NY-12484/84106790_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,200/mo",
+      "priceLabel": "$3.2K",
+      "address": "17 Winfield Cors, Stone Ridge, NY 12484",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 41.821743,
+        "longitude": -74.195786
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 84106790,
+          "streetAddress": "17 Winfield Cors",
+          "zipcode": "12484",
+          "city": "Stone Ridge",
+          "state": "NY",
+          "latitude": 41.821743,
+          "longitude": -74.195786,
+          "price": 3200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 773300,
+          "rentZestimate": 4270,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 916853000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 594444.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 916853000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442422057",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f01b5375c9a3f9d303a0849900bc7fc0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/4685-Route-209-10-Accord-NY-12404/442422057_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,800/mo",
+      "priceLabel": "$1.8K",
+      "address": "4685 Route 209 #10, Accord, NY 12404",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 41.815926,
+        "longitude": -74.19916
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442422057,
+          "streetAddress": "4685 Route 209 #10",
+          "zipcode": "12404",
+          "city": "Accord",
+          "state": "NY",
+          "latitude": 41.815926,
+          "longitude": -74.19916,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 1410749000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 10",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1410749000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2076874251",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2a86f72be2b96e90412fdcd66adf9d1d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/107-Main-St-1-High-Falls-NY-12440/2076874251_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,800/mo",
+      "priceLabel": "$2.8K",
+      "address": "107 Main St #1, High Falls, NY 12440",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.82701,
+        "longitude": -74.12821
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2076874251,
+          "streetAddress": "107 Main St #1",
+          "zipcode": "12440",
+          "city": "High Falls",
+          "state": "NY",
+          "latitude": 41.82701,
+          "longitude": -74.12821,
+          "price": 2800.0,
+          "datePriceChanged": 1728284400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2138,
+          "listing_sub_type": {},
+          "priceReduction": "$450 (Oct 7)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2800.0,
+          "priceChange": -450,
+          "timeOnZillow": 804152000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 804152000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "1dgmsmayv2p1r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/155e08be1e6a4cac541ed98107682b93-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/kingston-ny/woodland-country-apartments/9kZkKN/",
+      "statusType": "FOR_RENT",
+      "statusText": "Woodland Country Apartments",
+      "price": "$1,650+/mo",
+      "address": "3140 Route 209, Kingston, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 627,
+      "lotId": 2188240940,
+      "latLong": {
+        "latitude": 41.869457,
+        "longitude": -74.12531
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "Woodland Country Apartments",
+      "buildingId": "41.869457--74.12531",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 11086787000,
+      "unitCount": 3,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "761da4af",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

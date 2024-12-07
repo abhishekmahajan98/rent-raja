@@ -1,0 +1,351 @@
+{
+  "listResults": [
+    {
+      "zpid": "2055776891",
+      "id": "2055776891",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "cyrjjau3eacn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2c1df3b00895b7519880b868661c745e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/41-Church-Rd-1-Mountain-Dale-NY-12763/2055776891_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,900/mo",
+      "unformattedPrice": 1900,
+      "address": "41 Church Rd #1, Mountain Dale, NY 12763",
+      "addressStreet": "41 Church Rd #1",
+      "addressCity": "Mountain Dale",
+      "addressState": "NY",
+      "addressZipcode": "12763",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.68624,
+        "longitude": -74.52828
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055776891,
+          "streetAddress": "41 Church Rd #1",
+          "zipcode": "12763",
+          "city": "Mountain Dale",
+          "state": "NY",
+          "latitude": 41.68624,
+          "longitude": -74.52828,
+          "price": 1900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1499,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "timeOnZillow": 948247000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c1df3b00895b7519880b868661c745e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdf97ada86ad29c4dd3ee893a6de05a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d9b4a486ac5852599390982bfbdde8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bda376aa283da151f1bc8060b475a7d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e3b27d32807ba53b7b85912d75425dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69ca6067e3247d4993eb5042f1d2c526-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2be376ef5f63854110797db11c38f151-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d5df6d9dc2c1ae0b615741716ee2b62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9238239454400f1c936bb1880c632456-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d3da8eeb1a74a5d1bc0ca98c61b1e98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/176470cad45f28a261ec743b75fd5fa6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7cce23b7ac0b48ff9dbb82a65c73270a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30aed2691cdbdec515bf5c04005fcc70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a291092729db4611f81818d04b355bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/085ae5dffd1dfdc583013cbc35e40dfb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4264d25c2559e87283d15b7393622a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a054d748dfc25a84aa2ad0f8795a62a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2055776891",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2c1df3b00895b7519880b868661c745e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/41-Church-Rd-1-Mountain-Dale-NY-12763/2055776891_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,900/mo",
+      "priceLabel": "$1.9K",
+      "address": "41 Church Rd #1, Mountain Dale, NY 12763",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.68624,
+        "longitude": -74.52828
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055776891,
+          "streetAddress": "41 Church Rd #1",
+          "zipcode": "12763",
+          "city": "Mountain Dale",
+          "state": "NY",
+          "latitude": 41.68624,
+          "longitude": -74.52828,
+          "price": 1900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1499,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "timeOnZillow": 948247000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 948247000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2053045465",
+      "id": "2053045465",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "314vvtfk2vfs8",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0857489dd2210d2ef602c3755f71caa4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/199-Main-St-2-Mountain-Dale-NY-12763/2053045465_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,700/mo",
+      "unformattedPrice": 1700,
+      "address": "199 Main St #2, Mountain Dale, NY 12763",
+      "addressStreet": "199 Main St #2",
+      "addressCity": "Mountain Dale",
+      "addressState": "NY",
+      "addressZipcode": "12763",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 41.690445,
+        "longitude": -74.5335
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053045465,
+          "streetAddress": "199 Main St #2",
+          "zipcode": "12763",
+          "city": "Mountain Dale",
+          "state": "NY",
+          "latitude": 41.690445,
+          "longitude": -74.5335,
+          "price": 1700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1481,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 949388000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0857489dd2210d2ef602c3755f71caa4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff128be3a69c0f744dc2e85576bebc53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/658f59995877a25682c8c64b16da28ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02457b98490656eb048c0a95a05cf053-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66977d386857cad608d312c7625708df-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "59707337",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1c78b9e3"
+}

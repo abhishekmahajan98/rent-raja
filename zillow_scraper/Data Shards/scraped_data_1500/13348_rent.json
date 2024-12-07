@@ -1,0 +1,580 @@
+{
+  "listResults": [
+    {
+      "zpid": "392685032",
+      "id": "392685032",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "bkrnj0x8fsu6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/92c6eb36c5a988aaa7c71710cc1caf05-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/446-Maples-Rd-UNIT-A-Milford-NY-13807/392685032_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "446 Maples Rd UNIT A, Milford, NY 13807",
+      "addressStreet": "446 Maples Rd UNIT A",
+      "addressCity": "Milford",
+      "addressState": "NY",
+      "addressZipcode": "13807",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1652,
+      "latLong": {
+        "latitude": 42.651947,
+        "longitude": -75.0078
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "37 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 392685032,
+          "streetAddress": "446 Maples Rd UNIT A",
+          "zipcode": "13807",
+          "city": "Milford",
+          "state": "NY",
+          "latitude": 42.651947,
+          "longitude": -75.0078,
+          "price": 2100.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1652.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 37,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2111,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 3270969000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/92c6eb36c5a988aaa7c71710cc1caf05-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4a6b5a9505cca86ca1cae4da9e048e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/839045e3c846a3b80b0dcd8a10dfc26c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12e17cd1a7c9b6b5e6e5c64ba420e255-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b9d0edab1d12cdd69e4088a9ae63194-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27339b1583edda3be7a85e3c57fee24b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb10f31780549d866f189ff64e4040fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0b73d75f4edb8056d960e4409439c20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d32508e9be3c6be44d03a0f5260a599f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/429ecff7ce1e78b155a1da6241c0c6ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73e37100de6bfdd74b40b87a07089175-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/060b15e778e0fe18f10f7e22ae2968b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66f94aab31bc2a072aaa2943803f76b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/94e8d2065c23aed6e5058befff28f375-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d72f45b649e73943ea5b925c633ab14-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a16e8c678f133de964b64a805be5dfa2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442111139",
+      "id": "442111139",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4edzrs3vgrnhr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/574e6a5fa0f02e85ce65933d8be69efd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Fly-Creek-NY-13337/442111139_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "(undisclosed Address), Fly Creek, NY 13337",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Fly Creek",
+      "addressState": "NY",
+      "addressZipcode": "13337",
+      "isUndisclosedAddress": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 770,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442111139,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "13337",
+          "city": "Fly Creek",
+          "state": "NY",
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 770.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 131600,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 2441095000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 131600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/574e6a5fa0f02e85ce65933d8be69efd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/13fc532995534fa7aad6284169b2447d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd02cf1cdde49207a0d591e1cc35be7b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31628492",
+      "id": "31628492",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "324uhhy2h39tv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1b496d1e00c75708216bc8ab5db1b1d0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/456-Maples-Rd-Milford-NY-13807/31628492_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,950/mo",
+      "unformattedPrice": 1950,
+      "address": "456 Maples Rd, Milford, NY 13807",
+      "addressStreet": "456 Maples Rd",
+      "addressCity": "Milford",
+      "addressState": "NY",
+      "addressZipcode": "13807",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 42.65203,
+        "longitude": -75.00693
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "109 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31628492,
+          "streetAddress": "456 Maples Rd",
+          "zipcode": "13807",
+          "city": "Milford",
+          "state": "NY",
+          "latitude": 42.65203,
+          "longitude": -75.00693,
+          "price": 1950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 109,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 204500,
+          "rentZestimate": 1631,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 9491170000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 195737.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 204500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b496d1e00c75708216bc8ab5db1b1d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00d8a7157f61867d6ea62aa1457290c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e8d36fc2d3a994a0f5b94e35287526f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edf93a27e3918c42d579ad5317200bc9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4163183149fb1283cb3ce3162787ad6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cbd700a063ce80da52aca97181337a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29d1b129d416eb0803932e0d481ca3d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ee6c0f7276ab0da273bab8cbd4e187f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e215384769828f7dbaca5d04d8a45db1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8c81295db214077214a9de8eabecf9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba9d552e6494ff536c1bfbf2f2e93ba1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a824c1db520df27bb81039c04b94f3e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4230591e767256cc7fb44b7d19501476-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26fc2e588d4f5a1155b9feec7a0ed13b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e064808dc798d26e4cb5d2fb61f7d83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4eaff3e1c321d38d170ea7e0d827bb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf632f83efdd7ba8b8d113caf2ea2195-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f48d44ce56e6fc7a876e138da3ed1306-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d1302c1683a78e81dbb4a8430d6e923a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4314b03d1096cf0e5d0830810d07d8e0-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "392685032",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/92c6eb36c5a988aaa7c71710cc1caf05-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/446-Maples-Rd-UNIT-A-Milford-NY-13807/392685032_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,100/mo",
+      "priceLabel": "$2.1K",
+      "address": "446 Maples Rd UNIT A, Milford, NY 13807",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1652,
+      "latLong": {
+        "latitude": 42.651947,
+        "longitude": -75.0078
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "37 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 392685032,
+          "streetAddress": "446 Maples Rd UNIT A",
+          "zipcode": "13807",
+          "city": "Milford",
+          "state": "NY",
+          "latitude": 42.651947,
+          "longitude": -75.0078,
+          "price": 2100.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1652.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2111,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 3270969000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 3270969000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "31628492",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1b496d1e00c75708216bc8ab5db1b1d0-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/456-Maples-Rd-Milford-NY-13807/31628492_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,950/mo",
+      "priceLabel": "$2.0K",
+      "address": "456 Maples Rd, Milford, NY 13807",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 42.65203,
+        "longitude": -75.00693
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "109 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31628492,
+          "streetAddress": "456 Maples Rd",
+          "zipcode": "13807",
+          "city": "Milford",
+          "state": "NY",
+          "latitude": 42.65203,
+          "longitude": -75.00693,
+          "price": 1950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 204500,
+          "rentZestimate": 1631,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 9491170000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 195737.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 9491170000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "757c0442",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

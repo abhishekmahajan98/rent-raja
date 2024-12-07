@@ -1,0 +1,1020 @@
+{
+  "listResults": [
+    {
+      "zpid": "2093069529",
+      "id": "2093069529",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2pr00gx44s5pa",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b2075eea7f0cb3f957994fd0d46686d3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/511-E-75th-St-APT-1N-New-York-NY-10021/2093069529_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "511 E 75th St APT 1N, New York, NY 10021",
+      "addressStreet": "511 E 75th St APT 1N",
+      "addressCity": "New York",
+      "addressState": "NY",
+      "addressZipcode": "10021",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.768616,
+        "longitude": -73.95129
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2093069529,
+          "streetAddress": "511 E 75th St APT 1N",
+          "zipcode": "10021",
+          "city": "New York",
+          "state": "NY",
+          "latitude": 40.768616,
+          "longitude": -73.95129,
+          "price": 4500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 6138,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 148721000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1N",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-25 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Safeguard Realty Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2075eea7f0cb3f957994fd0d46686d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dc2483919ab47be6d8e3adfc17f8032-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b257674aaa0592bdedc765a4783cf5ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f12fcc95ba777db5071a0f81f33efbe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45d69d80ebd21b27fe6390e39fba55fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45b9ce6dcb539647ddc90144cd332588-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/869a97ca4445fb0daaf130b73c399f3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f97be44eb17ccf1b13d030e5f3e64635-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "40.76998--73.95168",
+      "id": "40.76998--73.95168",
+      "providerListingId": "q05kvpjr9czy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7079bbcb16afa3c75402c81a42fa0bd7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/1443-york-ave-new-york-ny-2Dyt/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "1443 York Ave, New York, NY",
+      "addressStreet": "1443 York Ave  Apt 2E",
+      "addressCity": "New York",
+      "addressState": "NY",
+      "addressZipcode": "10075",
+      "units": [
+        {
+          "price": "$3,495+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 26356,
+      "latLong": {
+        "latitude": 40.76998,
+        "longitude": -73.95168
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7079bbcb16afa3c75402c81a42fa0bd7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75f140dd353fdcf4fa50bd02329fceb7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6da3ba2e068cb4b9f3f4454afb7d493f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5170591013115facefe977faa3a4f31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9dd3e530cf05e3afb3a7502ccd3b69ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88aa5278a1706b41b020592ec8e6f980-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea08c6acf355aeda1e9d2ed1bbf610d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f98b1c12049fbf309c267e6b20e39b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6dc22fd36b088d589fa03310d09dcdd4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/905eac12a53c88a7842ce129f2f6d708-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd3df6233b425c7ef5a4769aad16a88b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d65048f20c3556201635fa3ceda98f2-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "paid"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "31539799",
+      "id": "31539799",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "42xsn6p97mu27",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c6864dd01fc734dba87bfd188306b85e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1420-York-Ave-APT-6E-New-York-NY-10021/31539799_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,650/mo",
+      "unformattedPrice": 2650,
+      "address": "1420 York Ave APT 6E, New York, NY 10021",
+      "addressStreet": "1420 York Ave APT 6E",
+      "addressCity": "New York",
+      "addressState": "NY",
+      "addressZipcode": "10021",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.769028,
+        "longitude": -73.95176
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31539799,
+          "streetAddress": "1420 York Ave APT 6E",
+          "zipcode": "10021",
+          "city": "New York",
+          "state": "NY",
+          "latitude": 40.769028,
+          "longitude": -73.95176,
+          "price": 2650.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 5,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3015,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2650.0,
+          "timeOnZillow": 495396000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 155731.0,
+          "unit": "Apt 6E",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Brown Harris Stevens",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6864dd01fc734dba87bfd188306b85e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88b3a8083aeac58827b0f923177fa710-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4a72a5b6ef0f2e9ba6b35bae5d49a33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ca41f5ccd8457773540d951e2ece831-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cff7d1d2d466aa4d09718fa4dcec6f4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36f8a199473d079d0bb7f60b625efec8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6149c8e29e6c0051ab45edc8e8d30820-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bea9ba48380bcf66978f31ea6e69f6b2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01c5324c1a57aa945ea7fcb0d318e976-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d9d0aa63adff9c909cbf74fbc7b9fbd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a21871c576ff0bcfab580afc72a124b-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "40.769444--73.95089",
+      "id": "40.769444--73.95089",
+      "providerListingId": "30g2bt4xs4cy5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/11ec0abfeb4f2371fcefb1a5aaae152c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/500-e-77th-st-new-york-ny-2F4Q/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "500 E 77th St, New York, NY",
+      "addressStreet": "500 E  77th St   Apt 1002",
+      "addressCity": "New York",
+      "addressState": "NY",
+      "addressZipcode": "10162",
+      "units": [
+        {
+          "price": "$6,895+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 26529,
+      "latLong": {
+        "latitude": 40.769444,
+        "longitude": -73.95089
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/11ec0abfeb4f2371fcefb1a5aaae152c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70e8befa4d06321d9aabd4f2fd66d7de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cee20c08e72680a36170cd34bb43b576-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dc0c6e7a7f7972d23eef4a1d3743829-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3ca609eb1b6fa5ac6346eff110aad0e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/207fef9c40da7abaff492708220b3fac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/739a9a92f6f1fbfd576ff2246b0306fe-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "paid"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "40.769817--73.950195",
+      "id": "40.769817--73.950195",
+      "providerListingId": "32c7bsnyd9ppb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5e76dbe8e42d664c6fdf3c42f98fbaf6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/517-e-77th-st-new-york-ny-5Xjc2x/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "509 E 77th St, New York, NY",
+      "addressStreet": "509 E  77th St Apt 6L",
+      "addressCity": "New York",
+      "addressState": "NY",
+      "addressZipcode": "10075",
+      "units": [
+        {
+          "price": "$2,200+",
+          "beds": "0",
+          "roomForRent": false
+        },
+        {
+          "price": "$3,100+",
+          "beds": "1",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 1001500364,
+      "latLong": {
+        "latitude": 40.769817,
+        "longitude": -73.950195
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e76dbe8e42d664c6fdf3c42f98fbaf6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e5fc32ed16178545d3648cf94786897-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00cdffbf4612e32d55cf899b09b7d88f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d7ae50441488b703686cfcf9b64d7a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff365453116e8cbab3991aca01b64371-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43dd3524e9f861b503dbd34f36bc3990-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/167e333021ad2a1e5283fe148aabac7e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2aa6815d1a01e847fcb35f0c318eb501-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d40e6bf748869941b51aa61c5054984-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db605982db9fb10bcdb84bf9f9722cf3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70e2d96d76dafe1ce876c033843db5f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e8dc84b527fb6c568a8a2ea9070ffaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51b78bc2fb0d3b4bb51568223c7c8194-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6a524e8e10f3d6505b3f851dce43391-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/057782c52ef1e98d17b5be26cfb6d6eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de191ed3110a7256b3b4349618980707-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ebe2ac2838dccb2a9bc2405a1c48dde0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad2f3b4483c1bac39fb29ef5d8b22134-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de6634724b15c3e2a7c9c3315d4b3064-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "paid"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "2111593254",
+      "id": "2111593254",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "228rxhqtaw0bw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/68de8958e384b69637a7f0b1874c4b24-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/500-E-76th-St-APT-2FS-New-York-NY-10021/2111593254_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "500 E 76th St APT 2FS, New York, NY 10021",
+      "addressStreet": "500 E 76th St APT 2FS",
+      "addressCity": "New York",
+      "addressState": "NY",
+      "addressZipcode": "10021",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.76924,
+        "longitude": -73.95162
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2111593254,
+          "streetAddress": "500 E 76th St APT 2FS",
+          "zipcode": "10021",
+          "city": "New York",
+          "state": "NY",
+          "latitude": 40.76924,
+          "longitude": -73.95162,
+          "price": 3500.0,
+          "datePriceChanged": 1731571200000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 43,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3603,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 14)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "priceChange": -100,
+          "timeOnZillow": 3790621000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2fs",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Bond New York",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/68de8958e384b69637a7f0b1874c4b24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81b1d182bc9ac1fcf8891de63e8b6a07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2d926d1c7d49a166235233a7cbb440a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77fde7a8fe5a5a1218277ceae29ed7f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b0c4d15731f665ef4a5741f62a0c909-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51684d2f73890a812854f05a560cdb96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c489e02a56e05b965af0eb593921d319-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/234e3b10dc121dbd0047eea79a29b47c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9bb70aeeda210aaa75412e461a9e011e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd1092d78dd023ba1ea243a2cd530d16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/041cf5c0d3fbe358e0bcd76ab7c7ec44-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2093069529",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b2075eea7f0cb3f957994fd0d46686d3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/511-E-75th-St-APT-1N-New-York-NY-10021/2093069529_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$4,500/mo",
+      "priceLabel": "$4.5K",
+      "address": "511 E 75th St APT 1N, New York, NY 10021",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 40.768616,
+        "longitude": -73.95129
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2093069529,
+          "streetAddress": "511 E 75th St APT 1N",
+          "zipcode": "10021",
+          "city": "New York",
+          "state": "NY",
+          "latitude": 40.768616,
+          "longitude": -73.95129,
+          "price": 4500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 6138,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 148721000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1N",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-25 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Safeguard Realty Management",
+      "timeOnZillow": 148721000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid"
+      ]
+    },
+    {
+      "plid": "q05kvpjr9czy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7079bbcb16afa3c75402c81a42fa0bd7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/1443-york-ave-new-york-ny-2Dyt/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$3,495+/mo",
+      "address": "1443 York Ave, New York, NY",
+      "minBeds": 2,
+      "minBaths": 1.0,
+      "lotId": 26356,
+      "latLong": {
+        "latitude": 40.76998,
+        "longitude": -73.95168
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "40.76998--73.95168",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 329386000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid"
+      ]
+    },
+    {
+      "zpid": "31539799",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c6864dd01fc734dba87bfd188306b85e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1420-York-Ave-APT-6E-New-York-NY-10021/31539799_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,650/mo",
+      "priceLabel": "$2.7K",
+      "address": "1420 York Ave APT 6E, New York, NY 10021",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.769028,
+        "longitude": -73.95176
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "5 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31539799,
+          "streetAddress": "1420 York Ave APT 6E",
+          "zipcode": "10021",
+          "city": "New York",
+          "state": "NY",
+          "latitude": 40.769028,
+          "longitude": -73.95176,
+          "price": 2650.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3015,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2650.0,
+          "timeOnZillow": 495396000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 155731.0,
+          "unit": "Apt 6E",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Brown Harris Stevens",
+      "timeOnZillow": 495396000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid"
+      ]
+    },
+    {
+      "plid": "30g2bt4xs4cy5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/11ec0abfeb4f2371fcefb1a5aaae152c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/500-e-77th-st-new-york-ny-2F4Q/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$6,895+/mo",
+      "address": "500 E 77th St, New York, NY",
+      "minBeds": 2,
+      "minBaths": 2.0,
+      "lotId": 26529,
+      "latLong": {
+        "latitude": 40.769444,
+        "longitude": -73.95089
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "40.769444--73.95089",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 679311000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid"
+      ]
+    },
+    {
+      "plid": "32c7bsnyd9ppb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5e76dbe8e42d664c6fdf3c42f98fbaf6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/517-e-77th-st-new-york-ny-5Xjc2x/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$2,200+/mo",
+      "address": "509 E 77th St, New York, NY",
+      "minBeds": 0,
+      "minBaths": 1.0,
+      "lotId": 1001500364,
+      "latLong": {
+        "latitude": 40.769817,
+        "longitude": -73.950195
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "40.769817--73.950195",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 949125000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid"
+      ]
+    },
+    {
+      "zpid": "2111593254",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/68de8958e384b69637a7f0b1874c4b24-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/500-E-76th-St-APT-2FS-New-York-NY-10021/2111593254_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$3,500/mo",
+      "priceLabel": "$3.5K",
+      "address": "500 E 76th St APT 2FS, New York, NY 10021",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 40.76924,
+        "longitude": -73.95162
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2111593254,
+          "streetAddress": "500 E 76th St APT 2FS",
+          "zipcode": "10021",
+          "city": "New York",
+          "state": "NY",
+          "latitude": 40.76924,
+          "longitude": -73.95162,
+          "price": 3500.0,
+          "datePriceChanged": 1731571200000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 3603,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 14)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "priceChange": -100,
+          "timeOnZillow": 3790621000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 2fs",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Bond New York",
+      "timeOnZillow": 3790621000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "3bfa9433",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

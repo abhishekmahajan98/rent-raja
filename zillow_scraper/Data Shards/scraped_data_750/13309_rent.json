@@ -1,0 +1,221 @@
+{
+  "listResults": [
+    {
+      "zpid": "2055077688",
+      "id": "2055077688",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2gd84nvc5qyea",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5dd7dbbb2cfd00723b804c9d66f0e14a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/155-Erwin-St-4-Boonville-NY-13309/2055077688_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "155 Erwin St #4, Boonville, NY 13309",
+      "addressStreet": "155 Erwin St #4",
+      "addressCity": "Boonville",
+      "addressState": "NY",
+      "addressZipcode": "13309",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 43.48496,
+        "longitude": -75.34231
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055077688,
+          "streetAddress": "155 Erwin St #4",
+          "zipcode": "13309",
+          "city": "Boonville",
+          "state": "NY",
+          "latitude": 43.48496,
+          "longitude": -75.34231,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1052,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 133513000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5dd7dbbb2cfd00723b804c9d66f0e14a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9827192494ecd39ea3d5f77306443b7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f477d24e3dbc86d79cb0db02835904eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ff1f8503fc5c52106c2ed122259c9e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6aa81c0fc19aae0ff58f5431f04dd885-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e907960e8723144eab7b50cb9f853b7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4aae52835ed26c8e7a296e668730e53f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0d1002a8e48ad1f2579021880a0dbaa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce0350e915832871e62098fcf9545e77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ed52674ce94567e13a610462d5b3061-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2055077688",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5dd7dbbb2cfd00723b804c9d66f0e14a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/155-Erwin-St-4-Boonville-NY-13309/2055077688_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "155 Erwin St #4, Boonville, NY 13309",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 43.48496,
+        "longitude": -75.34231
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055077688,
+          "streetAddress": "155 Erwin St #4",
+          "zipcode": "13309",
+          "city": "Boonville",
+          "state": "NY",
+          "latitude": 43.48496,
+          "longitude": -75.34231,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1052,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 133513000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 133513000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "4d7ef3a3",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

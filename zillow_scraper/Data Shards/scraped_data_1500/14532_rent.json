@@ -1,0 +1,248 @@
+{
+  "listResults": [
+    {
+      "zpid": "442439135",
+      "id": "442439135",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "37mrwc60m9qsk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1a4f06f41265913e4fa22c4c7ca5a1ff-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/1-orchard-park-1a-phelps-ny-9mcBsd/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,100+/mo",
+      "unformattedPrice": 1100,
+      "address": "1 Orchard Park - 1A, 1 Orchard Park APT 1A, Phelps, NY 14532",
+      "addressStreet": "1 Orchard Park APT 1A",
+      "addressCity": "Phelps",
+      "addressState": "NY",
+      "addressZipcode": "14532",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.95667,
+        "longitude": -77.06456
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442439135,
+          "streetAddress": "1 Orchard Park APT 1A",
+          "zipcode": "14532",
+          "city": "Phelps",
+          "state": "NY",
+          "latitude": 42.95667,
+          "longitude": -77.06456,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 1461512000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Grover Property Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a4f06f41265913e4fa22c4c7ca5a1ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a44e28eb5c8e37830331fd1c69a475d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a72304289fcdee6df9824387ffee4d3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/acf6dc68bc7a364db33872f6a9ad3a58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25fa7e1854c58c96760832a17eb9d015-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf411cc65b9f3e2fb3c8c26af4afb690-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e0302d4ab1d47b0a372e86696d63d5b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a1390ef0358e7a9432973dd5ac0d0f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d8c3e3f359f95cc579215c275ec3b77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e520fee8309b8cea91031fed88ae510-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44b85789f5ad4dc82e6a590d36178077-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d606513980b816af4406824262ac4aff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2adc840eaf7333688b887e6aec93a805-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cfa88c785e4144308fa7723180c9c48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53d22b4a565191d24b5fe75eab1a92a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/181695d3ff2a9d019b45174c8140e378-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd28afb5c68d78efe332b8f44467018d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d684aec800ca7650afda55f2f820e3ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ebb11fe44c1e87ea678310559593cf5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ee3dbfd70063e9494d79a98186026e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03c721ecdcb5b9ac2d62514e56565fa3-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442439135",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1a4f06f41265913e4fa22c4c7ca5a1ff-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/1-orchard-park-1a-phelps-ny-9mcBsd/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,100+/mo",
+      "priceLabel": "$1.1K",
+      "address": "1 Orchard Park APT 1A, Phelps, NY 14532",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.95667,
+        "longitude": -77.06456
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442439135,
+          "streetAddress": "1 Orchard Park APT 1A",
+          "zipcode": "14532",
+          "city": "Phelps",
+          "state": "NY",
+          "latitude": 42.95667,
+          "longitude": -77.06456,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 1461512000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Grover Property Group",
+      "timeOnZillow": 1461512000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "17bf6d36",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

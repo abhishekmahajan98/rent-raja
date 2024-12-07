@@ -1,0 +1,250 @@
+{
+  "listResults": [
+    {
+      "zpid": "29914231",
+      "id": "29914231",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2w06zmjk18uuy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5a64750dbd426b9093eb56c013641ef8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/15-Andrus-St-Silver-Creek-NY-14136/29914231_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,975/mo",
+      "unformattedPrice": 1975,
+      "address": "15 Andrus St, Silver Creek, NY 14136",
+      "addressStreet": "15 Andrus St",
+      "addressCity": "Silver Creek",
+      "addressState": "NY",
+      "addressZipcode": "14136",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.53547,
+        "longitude": -79.17733
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29914231,
+          "streetAddress": "15 Andrus St",
+          "zipcode": "14136",
+          "city": "Silver Creek",
+          "state": "NY",
+          "latitude": 42.53547,
+          "longitude": -79.17733,
+          "price": 1975.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 202800,
+          "rentZestimate": 1493,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1975.0,
+          "timeOnZillow": 291986000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 148448.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 202800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a64750dbd426b9093eb56c013641ef8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c30bcd8f5c3fd47b1a880d4cd7e47db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/463288d6286ecb497e09752cdcedbef9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc458eae1eaada8364831d350f278f8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c78837b707179cd4cd392e6761379112-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/000db9c675149315f6a95cb071e48af1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af8f0990a29aa8319ff1b56f2446136e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6620f2a42594d2a649eee22883d50494-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ba4af4df9ce966b480f9fb0fffc1509-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0606a82febfeedb78ca19f9fffa1fbc4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3939007cef373c6eda550db2e717c6e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35ebf5225749ed65b0f2689b6a48d199-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72976da7b42d73966fe5ed2f1b068884-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5521aa97e2fadb14853f64c4402104f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce8235c665bfd5d02600779a80f1a0cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1eef56c6f64d50e6a6c648aff1da8b1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84173fb3c7c094b74a85de04812f90c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbd2caee1416d5d755b938162b575b48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28cb9669fe0995e562f60b980b2b9ddc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ecf9ad57640c9809df6700580c8cced-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "29914231",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5a64750dbd426b9093eb56c013641ef8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/15-Andrus-St-Silver-Creek-NY-14136/29914231_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,975/mo",
+      "priceLabel": "$2.0K",
+      "address": "15 Andrus St, Silver Creek, NY 14136",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 42.53547,
+        "longitude": -79.17733
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29914231,
+          "streetAddress": "15 Andrus St",
+          "zipcode": "14136",
+          "city": "Silver Creek",
+          "state": "NY",
+          "latitude": 42.53547,
+          "longitude": -79.17733,
+          "price": 1975.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 202800,
+          "rentZestimate": 1493,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1975.0,
+          "timeOnZillow": 291986000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 148448.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-15 00:00:00",
+      "visited": false,
+      "timeOnZillow": 291986000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "754d159a",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

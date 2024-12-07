@@ -1,0 +1,386 @@
+{
+  "listResults": [
+    {
+      "zpid": "30808941",
+      "id": "30808941",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2h9qmd7s9467y",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d759e6da654a9597d17c45bcd7ecc58c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5596-E-Lake-Rd-Conesus-NY-14435/30808941_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,850/mo",
+      "unformattedPrice": 1850,
+      "address": "5596 E Lake Rd, Conesus, NY 14435",
+      "addressStreet": "5596 E Lake Rd",
+      "addressCity": "Conesus",
+      "addressState": "NY",
+      "addressZipcode": "14435",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2172,
+      "latLong": {
+        "latitude": 42.749565,
+        "longitude": -77.712906
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30808941,
+          "streetAddress": "5596 E Lake Rd",
+          "zipcode": "14435",
+          "city": "Conesus",
+          "state": "NY",
+          "latitude": 42.749565,
+          "longitude": -77.712906,
+          "price": 1850.0,
+          "datePriceChanged": 1729148400000,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2172.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 91,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 829700,
+          "rentZestimate": 2335,
+          "listing_sub_type": {},
+          "priceReduction": "$400 (Oct 17)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1850.0,
+          "priceChange": -400,
+          "timeOnZillow": 7874779000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 542100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 829700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: WBGL, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d759e6da654a9597d17c45bcd7ecc58c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/209038eff8bf43174dc8808a6d6fcb57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cff74d7fd90e1eb8fa9d88b3dfd48044-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ab9e2b92f7046dee97357d21ff3ce6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4bc7c84597eddf3951cdf7be4f578f34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdcbe54304ef61c7498e4d455f0e5499-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe8d3417698ebf44d29bec9f81d46edf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/345ec81cebd616eedf75a94b9fc35526-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d30c980c8a4e44cdcbe0ec52805dc81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93022174b0f72aded0f4e97457cf3f3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eead2188f17fe96d4436c456f1fc2a73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06781c1cc918c542a9c99c0dcceb547c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80bb30880a727a7a800bd5432f916482-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81b4069c0cfc4745a404eb85b867192b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8eedfcea4533dae0f0f72629fc0f6ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e4e3dec8c85d04371af59c5f56331e3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e01f680cb0a3c7b3da73fa880cc9309e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46edf76addc2d70ac3dbb223055d4adb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6af01f352c8840371d55809872761fc3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9dfbb5199227125d536e97ccde8bde3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd093ddad44c32a446d854bcab0da2d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25c0fdde50f2c4fbafe5670cc80c03a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30ae0b25ca87dd274ccf3dbb22452b39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff3170e3c63b6734165d4c3f30102aea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c634fa004d85b88e5926495d2603fb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e78c36522c89176b5cc7dea68dbbf780-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60884d2fed40e39b4d7d28dabb88fa73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12a956e044d30d1ebbd83275cb067cfd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e272cc1bbc9c758b2fdc9ded6dfe7f89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a879d753243846ab8f5586a1767ab2d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e795bcb1052b50b480c9cd288d7c97e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d38b32f7734f493dbf287a135c101a0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a573a1ae6e9234b798a9e29d04f8dbbc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/754403f15eae031f00f19c431d71e48a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f32a3599cbed81e10f0fae6a74b52f39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b64e4663b25ef144ded7831a0725610-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a911c27ea253011cad2d3f4a25fc093-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a78435f6e50f4064ea714f6f1151287-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c38222271f6e4f437ac683ed9a627d6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8374509eaee4cd9276cbea20bfe913c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a27de926c9d1b1e57f104199fa4fecb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2be511e10e52bd214225f1645cfe2df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aeba68c7a574cf0add50a4b234a0a572-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e122153865d81d540104f48e8552309-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6b2aee1b3e5d9b8eb0e843963e49cc12-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a9aa5e2ae417ee208e2ff19b93513cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f54e76a787d49446097da64754a1d7ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d76cbd2c3555f80b2cac564c1a67202-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7252bf08f2bc96d6de8e5934e08992cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33ab06f27fef3f3a284f9589b3112511-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40a07ce094f044f3d0dfc2e42f2dab9d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c11ce644b9fd9ede69e20c28c0ece1f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69ffb77f54cf0faa9befebd58a980354-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d8cf37e69c2f2cea0e7a4b338d88dff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7124351ef5a5849a031ad5a6df101a28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff0a21d8bce5e27e343f6691416a81c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34752a52ea63490cbbdf8765d050f560-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/636d08ef7031d1ca4ce2b7d78ffe000d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c44cdb3a2849c6230e0b2254a9a157c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8920fafe26753b3e9465cf181645fce2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "30808941",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d759e6da654a9597d17c45bcd7ecc58c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/5596-E-Lake-Rd-Conesus-NY-14435/30808941_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,850/mo",
+      "priceLabel": "$1.9K",
+      "address": "5596 E Lake Rd, Conesus, NY 14435",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2172,
+      "latLong": {
+        "latitude": 42.749565,
+        "longitude": -77.712906
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30808941,
+          "streetAddress": "5596 E Lake Rd",
+          "zipcode": "14435",
+          "city": "Conesus",
+          "state": "NY",
+          "latitude": 42.749565,
+          "longitude": -77.712906,
+          "price": 1850.0,
+          "datePriceChanged": 1729148400000,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2172.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 829700,
+          "rentZestimate": 2335,
+          "listing_sub_type": {},
+          "priceReduction": "$400 (Oct 17)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1850.0,
+          "priceChange": -400,
+          "timeOnZillow": 7874779000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 542100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: WBGL, LLC",
+      "timeOnZillow": 7874779000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamilyDailyListings"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "aad70e",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

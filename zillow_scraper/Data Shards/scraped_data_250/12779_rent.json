@@ -1,0 +1,1292 @@
+{
+  "listResults": [
+    {
+      "zpid": "32768934",
+      "id": "32768934",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "mw25apwyaqgy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/60264e79ce6ea1d28e227ce3b748af07-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/34-Morris-Dr-South-Fallsburg-NY-12779/32768934_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,700/mo",
+      "unformattedPrice": 2700,
+      "address": "34 Morris Dr, South Fallsburg, NY 12779",
+      "addressStreet": "34 Morris Dr",
+      "addressCity": "South Fallsburg",
+      "addressState": "NY",
+      "addressZipcode": "12779",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 2205,
+      "latLong": {
+        "latitude": 41.702114,
+        "longitude": -74.63153
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32768934,
+          "streetAddress": "34 Morris Dr",
+          "zipcode": "12779",
+          "city": "South Fallsburg",
+          "state": "NY",
+          "latitude": 41.702114,
+          "longitude": -74.63153,
+          "price": 2700.0,
+          "datePriceChanged": 1731657600000,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 2205.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 13,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 308000,
+          "rentZestimate": 2995,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Nov 15)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "priceChange": -300,
+          "timeOnZillow": 1203924000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 275862.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 308000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: 1985",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/60264e79ce6ea1d28e227ce3b748af07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26bbb230bd2c558a546b2bb043d09ec4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e05b153bbe5dfc3df28ccdd4be4bf6d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b69f15bafbab2b8dec1bfd419dd5267-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ecccec09c9976500a6d8f88f235d78b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5284698bb8478420ecf02e123a47317d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/afcf243649046f7d4be45ea3f351cd20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcac145ffe62d50bf9cf083e9b5b63de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4e59239a63c733b7953ab17599b6cee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/925c6b7ca6e2bd7ab06b0fdbb21fb90f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47f6a53adb47c3434ea89fe5aa8f8277-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9a00da48c5a37fb64d6fb56958d8109-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cf97b8249780961d10039a7c5e9bc27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3800646b6912033f8dcb041739827285-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4fe4b7f847c8d472ffe2bcf22f9b64fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3ce8d1d2e59ecc2f47a874fd55ba595-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a056d4ac9f431e10245b5c0ab8936ae5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8743ef4bae79f596f93d5c4af9161553-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/add3e27051d04094a1e92dbf1b83e2de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2056abdbf704ec777c84557c98f077a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffca8d0ec38fb521703d53064c6927cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62526348e44cb80ffc6bad054bafa8d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6a940d65ed5ed77bd1b485891690813-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99acee614e6289a082e2f8ddd85a666f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcf987aeeba1e6073a2ddd71ac3db9c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2fc4d10d6a88ace58fbee35febbbb6b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ad18f77a7e60de4655db2b414c5f31e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a03815830008fdee380d2d49669ab978-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc249fbea170319b69ca6fa82162a6de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb9fe5fbe6019724fe3d16869c2d9843-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2aa6d1482671638eb4e86de17b978e3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c54eb33fcb9eb7da87d1d730d06a358-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d25b87ba9205731299a1c05d069337f9-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32768934",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/60264e79ce6ea1d28e227ce3b748af07-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/34-Morris-Dr-South-Fallsburg-NY-12779/32768934_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,700/mo",
+      "priceLabel": "$2.7K",
+      "address": "34 Morris Dr, South Fallsburg, NY 12779",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 2205,
+      "latLong": {
+        "latitude": 41.702114,
+        "longitude": -74.63153
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32768934,
+          "streetAddress": "34 Morris Dr",
+          "zipcode": "12779",
+          "city": "South Fallsburg",
+          "state": "NY",
+          "latitude": 41.702114,
+          "longitude": -74.63153,
+          "price": 2700.0,
+          "datePriceChanged": 1731657600000,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 2205.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 308000,
+          "rentZestimate": 2995,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Nov 15)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "priceChange": -300,
+          "timeOnZillow": 1203924000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 275862.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: 1985",
+      "timeOnZillow": 1203924000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2066393268",
+      "id": "2066393268",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3tapdptxqykj8",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4f2d33ca54065729a8e02267f47676f9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/125-N-Main-St-3-Liberty-NY-12754/2066393268_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "125 N Main St #3, Liberty, NY 12754",
+      "addressStreet": "125 N Main St #3",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.731842,
+        "longitude": -74.67598
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2066393268,
+          "streetAddress": "125 N Main St #3",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.731842,
+          "longitude": -74.67598,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 62,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1290,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 5377215000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f2d33ca54065729a8e02267f47676f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa25d2ad53f9531d1887f102159caee5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7adfdf99e449773137561191865c00de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09f4858ba32d2fb0c9950c843b01ec4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e6490d17f72afc96a047983f6cead23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/315a2b426994f3a8edd73d2ddc2bd52f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7d81cad79fb4379477f2636bfa430f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a3480b7a0e3a7fad71ee67e248eb835-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a057a2b8c58b62e3802f11d0a9b6213d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b78bce8da35acfaacc73d22993aeb408-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98366e0fb6b0b777c4855fb28d5b02f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbf9a351f73eb48b4d505db1710f1101-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442830075",
+      "id": "442830075",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "cfb1vd74um2z",
+      "imgSrc": "https://photos.zillowstatic.com/fp/74f04d583b35fe953c9fa7a3f46b2389-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/18-Roosa-Ave-APT-1-Monticello-NY-12701/442830075_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,375/mo",
+      "unformattedPrice": 1375,
+      "address": "18 Roosa Ave APT 1, Monticello, NY 12701",
+      "addressStreet": "18 Roosa Ave APT 1",
+      "addressCity": "Monticello",
+      "addressState": "NY",
+      "addressZipcode": "12701",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.65751,
+        "longitude": -74.686424
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442830075,
+          "streetAddress": "18 Roosa Ave APT 1",
+          "zipcode": "12701",
+          "city": "Monticello",
+          "state": "NY",
+          "latitude": 41.65751,
+          "longitude": -74.686424,
+          "price": 1375.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1375.0,
+          "timeOnZillow": 9249000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: 1985",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/74f04d583b35fe953c9fa7a3f46b2389-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55b3389ef665f0c7b9d1ee8fa074afbf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb705a703000ca8280197c3a32686bd5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51d0033eb8e13da0fe85e60207e959dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e739df7157c9842362265cc80fba9f71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54fd63edde64d970b8172c7fe365c1cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3940364fb5b4b6f2b0bfd2c133da15a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2aa5d8f6b6e312677c436da61f261218-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a85729e41489cf0ff16722cbe3f3706-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01954670253329ebd933815c1bd98665-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2728529f1f724d0f51af82ec93fb5aed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0a38e94d7ecaf33d3e4812ee88130cc-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32784357",
+      "id": "32784357",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4vfcv6w5hgtts",
+      "imgSrc": "https://photos.zillowstatic.com/fp/afd49e933e21bbade2b8796ca9e81da8-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/37-Elizabeth-Way-Kiamesha-Lake-NY-12751/32784357_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,950/mo",
+      "unformattedPrice": 1950,
+      "address": "37 Elizabeth Way, Kiamesha Lake, NY 12751",
+      "addressStreet": "37 Elizabeth Way",
+      "addressCity": "Kiamesha Lake",
+      "addressState": "NY",
+      "addressZipcode": "12751",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 41.682976,
+        "longitude": -74.67732
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32784357,
+          "streetAddress": "37 Elizabeth Way",
+          "zipcode": "12751",
+          "city": "Kiamesha Lake",
+          "state": "NY",
+          "latitude": 41.682976,
+          "longitude": -74.67732,
+          "price": 1950.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1400.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 206600,
+          "rentZestimate": 2462,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1950.0,
+          "timeOnZillow": 165905000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 122200.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 206600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/afd49e933e21bbade2b8796ca9e81da8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32692fd237dba5b486e2ab7f428605a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8970ce226d48418cb3110914f726de89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/937971fb30ec5c77231f1e9a0b252d97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cc75655cafd1088ec6982725716dd9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15b2e7dbd089b5e599074d15e8b280a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aae74d5df5aa19bc5269bc0efadc942f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5dd01d225f148202e00332dc02623418-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31b92629e31cfadc040e7d8b77f7fd63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f917d0495882441d13104df93a1f1447-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/419d54e3fdc4aee5947ce1d051978557-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "441588309",
+      "id": "441588309",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5cj6ysx5mhp3d",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7de7e1845338351ba886bf0addb69a51-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/83-High-St-2-Monticello-NY-12701/441588309_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,700/mo",
+      "unformattedPrice": 1700,
+      "address": "83 High St #2, Monticello, NY 12701",
+      "addressStreet": "83 High St #2",
+      "addressCity": "Monticello",
+      "addressState": "NY",
+      "addressZipcode": "12701",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 41.659187,
+        "longitude": -74.687874
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441588309,
+          "streetAddress": "83 High St #2",
+          "zipcode": "12701",
+          "city": "Monticello",
+          "state": "NY",
+          "latitude": 41.659187,
+          "longitude": -74.687874,
+          "price": 1700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 200200,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 325458000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 200200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7de7e1845338351ba886bf0addb69a51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfd01dfb0ced3332cd23a3fbaa9e962e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2e296102dec729957c2f2cc533d3024-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d7f47092597ee0484d149ab83ab4005-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50daa5f07ce9d88ea064b8be0f60c12b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442229554",
+      "id": "442229554",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2qx3e7593yfcg",
+      "imgSrc": "https://photos.zillowstatic.com/fp/85d92b6b06a6215efa85030e5d97e3bc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/89-High-St-UNIT-2-Monticello-NY-12701/442229554_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,100/mo",
+      "unformattedPrice": 1100,
+      "address": "89 High St UNIT 2, Monticello, NY 12701",
+      "addressStreet": "89 High St UNIT 2",
+      "addressCity": "Monticello",
+      "addressState": "NY",
+      "addressZipcode": "12701",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 41.65934,
+        "longitude": -74.68842
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442229554,
+          "streetAddress": "89 High St UNIT 2",
+          "zipcode": "12701",
+          "city": "Monticello",
+          "state": "NY",
+          "latitude": 41.65934,
+          "longitude": -74.68842,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 24,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 2089274000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-30 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: I REALTY LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/85d92b6b06a6215efa85030e5d97e3bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/249d67321674608f631b94ee2d075183-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7706dd0c19282af14a3895ea08945553-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b2cd4b1b5bed2cbb6ae45dd3504ac37-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7400dbc5b3c447f8e1c8c957519eca6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a346651dbac2fbcdbaf7bc403fde1a5f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3b774f06f027bcda917977f047f7f22-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f0fc174215f052d59141e275e3b1c1d-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442319100",
+      "id": "442319100",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1gb9gj7n2h7an",
+      "imgSrc": "https://photos.zillowstatic.com/fp/83adf7306ad55d9fcb50b618134b6e69-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/28-Prince-St-APT-1-Monticello-NY-12701/442319100_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "28 Prince St APT 1, Monticello, NY 12701",
+      "addressStreet": "28 Prince St APT 1",
+      "addressCity": "Monticello",
+      "addressState": "NY",
+      "addressZipcode": "12701",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.65417,
+        "longitude": -74.69076
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "21 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442319100,
+          "streetAddress": "28 Prince St APT 1",
+          "zipcode": "12701",
+          "city": "Monticello",
+          "state": "NY",
+          "latitude": 41.65417,
+          "longitude": -74.69076,
+          "price": 1500.0,
+          "datePriceChanged": 1730966400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 21,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "priceChange": 100,
+          "timeOnZillow": 1824933000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-07 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: 1985",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/83adf7306ad55d9fcb50b618134b6e69-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00f53cb10420308f43779056ace88b47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eef104a28a28f6ea3bd23d300a82e8d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfa01a3ca87b8c3041a55c6e23832098-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbe2836ebe5d46ee4cea65f3a47e6820-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a662c086413771cf6307797771183fef-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442343784",
+      "id": "442343784",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4s2vuztq1j01t",
+      "imgSrc": "https://photos.zillowstatic.com/fp/16e54acf68ea04f35661fb0c86e74f72-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/25-Prince-St-Monticello-NY-12701/442343784_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "25 Prince St, Monticello, NY 12701",
+      "addressStreet": "25 Prince St",
+      "addressCity": "Monticello",
+      "addressState": "NY",
+      "addressZipcode": "12701",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.654266,
+        "longitude": -74.68999
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "19 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442343784,
+          "streetAddress": "25 Prince St",
+          "zipcode": "12701",
+          "city": "Monticello",
+          "state": "NY",
+          "latitude": 41.654266,
+          "longitude": -74.68999,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 19,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 222800,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 1658114000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 222800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-04 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/16e54acf68ea04f35661fb0c86e74f72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c7b9968bed6ccaf99488e1630b6881d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2115c1a5023ea7e9c53b72511a9d5a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a35047cb00c6a3f70a6f43e78eb8594b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5ed7bd077040a79d96d43dd0733f961-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad7b7522f357f77b4cff51556288bbcc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e0852b3184e7a21b276e7675e0d6830-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32784345",
+      "id": "32784345",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "14qgwxhhqesqk",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1c6640ecf736097fcba1af8b2cbde543-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/33-Robert-Rd-Kiamesha-Lake-NY-12751/32784345_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "33 Robert Rd, Kiamesha Lake, NY 12751",
+      "addressStreet": "33 Robert Rd",
+      "addressCity": "Kiamesha Lake",
+      "addressState": "NY",
+      "addressZipcode": "12751",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1152,
+      "latLong": {
+        "latitude": 41.682304,
+        "longitude": -74.677704
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "44 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32784345,
+          "streetAddress": "33 Robert Rd",
+          "zipcode": "12751",
+          "city": "Kiamesha Lake",
+          "state": "NY",
+          "latitude": 41.682304,
+          "longitude": -74.677704,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1152.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 44,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 187300,
+          "rentZestimate": 2344,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 3818956000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 124800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 187300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c6640ecf736097fcba1af8b2cbde543-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27884bc253237a2dcffd3472894521ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0b01a8e106480070b0db70f36f7eb6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d2b6f5d4e8d2fba7781b642d4716bd8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6cf005db95e623385a66284691aa8438-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5c246242f84ae6ea31c78c4f9504162-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3129ee9b9c45811bc1bf5fd6d9477d0c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/498ca01d9c54ab6a0b9e007c0c8505f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4dbd13d74d38bbff965db0b1c3047950-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffeb467dee288f5da761ee450c06f39d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea04a05cf822be71e95222dc537397bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e06e715192718b09772fd37fbd6ba8db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2bb8a959d80d1db651364f89236b7c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c481b8958dc92f3571a92ce64b6757a2-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "67c153bf",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "46b108fa"
+}

@@ -1,0 +1,1830 @@
+{
+  "listResults": [
+    {
+      "zpid": "62643089",
+      "id": "62643089",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "13dza7zwwjwez",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6c1d6067337c74373cb37f8695a7afa2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/478-Tower-Hill-Rd-Millbrook-NY-12545/62643089_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$9,000/mo",
+      "unformattedPrice": 9000,
+      "address": "478 Tower Hill Rd, Millbrook, NY 12545",
+      "addressStreet": "478 Tower Hill Rd",
+      "addressCity": "Millbrook",
+      "addressState": "NY",
+      "addressZipcode": "12545",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 4.0,
+      "area": 4045,
+      "latLong": {
+        "latitude": 41.796062,
+        "longitude": -73.60258
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 62643089,
+          "streetAddress": "478 Tower Hill Rd",
+          "zipcode": "12545",
+          "city": "Millbrook",
+          "state": "NY",
+          "latitude": 41.796062,
+          "longitude": -73.60258,
+          "price": 9000.0,
+          "bathrooms": 4.0,
+          "bedrooms": 4.0,
+          "livingArea": 4045.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 46,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 2402100,
+          "rentZestimate": 7844,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 9000.0,
+          "timeOnZillow": 3979714000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1821700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 2402100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c1d6067337c74373cb37f8695a7afa2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47b7319b55a8bb84b043908025281125-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79e9e9a287dd75898f399a79f424d2a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/333dda237fb5bc2de8492223a198ffab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a45d6f86a16051d478af09543ce716c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37dea6232bf0a91d12f22cd5006516cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f415e211fb38af6525da251b0424c172-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed14f41167bf2209e4eb2ecbafa7aa6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f1da5335278dc1b8b2f22f48918e449-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37ef918bc66a8dd23c09e503ecf5953d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd3ad268426d437643eec6a276beb424-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bea10eee7488f20fa6db0f0c68d8181-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc2044cba2ee4b9b3284dcd6acfab091-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0c9605bbbfdd34e93175e7e361f7b19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b217ed16d2834e7a638c8f9cd369057c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ae206d6fa849f8306ca17094f8f0d68-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/deb6d540eb0d65d08ec0527245fda6b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/698d54033e86e12be23cfae2620890cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/064c42d3b816b11fadd2e169503b36cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/590dfb7b28a0217f1ac6cdf2cb480411-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/28f3b1837fc88003857e522a8d53ff2f-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2062551056",
+      "id": "2062551056",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1vhky1a8rd5r",
+      "imgSrc": "https://photos.zillowstatic.com/fp/161f8b0095a8d1d773a4a4b51cce143a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/69-N-Tower-Hill-Rd-Millbrook-NY-12545/2062551056_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$10,000/mo",
+      "unformattedPrice": 10000,
+      "address": "69 N Tower Hill Rd, Millbrook, NY 12545",
+      "addressStreet": "69 N Tower Hill Rd",
+      "addressCity": "Millbrook",
+      "addressState": "NY",
+      "addressZipcode": "12545",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 4.0,
+      "area": 4500,
+      "latLong": {
+        "latitude": 41.800377,
+        "longitude": -73.603004
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "52 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062551056,
+          "streetAddress": "69 N Tower Hill Rd",
+          "zipcode": "12545",
+          "city": "Millbrook",
+          "state": "NY",
+          "latitude": 41.800377,
+          "longitude": -73.603004,
+          "price": 10000.0,
+          "bathrooms": 4.0,
+          "bedrooms": 3.0,
+          "livingArea": 4500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 52,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1345300,
+          "rentZestimate": 6706,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 10000.0,
+          "timeOnZillow": 4565770000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1345300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/161f8b0095a8d1d773a4a4b51cce143a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b41a36b6cebe2fd13a344f980409168-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3ad50a728508b182dee348d4d6a5225-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb33e8e144eba7b4ef4ab5c58b514375-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/803a9405bf5de2d79fa1acd169a372b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55d230e390e0d2bc39da66d68c24a485-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1c94846742011bb654d89e13e37cd24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50970b541d7ee53f8b7d394e472489e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/318f401569f4c2a7ecfaa56e8c47a9b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e48daa27690a3e84e4063f12e6bf3e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5cbfca7487acf7a293654da1ae30c51-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442503222",
+      "id": "442503222",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "472afwf7054af",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fbc33869f99b5bb55d61d0ed04ed324b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5-Broadway-3B-Amenia-NY-12501/442503222_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "5 Broadway #3B, Amenia, NY 12501",
+      "addressStreet": "5 Broadway #3B",
+      "addressCity": "Amenia",
+      "addressState": "NY",
+      "addressZipcode": "12501",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 300,
+      "latLong": {
+        "latitude": 41.843273,
+        "longitude": -73.560234
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442503222,
+          "streetAddress": "5 Broadway #3B",
+          "zipcode": "12501",
+          "city": "Amenia",
+          "state": "NY",
+          "latitude": 41.843273,
+          "longitude": -73.560234,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 1289423000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-09 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbc33869f99b5bb55d61d0ed04ed324b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f137f71b12dd0f49c9d371108c7405fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ff880ac1982d6cd049d4dbe20b6e2c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c0efcae44349472dacf5812e9343d12-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "41.805878--73.56267",
+      "id": "41.805878--73.56267",
+      "providerListingId": "4k1s80qs2z0vh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5095902f8d550d3f7144c8328d3e3b81-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/18-furnace-bank-rd-wassaic-ny-97y3PL/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "18 Furnace Bank Rd, Wassaic, NY",
+      "addressStreet": "18 Furnace Bank Rd # 2",
+      "addressCity": "Wassaic",
+      "addressState": "NY",
+      "addressZipcode": "12592",
+      "units": [
+        {
+          "price": "$2,400+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2011683599,
+      "latLong": {
+        "latitude": 41.805878,
+        "longitude": -73.56267
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "38 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5095902f8d550d3f7144c8328d3e3b81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bbe39e99c1a8da102d39983980575adc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a185c082dae50f9a7338c221c6a7d1c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32e4a762e6c74d9e0624326b1c6cd370-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/482ac54ec9e80fad4c7da2d2dea953b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f30b8e926f8ce3806083fc478c63d72d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77fbc1fcac170e4153d8cc5233bc81a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d01c220612f408d362a756848ad2d5d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/413790e06aedcb783cc74bb36833c018-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fe5344f3430384d86953c5f2947808e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80fe1e1be09381ccf1669824d0118472-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a930e00595494fcb6b3aa4d9da635136-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd7c3d8c9dd57fee7c34a002e3c8f01c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/429b31e2f0f197085c9b457d774b36d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a761b71f78981d89be55e01efc06eb07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c327c1f6c1e7298f3c9e41dbac41a0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51ae9185b01631d4e6e09a8eb8f0d317-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/145d15b50b30041cf6cecb1cccb1ea1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ade86be95957a43573bd327137b48899-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b266fbc1e6dada6af596eae9fd66fa22-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8074a8a73f4f24df6febfcd100adfa1-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "62643089",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6c1d6067337c74373cb37f8695a7afa2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/478-Tower-Hill-Rd-Millbrook-NY-12545/62643089_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$9,000/mo",
+      "priceLabel": "$9.0K",
+      "address": "478 Tower Hill Rd, Millbrook, NY 12545",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 4.0,
+      "area": 4045,
+      "latLong": {
+        "latitude": 41.796062,
+        "longitude": -73.60258
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 62643089,
+          "streetAddress": "478 Tower Hill Rd",
+          "zipcode": "12545",
+          "city": "Millbrook",
+          "state": "NY",
+          "latitude": 41.796062,
+          "longitude": -73.60258,
+          "price": 9000.0,
+          "bathrooms": 4.0,
+          "bedrooms": 4.0,
+          "livingArea": 4045.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 2402100,
+          "rentZestimate": 7844,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 9000.0,
+          "timeOnZillow": 3979714000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1821700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 3979714000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2062551056",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/161f8b0095a8d1d773a4a4b51cce143a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/69-N-Tower-Hill-Rd-Millbrook-NY-12545/2062551056_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$10,000/mo",
+      "priceLabel": "$10K",
+      "address": "69 N Tower Hill Rd, Millbrook, NY 12545",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 4.0,
+      "area": 4500,
+      "latLong": {
+        "latitude": 41.800377,
+        "longitude": -73.603004
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "52 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062551056,
+          "streetAddress": "69 N Tower Hill Rd",
+          "zipcode": "12545",
+          "city": "Millbrook",
+          "state": "NY",
+          "latitude": 41.800377,
+          "longitude": -73.603004,
+          "price": 10000.0,
+          "bathrooms": 4.0,
+          "bedrooms": 3.0,
+          "livingArea": 4500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1345300,
+          "rentZestimate": 6706,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 10000.0,
+          "timeOnZillow": 4565770000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 4565770000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442503222",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fbc33869f99b5bb55d61d0ed04ed324b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/5-Broadway-3B-Amenia-NY-12501/442503222_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$950/mo",
+      "priceLabel": "$950",
+      "address": "5 Broadway #3B, Amenia, NY 12501",
+      "isNewYorkState": true,
+      "beds": 0,
+      "baths": 1.0,
+      "area": 300,
+      "latLong": {
+        "latitude": 41.843273,
+        "longitude": -73.560234
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442503222,
+          "streetAddress": "5 Broadway #3B",
+          "zipcode": "12501",
+          "city": "Amenia",
+          "state": "NY",
+          "latitude": 41.843273,
+          "longitude": -73.560234,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 0.0,
+          "livingArea": 300.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 1289423000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-09 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1289423000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "4k1s80qs2z0vh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5095902f8d550d3f7144c8328d3e3b81-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/18-furnace-bank-rd-wassaic-ny-97y3PL/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$2,400+/mo",
+      "address": "18 Furnace Bank Rd, Wassaic, NY",
+      "minBeds": 2,
+      "minBaths": 1.0,
+      "minArea": 960,
+      "lotId": 2011683599,
+      "latLong": {
+        "latitude": 41.805878,
+        "longitude": -73.56267
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "38 days ago"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingId": "41.805878--73.56267",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 3290712000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2058849878",
+      "id": "2058849878",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1g6g0q2avja1n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b26d5de05b3bb54c3853b87aa17a8203-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Millbrook-NY-12545/2058849878_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$12,500/mo",
+      "unformattedPrice": 12500,
+      "address": "(undisclosed Address), Millbrook, NY 12545",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Millbrook",
+      "addressState": "NY",
+      "addressZipcode": "12545",
+      "isUndisclosedAddress": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 4896,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "13 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2058849878,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12545",
+          "city": "Millbrook",
+          "state": "NY",
+          "price": 12500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 4896.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 13,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1082200,
+          "rentZestimate": 5238,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 12500.0,
+          "timeOnZillow": 1125794000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1082200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b26d5de05b3bb54c3853b87aa17a8203-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/014ccb70c470b52ee70a2c57372a79f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66382a488baf3b7f05fe0e42a40bbf3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1949c4df3f538e513622a95b9160a62a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6bc4ce6c3fa958480689bf0f7bd030a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe3fc1975a286d9d48417e5244b9aded-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a765287f0902445118b9c3193a4ef17e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99311974ee4b0568f498c296cc3c5900-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b97f67ae74bba216841aaf1c91e3db66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ef224794da81933b518eeb9841ac949-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3dcb91872f04d2e1e0fde8493d33002b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d1152fc28d75cd53c03263bc789ec95-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c1f67be4b5068119165dc2bebcfe983-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4226c7e60e0508e3ad3c0897705d8e3f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91edd01b78543b7bd17d1807a3744e2d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eedb59b6d4b903897439ca48b8231431-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5aae9658fccc33c7777f5d55d0ab8199-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fbb937db9e73bc63273c275af932b72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c2c91423a0988e16955f603b782f1c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d795f6ddf557303b0b672fc502c602f5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d93d935c153ed1d945bdd25a223b6919-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b058ddf866df06dda2eda6beb0db6c02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3252a55228ad62f187cf1490b76a7993-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba6c140b19b5a82aec483acff68d7830-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34cb0194f48a8d63ba66ca49054c7846-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38492f3ed543e19233a09c9a03b3fd58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/962bc3f70ff5761d7676b17e07f844ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3b96cb1f8d666148be5c6cedd6a1865-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442779199",
+      "id": "442779199",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "59xuk0vkq5fwe",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c749335f1e7559c7a37cab7d3c61a0f3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3156-Route-22-APT-A-Dover-Plains-NY-12522/442779199_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,550/mo",
+      "unformattedPrice": 1550,
+      "address": "3156 Route 22 APT A, Dover Plains, NY 12522",
+      "addressStreet": "3156 Route 22 APT A",
+      "addressCity": "Dover Plains",
+      "addressState": "NY",
+      "addressZipcode": "12522",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 41.740723,
+        "longitude": -73.58047
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442779199,
+          "streetAddress": "3156 Route 22 APT A",
+          "zipcode": "12522",
+          "city": "Dover Plains",
+          "state": "NY",
+          "latitude": 41.740723,
+          "longitude": -73.58047,
+          "price": 1550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 163325000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices New York Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c749335f1e7559c7a37cab7d3c61a0f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d722d0a3f17950f75d2733dc2da62588-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44f3de362c82c68cf5101cffe428e59a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec1cce8fa4f17f36b78928a2d05a629a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f4fc68fb35457b339b2f3ba79aad5b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a81c5f716c05952347d3a4d67d72df8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a25430bcc8340cfcd390b12587a19c2b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/445323a743c27cf9198ae0d91fb287d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/143f11318f96e9052aa713b682a17861-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442502806",
+      "id": "442502806",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2xzk2177vgzz0",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0f5c2694bc257aa9732c71877e905cd3-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4873-Route-22-UNIT-B-Amenia-NY-12501/442502806_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,900/mo",
+      "unformattedPrice": 1900,
+      "address": "4873 Route 22 UNIT B, Amenia, NY 12501",
+      "addressStreet": "4873 Route 22 UNIT B",
+      "addressCity": "Amenia",
+      "addressState": "NY",
+      "addressZipcode": "12501",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 41.846863,
+        "longitude": -73.55905
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "14 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442502806,
+          "streetAddress": "4873 Route 22 UNIT B",
+          "zipcode": "12501",
+          "city": "Amenia",
+          "state": "NY",
+          "latitude": 41.846863,
+          "longitude": -73.55905,
+          "price": 1900.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 14,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "timeOnZillow": 1294399000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-16 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f5c2694bc257aa9732c71877e905cd3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4f1de803ef7902fc7bcd2f64e32fe86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2ebc578fd2f9f23d7434d3f4ee06582-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2343da36e8b8624df1fd51e93baff23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9325f342c5f01a82c767c2fc3e450204-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62c9f9bfee6b1b3fee14728f7aed9c97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eb829f3baec37e4e9822c890b3603d3b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e5006598e69ca910ed09433294ccf7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc1814f1af91b8ba797f99a847563ce5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4500d62951fa62ae2ff30290829bca66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92d2d7721ac98c54b0b26f7dafd476db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/faf435bcec19b1a997a3dfe7e15dcd87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1597b723498b6b8c3326039e933dabcd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/697b4198b0a853aec91ef620daaa9a2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fee52e9b6290f391e38f64c33033a17b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9ee9d5556f011389b96fe39a71631b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/391f4bb192ce82d33f890e9f40eddb78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89f43d88f64716fd09892cdaef833bf2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3beee13d20dcc628c084f285b374c988-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a0d8fb245dafdd8266c7a6ae371111e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69e0bad47f81371d3ea3ca7a32115420-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2079460335",
+      "id": "2079460335",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2mszb12pmxeg7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bfd28a0eefc2fc423f8c4b94e4043292-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/5235-5237-Route-44-2-Amenia-NY-12501/2079460335_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,700/mo",
+      "unformattedPrice": 2700,
+      "address": "5235-5237 Route 44 #2, Amenia, NY 12501",
+      "addressStreet": "5235-5237 Route 44 #2",
+      "addressCity": "Amenia",
+      "addressState": "NY",
+      "addressZipcode": "12501",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 2500,
+      "latLong": {
+        "latitude": 41.84736,
+        "longitude": -73.56203
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "33 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2079460335,
+          "streetAddress": "5235-5237 Route 44 #2",
+          "zipcode": "12501",
+          "city": "Amenia",
+          "state": "NY",
+          "latitude": 41.84736,
+          "longitude": -73.56203,
+          "price": 2700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 2500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 33,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2632,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2700.0,
+          "timeOnZillow": 2866306000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfd28a0eefc2fc423f8c4b94e4043292-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aae82f3a642d78ea681fe14ba6c22981-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9cf1f22bb556ff2f6334b60ec8a2feee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75e36695c18be01d2e2e0f22dbeca4eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56b416037dc548fbc67bf52917c0ae1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dc59169b74dcb30d9ff8244d5c5f716-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65fd730728cceac5fe3ebe15a1aa7c3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/214b9f8e838a645970eb0c18e75ed496-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/694f4faf6f24f12347a99f9db8f38792-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab5da2c046ae846576235ceb66f1ab1b-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "57820271",
+      "id": "57820271",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1acqyucnyqfza",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fb4e46ca83edff7c113c2a3634b5e37a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/119-Knibloe-Hill-Rd-Sharon-CT-06069/57820271_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$17,000/mo",
+      "unformattedPrice": 17000,
+      "address": "119 Knibloe Hill Rd, Sharon, CT 06069",
+      "addressStreet": "119 Knibloe Hill Rd",
+      "addressCity": "Sharon",
+      "addressState": "CT",
+      "addressZipcode": "06069",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 4.0,
+      "area": 3376,
+      "latLong": {
+        "latitude": 41.807762,
+        "longitude": -73.50026
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 57820271,
+          "streetAddress": "119 Knibloe Hill Rd",
+          "zipcode": "06069",
+          "city": "Sharon",
+          "state": "CT",
+          "latitude": 41.807762,
+          "longitude": -73.50026,
+          "price": 17000.0,
+          "bathrooms": 4.0,
+          "bedrooms": 4.0,
+          "livingArea": 3376.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 2156600,
+          "rentZestimate": 5118,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 17000.0,
+          "timeOnZillow": 334737000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 599870.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 2156600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb4e46ca83edff7c113c2a3634b5e37a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6a2e627a254071b0cde73cafca3945c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/44fc711179c76ccf930be4070f6ca36a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53ede2f679f7bb9ce6d158319690ef57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e4adaa8a3bb6fc61f15af648cff8ced-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54fbd0edef9dd510c0c66ecb51875108-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d42402a2ba0afac091282e49ae41f2ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f3b9df1f24b63078488d7e51b15c77c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5443fb91ed3fb183c1bd37ed4890c02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/555b455eefe74f147f5db9642dd21576-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6faa4c0fd0a41e3ef1569c0e5eddd77e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fa0da7fb32e64110cbfaaf4cfd0b36e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/968e6c649d77964e3c044094076e16d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcbe22bffa170daf3f63a88cb10fa6cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6bb575d05bbe2574a34e1b2d598f015b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3287e4f694021a29e02876053c3cad3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8e4824f7a5280ee1efd273a227c65c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d62c93b25c11dd59e834b8505404e9b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7be4fd084dae285035dec5322c75ded8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/737081313b7f12c93e40c80885425f84-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f038c81b916f561d5bfb4d3ee5268e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b783642b583d04c879e3c226d2a3f05c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df58a57c856d7dae38e0668cbd62b0d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbca854db665ca96bbef9b26832a3b77-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb0eb8f2e7b4d1ce09e73b9abd3e53e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8ee359bf541640d4cf264bb4df8a535-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5acddc43719c29a27280eeac65e1931d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d3bb4b40c5844c0a161b60d64ce6d1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c767b9668a55a8dc69019b34de88fcb0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46ceaf4fa3b98f7e58fa2da99e462849-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "41.849293--73.556435",
+      "id": "41.849293--73.556435",
+      "providerListingId": "49xc7qt4g4qhr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2f7f411c851b31a0a47c73d4a926f5ed-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/41.849293,-73.556435_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "3300 Route 343, Amenia, NY",
+      "addressStreet": "3300 Route 343 ",
+      "addressCity": "Amenia",
+      "addressState": "NY",
+      "addressZipcode": "12501",
+      "units": [
+        {
+          "price": "$3,000+",
+          "beds": "1",
+          "roomForRent": false
+        }
+      ],
+      "latLong": {
+        "latitude": 41.849293,
+        "longitude": -73.556435
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f7f411c851b31a0a47c73d4a926f5ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b652d67400a785db2c2429bd421a52e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a38dcf769653c788fc522c66d6f8281a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e293c97b5e3d5ce8620fca1fcfa7739-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/700c2fd34007feaeed0ea8a06a627cc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d40d7394c72f4c17dfd86dcf8c8b9b41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99a3904af3a207521bdaa36c8b5b34b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24ea9b14387102f1ead5cdffe251f09e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f7ba2b3210f2f2d25b5d72af003f3196-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b6758c87e4818473ad0377483c0cfc87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b507a75cc5c75315b0e252cc131886e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ef20e09772fb24900d077f0ed1c33ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b7b5151a5836f8d2c0929b2be2eb2d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/16b1595c51e22fb9aef837da8343a992-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c6359b70cb120584a833b5d32cddd4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd38a01a87e1fdc3102eb39001ad8227-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/893273410d5f0e628bdae1a1bbf42441-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43508404fe07c9ba44453d844c07bd8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ada5b94398ded4a0be1097d49d17681-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6df9e7bc9924b3b2afdb025f8bfc45a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71b4de064003b3692b220fb3db8ed86d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/057447762cbe2a950059db92b9cb9f63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6885d28bd20db7c2451fda9603e1766a-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 3,
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "2058860237",
+      "id": "2058860237",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "43fegy9fhye62",
+      "imgSrc": "https://photos.zillowstatic.com/fp/648df308e547dbbb8359f9325a1f4f31-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/26-Wing-Ave-D-Dover-Plains-NY-12522/2058860237_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,450/mo",
+      "unformattedPrice": 1450,
+      "address": "26 Wing Ave #D, Dover Plains, NY 12522",
+      "addressStreet": "26 Wing Ave #D",
+      "addressCity": "Dover Plains",
+      "addressState": "NY",
+      "addressZipcode": "12522",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 748,
+      "latLong": {
+        "latitude": 41.739166,
+        "longitude": -73.57794
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "30 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2058860237,
+          "streetAddress": "26 Wing Ave #D",
+          "zipcode": "12522",
+          "city": "Dover Plains",
+          "state": "NY",
+          "latitude": 41.739166,
+          "longitude": -73.57794,
+          "price": 1450.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 748.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 30,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 249300,
+          "rentZestimate": 1494,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1450.0,
+          "timeOnZillow": 2628805000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# D",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 249300,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices Hudson Valley Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/648df308e547dbbb8359f9325a1f4f31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0187f41e1770cac908d078b39c82e3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d242b502be38a32e96f3a7689bad369c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12f7d86ac933f8f49d9d10341ee94915-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3572c9f4139769cf30bb0a9b3c94619-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e8db91d00c08c94293cd3d570d85f36-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f80d2c1e3d248ca5289eb8e29ee7734b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5720cba222e1dac8a242ef1692953726-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90e1e64dc0ab15cd35e3a380132103a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f3a626296ac684cd2ab6c555bcfb30d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b3e4d965ec9181d34f3925b68a8b9bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a79faa1fc976dc05c15ce6d3fa15845-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/524d593a1b362d36a252cf94c53f3999-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe67e266a8fb96dde32b5eea1133be66-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a66fd6054a0c7639247f0a38d4df9e4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a97d90c6ff03cd7e03f025df2a4fcbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe14ecaf92f41a31fa8d33b1bce3ffd0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b40616d8b7e057c338bd9d9131fdfbdb-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "324fe05c",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "40d812d1"
+}

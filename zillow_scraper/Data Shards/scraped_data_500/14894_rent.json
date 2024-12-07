@@ -1,0 +1,483 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "29976801",
+      "id": "29976801",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3jqcyzfm3d52n",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ce8f7bfdc998acfafab508f21e68016a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Elmira-NY-14904/29976801_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "(undisclosed Address), Elmira, NY 14904",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Elmira",
+      "addressState": "NY",
+      "addressZipcode": "14904",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 975,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29976801,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "14904",
+          "city": "Elmira",
+          "state": "NY",
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 975.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1195,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 580592000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce8f7bfdc998acfafab508f21e68016a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70b2ff586cac5a4ea4b71e435080ac82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0345d5f61ee3925769d7b85f26f07d99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e05a922524e890afcee2e145acd4c648-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d157475a91c3d38af0336bb863343950-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9177dd564e49afe3cd614277ecde7430-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e6ac19450d4d200c9c0ade1442d9f9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59b139756763cdbdb17eff2fb5d632ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/540b6ba4e391ea5325d270db4b48dc64-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2092138815",
+      "id": "2092138815",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "9yzncshuc75v",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fa98a81021e06c25218182ab08df6ecc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/455-ralph-st-elmira-ny-98Jq8L/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$950/mo",
+      "unformattedPrice": 950,
+      "address": "455 Ralph St, 455 Ralph St #A, Elmira, NY 14904",
+      "addressStreet": "455 Ralph St #A",
+      "addressCity": "Elmira",
+      "addressState": "NY",
+      "addressZipcode": "14904",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.065952,
+        "longitude": -76.805916
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2092138815,
+          "streetAddress": "455 Ralph St #A",
+          "zipcode": "14904",
+          "city": "Elmira",
+          "state": "NY",
+          "latitude": 42.065952,
+          "longitude": -76.805916,
+          "price": 950.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 36,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 94900,
+          "rentZestimate": 1008,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 950.0,
+          "timeOnZillow": 3113689000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 94900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: BGM Realty Management, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa98a81021e06c25218182ab08df6ecc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7577f0d0e56542329ba4c1848fd733c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39d68a8f435ebb985322dab859be03ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2fed524729dc3c30e6bf171178cf6b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5c3dda851236c11b959b0536a72228f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78653d1550652f65fed81611ce54c1d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18acdc1d47930f6de2ebd67e63dd471f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/94c4f3f8fa3d6fe011f260d66970b18f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2ce7de864b1cb345fa988d0b89b8382-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29975618",
+      "id": "29975618",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ymh80rctbugn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/21b4e6dd1c16ff86813ca4725a103426-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/817-Laurel-St-Elmira-NY-14904/29975618_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,099/mo",
+      "unformattedPrice": 1099,
+      "address": "817 Laurel St, Elmira, NY 14904",
+      "addressStreet": "817 Laurel St",
+      "addressCity": "Elmira",
+      "addressState": "NY",
+      "addressZipcode": "14904",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 768,
+      "latLong": {
+        "latitude": 42.06415,
+        "longitude": -76.81129
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29975618,
+          "streetAddress": "817 Laurel St",
+          "zipcode": "14904",
+          "city": "Elmira",
+          "state": "NY",
+          "latitude": 42.06415,
+          "longitude": -76.81129,
+          "price": 1099.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 768.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 45,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 83200,
+          "rentZestimate": 1074,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1099.0,
+          "timeOnZillow": 3917716000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 60588.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 83200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/21b4e6dd1c16ff86813ca4725a103426-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdaf6342c7a3f12fbbe7e4123029a271-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac3c202da0015d2440f8333af51c1e61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ff67aa04ab487167f8d5831cd076ae3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2d898f8578cc6023aeded9d21792255-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "singleFamilyPaid",
+        "feedConnectSingleFamily"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "29975656",
+      "id": "29975656",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4adwu11zm7bg6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4969fc3f17415c18376ffc7f2b428abc-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/822-Adams-St-Elmira-NY-14904/29975656_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,000/mo",
+      "unformattedPrice": 1000,
+      "address": "822 Adams St, Elmira, NY 14904",
+      "addressStreet": "822 Adams St",
+      "addressCity": "Elmira",
+      "addressState": "NY",
+      "addressZipcode": "14904",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.064667,
+        "longitude": -76.80612
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 hours ago",
+        "data": {
+          "isRead": null,
+          "isFresh": true
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29975656,
+          "streetAddress": "822 Adams St",
+          "zipcode": "14904",
+          "city": "Elmira",
+          "state": "NY",
+          "latitude": 42.064667,
+          "longitude": -76.80612,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 0,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 85100,
+          "rentZestimate": 1102,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 55735000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 63824.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 85100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: High Integrity Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4969fc3f17415c18376ffc7f2b428abc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6dc81b002b79f8a91dac4ad5ab82c7f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7751c259ba672d42c5eab13e81a89787-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6a30e68fbb95e55549c516595722060-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/343776f74caeebbf031b00323a7aa05a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fac69089b77c7ecc3e2e14f68b6f8c8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e5247ecdb6cb8116d25ddb11fc47a38c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b93d5dcd69a938619023e7da678431af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c509435e2a767ba823f56266c1182458-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3945fa29f88cd48aa8155845c12943f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6bf6bed82db236d74fb08768c5f3ec1-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "5f318530"
+}

@@ -1,0 +1,2129 @@
+{
+  "listResults": [
+    {
+      "zpid": "53422657",
+      "id": "53422657",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2xtz0chfy248j",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7472d937e555fd01676706d77b1641e7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/29-Astor-Pl-Monsey-NY-10952/53422657_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,500/mo",
+      "unformattedPrice": 4500,
+      "address": "29 Astor Pl, Monsey, NY 10952",
+      "addressStreet": "29 Astor Pl",
+      "addressCity": "Monsey",
+      "addressState": "NY",
+      "addressZipcode": "10952",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 1844,
+      "latLong": {
+        "latitude": 41.157722,
+        "longitude": -74.08753
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53422657,
+          "streetAddress": "29 Astor Pl",
+          "zipcode": "10952",
+          "city": "Monsey",
+          "state": "NY",
+          "latitude": 41.157722,
+          "longitude": -74.08753,
+          "price": 4500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 1844.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 40,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 788100,
+          "rentZestimate": 4379,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 3533671000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 53000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 788100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7472d937e555fd01676706d77b1641e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df6737edfaa38a4feee336406bac3913-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/914f3d97202ddeadc1409867a867f31c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/980b24c6b13f3eb398b86a295b350f3e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c06c6dde20710c843dbfe0abc2469789-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b446c555ca346e38b37ebfac2bbd794b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a63224234d57243f51208a6bf190f4ee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af85c5c81195841f6d167618a217ecc4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e06061976338741492ab34f3cb6d4a51-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b4b12eca4e0406739e5c4908fed623d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a1279ed54127f4949b657b049333380-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/800d8d020cb471825a240a27ad292fba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e16411abe3f7ab98ecc86a2aa0a018f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db97fc8fed3328ae845e0ce810dee214-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/38303b9a1a8938a6e434b7c896ad16d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d776c8e19bfa1c3125ef9deb2313933-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77a50b80113eec0073d26540eaa233e4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/509a9a326870ed0029f69e89063e8448-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d1e8695dc03eb832e1474c07dcb7d58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eeea904d7861d1815612881a060fe3cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1320b4d334031915347b555905f847f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f3dd0ed58212547f564ead7900d87d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51a92df8da04d54bb0e20a2c44b347bf-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2097647750",
+      "id": "2097647750",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4v9cyrjh8nqsh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a927f0cf39672aa77c4e8a4c83e952db-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/149-Viola-Rd-Suffern-NY-10901/2097647750_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$7,000/mo",
+      "unformattedPrice": 7000,
+      "address": "149 Viola Rd, Suffern, NY 10901",
+      "addressStreet": "149 Viola Rd",
+      "addressCity": "Suffern",
+      "addressState": "NY",
+      "addressZipcode": "10901",
+      "isUndisclosedAddress": false,
+      "beds": 6,
+      "baths": 5.0,
+      "area": 3519,
+      "latLong": {
+        "latitude": 41.136295,
+        "longitude": -74.08626
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2097647750,
+          "streetAddress": "149 Viola Rd",
+          "zipcode": "10901",
+          "city": "Suffern",
+          "state": "NY",
+          "latitude": 41.136295,
+          "longitude": -74.08626,
+          "price": 7000.0,
+          "bathrooms": 5.0,
+          "bedrooms": 6.0,
+          "livingArea": 3519.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 5994,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 7000.0,
+          "timeOnZillow": 596625000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a927f0cf39672aa77c4e8a4c83e952db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce9d8516c7d462a01791f99c0cc70744-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fab398a7d3a0f5c089729334ccfa60ae-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/594edbeb807913fe4c3c6487705a11d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c52261e6a0d95c2d03a71b8b689f31f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb162428a12ecdd565305ca86c6f860f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5f8275a3ac97a252b383677782cff6d4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2d0e2d7e912c0b7fa1a27a0694f0479-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5db32ae9a9fd76a4b8945a63c42ac8f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bed5b2609a5dbb1b44e2f46b43fb887f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e39090379d2c3fcc7df839fe1e16392-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0258d837cfec591c9e881e434f2f3051-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/54a6001594e04fc5357d7f07c3b22f79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd0a3ba6779bf508549156228cf735e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51c3bfc9fe9ffcdc89fe10baa89052d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8fa14976c0120b1f7766eceea3d1a6c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b3396c54daeb989e6cc39c13a4b6b19b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f92d1a2e8225b2122f0bc6a20ebdd25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9281a94cb9d6aaa0121dbcd04f169093-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/045372a1770ea964e4830e6dcb471116-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea2374634a7ed9fd0a36d74713201398-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cc88f4efee176e29cc4cde0ae15d24c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30bea02952634559e7704ed1f9889ec4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0f4dc9e18897700bf8b6d6322cdf1b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f62f037e77d1d5a9b8e696effd0484fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de479b3d17328f4515636c6a03cbb4dd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27e2b8cf44bab392f4ca03e7aa34d722-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d22df47390823efa1a463ef84df9547-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f0f253d2464b0e8a011d5443c7e3055-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbf0a2d2e13f1a3aa666e3c623797bfb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ac1738101bd1f43ff7a8ef69a78aa8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8cb565f03837e5f9ee2eadeb1e9eb16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e2aaced475f61108dcdd037d1eb6c23-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "53422426",
+      "id": "53422426",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2xzcfrq5843c7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8018d777bd41e14ec5dbaf62ee1c0ce9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/45-Lime-Kiln-Rd-Suffern-NY-10901/53422426_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,600/mo",
+      "unformattedPrice": 4600,
+      "address": "45 Lime Kiln Rd, Suffern, NY 10901",
+      "addressStreet": "45 Lime Kiln Rd",
+      "addressCity": "Suffern",
+      "addressState": "NY",
+      "addressZipcode": "10901",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2656,
+      "latLong": {
+        "latitude": 41.162025,
+        "longitude": -74.077545
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53422426,
+          "streetAddress": "45 Lime Kiln Rd",
+          "zipcode": "10901",
+          "city": "Suffern",
+          "state": "NY",
+          "latitude": 41.162025,
+          "longitude": -74.077545,
+          "price": 4600.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2656.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1141900,
+          "rentZestimate": 5311,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4600.0,
+          "timeOnZillow": 636839000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 73000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1141900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8018d777bd41e14ec5dbaf62ee1c0ce9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7bd13cb9138a94286ad61a0ab8478bb4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12a5750c0b6802515d91926c9392bc8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c22d7076397239e5e2eccd35670ca1bf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e193ec487c3a8b9296b16aefddf20b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aecaeb25bf6778e222bfaf5c836d8641-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26e2f39894892b6a913ae58aac77fb99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bc8037059be5a1444016ade47e76e45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdd48b707fd43ab1b72b8f187f3c2006-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70f8d2e84d50d304ef47d155729b13fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/095e92dfa3a9c9b35643608f4ec00d48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85a48eb7f6e148031408e801441b72ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff6eabacd4bd6d22d15e901d2b6fbf55-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "53429082",
+      "id": "53429082",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "29tvewp6n27ju",
+      "imgSrc": "https://photos.zillowstatic.com/fp/91914dd5594fdcdc8bda5a0b5daef839-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/418-Route-59-Airmont-NY-10952/53429082_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,600/mo",
+      "unformattedPrice": 4600,
+      "address": "418 Route 59, Airmont, NY 10952",
+      "addressStreet": "418 Route 59",
+      "addressCity": "Airmont",
+      "addressState": "NY",
+      "addressZipcode": "10952",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2000,
+      "latLong": {
+        "latitude": 41.10954,
+        "longitude": -74.08681
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "58 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53429082,
+          "streetAddress": "418 Route 59",
+          "zipcode": "10952",
+          "city": "Airmont",
+          "state": "NY",
+          "latitude": 41.10954,
+          "longitude": -74.08681,
+          "price": 4600.0,
+          "datePriceChanged": 1728284400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 58,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 780900,
+          "rentZestimate": 4188,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4600.0,
+          "priceChange": 800,
+          "timeOnZillow": 5046789000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 40900.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 780900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/91914dd5594fdcdc8bda5a0b5daef839-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/daa8b3aa50f0ac87ceb12ca38f0cbda2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76c874bd80134208c021d340b04cbc16-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ab214ba8cc1b65c067c902dceb6c1f7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fed5dbf9f0296d41d2e1e8e0b269940c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d570b9dd41b5271269ba6724dc012b23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/926dc9dd9a2c606c8748bd5d90c6196a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3bdda9c61b843854c613bf906e6483d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d54052655220bfdee084a7e19bef9b02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcb846675b482ad3aeff63cd2ff9d80f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ac4e232e198adf1a760a686b7e9bd35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7013b531591d303899863571e139266b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d8d97a279175754dbc5aeb0edb7938c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c11453a4d7e2750de9a652157f3490f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9641d759864591a7c322424afafb7fb6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e525f6efe1dcdd533b2484c87824d0b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5194edf1ba4c90b6b5867ad7499c384-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "53431944",
+      "id": "53431944",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3cqhvf35hzywt",
+      "imgSrc": "https://photos.zillowstatic.com/fp/20d32277ca4db656810f43b1023c156a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/26-Concord-Dr-Monsey-NY-10952/53431944_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$10,950/mo",
+      "unformattedPrice": 10950,
+      "address": "26 Concord Dr, Monsey, NY 10952",
+      "addressStreet": "26 Concord Dr",
+      "addressCity": "Monsey",
+      "addressState": "NY",
+      "addressZipcode": "10952",
+      "isUndisclosedAddress": false,
+      "beds": 6,
+      "baths": 6.0,
+      "area": 5500,
+      "latLong": {
+        "latitude": 41.13144,
+        "longitude": -74.07431
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "187 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53431944,
+          "streetAddress": "26 Concord Dr",
+          "zipcode": "10952",
+          "city": "Monsey",
+          "state": "NY",
+          "latitude": 41.13144,
+          "longitude": -74.07431,
+          "price": 10950.0,
+          "datePriceChanged": 1730707200000,
+          "bathrooms": 6.0,
+          "bedrooms": 6.0,
+          "livingArea": 5500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 187,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1935200,
+          "rentZestimate": 6037,
+          "listing_sub_type": {},
+          "priceReduction": "$950 (Nov 4)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 10950.0,
+          "priceChange": -950,
+          "timeOnZillow": 16228008000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 125100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1935200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/20d32277ca4db656810f43b1023c156a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cba79a3025ad71deef74a211280a402f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/572d451d005a56b0d9dc2da41d6d777b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0eed9e70411965c57a0ddcabfa2536a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff256db707d6c7b208db118a362c30be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f72b71f06bad70bdb7f0a08e4e9c21b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ddcc62b13ef6662de02250ba36bb18a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d51366158f1b624156b80d3f41596a11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ee844960ca1ca6c1d7a35a8213294a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a026b66d8ed500d253273f780a03b103-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36013da212c7fce6bb4c9f960b87a900-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5da96cc90aaf8fe0243db6852b050d97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0763efcdb5bad8ac1faba535c305aa8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/806e1a432ca8229bc3367956561d500d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd7e8e8da32f42f75f4d4e7a14af0e60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3663e5da54f21644a6916a9534d242b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86c3504b8dd297399a47d2065ffb65d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc13e3cbd528ed053e77730c20ee818f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f073a5a8a5fc9ada405d07f644fc116-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7f01395a6ce2a366724d93fabdd2053-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/421288a249c5ea3be2df49629079e8d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87b426edfc97f2997a832a85e0a389e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c1babf7401f7e998743579c00ef2f97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a21884c9268c96bc46d7f7b087e60c71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8996d4edf54592b5bdbd37d36f52bc28-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b599aef24e6e3eddce83225d7b33b855-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/474b17b8254f5a4e0f11f210c7ea25a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/028bd852f9a99d826cd65d95e1ed1733-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8d938fef0979e111c8b45b9b1511490-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a33ab3b7dc589833370643b847c6c354-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35953b79d2d50ce4c7603d5cc6a44509-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7570d5682a6fc07ee3c5df1dd79b9749-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a759ce87d0d362fbaa7c9395de622d40-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "41.081707--74.08595",
+      "id": "41.081707--74.08595",
+      "providerListingId": "2nndggfqzc6m3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5bb0b8e5d40029657fea652a1645d691-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/41.081707,-74.08595_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "32 Hillside Ave, Monsey, NY",
+      "addressStreet": "32 Hillside Ave # 1",
+      "addressCity": "Monsey",
+      "addressState": "NY",
+      "addressZipcode": "10952",
+      "units": [
+        {
+          "price": "$3,200+",
+          "beds": "3",
+          "roomForRent": false
+        },
+        {
+          "price": "$3,300+",
+          "beds": "5",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2009331072,
+      "latLong": {
+        "latitude": 41.081707,
+        "longitude": -74.08595
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bb0b8e5d40029657fea652a1645d691-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9952a241990675481b492976d4536c1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e8453859390d6feffc65b6adc465155-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5491b32d92b4c9b7bc036b3f4667cfa7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aca4f6176ba7c7cc4a047a8623e33854-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4409ed10838c65ae4a5f91b24b3cac27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/adf299f98b6c005205acf26630fc6599-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2e76f023e88a3c620c376309278b15e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dade1b22d2fa2891f006ee7d424298a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3b5beb1bc282a77566e23185966beaf3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f12eeba9125a845c9acb17c4392379c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8064020f0abd8081afe234e7a287746-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d4acfcb7c6c2487f0fa0632f9e6f3b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1ef89ad482d19a3d09fa1238ecf6229-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5ccd396e708e81edba9dd31c3ac41de-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    },
+    {
+      "zpid": "84119949",
+      "id": "84119949",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ud6zz4005btm",
+      "imgSrc": "https://photos.zillowstatic.com/fp/39d662ad205dbaa1bed32af997237ce2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Chestnut-Ridge-NY-10977/84119949_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,500/mo",
+      "unformattedPrice": 3500,
+      "address": "(undisclosed Address), Chestnut Ridge, NY 10977",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Chestnut Ridge",
+      "addressState": "NY",
+      "addressZipcode": "10977",
+      "isUndisclosedAddress": true,
+      "beds": 4,
+      "baths": 4.0,
+      "area": 3500,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "36 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 84119949,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "10977",
+          "city": "Chestnut Ridge",
+          "state": "NY",
+          "price": 3500.0,
+          "bathrooms": 4.0,
+          "bedrooms": 4.0,
+          "livingArea": 3500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 36,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1681200,
+          "rentZestimate": 4702,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3500.0,
+          "timeOnZillow": 3155124000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1681200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/39d662ad205dbaa1bed32af997237ce2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2601089dccfef680f0fe09fcedf90f44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/373868faa0cefa52d378b1ba07b711d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8024f919e7a93947f3d4164a3acb269a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b7f945bfb60e47603e93a3441c4889ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5636c65c14c502e8955ed1842dbe5da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f19f519fadc5f382556566a08f2c845d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e4526478ea74b1630d8e4c78876a56f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c42809f5bc1330283cc647cc146e7874-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/536a66eb251bbfe7e79e8113360d7afe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d68d1b9014b716a91b7f85c260122a8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24d350fc4685e8132dd95f281be01f48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6cf9794ccd4574fb4386cb2c6df4f23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d968bd762e7b7c69ae47e4b0d54554af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d834582c6a306ae91e6f60e6c1a862a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "53425538",
+      "id": "53425538",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4fnnatys1cxd7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fdce3bd766a5224bb69b1c002eeb89a9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/898-Chestnut-Ridge-Rd-Spring-Valley-NY-10977/53425538_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,700/mo",
+      "unformattedPrice": 4700,
+      "address": "898 Chestnut Ridge Rd, Spring Valley, NY 10977",
+      "addressStreet": "898 Chestnut Ridge Rd",
+      "addressCity": "Spring Valley",
+      "addressState": "NY",
+      "addressZipcode": "10977",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1726,
+      "latLong": {
+        "latitude": 41.078033,
+        "longitude": -74.06217
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53425538,
+          "streetAddress": "898 Chestnut Ridge Rd",
+          "zipcode": "10977",
+          "city": "Spring Valley",
+          "state": "NY",
+          "latitude": 41.078033,
+          "longitude": -74.06217,
+          "price": 4700.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1726.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 22,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 676100,
+          "rentZestimate": 4535,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4700.0,
+          "priceChange": -200,
+          "timeOnZillow": 1972438000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 47700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 676100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdce3bd766a5224bb69b1c002eeb89a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3abd023adb98e86408dadc32c3591475-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3de291b42681d15f20f26f00271d2410-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec5716098cba5d5738476fbadbb68ca2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/20f30abeadc130f3bbfdc038583a899f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1642c8f40bd7adde9ab02a2fb2af2ced-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e21410bf4f2a77e0216b4bb547cd5628-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7a5127c5a9e8b4d6c4e4c446f2d1bf3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b2db0bf271da1834fd600baed3ef6fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b928bd313ef1cefc0c35f43e5a74d96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/22842c0bc3ba8db1e9287c94618d40ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96b6efd61eb5a20b773f2832525e6ea1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc5a6fd1053cd6cad6727bf1b58f979e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f9e407ebb3a32dca307de9cfb4ab20c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb85c041d49dcf769b7991aa740f823c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a129d4ea9c50f707a70d6b795a23798c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8540bb75b01a83497b1da322faafbeb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aaf9f7a49f641dab1667cb79e39a33e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d02569c400c33dbd4b5c0385bc3d7d7c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f293503974b27bf445a7184872cfe1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/915e37bcd54401c8429ff409ac7bb3e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f53ff36190a578b858a047fa27ffe6e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78c0132774f8670369c0676ed4358588-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a6d54d2214ef9c0011a5a31965672e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01b67caf0f0d175d8c068277e57a9fff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30cfc0946ff2dc0690446f7962b5f6e3-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442600888",
+      "id": "442600888",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "uprqrp3tn093",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3af830bb19aab0a0f82e13913fa10250-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/69-N-Saddle-River-Rd-APT-1-Monsey-NY-10952/442600888_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,200/mo",
+      "unformattedPrice": 2200,
+      "address": "69 N Saddle River Rd APT 1, Monsey, NY 10952",
+      "addressStreet": "69 N Saddle River Rd APT 1",
+      "addressCity": "Monsey",
+      "addressState": "NY",
+      "addressZipcode": "10952",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.110325,
+        "longitude": -74.07033
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442600888,
+          "streetAddress": "69 N Saddle River Rd APT 1",
+          "zipcode": "10952",
+          "city": "Monsey",
+          "state": "NY",
+          "latitude": 41.110325,
+          "longitude": -74.07033,
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1299600,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 853358000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 1299600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: eXp Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/3af830bb19aab0a0f82e13913fa10250-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a6dc63531f171cedfc247e289d7bb61-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ca9544769fbd0056e274352132f731d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/65e3e85eef2f2be410e7f361af697132-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf2356def7eabd5e8aa6b20e513ac926-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a707d4af55ad6a036308eb3a44e6d974-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/26eb1f58700e43e6493c04ea9a476b6b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "41.112038--74.06209",
+      "id": "41.112038--74.06209",
+      "providerListingId": "nb8ysu7t9qpw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bd92a1b9f3574693f8fc68dcfc0ebe3c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/monsey-ny/regency-village/Chc4Jn/",
+      "statusType": "FOR_RENT",
+      "statusText": "Regency Village",
+      "address": "42 Monsey Blvd, Monsey, NY",
+      "addressStreet": "42 Monsey Blvd # 377",
+      "addressCity": "Monsey",
+      "addressState": "NY",
+      "addressZipcode": "10952",
+      "units": [
+        {
+          "price": "$1,790+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,900+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2741815471,
+      "latLong": {
+        "latitude": 41.112038,
+        "longitude": -74.06209
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Regency Village",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd92a1b9f3574693f8fc68dcfc0ebe3c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/003a8132df9df1a5c9bf513c4e7d31c9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8fa4aabe3f1d2a3dca1061294defa9c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dabc8d7a36e0e6b5ec13fd6fd57bf8bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b9e51d2bf539388508c42568b78f700-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02cb8d2eb960eb26861259aa60a988ff-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "53422657",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7472d937e555fd01676706d77b1641e7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/29-Astor-Pl-Monsey-NY-10952/53422657_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,500/mo",
+      "priceLabel": "$4.5K",
+      "address": "29 Astor Pl, Monsey, NY 10952",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 1844,
+      "latLong": {
+        "latitude": 41.157722,
+        "longitude": -74.08753
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53422657,
+          "streetAddress": "29 Astor Pl",
+          "zipcode": "10952",
+          "city": "Monsey",
+          "state": "NY",
+          "latitude": 41.157722,
+          "longitude": -74.08753,
+          "price": 4500.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 1844.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 788100,
+          "rentZestimate": 4379,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4500.0,
+          "timeOnZillow": 3533671000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 53000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 3533671000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2097647750",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a927f0cf39672aa77c4e8a4c83e952db-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/149-Viola-Rd-Suffern-NY-10901/2097647750_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$7,000/mo",
+      "priceLabel": "$7.0K",
+      "address": "149 Viola Rd, Suffern, NY 10901",
+      "isNewYorkState": true,
+      "beds": 6,
+      "baths": 5.0,
+      "area": 3519,
+      "latLong": {
+        "latitude": 41.136295,
+        "longitude": -74.08626
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2097647750,
+          "streetAddress": "149 Viola Rd",
+          "zipcode": "10901",
+          "city": "Suffern",
+          "state": "NY",
+          "latitude": 41.136295,
+          "longitude": -74.08626,
+          "price": 7000.0,
+          "bathrooms": 5.0,
+          "bedrooms": 6.0,
+          "livingArea": 3519.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 5994,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 7000.0,
+          "timeOnZillow": 596625000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "visited": false,
+      "timeOnZillow": 596625000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "53422426",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8018d777bd41e14ec5dbaf62ee1c0ce9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/45-Lime-Kiln-Rd-Suffern-NY-10901/53422426_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,600/mo",
+      "priceLabel": "$4.6K",
+      "address": "45 Lime Kiln Rd, Suffern, NY 10901",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2656,
+      "latLong": {
+        "latitude": 41.162025,
+        "longitude": -74.077545
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53422426,
+          "streetAddress": "45 Lime Kiln Rd",
+          "zipcode": "10901",
+          "city": "Suffern",
+          "state": "NY",
+          "latitude": 41.162025,
+          "longitude": -74.077545,
+          "price": 4600.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2656.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1141900,
+          "rentZestimate": 5311,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4600.0,
+          "timeOnZillow": 636839000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 73000.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 636839000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "53429082",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/91914dd5594fdcdc8bda5a0b5daef839-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/418-Route-59-Airmont-NY-10952/53429082_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,600/mo",
+      "priceLabel": "$4.6K",
+      "address": "418 Route 59, Airmont, NY 10952",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2000,
+      "latLong": {
+        "latitude": 41.10954,
+        "longitude": -74.08681
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "58 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53429082,
+          "streetAddress": "418 Route 59",
+          "zipcode": "10952",
+          "city": "Airmont",
+          "state": "NY",
+          "latitude": 41.10954,
+          "longitude": -74.08681,
+          "price": 4600.0,
+          "datePriceChanged": 1728284400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 780900,
+          "rentZestimate": 4188,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4600.0,
+          "priceChange": 800,
+          "timeOnZillow": 5046789000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 40900.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 5046789000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "53431944",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/20d32277ca4db656810f43b1023c156a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/26-Concord-Dr-Monsey-NY-10952/53431944_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$10,950/mo",
+      "priceLabel": "$11K",
+      "address": "26 Concord Dr, Monsey, NY 10952",
+      "isNewYorkState": true,
+      "beds": 6,
+      "baths": 6.0,
+      "area": 5500,
+      "latLong": {
+        "latitude": 41.13144,
+        "longitude": -74.07431
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "187 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53431944,
+          "streetAddress": "26 Concord Dr",
+          "zipcode": "10952",
+          "city": "Monsey",
+          "state": "NY",
+          "latitude": 41.13144,
+          "longitude": -74.07431,
+          "price": 10950.0,
+          "datePriceChanged": 1730707200000,
+          "bathrooms": 6.0,
+          "bedrooms": 6.0,
+          "livingArea": 5500.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1935200,
+          "rentZestimate": 6037,
+          "listing_sub_type": {},
+          "priceReduction": "$950 (Nov 4)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 10950.0,
+          "priceChange": -950,
+          "timeOnZillow": 16228008000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 125100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 16228008000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "plid": "2nndggfqzc6m3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5bb0b8e5d40029657fea652a1645d691-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/41.081707,-74.08595_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "price": "$3,200+/mo",
+      "address": "32 Hillside Ave, Monsey, NY",
+      "minBeds": 3,
+      "minBaths": 1.0,
+      "lotId": 2009331072,
+      "latLong": {
+        "latitude": 41.081707,
+        "longitude": -74.08595
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "15 days ago"
+      },
+      "buildingId": "41.081707--74.08595",
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 1365998000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "53425538",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/fdce3bd766a5224bb69b1c002eeb89a9-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/898-Chestnut-Ridge-Rd-Spring-Valley-NY-10977/53425538_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$4,700/mo",
+      "priceLabel": "$4.7K",
+      "address": "898 Chestnut Ridge Rd, Spring Valley, NY 10977",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1726,
+      "latLong": {
+        "latitude": 41.078033,
+        "longitude": -74.06217
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "22 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 53425538,
+          "streetAddress": "898 Chestnut Ridge Rd",
+          "zipcode": "10977",
+          "city": "Spring Valley",
+          "state": "NY",
+          "latitude": 41.078033,
+          "longitude": -74.06217,
+          "price": 4700.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1726.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 676100,
+          "rentZestimate": 4535,
+          "listing_sub_type": {},
+          "priceReduction": "$200 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4700.0,
+          "priceChange": -200,
+          "timeOnZillow": 1972438000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 47700.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "timeOnZillow": 1972438000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "442600888",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/3af830bb19aab0a0f82e13913fa10250-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/69-N-Saddle-River-Rd-APT-1-Monsey-NY-10952/442600888_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,200/mo",
+      "priceLabel": "$2.2K",
+      "address": "69 N Saddle River Rd APT 1, Monsey, NY 10952",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.110325,
+        "longitude": -74.07033
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442600888,
+          "streetAddress": "69 N Saddle River Rd APT 1",
+          "zipcode": "10952",
+          "city": "Monsey",
+          "state": "NY",
+          "latitude": 41.110325,
+          "longitude": -74.07033,
+          "price": 2200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1100.0,
+          "homeType": "MULTI_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 1299600,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2200.0,
+          "timeOnZillow": 853358000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: eXp Realty",
+      "timeOnZillow": 853358000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "plid": "nb8ysu7t9qpw",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bd92a1b9f3574693f8fc68dcfc0ebe3c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/monsey-ny/regency-village/Chc4Jn/",
+      "statusType": "FOR_RENT",
+      "statusText": "Regency Village",
+      "price": "$1,790+/mo",
+      "address": "42 Monsey Blvd, Monsey, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 620,
+      "lotId": 2741815471,
+      "latLong": {
+        "latitude": 41.112038,
+        "longitude": -74.06209
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "Regency Village",
+      "buildingId": "41.112038--74.06209",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 2682061000,
+      "unitCount": 2,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "a868e04",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

@@ -1,0 +1,267 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "442578654",
+      "id": "442578654",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3eqtkfe7mh869",
+      "imgSrc": "https://photos.zillowstatic.com/fp/45fe392557d6d7cc8862398ae38befb5-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/101-Wyatts-Dr-Schenectady-NY-12302/442578654_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,325/mo",
+      "unformattedPrice": 1325,
+      "address": "101 Wyatts Dr, Schenectady, NY 12302",
+      "addressStreet": "101 Wyatts Dr",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12302",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 840,
+      "latLong": {
+        "latitude": 42.855175,
+        "longitude": -74.01215
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "10 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442578654,
+          "streetAddress": "101 Wyatts Dr",
+          "zipcode": "12302",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.855175,
+          "longitude": -74.01215,
+          "price": 1325.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 840.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 10,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 198500,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1325.0,
+          "timeOnZillow": 908551000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 198500,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-13 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/45fe392557d6d7cc8862398ae38befb5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84d7f38dd23831f66f4ab875e5e67004-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8048590ddba29e97ffb5ed8a5349ecc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/482431bd764ce93a5c316dd4a7ccab62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0120f43c92c3147cafab96a84263869-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9358cb55def9dac6ab828eadedfc9adc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2854eab882473599cb56d88da33cb0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0640ea6111036348b246257fd87ac0e7-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2091644625",
+      "id": "2091644625",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3kn9fh7nekevp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a660f94e3a0d27437f0479256d95a77e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/409-Daly-Dr-Glenville-NY-12302/2091644625_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,275/mo",
+      "unformattedPrice": 1275,
+      "address": "409 Daly Dr, Glenville, NY 12302",
+      "addressStreet": "409 Daly Dr",
+      "addressCity": "Glenville",
+      "addressState": "NY",
+      "addressZipcode": "12302",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 728,
+      "latLong": {
+        "latitude": 42.855488,
+        "longitude": -74.013336
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2091644625,
+          "streetAddress": "409 Daly Dr",
+          "zipcode": "12302",
+          "city": "Glenville",
+          "state": "NY",
+          "latitude": 42.855488,
+          "longitude": -74.013336,
+          "price": 1275.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 728.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 169100,
+          "rentZestimate": 1357,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1275.0,
+          "timeOnZillow": 287472000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 169100,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Garden Homes Management Corporation",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a660f94e3a0d27437f0479256d95a77e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad003a25da344e37f3cbdcb4e13176bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f68e006051f22d3d6f8612610a04ed67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d329e85fc6eab8efbe52c634c8e06e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/010d5d96760e2b34b4f510614acc6fb6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f73e2bf9187b06e90c605a176687ebc0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b369c3cbc540f1900f5076b3a57c39b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31b4855b155b6943f2894c4cb6e70590-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ced7aa98922390b4f51666746ae86caf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5ff1bb39c426ab2639b2f8d30fdf2f48-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42508e04bf008fec129cb8537ad77e6f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1041ea69f1c04830b2595b33d691f22c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/834f27078a4530af9d60d0dfc6868b00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2854eab882473599cb56d88da33cb0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0640ea6111036348b246257fd87ac0e7-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "7efbc349"
+}

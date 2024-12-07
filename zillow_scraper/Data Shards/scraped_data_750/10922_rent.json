@@ -1,0 +1,118 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "2100648316",
+      "id": "2100648316",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "28nc5ynbbzkaj",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9a7f8a2f3d9edede0043af51f17ee19d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/66-Rose-Dr-APT-14-Highland-Falls-NY-10928/2100648316_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,550/mo",
+      "unformattedPrice": 1550,
+      "address": "66 Rose Dr APT 14, Highland Falls, NY 10928",
+      "addressStreet": "66 Rose Dr APT 14",
+      "addressCity": "Highland Falls",
+      "addressState": "NY",
+      "addressZipcode": "10928",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.349403,
+        "longitude": -73.96974
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "35 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2100648316,
+          "streetAddress": "66 Rose Dr APT 14",
+          "zipcode": "10928",
+          "city": "Highland Falls",
+          "state": "NY",
+          "latitude": 41.349403,
+          "longitude": -73.96974,
+          "price": 1550.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 35,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1731,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 3069357000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 14",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Howard Hanna Rand Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a7f8a2f3d9edede0043af51f17ee19d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d0b8bf8a3da0c5c5bf818568ff13c16f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc3a2f0eeeee268e486bf777375bb44f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbfff1984825a0627cdd18cb186e338e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7147524fc24dabfaff71e7a9986f0296-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7302ec07c190726456140dda622198b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f76676fc32c89d3812bb17ad0d063ea2-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "240e7084"
+}

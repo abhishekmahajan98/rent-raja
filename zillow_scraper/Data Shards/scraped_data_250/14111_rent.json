@@ -1,0 +1,150 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "2053564628",
+      "id": "2053564628",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1xh3yb35pdxma",
+      "imgSrc": "https://photos.zillowstatic.com/fp/df167970e4e353ee56bf860dd673b71b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/56-Railroad-Ave-Angola-NY-14006/2053564628_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,350/mo",
+      "unformattedPrice": 1350,
+      "address": "56 Railroad Ave, Angola, NY 14006",
+      "addressStreet": "56 Railroad Ave",
+      "addressCity": "Angola",
+      "addressState": "NY",
+      "addressZipcode": "14006",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.631454,
+        "longitude": -79.03305
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "74 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053564628,
+          "streetAddress": "56 Railroad Ave",
+          "zipcode": "14006",
+          "city": "Angola",
+          "state": "NY",
+          "latitude": 42.631454,
+          "longitude": -79.03305,
+          "price": 1350.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 74,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 182400,
+          "rentZestimate": 1739,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1350.0,
+          "timeOnZillow": 6409055000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 182400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/df167970e4e353ee56bf860dd673b71b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8247bbfb7ce639dd2abf3358918f2db2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d39f1a491a143d66919b7f3ceab12c20-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0408b1b014123fc157f5b1738d75e713-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9e4d00246d0352528b47e75a37dc5cea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c812d3ba7f06114d5e3b65e890972889-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc19e2d9e4647c4d5aff15098f906fba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24edb159f566a1b1bfe1e9f328733a5c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17145ef03a99e44c2af31cdb99548a0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/91804383914827522afc1d8d57a05fcf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d78c0ef0c9923e3dca99ca857e70ce80-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e1fa42f711b4d289c864cdc918aafb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cb78c62189f349e5e0d5e3eab361a698-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cda6d38b344176bcd02ab8d97d3bfc25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a37d56270d5238a1fa6def987abf03a6-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "13d4bd1c"
+}

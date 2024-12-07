@@ -1,0 +1,82 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "43.237915--77.071495",
+      "id": "43.237915--77.071495",
+      "providerListingId": "qj6qas79wjb9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/312ba82e46b70ff9f674eb0cd20b3b4a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/sodus-ny/oak-orchard-townhomes/98FRCb/",
+      "statusType": "FOR_RENT",
+      "statusText": "Oak Orchard Townhomes",
+      "address": "15 Rotterdam Rd, Sodus, NY",
+      "addressStreet": "15 Rotterdam Rd Apt 20",
+      "addressCity": "Sodus",
+      "addressState": "NY",
+      "addressZipcode": "14551",
+      "units": [
+        {
+          "price": "$1,045+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2013260579,
+      "latLong": {
+        "latitude": 43.237915,
+        "longitude": -77.071495
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Oak Orchard Townhomes",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/312ba82e46b70ff9f674eb0cd20b3b4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf20d3621222c0d982a35d21009594d6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/02ad329a437d859c5fff065a0343a544-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eba5fc86b3289af5f588baccdefcc70c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbf99e71c2a119f894857dc8244f86c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9710ac1e4fbead41d1ef80800c58ad8d-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 5,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "3b95fd"
+}

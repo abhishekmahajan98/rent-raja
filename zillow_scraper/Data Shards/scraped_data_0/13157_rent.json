@@ -1,0 +1,616 @@
+{
+  "listResults": [
+    {
+      "zpid": "2062730370",
+      "id": "2062730370",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1cyz22xbe68f4",
+      "imgSrc": "https://photos.zillowstatic.com/fp/371259c82042382fa4372b335bfccb79-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/332-18th-Ave-Blossvale-NY-13308/2062730370_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "332 18th Ave, Blossvale, NY 13308",
+      "addressStreet": "332 18th Ave",
+      "addressCity": "Blossvale",
+      "addressState": "NY",
+      "addressZipcode": "13308",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1120,
+      "latLong": {
+        "latitude": 43.205105,
+        "longitude": -75.72549
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062730370,
+          "streetAddress": "332 18th Ave",
+          "zipcode": "13308",
+          "city": "Blossvale",
+          "state": "NY",
+          "latitude": 43.205105,
+          "longitude": -75.72549,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1120.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 189000,
+          "rentZestimate": 1598,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 277398000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 189000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/371259c82042382fa4372b335bfccb79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c30bc430caa56170553be2b3cca7ee55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9972010d5e3aeaf927fcadc2aaf65d71-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bdd94d9d57242820e2aca472bab81a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aaa9eef08914abb567b7438f06c1342f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f313c6bd6258d20ed488f95eff5e654b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea1669c56304f9bf2772fc1ea72bb7cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5639bb8d53e5d6338c44ddeaf76c014d-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2062730370",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/371259c82042382fa4372b335bfccb79-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/332-18th-Ave-Blossvale-NY-13308/2062730370_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "332 18th Ave, Blossvale, NY 13308",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1120,
+      "latLong": {
+        "latitude": 43.205105,
+        "longitude": -75.72549
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062730370,
+          "streetAddress": "332 18th Ave",
+          "zipcode": "13308",
+          "city": "Blossvale",
+          "state": "NY",
+          "latitude": 43.205105,
+          "longitude": -75.72549,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1120.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 189000,
+          "rentZestimate": 1598,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 277398000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 277398000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "442231927",
+      "id": "442231927",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3kwbuvvkez3yc",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4631a0d4aac05dfe5da1b2ac6d2d70c7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/6781-N-Lakeshore-Rd-1-Verona-Beach-NY-13162/442231927_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "6781 N Lakeshore Rd #1, Verona Beach, NY 13162",
+      "addressStreet": "6781 N Lakeshore Rd #1",
+      "addressCity": "Verona Beach",
+      "addressState": "NY",
+      "addressZipcode": "13162",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1500,
+      "latLong": {
+        "latitude": 43.190517,
+        "longitude": -75.729034
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "24 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442231927,
+          "streetAddress": "6781 N Lakeshore Rd #1",
+          "zipcode": "13162",
+          "city": "Verona Beach",
+          "state": "NY",
+          "latitude": 43.190517,
+          "longitude": -75.729034,
+          "price": 1800.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1500.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 24,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 2074519000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-10-30 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4631a0d4aac05dfe5da1b2ac6d2d70c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4a1fbbc19c0565e2a9dc3fbfa531a6a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5eca2c819ab74a6e48f4c7775a0ceac0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d42112fc543d0089b31cb00c6fcb697e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cb05d2ba80e1de3ff899f36f5a7be24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf3204d5b103ad5ca4203b243f4fc641-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2aedc9647cb651da5b0bff95b819f07c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a41837d9d27554835202150b56a812a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35e2141fc14ddd75889bca2ffc498847-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2520dfbe29ba31a2e5d96ead2eb743ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4ea24007ac08781b90641b071b89ef6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba991797cf7f6c276e2a9afd442aead8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/161393e7f24c504a7e5f881322b72b43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c2508d7317b6dd7b7e5d2670a1717048-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/017d7086ea20daf3f8047492e242e781-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/447874a6613e5fc22d781b23460bd709-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80bdd80ccc60094dc62b12af878e6a7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a4887415493046ff446693c376b65ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e3eda028dda827c609b51e7b77c92bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e0e837b7377afdc532a7da575080175-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/816200f351223d4b512dbc959af723ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1078e8990dd4b70531217348e318a70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f437ffbb6fcc755bf62a7da06172e25-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1885903b196337a7ad8d3ccb3e3e9c17-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "31610056",
+      "id": "31610056",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2u5c160ub5mg8",
+      "imgSrc": "https://photos.zillowstatic.com/fp/5df8bf6b33b10a6cbf6e517737ac9da4-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2418-3rd-Ave-Verona-Beach-NY-13162/31610056_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "2418 3rd Ave, Verona Beach, NY 13162",
+      "addressStreet": "2418 3rd Ave",
+      "addressCity": "Verona Beach",
+      "addressState": "NY",
+      "addressZipcode": "13162",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 43.18959,
+        "longitude": -75.730064
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31610056,
+          "streetAddress": "2418 3rd Ave",
+          "zipcode": "13162",
+          "city": "Verona Beach",
+          "state": "NY",
+          "latitude": 43.18959,
+          "longitude": -75.730064,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 145400,
+          "rentZestimate": 1575,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 2161396000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 91837.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 145400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-04 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/5df8bf6b33b10a6cbf6e517737ac9da4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1bfb72041a14ff55fa626a750acdec1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e076dc4686d30320f830a5949693cd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a72e3d2a4bdfd66b35e59e831ef596eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c434ba443d08beb6607d43a7347d0a64-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c165148dfa44e9ce6f548f611ebbe73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45a57b0ef44d6b1ee47ebb6e66f7f838-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cba4482281c481d4adecccff9fccb344-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/335e2120669e13c648979d1fa2be689e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12c8888ad039028d2c8d9790c066e737-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d23ef6f5fca07ef7d411cf98481de8d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1ecf121b10e2c5acc9d5667affea64da-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f96be8a0163380c782f37b7964ccbb72-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b472a750d9fd052f64fd48ebd1cfc9d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f2c93210c4072a666b930bdb43fcb19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a03e3169c894d2a7370c73dc0da90e8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d1738e0579053ac2ed68abcdf83fab8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1d632533e92b027f6343aabc729009c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50b36c47aa9b7b69f824c17d3e0f511c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3464560cb362d44eb67af13e31ed7ba3-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "43.23095--75.75215",
+      "id": "43.23095--75.75215",
+      "providerListingId": "4ke75aqmvhasp",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9011ebd38e16690a6801b4e61803d102-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/building/43.23095,-75.75215_ll/",
+      "statusType": "FOR_RENT",
+      "statusText": "For Rent",
+      "address": "738 McIntyre Est, North Bay, NY",
+      "addressStreet": "738 McIntyre Est # 3",
+      "addressCity": "North Bay",
+      "addressState": "NY",
+      "addressZipcode": "13123",
+      "units": [
+        {
+          "price": "$1,125+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,800+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2742501191,
+      "latLong": {
+        "latitude": 43.23095,
+        "longitude": -75.75215
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago"
+      },
+      "isSaved": false,
+      "isBuilding": true,
+      "canSaveBuilding": false,
+      "has3DModel": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9011ebd38e16690a6801b4e61803d102-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff51092e495b6efe8fe3929f27674a5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f641bce8d5d1a01251cfab2756542ba8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17c6c14f65634b22cffd006dc180af0d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c285508cc38b68e5f0cc8cb9c18ad7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/47df9694109ebd22f241987ceacdbd5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db99f5e5b2e16320bbe59d5db9fe1d1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a733c74264163017afb8097c579cb8d6-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 2,
+      "isInstantTourEnabled": false,
+      "isContactable": false
+    }
+  ],
+  "resultsHash": "2263c311",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "2a21f6b7"
+}

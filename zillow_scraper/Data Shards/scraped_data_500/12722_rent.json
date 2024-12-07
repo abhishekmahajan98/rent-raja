@@ -1,0 +1,168 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "32776261",
+      "id": "32776261",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "er0kqug8dkz1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/96318bec9a1dac209aa27072ef0f7075-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/272-Echo-Rd-Bloomingburg-NY-12721/32776261_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,950/mo",
+      "unformattedPrice": 2950,
+      "address": "272 Echo Rd, Bloomingburg, NY 12721",
+      "addressStreet": "272 Echo Rd",
+      "addressCity": "Bloomingburg",
+      "addressState": "NY",
+      "addressZipcode": "12721",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1563,
+      "latLong": {
+        "latitude": 41.6001,
+        "longitude": -74.395996
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "23 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32776261,
+          "streetAddress": "272 Echo Rd",
+          "zipcode": "12721",
+          "city": "Bloomingburg",
+          "state": "NY",
+          "latitude": 41.6001,
+          "longitude": -74.395996,
+          "price": 2950.0,
+          "datePriceChanged": 1730444400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1563.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 23,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 429000,
+          "rentZestimate": 2845,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 1)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2950.0,
+          "priceChange": -50,
+          "timeOnZillow": 2027260000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 412800.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 429000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: eRealty Advisors, Inc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/96318bec9a1dac209aa27072ef0f7075-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/092f80f324d2f8f253738d17382e0bc4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9d1f9e7473983c6a195b2d7f2e3fbc67-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98e2d98ef8da208860d4b3c57cb54c2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a798c0e5277a0cdfeb1ee3d9d0c86e9c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40b037d69694184f8e726cf09516ada4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e34963e410a50323b0d1805571b314e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/499443ba45d5a1de94ba58aaffeed4fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbb2df131bf65196ebc1aa88dee3ea2e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9b8de8be2d195264bbe77c8b3aa9062-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d9b2e93c8177096be40c049d8d683021-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7dbb0772c442b565098fd354a824fe4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/32a80df0800915f3fc5a1420037682ff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79450ff64a8787fa6a8d7b3ba175f7b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4614fd07c1f32751d36eef4c46770c87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59a619bbce39fbb5c157f8e8053ee29e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71847962cda8410635fe63a203f5d155-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/394ab4e8743c364939c9c315964f3b31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3825a6cf620734cb746d3605d7f580b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/319443a4bf0469f222596d801d87d1e6-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "67ce6895"
+}

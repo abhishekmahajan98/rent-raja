@@ -1,0 +1,205 @@
+{
+  "listResults": [
+    {
+      "zpid": "2054223240",
+      "id": "2054223240",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "58tf7gv2z3aah",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2ea689218c36fe889c5a0f19486927f6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/134-Cypress-Rd-Greene-NY-13778/2054223240_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,195/mo",
+      "unformattedPrice": 1195,
+      "address": "134 Cypress Rd, Greene, NY 13778",
+      "addressStreet": "134 Cypress Rd",
+      "addressCity": "Greene",
+      "addressState": "NY",
+      "addressZipcode": "13778",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.310143,
+        "longitude": -75.7916
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "45 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054223240,
+          "streetAddress": "134 Cypress Rd",
+          "zipcode": "13778",
+          "city": "Greene",
+          "state": "NY",
+          "latitude": 42.310143,
+          "longitude": -75.7916,
+          "price": 1195.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 45,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1179,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1195.0,
+          "priceChange": -50,
+          "timeOnZillow": 3910919000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: A.L. Burke Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ea689218c36fe889c5a0f19486927f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3133794d556ee1eca44b75924e861a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f29b67199a8982a6d6310e8eabeeee53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3464444f69df5b104f530160ec009a1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fc5d8b5dce3d2c3df852873891177cf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/224ed8ffdf8896345a82ddb51f0ae8d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06d8906bcdddc181035f5c3ac83dc7a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46f09841e8db108109401bc919af2bab-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2054223240",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2ea689218c36fe889c5a0f19486927f6-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/134-Cypress-Rd-Greene-NY-13778/2054223240_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,195/mo",
+      "priceLabel": "$1.2K",
+      "address": "134 Cypress Rd, Greene, NY 13778",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.310143,
+        "longitude": -75.7916
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "45 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054223240,
+          "streetAddress": "134 Cypress Rd",
+          "zipcode": "13778",
+          "city": "Greene",
+          "state": "NY",
+          "latitude": 42.310143,
+          "longitude": -75.7916,
+          "price": 1195.0,
+          "datePriceChanged": 1730880000000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1179,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 6)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1195.0,
+          "priceChange": -50,
+          "timeOnZillow": 3910919000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: A.L. Burke Inc.",
+      "timeOnZillow": 3910919000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "1bba1317",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

@@ -1,0 +1,516 @@
+{
+  "listResults": [
+    {
+      "zpid": "442537133",
+      "id": "442537133",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3kqpu9y4uxr1s",
+      "imgSrc": "https://photos.zillowstatic.com/fp/678ba8c5d8df38dc2d076405ac7d0508-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/lakewood-ny/connect-55+-lakewood-senior-living-55+/98HhG8/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,225+/mo",
+      "unformattedPrice": 1225,
+      "address": "Connect 55+ Lakewood Senior Living 55+, 2123 Southwestern Dr, Lakewood, NY 14750",
+      "addressStreet": "2123 Southwestern Dr #1B-1BA",
+      "addressCity": "Lakewood",
+      "addressState": "NY",
+      "addressZipcode": "14750",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.0924,
+        "longitude": -79.297646
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442537133,
+          "streetAddress": "2123 Southwestern Dr #1B-1BA",
+          "zipcode": "14750",
+          "city": "Lakewood",
+          "state": "NY",
+          "latitude": 42.0924,
+          "longitude": -79.297646,
+          "price": 1225.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 12,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1225.0,
+          "timeOnZillow": 1118151000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1B-1Ba",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/678ba8c5d8df38dc2d076405ac7d0508-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyEnhancedPackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442749952",
+      "id": "442749952",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "yqq20u0s4sz5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f667b98997e4b44011e25b59e20b7e9e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/35-Ohio-Ave-UNIT-A-Lakewood-NY-14750/442749952_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,600/mo",
+      "unformattedPrice": 2600,
+      "address": "35 Ohio Ave UNIT A, Lakewood, NY 14750",
+      "addressStreet": "35 Ohio Ave UNIT A",
+      "addressCity": "Lakewood",
+      "addressState": "NY",
+      "addressZipcode": "14750",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1980,
+      "latLong": {
+        "latitude": 42.104607,
+        "longitude": -79.32508
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442749952,
+          "streetAddress": "35 Ohio Ave UNIT A",
+          "zipcode": "14750",
+          "city": "Lakewood",
+          "state": "NY",
+          "latitude": 42.104607,
+          "longitude": -79.32508,
+          "price": 2600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1980.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 3,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 330779000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit A",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Chautauqua Development LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f667b98997e4b44011e25b59e20b7e9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c362fdd92b6a5956bac1c96d665d4c27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3fefad1aac5b7416c21b6a261e673e2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8dc118c941495eb26d13cb6e8a191a91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19f3657d76b73c20fedeb8b689f5c273-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76760369a7556c0bc433b8033037cb22-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a4f0c1b51b763e119a722ec38e10af8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cad10326ec9d7d6960e06b5d2c503cf5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/832b63beb3d7535264297a8f47b1b1aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0218a56fdd6f82993f432a194ef1bfc1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/105fa01eff2e073ce7c3fc5eca0f1000-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c53c92f1b63b5c0ac061f4fc8e11a23c-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442537133",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/678ba8c5d8df38dc2d076405ac7d0508-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/lakewood-ny/connect-55+-lakewood-senior-living-55+/98HhG8/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,225+/mo",
+      "priceLabel": "$1.2K",
+      "address": "2123 Southwestern Dr, Lakewood, NY 14750",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.0924,
+        "longitude": -79.297646
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "12 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442537133,
+          "streetAddress": "2123 Southwestern Dr #1B-1BA",
+          "zipcode": "14750",
+          "city": "Lakewood",
+          "state": "NY",
+          "latitude": 42.0924,
+          "longitude": -79.297646,
+          "price": 1225.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1225.0,
+          "timeOnZillow": 1118151000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1B-1Ba",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 1118151000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyEnhancedPackage"
+      ]
+    },
+    {
+      "zpid": "442749952",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f667b98997e4b44011e25b59e20b7e9e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/35-Ohio-Ave-UNIT-A-Lakewood-NY-14750/442749952_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,600/mo",
+      "priceLabel": "$2.6K",
+      "address": "35 Ohio Ave UNIT A, Lakewood, NY 14750",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1980,
+      "latLong": {
+        "latitude": 42.104607,
+        "longitude": -79.32508
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "3 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442749952,
+          "streetAddress": "35 Ohio Ave UNIT A",
+          "zipcode": "14750",
+          "city": "Lakewood",
+          "state": "NY",
+          "latitude": 42.104607,
+          "longitude": -79.32508,
+          "price": 2600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1980.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 330779000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Unit A",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Chautauqua Development LLC",
+      "timeOnZillow": 330779000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2113960035",
+      "id": "2113960035",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1qq4bsnzkvdnr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/484fb6ed699392156b982829a61f08e1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/75-Marine-Park-Dr-Celoron-NY-14720/2113960035_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$930/mo",
+      "unformattedPrice": 930,
+      "address": "75 Marine Park Dr, Celoron, NY 14720",
+      "addressStreet": "75 Marine Park Dr",
+      "addressCity": "Celoron",
+      "addressState": "NY",
+      "addressZipcode": "14720",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 42.10901,
+        "longitude": -79.28732
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2113960035,
+          "streetAddress": "75 Marine Park Dr",
+          "zipcode": "14720",
+          "city": "Celoron",
+          "state": "NY",
+          "latitude": 42.10901,
+          "longitude": -79.28732,
+          "price": 930.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 886,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 930.0,
+          "timeOnZillow": 692168000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-31 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/484fb6ed699392156b982829a61f08e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/371fda08f41276014eba3f9a7e7bfa87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6d4461e86da49433e823f7153388dc3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ad00683ddd04dc0654249f9644d2264-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/769c11071d6bad7a76ded264ddffffde-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/623b4f3c9a9254d4b782deda8e85cb40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3084a40887c978bf9493cfd9e4bbafd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30dc31cfe79e71fa094f8912fe7b63fd-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "420924c3",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "18438701"
+}

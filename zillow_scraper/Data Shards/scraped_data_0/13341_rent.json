@@ -1,0 +1,123 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "2072077468",
+      "id": "2072077468",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "44sjceec8dcsr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ce383c4331530fe20a16ea2c3b7071d7-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/33-Stebbins-Dr-1-Clinton-NY-13323/2072077468_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$1,600/mo",
+      "unformattedPrice": 1600,
+      "address": "33 Stebbins Dr #1, Clinton, NY 13323",
+      "addressStreet": "33 Stebbins Dr #1",
+      "addressCity": "Clinton",
+      "addressState": "NY",
+      "addressZipcode": "13323",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.054714,
+        "longitude": -75.372345
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2072077468,
+          "streetAddress": "33 Stebbins Dr #1",
+          "zipcode": "13323",
+          "city": "Clinton",
+          "state": "NY",
+          "latitude": 43.054714,
+          "longitude": -75.372345,
+          "price": 1600.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 164000,
+          "rentZestimate": 1567,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1600.0,
+          "timeOnZillow": 1489677000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 164000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce383c4331530fe20a16ea2c3b7071d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2495b51838d8dd498fc8b4e93df2476-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58730c6a7a2fb74865bd6a90674a12b0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29b1a0216d3d154183c8b6c71cd17681-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30e0c34ad56982336e47a192ce61e24a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9f36bd3cab5fb630978c01b574d98a0-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "7e8e93de"
+}

@@ -1,0 +1,642 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "30136154",
+      "id": "30136154",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "36u6rmsz1h68s",
+      "imgSrc": "https://photos.zillowstatic.com/fp/32a8708c7a732aa77a908559c5d43876-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/92-Manor-Rd-Red-Hook-NY-12571/30136154_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$4,900/mo",
+      "unformattedPrice": 4900,
+      "address": "92 Manor Rd, Red Hook, NY 12571",
+      "addressStreet": "92 Manor Rd",
+      "addressCity": "Red Hook",
+      "addressState": "NY",
+      "addressZipcode": "12571",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 3.0,
+      "area": 2504,
+      "latLong": {
+        "latitude": 42.012825,
+        "longitude": -73.90179
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30136154,
+          "streetAddress": "92 Manor Rd",
+          "zipcode": "12571",
+          "city": "Red Hook",
+          "state": "NY",
+          "latitude": 42.012825,
+          "longitude": -73.90179,
+          "price": 4900.0,
+          "bathrooms": 3.0,
+          "bedrooms": 3.0,
+          "livingArea": 2504.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 556600,
+          "rentZestimate": 4478,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4900.0,
+          "timeOnZillow": 547969000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 371100.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 556600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-17 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/32a8708c7a732aa77a908559c5d43876-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1961874d17a7858b3a28461ed43b747b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/772bdcc3506355067503086ea98c245f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0a733bf33d2d4c59ceec033c712e33d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6099b26d8ac7d431cd722e323c3e03be-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb0e4062fd9c2c461daaf726153f660d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a6b7d5f4ad44fa290f97554380d49bf5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/197cc17c6241f8d5370ac87009eafd8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e4d432942ecd96ed3693c2fd95f3fe0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d3be4c5aafdaeeb9e7e2b9fb54e3d3f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c5465af4ad27bf809854199e329fe641-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55b1a173ae43833a3ea734677130d85a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15d24869a10de4da5cfccb0e7a02363e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/beb16d00659be7fcdd7f594517965438-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9dac3bb502302df40ee51b5e35118b49-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc489867fa236cae75cf87698b27cd73-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f906d3ec295f812c7a4467a268f5688-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1021f1d159f090b2d3d8154b57b01433-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d30795c2564b0d3c415aafca4c550f92-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e355799eae1ec4ae5b71b4652c06c304-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/473fb26a00e4103cfae66de3ede5e842-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e0cdbd7f52df693431b56a4401da368-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d69c600180c0e57d48ae9dcc672a32c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0bc698872bc2e96df05af8d35344a9a6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd6b0a8358c21bd28bffd7157608c11f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36832c2662711b6e06cf50b2e1477422-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e7da283ed1b4144b306766de886266b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1dca1d44dd613795ff3926ed89ca0ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe655c4900373d9fea78ae549127f1a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ec4a60bd230293df2d58060c08a5179-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93969d334c24518aab007e9f5f082a2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eeb9d5e62e3eebb1fc12e60b9cd0c3a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d4b613fce7233f4ce74a14e122e94fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d668d13307fb8fcb6badf0f122239e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8c27c33e9f3d9ed2aa916c79f54ed40f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e03c7c590049627975a6779dbe2bc98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/239b878981770fd9d624006f0bb2fb19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc776e239f18e327b2ea0713650e4d76-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "30136105",
+      "id": "30136105",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1m540f657et8j",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0a5785d1281348ac02acf239c2d39eeb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Red-Hook-NY-12571/30136105_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,300/mo",
+      "unformattedPrice": 3300,
+      "address": "(undisclosed Address), Red Hook, NY 12571",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Red Hook",
+      "addressState": "NY",
+      "addressZipcode": "12571",
+      "isUndisclosedAddress": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 2190,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "9 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 30136105,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12571",
+          "city": "Red Hook",
+          "state": "NY",
+          "price": 3300.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 2190.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 9,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 511800,
+          "rentZestimate": 3943,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3300.0,
+          "timeOnZillow": 809601000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 511800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a5785d1281348ac02acf239c2d39eeb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/021eba8c556938594f17a6675cf89655-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a9fc5b1e864ebde18f89250ba7ca19e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03d7d0cd4fd91ca60d46faedb80cebe6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e357abd7404942dcd00fef94b0e5aab6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c969f43f5e0b9d7612396c176b3d8c5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19a0b33eef03342e3c7198ccd511f1bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6e065679313de975e935c641671aa13-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ce7f9e2031fc3b3c74c8c19de10b6aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61bbe9ba1b2c9f5bac46324ae7b0c1c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06a8bedecef401846f8cbae51bc37660-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97ed99e82f8b1fb086d19c5f9e47277c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7763983fc2c5b12f4b75748156fdbc1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9102e6cd021d93ef31303a40f95a1aaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c5b5c8de1f228ccddffb304fe1a33c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af7ee2cc018c0271ca710d093e87656d-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442775841",
+      "id": "442775841",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "18cg9ejrsvwpz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ac2e3ee0ce2da6efbdbabeec45943f8a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/Red-Hook-NY-12571/442775841_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$4,900/mo",
+      "unformattedPrice": 4900,
+      "address": "(undisclosed Address), Red Hook, NY 12571",
+      "addressStreet": "(undisclosed Address)",
+      "addressCity": "Red Hook",
+      "addressState": "NY",
+      "addressZipcode": "12571",
+      "isUndisclosedAddress": true,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {},
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442775841,
+          "streetAddress": "(undisclosed Address)",
+          "zipcode": "12571",
+          "city": "Red Hook",
+          "state": "NY",
+          "price": 4900.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4900.0,
+          "timeOnZillow": 131950000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ac2e3ee0ce2da6efbdbabeec45943f8a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f182633d4ad26e7f284ddb18df71f06-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a29d67e25fe233609ead5a22797d497f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89ecb6f1781b286aa48f7740213f4d12-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/56b4ee2f3b5936761d6607a2d6168ef0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e7da283ed1b4144b306766de886266b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7df991150debdbc79918bdfa3d3278d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dc776e239f18e327b2ea0713650e4d76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7895b6a8c7b6775492fac66b1e6741e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6099b26d8ac7d431cd722e323c3e03be-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "32871043",
+      "id": "32871043",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "ep98bvvygxux",
+      "imgSrc": "https://photos.zillowstatic.com/fp/df2f75b70deee99052d38d4ec4b80e70-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/100-Greymouse-Rd-Saugerties-NY-12477/32871043_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "100 Greymouse Rd, Saugerties, NY 12477",
+      "addressStreet": "100 Greymouse Rd",
+      "addressCity": "Saugerties",
+      "addressState": "NY",
+      "addressZipcode": "12477",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 550,
+      "latLong": {
+        "latitude": 42.02225,
+        "longitude": -73.94435
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "18 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32871043,
+          "streetAddress": "100 Greymouse Rd",
+          "zipcode": "12477",
+          "city": "Saugerties",
+          "state": "NY",
+          "latitude": 42.02225,
+          "longitude": -73.94435,
+          "price": 2400.0,
+          "datePriceChanged": 1732176000000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 550.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 18,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 2009000,
+          "rentZestimate": 5048,
+          "listing_sub_type": {},
+          "priceReduction": "$300 (Nov 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "priceChange": -300,
+          "timeOnZillow": 1585113000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 1644500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 2009000,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Berkshire Hathaway HomeServices Hudson Valley Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/df2f75b70deee99052d38d4ec4b80e70-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8bb9fe8b0a189359bc038b4c73b7054f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af9b5a458688182826ebc3bd795a9fdc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c429b4fbe1dc056d804ae643a3d3e009-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a9a2d05ee51c14f8b1099c130a588ed6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9434ba05e2626e61ab5427f5da0f44d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97a6657a0efde0d784155df7923b666f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfeb40e50405bf303b498c38487863d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c61d28d1926df86f28cf4c9f3bdcb021-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1380c59d6065a4bf10463264347eb295-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/69a936e4d93bc15e9b4e4182b3bc2f9f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8869538159bf96c4d4ac159a5ebe8fb1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0e37ac64dd27b23dc9accfea6aed593-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39a1f11bbe1ead73e9459f787cc25d44-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f097001469aa846c96b1be57d1b5ea7f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c105d4f2a1095486a0c2a189abcafab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f9a8433dafce30e7fc66b13919dfe840-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eaffc0c0a3c0eab830f22828ee734a4f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a373678712cadaa4e5e11bc5a2c57a83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b948ed80d54fa57fb4d87084af599ccc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ced46bde551c2f6418014e615ccef203-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa6cc498e2835c73740829c57e158be8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f06ff083e202442e3466d51dd938ce07-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bccadda4ab948fdebba2cee0fd552ddf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4d492e275fb0434560121216dff515bc-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "7a88b6d1"
+}

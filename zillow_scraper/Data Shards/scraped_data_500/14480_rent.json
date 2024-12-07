@@ -1,0 +1,447 @@
+{
+  "listResults": [
+    {
+      "zpid": "442384614",
+      "id": "442384614",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5b1em2hv0f4zh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d11cfb4e0f1b9c6130974762b1cf003f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/lakeville-ny/burdick-estates-apartments/BLfPSZ/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,000/mo",
+      "unformattedPrice": 1000,
+      "address": "Burdick Estates Apartments, 3333 Rochester Rd #2, Lakeville, NY 14480",
+      "addressStreet": "3333 Rochester Rd #2",
+      "addressCity": "Lakeville",
+      "addressState": "NY",
+      "addressZipcode": "14480",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 42.84024,
+        "longitude": -77.704956
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442384614,
+          "streetAddress": "3333 Rochester Rd #2",
+          "zipcode": "14480",
+          "city": "Lakeville",
+          "state": "NY",
+          "latitude": 42.84024,
+          "longitude": -77.704956,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 17,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 1547347000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-03 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Lakeville DeGeorge LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/d11cfb4e0f1b9c6130974762b1cf003f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b519efff4fef86d74dd01b78648cf11a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3c2f8e21106e1672c2018d26da97c31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6bbb6148d21f1c727530810fb2d98a8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a503a3f4fd0e8885336a101326a22a8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4df5ce7c026ded737f82d987f52b6c2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee6fe5f69b2b5a42ecb515d47b816d6b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9a4e9624a606896a2590187bc97920a3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86555642da726957bcf3f9fef90fe00a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45b1068c6cd894dd99e301f957f191b3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cd5e4f29129e0875a5252a1df17e64dc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89b8e0f89954fb47d1f37daf647a0ccf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cda8d350a2811b6c81edb7558af12bfa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/081e94b7b4c20b76219de83e38d43da7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/17428e75fb7d6c3b528a0a4a406a366e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3e69732177b42bf0a587019c3aafb6a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f743fa965b49eaee80301ae51582292b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7139f9ad2aeaa3a26bce5e89430d8cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/077ba3809d7b8a12a9fbacc4eeba7e3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cbc0a56a0b5904f5d58bbca4622e91ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31d83c2f0800f5045e1c7216db542150-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/180b1b9ff9d8649088e5bd4721b201e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/110ed22b76b14d0a56b38f26ec735966-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "442384614",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/d11cfb4e0f1b9c6130974762b1cf003f-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/lakeville-ny/burdick-estates-apartments/BLfPSZ/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,000/mo",
+      "priceLabel": "$1.0K",
+      "address": "3333 Rochester Rd #2, Lakeville, NY 14480",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 750,
+      "latLong": {
+        "latitude": 42.84024,
+        "longitude": -77.704956
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "17 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442384614,
+          "streetAddress": "3333 Rochester Rd #2",
+          "zipcode": "14480",
+          "city": "Lakeville",
+          "state": "NY",
+          "latitude": 42.84024,
+          "longitude": -77.704956,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 750.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 1547347000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-01-03 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Lakeville DeGeorge LLC",
+      "timeOnZillow": 1547347000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2054228958",
+      "id": "2054228958",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4tqycpfcbuceb",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9ece0b5d9304f3ca787023076489e0ba-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/livonia-ny/big-tree-apartments/98DpwP/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,100/mo",
+      "unformattedPrice": 1100,
+      "address": "Big Tree Apartments, 30 Big Tree St #4, Livonia, NY 14487",
+      "addressStreet": "30 Big Tree St #4",
+      "addressCity": "Livonia",
+      "addressState": "NY",
+      "addressZipcode": "14487",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 850,
+      "latLong": {
+        "latitude": 42.82163,
+        "longitude": -77.674706
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054228958,
+          "streetAddress": "30 Big Tree St #4",
+          "zipcode": "14487",
+          "city": "Livonia",
+          "state": "NY",
+          "latitude": 42.82163,
+          "longitude": -77.674706,
+          "price": 1100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 850.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1281,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1100.0,
+          "timeOnZillow": 1449056000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 4",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-20 00:00:00",
+      "relaxed": true,
+      "brokerName": "Listing by: Perkins Park Apartments Inc.",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9ece0b5d9304f3ca787023076489e0ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/89e64b9f9761b05d67691db95f2728fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/089053d9c9d14e3af67e3f51ed2aad17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff4706691e7ba503090c00b21c3f56cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2bcefd26950c513ac58672df11f77a56-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df2263e1255e93db8ba71b7646dc888f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6e9ff45ed46c9d5997cccb1636e7bb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8900161d9aa0ff2cd828e57dd5dc30a4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea799ef39fde309d03115b328f9f30af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0d177d37bc43f7a2a5609b0026856fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03ce4590a3db042d1f7c7757a380a198-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e46452a0ce9a26923fa8df32cf66d7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99eea2e5d46bf0ab9048c7041764852d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1933b3e3d99ec9c86952b66c3f047cca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6f4b4cc3a40e3e83a2f502d024bbbf2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99b3526ae19215c1169944b72726281b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6048ca63fc5016cb53fe9c7e8d29f62-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b044df8dccf564000eefe5bc721bfbaf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f76c7a245707bdd2e5663676a642963-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea8ef8cbf720a352cfa430e47fe3293c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/92cc1404d28207a77ae550cbf947ef3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e7a1b0405d4245aee840049f24a78e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c34c664fda9750797b52796363753ebb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d5184c4969698bea31c77238576a341-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60a5cce53013cc6f5794c2f762d81e78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6c83504aa81ed5dc5d1b3f8487bde31-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b63d7f0f0236410803b6c4bda3486c00-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "193003a5",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1bbc7360"
+}

@@ -1,0 +1,572 @@
+{
+  "listResults": [
+    {
+      "zpid": "2055780405",
+      "id": "2055780405",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "25snms4xhm1p9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/22d5d7fbae2c1bcd0f3c941e8400ff65-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1810-Duanesburg-Rd-APT-1-Schenectady-NY-12306/2055780405_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,550/mo",
+      "unformattedPrice": 1550,
+      "address": "1810 Duanesburg Rd APT 1, Schenectady, NY 12306",
+      "addressStreet": "1810 Duanesburg Rd APT 1",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12306",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.77812,
+        "longitude": -74.04075
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055780405,
+          "streetAddress": "1810 Duanesburg Rd APT 1",
+          "zipcode": "12306",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.77812,
+          "longitude": -74.04075,
+          "price": 1550.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 27,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1735,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 2367487000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/22d5d7fbae2c1bcd0f3c941e8400ff65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40e08bda6e2ce96132259ab536c06158-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c1a3f3661ae9785eae1695d7ce43eef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4307754620252eb8e2a24ef44b925daa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1826ca09ad1cdc92497721aa5da1a319-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2e40ec639aaceeb3057ca904f151d279-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c32f45d26df96e6c14baec34414e9128-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7d2f51a97ebd7ce06e17895420fac4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a30e854ce0e2e8d62fb9a1aeae6c99b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72d5ee0285c70e388490277a6c6beddc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86b7787ea45266d31f99af9326f24a6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/19e1e46659a0654093e9c69b29bb3072-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f2525cbd86c34a4c298685ff4c8bbf9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddc12d22cea75756d5c07c88875dd684-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2055803078",
+      "id": "2055803078",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3b4vfpe6hgywe",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7e3b6a14cbeffdf4c7ee8d6444f1741c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/1810-1812-duanesburg-rd-schenectady-ny-BW3SZP/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,550/mo",
+      "unformattedPrice": 1550,
+      "address": "1810-1812 Duanesburg Rd, 1810-1812 Duanesburg Rd #1, Schenectady, NY 12306",
+      "addressStreet": "1810-1812 Duanesburg Rd #1",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12306",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.778732,
+        "longitude": -74.04121
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055803078,
+          "streetAddress": "1810-1812 Duanesburg Rd #1",
+          "zipcode": "12306",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.778732,
+          "longitude": -74.04121,
+          "price": 1550.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 36,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1735,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 3181649000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Maddalone & Associates, Inc",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e3b6a14cbeffdf4c7ee8d6444f1741c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9914a283c3cc942a2edfec0f8fadcf1a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70b0ac6ff11c0ecb840b18a133a1c02c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af70ba0578bfffc10b9125f3fbf0303f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/978a3f40bd71f0dab6332c0f426ca2aa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bad5b5dfb0f092d89a0b8ecac334fd04-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d914a7485cbba9a2002b749fe0e82542-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/934f576bce4db130e9af5976bfe2d095-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6df3901eb8ca4906d208d27be0f9b19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f62007e10b72267138962d32acad40a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e306abf0208c2a787afb550d3293e5d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f01d7754fce13f1b8999bce3dd95e46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95966b1ef4277cbbf2fdd66635f2b615-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc6d95be8b9313df78964361ef82f9d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/438e50893e54802f987cdbeaaddef59d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd22fa7c421df8d54cb34a7b68090558-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a25f08a0a0aa09bca1bb3b5a874fc37-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2055780405",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/22d5d7fbae2c1bcd0f3c941e8400ff65-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1810-Duanesburg-Rd-APT-1-Schenectady-NY-12306/2055780405_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,550/mo",
+      "priceLabel": "$1.6K",
+      "address": "1810 Duanesburg Rd APT 1, Schenectady, NY 12306",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.77812,
+        "longitude": -74.04075
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055780405,
+          "streetAddress": "1810 Duanesburg Rd APT 1",
+          "zipcode": "12306",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.77812,
+          "longitude": -74.04075,
+          "price": 1550.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1735,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 2367487000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "visited": false,
+      "timeOnZillow": 2367487000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2055803078",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7e3b6a14cbeffdf4c7ee8d6444f1741c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/1810-1812-duanesburg-rd-schenectady-ny-BW3SZP/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,550/mo",
+      "priceLabel": "$1.6K",
+      "address": "1810-1812 Duanesburg Rd #1, Schenectady, NY 12306",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.778732,
+        "longitude": -74.04121
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2055803078,
+          "streetAddress": "1810-1812 Duanesburg Rd #1",
+          "zipcode": "12306",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.778732,
+          "longitude": -74.04121,
+          "price": 1550.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1735,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1550.0,
+          "timeOnZillow": 3181649000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-14 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Maddalone & Associates, Inc",
+      "timeOnZillow": 3181649000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "441883491",
+      "id": "441883491",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3b7ppvy0ps6a3",
+      "imgSrc": "https://photos.zillowstatic.com/fp/61b9f57fe9fa99fcead5e70e756c3e46-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/960-Burdeck-St-B-Schenectady-NY-12306/441883491_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,650/mo",
+      "unformattedPrice": 1650,
+      "address": "960 Burdeck St #B, Schenectady, NY 12306",
+      "addressStreet": "960 Burdeck St #B",
+      "addressCity": "Schenectady",
+      "addressState": "NY",
+      "addressZipcode": "12306",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 42.790375,
+        "longitude": -74.00855
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "36 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441883491,
+          "streetAddress": "960 Burdeck St #B",
+          "zipcode": "12306",
+          "city": "Schenectady",
+          "state": "NY",
+          "latitude": 42.790375,
+          "longitude": -74.00855,
+          "price": 1650.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 36,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "timeOnZillow": 3173809000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/61b9f57fe9fa99fcead5e70e756c3e46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a404b80434a483aef10d502563f1b184-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2d2ad55d5734b5040c861b8ac08a1f0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/648a0adb79b4c233d04b568cad5d15e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29d2f7fd2d659de6f1d91493f5eb43d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa824a70642552be4ce97495113f87e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de4f08090f943bd1ee79dcab6d29dbf1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2be89fb09202ad3b194e050abc0a80f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f611545ab88d367b5bef1aafcc23815-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "30bd784d",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "458e7eb7"
+}

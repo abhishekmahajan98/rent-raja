@@ -1,0 +1,99 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "2053400639",
+      "id": "2053400639",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ec1dk2xq0dbv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ee345a2af0d7aab0ee9f4067eb954e69-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/101-Winney-Hill-Rd-Oneonta-NY-13820/2053400639_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$4,410/mo",
+      "unformattedPrice": 4410,
+      "address": "101 Winney Hill Rd, Oneonta, NY 13820",
+      "addressStreet": "101 Winney Hill Rd",
+      "addressCity": "Oneonta",
+      "addressState": "NY",
+      "addressZipcode": "13820",
+      "isUndisclosedAddress": false,
+      "beds": 0,
+      "baths": 0.0,
+      "latLong": {
+        "latitude": 42.457047,
+        "longitude": -75.09624
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "164 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053400639,
+          "streetAddress": "101 Winney Hill Rd",
+          "zipcode": "13820",
+          "city": "Oneonta",
+          "state": "NY",
+          "latitude": 42.457047,
+          "longitude": -75.09624,
+          "price": 4410.0,
+          "bathrooms": 0.0,
+          "bedrooms": 0.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 164,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2598,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 4410.0,
+          "timeOnZillow": 14235495000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Benson Agency Real Estate, LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee345a2af0d7aab0ee9f4067eb954e69-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "15dff41d"
+}

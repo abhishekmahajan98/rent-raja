@@ -1,0 +1,358 @@
+{
+  "listResults": [
+    {
+      "zpid": "2060210140",
+      "id": "2060210140",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "36d30asj77s6f",
+      "imgSrc": "https://photos.zillowstatic.com/fp/57ebf23be8376f64b64613d2ed9540cb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/184-South-St-3-West-Winfield-NY-13491/2060210140_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "184 South St #3, West Winfield, NY 13491",
+      "addressStreet": "184 South St #3",
+      "addressCity": "West Winfield",
+      "addressState": "NY",
+      "addressZipcode": "13491",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.884323,
+        "longitude": -75.19295
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060210140,
+          "streetAddress": "184 South St #3",
+          "zipcode": "13491",
+          "city": "West Winfield",
+          "state": "NY",
+          "latitude": 42.884323,
+          "longitude": -75.19295,
+          "price": 1200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 101800,
+          "rentZestimate": 1105,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 127159000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 101800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/57ebf23be8376f64b64613d2ed9540cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84daf96920480624ca212b18f4446db0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78acc6a1a946b2e7a065563d69674736-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b2682c4bb1f0fb1ba924edb6fe367bb8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/763aed7dea4309bb01ed042072a23270-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b8de284cc3c0de4f6269b41e0620e1d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fed25aef85a05d415a93d84ec066deeb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6e4bf2dc8aa6bd2bddd79fc3ce35ce5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/391bb3c827aec45e928112de5002747f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d6852d74342cad476a3fab620e5f6a10-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "2060210140",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/57ebf23be8376f64b64613d2ed9540cb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/184-South-St-3-West-Winfield-NY-13491/2060210140_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "184 South St #3, West Winfield, NY 13491",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1000,
+      "latLong": {
+        "latitude": 42.884323,
+        "longitude": -75.19295
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060210140,
+          "streetAddress": "184 South St #3",
+          "zipcode": "13491",
+          "city": "West Winfield",
+          "state": "NY",
+          "latitude": 42.884323,
+          "longitude": -75.19295,
+          "price": 1200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1000.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 101800,
+          "rentZestimate": 1105,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 127159000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-22 00:00:00",
+      "visited": false,
+      "timeOnZillow": 127159000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "299665912",
+      "id": "299665912",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "233ad4zz98d7e",
+      "imgSrc": "https://photos.zillowstatic.com/fp/2dfc51884b20637c026632172fe0cf9e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2035-Kehoe-Rd-Clayville-NY-13322/299665912_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,750/mo",
+      "unformattedPrice": 1750,
+      "address": "2035 Kehoe Rd, Clayville, NY 13322",
+      "addressStreet": "2035 Kehoe Rd",
+      "addressCity": "Clayville",
+      "addressState": "NY",
+      "addressZipcode": "13322",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1260,
+      "latLong": {
+        "latitude": 42.961025,
+        "longitude": -75.232704
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "25 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 299665912,
+          "streetAddress": "2035 Kehoe Rd",
+          "zipcode": "13322",
+          "city": "Clayville",
+          "state": "NY",
+          "latitude": 42.961025,
+          "longitude": -75.232704,
+          "price": 1750.0,
+          "datePriceChanged": 1732089600000,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1260.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 25,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1666,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 20)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "priceChange": -50,
+          "timeOnZillow": 2188393000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 86614.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-15 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2dfc51884b20637c026632172fe0cf9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/94c13d3cf795ea2b9f0ef0c1e0fb5307-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bea9ab02c3e151a44f5f75fa84f1403-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d106729d790aad7788af2c832137f97-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f78d009311688f646f6ab191b34fb422-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10218fbcdeddf164dfa499d3f133f1fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31c7e51f115fda83f87e8fb657a69358-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00d95276eb12090bc8bad422dc967d9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c93606576197a7250b56907ee384f456-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/925f97f3ab135a81d9f2d32d6950dd65-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43aab9a8cc33e67281e1529f6f7233d3-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "500d256d",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "3cfb77f6"
+}

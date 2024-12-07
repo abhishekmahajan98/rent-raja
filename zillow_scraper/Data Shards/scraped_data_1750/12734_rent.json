@@ -1,0 +1,1917 @@
+{
+  "listResults": [
+    {
+      "zpid": "439162656",
+      "id": "439162656",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3ycj3vsgxsk9f",
+      "imgSrc": "https://photos.zillowstatic.com/fp/28c69749434e8820e9d25bc7092bd205-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/liberty-ny/golden-park-apartments/5XmgfK/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$350+/mo",
+      "unformattedPrice": 350,
+      "address": "Golden Park Apartments, 56 Golden Park Ln, Liberty, NY 12754",
+      "addressStreet": "56 Golden Park Ln #1B-1BA-600SQFT",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.78247,
+        "longitude": -74.72238
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439162656,
+          "streetAddress": "56 Golden Park Ln #1B-1BA-600SQFT",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.78247,
+          "longitude": -74.72238,
+          "price": 350.0,
+          "datePriceChanged": 1725346800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 100,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$498 (Sep 3)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 350.0,
+          "priceChange": -498,
+          "timeOnZillow": 8649183000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1B-1Ba-600Sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/28c69749434e8820e9d25bc7092bd205-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/179c5b353773519f40fdf20e265c27c3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dd0394712155b76a45933dc61aba0fa7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/646c0eac7b434d978041374f6a548539-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/063b891242d4547dcaa2a03cfa6a2b5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c743d16f485bae5890443c7b59615777-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/68e90787d342963a09a22656be909968-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e5d5e4e6f753d9530f66580fc0f1382-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "440579619",
+      "id": "440579619",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1ebwaehqg2j3k",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ecf217f4c0e39ab705619cb423ba92de-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/190-Butrick-Rd-1-Ferndale-NY-12734/440579619_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,600/mo",
+      "unformattedPrice": 2600,
+      "address": "190 Butrick Rd #1, Ferndale, NY 12734",
+      "addressStreet": "190 Butrick Rd #1",
+      "addressCity": "Ferndale",
+      "addressState": "NY",
+      "addressZipcode": "12734",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1488,
+      "latLong": {
+        "latitude": 41.729073,
+        "longitude": -74.76452
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440579619,
+          "streetAddress": "190 Butrick Rd #1",
+          "zipcode": "12734",
+          "city": "Ferndale",
+          "state": "NY",
+          "latitude": 41.729073,
+          "longitude": -74.76452,
+          "price": 2600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1488.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 27,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 2367168000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ecf217f4c0e39ab705619cb423ba92de-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0f2a59227ebaff51bf55d8500d6f758-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cae79ce4320af5c3f2f67fd40a4b2a87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d93c8e89e922b30485a6fc9256a77858-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf74aa632dc16b58acc0bb0735471c26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/66e8ef04c7945aea5ce1ed78ac3cd1fa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fcded1dbac8993ae4b614b4c804e1eaa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78f38d9bfc18405736aa4fd2158660ab-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9aea110ec3a87914f1612e0f47b42718-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dffb06ca5b96ac7be8daff520713d7e1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bae71e420f16a109574fd269c31826a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24dcda514f1e0624b754c1167b260755-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73697b6f45c0460a0256a4b5cda961b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4806830fe21259949a53d2b3f0216e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50423f5555797aa65216e6c30a38594d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab946dec60331ab0c89a0b83b608992c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5038fbb88c4ae5c8134b326d0415bc21-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c463173f40fee386ee4c9dea154beda5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8171fbee5ced45b3601b21f02ef4635a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0276c01c01faa4eca5a5683c3223354-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2071294947",
+      "id": "2071294947",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "suj8xz30t8ch",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9f9b3c8e43586ab5beb6f6031bf5f133-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/4927-State-Route-55-A3-Swan-Lake-NY-12783/2071294947_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,250/mo",
+      "unformattedPrice": 1250,
+      "address": "4927 State Route 55 #A3, Swan Lake, NY 12783",
+      "addressStreet": "4927 State Route 55 #A3",
+      "addressCity": "Swan Lake",
+      "addressState": "NY",
+      "addressZipcode": "12783",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 41.76285,
+        "longitude": -74.78155
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2071294947,
+          "streetAddress": "4927 State Route 55 #A3",
+          "zipcode": "12783",
+          "city": "Swan Lake",
+          "state": "NY",
+          "latitude": 41.76285,
+          "longitude": -74.78155,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 39,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1125,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 3413531000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Comres Realty Group",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9f9b3c8e43586ab5beb6f6031bf5f133-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/79fedd1d0e6bc23763d711f259c8de1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f189f83176f3476fac2b95d86c8cd3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5e98f4f7c1bba5a1b5379f9bfc4d3c5e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c6e983baa43b96c59eed40508cb0e8e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9102feec38bef3bd4534343555e3654-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6fcf21daf84495b4062a246b3729d956-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73502d1e4a5a0b44142f55b17e93c131-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed20e39bc196b40912a08cd988dfdfcb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76741e628f4ce8b2cdf934be48a76af0-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2060789557",
+      "id": "2060789557",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3v98xn1963dq5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6d825ed829d9513c7b3aeaf9c4363b37-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/327-Harris-Rd-3-Ferndale-NY-12734/2060789557_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,000/mo",
+      "unformattedPrice": 1000,
+      "address": "327 Harris Rd #3, Ferndale, NY 12734",
+      "addressStreet": "327 Harris Rd #3",
+      "addressCity": "Ferndale",
+      "addressState": "NY",
+      "addressZipcode": "12734",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.76766,
+        "longitude": -74.73761
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060789557,
+          "streetAddress": "327 Harris Rd #3",
+          "zipcode": "12734",
+          "city": "Ferndale",
+          "state": "NY",
+          "latitude": 41.76766,
+          "longitude": -74.73761,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 28,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1154,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 2444644000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6d825ed829d9513c7b3aeaf9c4363b37-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5b3a8857c856ff0ec1287fed6637d81f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9211906e220a967d6d686e458eb73078-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/39bb07492e2f270fb67014e2f78a3850-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3922c5754b0b27a6cab244d55f1326b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d0b519aac308199a61240487ab54db5-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "417139178",
+      "id": "417139178",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3qew6f9a2e7bh",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8e937b487508e1a60e034d36a0c8b3c2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/70-Stanton-Corner-Rd-3-Swan-Lake-NY-12783/417139178_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$850/mo",
+      "unformattedPrice": 850,
+      "address": "70 Stanton Corner Rd #3, Swan Lake, NY 12783",
+      "addressStreet": "70 Stanton Corner Rd #3",
+      "addressCity": "Swan Lake",
+      "addressState": "NY",
+      "addressZipcode": "12783",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 320,
+      "latLong": {
+        "latitude": 41.75006,
+        "longitude": -74.77571
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 417139178,
+          "streetAddress": "70 Stanton Corner Rd #3",
+          "zipcode": "12783",
+          "city": "Swan Lake",
+          "state": "NY",
+          "latitude": 41.75006,
+          "longitude": -74.77571,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 320.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 11,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 956945000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e937b487508e1a60e034d36a0c8b3c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb7f08fafac6898d02555f85bace324d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/080db9d3a2a463d61a1f49d82d1cd315-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/93a31be0b272972d17551fdef28176e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/502d116c115ba1843d9376754835d664-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32774338",
+      "id": "32774338",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "w7grrjh5jh0b",
+      "imgSrc": "https://photos.zillowstatic.com/fp/16afe4b5192a043d16a50621615e8fbd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/153-Upper-Ferndale-Rd-Liberty-NY-12754/32774338_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,400/mo",
+      "unformattedPrice": 2400,
+      "address": "153 Upper Ferndale Rd, Liberty, NY 12754",
+      "addressStreet": "153 Upper Ferndale Rd",
+      "addressCity": "Liberty",
+      "addressState": "NY",
+      "addressZipcode": "12754",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1431,
+      "latLong": {
+        "latitude": 41.784134,
+        "longitude": -74.73702
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32774338,
+          "streetAddress": "153 Upper Ferndale Rd",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.784134,
+          "longitude": -74.73702,
+          "price": 2400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1431.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 2,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 220400,
+          "rentZestimate": 2133,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 182566000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 126621.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 220400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/16afe4b5192a043d16a50621615e8fbd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bcb4176900652aa09ff954d64e91df26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a29c59fb91b0898693645c379a823c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7a3c4a66528c8c9202d9e093f7f914f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/009a3692baae0a3e3d836741af4db62a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99bd8e8592282d45d2b8bec5791d7dcc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1995d1a4ac5c608cc46584fc5bf11d47-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dacddc6468f1784368fd39b9d7dcfac6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fede40358a5e90116c59b22ad64cfff5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb4668f92adf109be85c8d4c98749f86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b030ffe286e2995231463148fdce4d57-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a91cbd26cf8426804c6a6c178f5b688-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a0e09c2641c6a758b0e95f740f3e344-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8751cbc2bb87d7dc14af0961656ccc11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0ecd112b2189214da649292446922479-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a5d8ab38e4d42fb943af42109e5633c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/843c9002118a5fce6e945d8920985ad1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edc25ddc461760ea65e7e8f7d7fe72ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c69d3497f662b86b3cdf837f0bbbff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/137af1a96081df8d8340945ed5970ce9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7bd8a8b9a4e0683b9d51199939a1bcbd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1eb430785ce5d92897894c21d21cd4d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c5b60d53d5d340a79a6ddef48a1aa82-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/656f55fde2704880b04759589d37c05e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c6f7a69b848e51fe9cfc957d91050f1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d7b23039bfd1939ae4cca097d1b7939-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee6ef3aee8bd13bed1088d95123bf3f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1bc693805aa54eaa6d784b0fe624a31b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2099704458",
+      "id": "2099704458",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "26btcex56y025",
+      "imgSrc": "https://photos.zillowstatic.com/fp/78967d4cf32460dcb72a3660bf071718-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/21-Stanton-Corner-Rd-7-Swan-Lake-NY-12783/2099704458_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "21 Stanton Corner Rd #7, Swan Lake, NY 12783",
+      "addressStreet": "21 Stanton Corner Rd #7",
+      "addressCity": "Swan Lake",
+      "addressState": "NY",
+      "addressZipcode": "12783",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 10944,
+      "latLong": {
+        "latitude": 41.751274,
+        "longitude": -74.77976
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "47 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2099704458,
+          "streetAddress": "21 Stanton Corner Rd #7",
+          "zipcode": "12783",
+          "city": "Swan Lake",
+          "state": "NY",
+          "latitude": 41.751274,
+          "longitude": -74.77976,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 10944.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 47,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1233,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 4087402000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 7",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/78967d4cf32460dcb72a3660bf071718-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/75fffe67f109655a8259bf3f01913d81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98a7521b33055b5656d75672faa61717-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/143b5553a3281b74ac732c19088c1540-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfd6f763168558a92897e5e8c575e3cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/59f28c00186e270d1a33f1d0e5e26e98-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/25b3876c787d0f91889501a1a2c7ae63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a7c86345c9e2a9d7f5d830d034dd11fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ada0947d2583bbec95e2bc64f0c5780b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2053012303",
+      "id": "2053012303",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5dnp9xtte1ptx",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ccc7a261d9b67551d3de7213b80bee60-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/72-Stanton-Corner-Rd-1-Swan-Lake-NY-12783/2053012303_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "72 Stanton Corner Rd #1, Swan Lake, NY 12783",
+      "addressStreet": "72 Stanton Corner Rd #1",
+      "addressCity": "Swan Lake",
+      "addressState": "NY",
+      "addressZipcode": "12783",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.75051,
+        "longitude": -74.77752
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "36 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053012303,
+          "streetAddress": "72 Stanton Corner Rd #1",
+          "zipcode": "12783",
+          "city": "Swan Lake",
+          "state": "NY",
+          "latitude": 41.75051,
+          "longitude": -74.77752,
+          "price": 2100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 36,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 198900,
+          "rentZestimate": 1955,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 3157939000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 198900,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: superiormgmts.managebuilding.com",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ccc7a261d9b67551d3de7213b80bee60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/90726cd8b778e1b33069cc583f76fc0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f0cd3f908f8fc9558d31376998bde5e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0286dc16e1c865c36fff6a5be1e0456-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2d75929558529e870374887454f7e999-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3fd99bebf55be95048adbd119562c74-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7f1fa3121be61dcd8df8d9ff72eae888-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d314cb8fd9a3cda7cb1ef53817bd48e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/368410eff386a35bd539fefde8437c30-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2053012304",
+      "id": "2053012304",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3vq5t82q8uy9k",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ad9dbeba5da83341bf6cfc060cee9b01-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/72-Stanton-Corner-Rd-3-Swan-Lake-NY-12783/2053012304_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "72 Stanton Corner Rd #3, Swan Lake, NY 12783",
+      "addressStreet": "72 Stanton Corner Rd #3",
+      "addressCity": "Swan Lake",
+      "addressState": "NY",
+      "addressZipcode": "12783",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 41.750412,
+        "longitude": -74.774574
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "36 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053012304,
+          "streetAddress": "72 Stanton Corner Rd #3",
+          "zipcode": "12783",
+          "city": "Swan Lake",
+          "state": "NY",
+          "latitude": 41.750412,
+          "longitude": -74.774574,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 36,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 154200,
+          "rentZestimate": 1666,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 3157938000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 154200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: superiormgmts.managebuilding.com",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad9dbeba5da83341bf6cfc060cee9b01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/108f364122724416467415844f02f825-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/743c692c8ce1ca3e991721d7eebd1504-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cca5713f6665d89552f536ac19e599d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ccc7a261d9b67551d3de7213b80bee60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a5591769c6533b9e679c73139d2cce6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d5f317807030012b04c945a3f156dc0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7dc6821c24f45e40bab164cee33648c-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "439162656",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/28c69749434e8820e9d25bc7092bd205-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/liberty-ny/golden-park-apartments/5XmgfK/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$350+/mo",
+      "priceLabel": "$350",
+      "address": "56 Golden Park Ln, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.78247,
+        "longitude": -74.72238
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 439162656,
+          "streetAddress": "56 Golden Park Ln #1B-1BA-600SQFT",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.78247,
+          "longitude": -74.72238,
+          "price": 350.0,
+          "datePriceChanged": 1725346800000,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "priceReduction": "$498 (Sep 3)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 350.0,
+          "priceChange": -498,
+          "timeOnZillow": 8649183000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1B-1Ba-600Sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 8649183000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "440579619",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ecf217f4c0e39ab705619cb423ba92de-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/190-Butrick-Rd-1-Ferndale-NY-12734/440579619_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,600/mo",
+      "priceLabel": "$2.6K",
+      "address": "190 Butrick Rd #1, Ferndale, NY 12734",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1488,
+      "latLong": {
+        "latitude": 41.729073,
+        "longitude": -74.76452
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "27 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440579619,
+          "streetAddress": "190 Butrick Rd #1",
+          "zipcode": "12734",
+          "city": "Ferndale",
+          "state": "NY",
+          "latitude": 41.729073,
+          "longitude": -74.76452,
+          "price": 2600.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1488.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2600.0,
+          "timeOnZillow": 2367168000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 2367168000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2071294947",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9f9b3c8e43586ab5beb6f6031bf5f133-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/4927-State-Route-55-A3-Swan-Lake-NY-12783/2071294947_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,250/mo",
+      "priceLabel": "$1.3K",
+      "address": "4927 State Route 55 #A3, Swan Lake, NY 12783",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 700,
+      "latLong": {
+        "latitude": 41.76285,
+        "longitude": -74.78155
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "39 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2071294947,
+          "streetAddress": "4927 State Route 55 #A3",
+          "zipcode": "12783",
+          "city": "Swan Lake",
+          "state": "NY",
+          "latitude": 41.76285,
+          "longitude": -74.78155,
+          "price": 1250.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1125,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1250.0,
+          "timeOnZillow": 3413531000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# A3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Comres Realty Group",
+      "timeOnZillow": 3413531000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2060789557",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/6d825ed829d9513c7b3aeaf9c4363b37-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/327-Harris-Rd-3-Ferndale-NY-12734/2060789557_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,000/mo",
+      "priceLabel": "$1.0K",
+      "address": "327 Harris Rd #3, Ferndale, NY 12734",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 41.76766,
+        "longitude": -74.73761
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "28 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060789557,
+          "streetAddress": "327 Harris Rd #3",
+          "zipcode": "12734",
+          "city": "Ferndale",
+          "state": "NY",
+          "latitude": 41.76766,
+          "longitude": -74.73761,
+          "price": 1000.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1154,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1000.0,
+          "timeOnZillow": 2444644000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 2444644000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "417139178",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/8e937b487508e1a60e034d36a0c8b3c2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/70-Stanton-Corner-Rd-3-Swan-Lake-NY-12783/417139178_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$850/mo",
+      "priceLabel": "$850",
+      "address": "70 Stanton Corner Rd #3, Swan Lake, NY 12783",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 320,
+      "latLong": {
+        "latitude": 41.75006,
+        "longitude": -74.77571
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "11 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 417139178,
+          "streetAddress": "70 Stanton Corner Rd #3",
+          "zipcode": "12783",
+          "city": "Swan Lake",
+          "state": "NY",
+          "latitude": 41.75006,
+          "longitude": -74.77571,
+          "price": 850.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 320.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 850.0,
+          "timeOnZillow": 956945000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 956945000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32774338",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/16afe4b5192a043d16a50621615e8fbd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/153-Upper-Ferndale-Rd-Liberty-NY-12754/32774338_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,400/mo",
+      "priceLabel": "$2.4K",
+      "address": "153 Upper Ferndale Rd, Liberty, NY 12754",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1431,
+      "latLong": {
+        "latitude": 41.784134,
+        "longitude": -74.73702
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "2 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32774338,
+          "streetAddress": "153 Upper Ferndale Rd",
+          "zipcode": "12754",
+          "city": "Liberty",
+          "state": "NY",
+          "latitude": 41.784134,
+          "longitude": -74.73702,
+          "price": 2400.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1431.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 220400,
+          "rentZestimate": 2133,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2400.0,
+          "timeOnZillow": 182566000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 126621.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "timeOnZillow": 182566000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2099704458",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/78967d4cf32460dcb72a3660bf071718-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/21-Stanton-Corner-Rd-7-Swan-Lake-NY-12783/2099704458_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "21 Stanton Corner Rd #7, Swan Lake, NY 12783",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 10944,
+      "latLong": {
+        "latitude": 41.751274,
+        "longitude": -74.77976
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "47 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2099704458,
+          "streetAddress": "21 Stanton Corner Rd #7",
+          "zipcode": "12783",
+          "city": "Swan Lake",
+          "state": "NY",
+          "latitude": 41.751274,
+          "longitude": -74.77976,
+          "price": 1200.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 10944.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1233,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "timeOnZillow": 4087402000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 7",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Keller Williams Hudson Valley",
+      "timeOnZillow": 4087402000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2053012303",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ccc7a261d9b67551d3de7213b80bee60-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/72-Stanton-Corner-Rd-1-Swan-Lake-NY-12783/2053012303_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,100/mo",
+      "priceLabel": "$2.1K",
+      "address": "72 Stanton Corner Rd #1, Swan Lake, NY 12783",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 1100,
+      "latLong": {
+        "latitude": 41.75051,
+        "longitude": -74.77752
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "36 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053012303,
+          "streetAddress": "72 Stanton Corner Rd #1",
+          "zipcode": "12783",
+          "city": "Swan Lake",
+          "state": "NY",
+          "latitude": 41.75051,
+          "longitude": -74.77752,
+          "price": 2100.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 1100.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 198900,
+          "rentZestimate": 1955,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "timeOnZillow": 3157939000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 1",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: superiormgmts.managebuilding.com",
+      "timeOnZillow": 3157939000,
+      "rentalMarketingSubType": "unknown"
+    },
+    {
+      "zpid": "2053012304",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ad9dbeba5da83341bf6cfc060cee9b01-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/72-Stanton-Corner-Rd-3-Swan-Lake-NY-12783/2053012304_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,800/mo",
+      "priceLabel": "$1.8K",
+      "address": "72 Stanton Corner Rd #3, Swan Lake, NY 12783",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 41.750412,
+        "longitude": -74.774574
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "36 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2053012304,
+          "streetAddress": "72 Stanton Corner Rd #3",
+          "zipcode": "12783",
+          "city": "Swan Lake",
+          "state": "NY",
+          "latitude": 41.750412,
+          "longitude": -74.774574,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 800.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 154200,
+          "rentZestimate": 1666,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 3157938000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: superiormgmts.managebuilding.com",
+      "timeOnZillow": 3157938000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "4e845b29",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

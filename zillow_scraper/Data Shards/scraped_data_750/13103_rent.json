@@ -1,0 +1,214 @@
+{
+  "listResults": [
+    {
+      "zpid": "440984697",
+      "id": "440984697",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2su88dgb8rmg6",
+      "imgSrc": "https://photos.zillowstatic.com/fp/df83d8695e8143b8a5f8d6bcd56a0c78-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2284-County-Route-37-LOT-106-Mallory-NY-13103/440984697_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,195/mo",
+      "unformattedPrice": 1195,
+      "address": "2284 County Route 37 LOT 106, Mallory, NY 13103",
+      "addressStreet": "2284 County Route 37 LOT 106",
+      "addressCity": "Mallory",
+      "addressState": "NY",
+      "addressZipcode": "13103",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.32932,
+        "longitude": -76.101395
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "53 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440984697,
+          "streetAddress": "2284 County Route 37 LOT 106",
+          "zipcode": "13103",
+          "city": "Mallory",
+          "state": "NY",
+          "latitude": 43.32932,
+          "longitude": -76.101395,
+          "price": 1195.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 53,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1195.0,
+          "timeOnZillow": 4631698000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Lot 106",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Duke Properties LLC",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/df83d8695e8143b8a5f8d6bcd56a0c78-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/72c2cab74b1320f8f9c5ea5d26a19f81-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f46746d88e95a3ccbb8b0a335ad78bb2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9b5e2343d9af938e3247be74fccb79fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3ffb5b944be968a3bb6f0e760227030-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/96d07475534855408a2e797ce2915653-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e3cd9479d81e5da24f1ed934cbe9a5e6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1886143732f397df72f1c8dad88444b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e304915e91c5de9df7d345d6fe22d58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b611881a132eb41dcf882fc08f0e3ca7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/369df52af0603536b43ed5cbc5f24407-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f683519ada584e2040f350adc3c71eed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c3bd18053d812c8092d40a40889405b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "440984697",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/df83d8695e8143b8a5f8d6bcd56a0c78-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2284-County-Route-37-LOT-106-Mallory-NY-13103/440984697_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,195/mo",
+      "priceLabel": "$1.2K",
+      "address": "2284 County Route 37 LOT 106, Mallory, NY 13103",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.32932,
+        "longitude": -76.101395
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "53 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440984697,
+          "streetAddress": "2284 County Route 37 LOT 106",
+          "zipcode": "13103",
+          "city": "Mallory",
+          "state": "NY",
+          "latitude": 43.32932,
+          "longitude": -76.101395,
+          "price": 1195.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1195.0,
+          "timeOnZillow": 4631698000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Lot 106",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: Duke Properties LLC",
+      "timeOnZillow": 4631698000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "78bf6572",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

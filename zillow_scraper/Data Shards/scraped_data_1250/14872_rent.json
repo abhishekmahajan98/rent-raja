@@ -1,0 +1,410 @@
+{
+  "listResults": [],
+  "mapResults": [],
+  "relaxedResults": [
+    {
+      "zpid": "29979226",
+      "id": "29979226",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "307j3qc9rcnbv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a88167858e67533b4956177a44c609cb-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2005-Crescent-St-Millport-NY-14864/29979226_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "2005 Crescent St, Millport, NY 14864",
+      "addressStreet": "2005 Crescent St",
+      "addressCity": "Millport",
+      "addressState": "NY",
+      "addressZipcode": "14864",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 2.0,
+      "area": 1412,
+      "latLong": {
+        "latitude": 42.266182,
+        "longitude": -76.83576
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "50 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 29979226,
+          "streetAddress": "2005 Crescent St",
+          "zipcode": "14864",
+          "city": "Millport",
+          "state": "NY",
+          "latitude": 42.266182,
+          "longitude": -76.83576,
+          "price": 1500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 4.0,
+          "livingArea": 1412.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 50,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1640,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 4321984000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 66250.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Courage Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a88167858e67533b4956177a44c609cb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e5ffaeec95ff284d271bfddf4736b9e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5cac7b3144eac54471a980e0ac609e01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27f13940f45fbf7293869a768bb00bbb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7de88130397d0a87eb84d26bf996275-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/00418d5bd9a88b4b8d4416e39c65c5e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6a167978ecbd33f13e8f48242f3eb34-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/01a571681917e3fd3263c8721a34c9d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bfbe6ff4c494b0725525e32c003f4993-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c0784328fd97caad0368b91c7066010-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1be77634ef0d2ede8af0d47a8f7bc22d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/81fbaba8cefd632fa3798603a1b0b780-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37c9198872d73d2164c1147f85beaeb6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ee3733c245d9b3d330cd4ff800c78f60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e07782e60ff3701bf9de27dec85864ef-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fdcca6a0861ed3ca55cf9cfb0980cf8d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84f3a97456e7576542be707e79d20421-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5798ef25227afcc3f40aa3360db14500-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b25e5425b1678fc8e6b3e6be87b68e87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1f67e6ed07c8d2dd7711385f3a7f011-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70c69b298538f444b834779a5618a813-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d2b9089b60de1959d1d001c4ae044c0b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f41ba05d72d640c8ba20ab2c69f570c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43dc701c18054df6916c30fdc5d5b43f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/50d882aef2a65bc631635653a6f87ea7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b1e9f4a729b129cf3246e134253c6fe1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/03aef5dcb9c4654b514f737049a7e457-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30e2285cace9e92fc7d890ccc1e42ef1-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "2066702698",
+      "id": "2066702698",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4m7gwaeuuz0sz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a3b07a514367883ef67d9dfd8798f63e-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/358-Chambers-Rd-0ADF70B5A-Horseheads-NY-14845/2066702698_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$975+/mo",
+      "unformattedPrice": 975,
+      "address": "Collingwood, 358 Chambers Rd, Horseheads, NY 14845",
+      "addressStreet": "358 Chambers Rd #0ADF70B5A",
+      "addressCity": "Horseheads",
+      "addressState": "NY",
+      "addressZipcode": "14845",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 42.20131,
+        "longitude": -76.88771
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2066702698,
+          "streetAddress": "358 Chambers Rd #0ADF70B5A",
+          "zipcode": "14845",
+          "city": "Horseheads",
+          "state": "NY",
+          "latitude": 42.20131,
+          "longitude": -76.88771,
+          "price": 975.0,
+          "datePriceChanged": 1705564800000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 73,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1037,
+          "listing_sub_type": {},
+          "priceReduction": "",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 975.0,
+          "priceChange": -275,
+          "timeOnZillow": 6310168000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 0adf70b5a",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: UMH Properties",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3b07a514367883ef67d9dfd8798f63e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/befffec0a7af46c2b622134df532010c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c64d508e440ca27036d6836e57bb9663-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c9b2595f667a922e1a6ba70d4ebf983a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e184f586bb849caf12ecc8d6b9882b26-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b04874f77bc5cda4218e9a823d3a400-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f86bb18a1d5e1c16aca86b33427f7d39-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a1a53d74342919139b638de3a319b19-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/701d60c657163da9ecf41103bcf852d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3054e053c398fb1094e85f91b16bab63-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1f0aabdbe5730ac432adb417f2e8d01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6840b43fcef8079e708bee5a5faa62d1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99b19d8647a5d2f710a7ec8c4297c2a9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7586563327ae56252fa758c11ec1d2a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/593b94c6eaaff6b968972bfbaeda96f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6e566caeeee2cbd92ae4840e7882b755-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b925039eecd17ec61a53ebf5114dc3d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c1e485ba3e135b8ae121a3f01b91f159-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/78cd069a565018136f4d3ef969ebd822-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca4779b20d0636f168e8a84cdd31dbdb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1bad0ee19d111a02e40ba8d1902de906-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb2c9c73dc74c73fc1e1b42d1ccc3817-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6545727eabfda5b9dda4a31c3f744417-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/09f4c77a65bb1bc73e34868df6c0c518-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/53bd1b37c6c4dc30174cb9de7dff7a55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73630e553e88f0e796c4192a1b5db7a7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71717f5f1919725a8c903c4191f33e1e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6c048b8942402d85603c80ce7de3de76-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a1a6ddcdcdeb9afd58838696baefc50-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e38df69dfa037ccc14886f871aa1b5a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bc55b3306c0574f196e803f54965f51c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fffef7feeb2439b100d027b767392b3a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/87f74f3177c13cb75a294c6b790821b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/144ba3aee2f063edbe1460719cd599ec-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ed2e0e5e47fc8d996dcd568f43e62fd1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/048204a5420d6febdb5b73eaf34e9e43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aeb693587bde49cd2f0c3e9a326f87a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e833e59d8f4825a49fc59b9c0818f6d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cbdd3ca7d27f8575090ec021c00cab7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0940aaa7bb571086af3141cfe7308e91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/34b10a60553749811d3b8acd3e67f9e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2a2727b549c94f60a25bba6ab5cc120-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "1",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "34ac8179"
+}

@@ -1,0 +1,236 @@
+{
+  "listResults": [
+    {
+      "zpid": "345061580",
+      "id": "345061580",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "59w2q7j0269hn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/71af63f858c0e2bea0f19e4b0bf83269-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/b/38-west-fair-haven-vt-96hrKy/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "38 West, 38 West St APT 3, Fair Haven, VT 05743",
+      "addressStreet": "38 West St APT 3",
+      "addressCity": "Fair Haven",
+      "addressState": "VT",
+      "addressZipcode": "05743",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.59439,
+        "longitude": -73.272804
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 345061580,
+          "streetAddress": "38 West St APT 3",
+          "zipcode": "05743",
+          "city": "Fair Haven",
+          "state": "VT",
+          "latitude": 43.59439,
+          "longitude": -73.272804,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 249,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1519,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 21578530000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/71af63f858c0e2bea0f19e4b0bf83269-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8cc582d4300e3f99153f08877af3f780-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6057073c94bf0144a3ba95370312c1d7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5ca1168622d4f6e5941d9cce0ccd7ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/825ccd65fddb2ce716776f15f135db45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c223a557ac26cc4390c2c6338e5ee92b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/62f94aab17174018b9c416a186b5be45-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18519af8a3a1f616812898f6e3f48e4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/873a736ad48f942494b9b6ef74f706b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33b86690714c62978aed994a713d4ac1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9234e13c9de8b4f9c7b8613078cc9be3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f824c32f3b7af60a57fbf71a5e60a307-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a5b9a03dfa2ff127b9eda9cf2cafc704-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c0596c685b59219a75bfd1fa23c3a02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/74b0fea35e61d3f83d901d2fd0317423-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77135b402d099408e6c984ed6f9f9d0a-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectSingleFamilyDailyListings"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "345061580",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/71af63f858c0e2bea0f19e4b0bf83269-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/b/38-west-fair-haven-vt-96hrKy/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,500/mo",
+      "priceLabel": "$1.5K",
+      "address": "38 West St APT 3, Fair Haven, VT 05743",
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 43.59439,
+        "longitude": -73.272804
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 345061580,
+          "streetAddress": "38 West St APT 3",
+          "zipcode": "05743",
+          "city": "Fair Haven",
+          "state": "VT",
+          "latitude": 43.59439,
+          "longitude": -73.272804,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1519,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 21578530000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-18 00:00:00",
+      "visited": false,
+      "timeOnZillow": 21578530000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectSingleFamilyDailyListings"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "13fdd9cb",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

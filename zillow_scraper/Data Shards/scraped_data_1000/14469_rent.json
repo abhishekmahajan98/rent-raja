@@ -1,0 +1,391 @@
+{
+  "listResults": [
+    {
+      "zpid": "31884891",
+      "id": "31884891",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "59zag7vejzjb1",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e62b79aed4606d391cf0310d3d9ef0ac-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/2891-State-Route-444-Bloomfield-NY-14469/31884891_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$2,100/mo",
+      "unformattedPrice": 2100,
+      "address": "2891 State Route 444, Bloomfield, NY 14469",
+      "addressStreet": "2891 State Route 444",
+      "addressCity": "Bloomfield",
+      "addressState": "NY",
+      "addressZipcode": "14469",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.88727,
+        "longitude": -77.41279
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31884891,
+          "streetAddress": "2891 State Route 444",
+          "zipcode": "14469",
+          "city": "Bloomfield",
+          "state": "NY",
+          "latitude": 42.88727,
+          "longitude": -77.41279,
+          "price": 2100.0,
+          "datePriceChanged": 1732262400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 26,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 405800,
+          "rentZestimate": 2251,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 22)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "priceChange": -100,
+          "timeOnZillow": 2259295000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 309500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 405800,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Stafford Property Management",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e62b79aed4606d391cf0310d3d9ef0ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e2adaa7fb5321ce305e55a14cd525fe5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d47b9f9f597d5735835af121f2bc7a94-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8279a42d96e83971eb25235eb7f770a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bf4807eef4cac7e5d1f43dfd0dab1ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3f3ca9e1ce4b6c8d0a7def458071adf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a0ddd5eb4bd805efcac25c1540589f8f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2119d6ff62c0f2d2709c109f2ff96e5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfeda7ffa0b027029cacfeaaaf65b6f9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/efe13224977587512da44ceb5ed9f39b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/796e4abc4ab457b61f911f1b943de989-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/beba1a9316ae312b63a48271feb343e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5bdd245a24274d86dc7be3b5fa7edfe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/61644bf3214d63a83e373cdcd2e69de2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e76cad9fbb2620499e89fc89c80b733a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a2994e42a7f7b9bf22e48f1a9316f79-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/12f6b3f8d61d8ba0535227c33d9fa7ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/15ffe2bd5d7e0e5b9cdcf6a59cb19d2f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/387b38a71f26f28272f720bb5b107624-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6139f0f1a694d4ab7f1ba0d2521b306b-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "31884891",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/e62b79aed4606d391cf0310d3d9ef0ac-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/2891-State-Route-444-Bloomfield-NY-14469/31884891_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$2,100/mo",
+      "priceLabel": "$2.1K",
+      "address": "2891 State Route 444, Bloomfield, NY 14469",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "latLong": {
+        "latitude": 42.88727,
+        "longitude": -77.41279
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "26 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 31884891,
+          "streetAddress": "2891 State Route 444",
+          "zipcode": "14469",
+          "city": "Bloomfield",
+          "state": "NY",
+          "latitude": 42.88727,
+          "longitude": -77.41279,
+          "price": 2100.0,
+          "datePriceChanged": 1732262400000,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 405800,
+          "rentZestimate": 2251,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 22)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2100.0,
+          "priceChange": -100,
+          "timeOnZillow": 2259295000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 309500.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Stafford Property Management",
+      "timeOnZillow": 2259295000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "2060735903",
+      "id": "2060735903",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3nnpdnbsfpsxr",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0eb06b55e14bb896f84a8e8fa05caaea-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/honeoye-ny/parklawn-apartment-homes/9hMPSg/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$954+/mo",
+      "unformattedPrice": 954,
+      "address": "Parklawn Apartment Homes, 34 Parklawn Apartments, Honeoye, NY 14471",
+      "addressStreet": "34 Parklawn Apartments #218312894",
+      "addressCity": "Honeoye",
+      "addressState": "NY",
+      "addressZipcode": "14471",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 800,
+      "latLong": {
+        "latitude": 42.789093,
+        "longitude": -77.50711
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2060735903,
+          "streetAddress": "34 Parklawn Apartments #218312894",
+          "zipcode": "14471",
+          "city": "Honeoye",
+          "state": "NY",
+          "latitude": 42.789093,
+          "longitude": -77.50711,
+          "price": 954.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 800.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 330,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1130,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 954.0,
+          "timeOnZillow": 28577372000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 218312894",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Parklawn Apartments",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0eb06b55e14bb896f84a8e8fa05caaea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/999d7b42e7c25a32dd9e425e5a8eec11-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8e9574981ee8ebd3eb3dbfcb8aad5c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70efd7fc1f7a70bcc521d58f67ce2632-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/97ffdb9929edf9b812d481d604f8ed18-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9b36f3cbd2dc5a2f31c3ee3cfe7b41b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5654f93b73082dcf83f782c00a1a0aa2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/181cbce54e2784cd7a0c786a98d089f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/eecd497c28a5f435f360bb903a388853-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f4d32a38b133b38d0f71a969094959ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d162f4a07f7399b0d668a1ed3a17ed60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c412addd16ce737f7a420b564ee8fdb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/85a9a70e46ecfcf4d92cb256ffc1b70f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6f68ffb191dfcc123f47b6748a8c0931-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4499e3eee43c066cbc80afa6ee791890-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    }
+  ],
+  "resultsHash": "34aa4b99",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "476657e6"
+}

@@ -1,0 +1,1324 @@
+{
+  "listResults": [
+    {
+      "zpid": "440807764",
+      "id": "440807764",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2sm47ehqqewy9",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c67a4d4312fcb94f267d2c2a39f7b69c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/glenmont-ny/woodhill-apartments/97t779/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,800+/mo",
+      "unformattedPrice": 1800,
+      "address": "Woodhill Apartments, 7 Patterson Dr, Glenmont, NY 12077",
+      "addressStreet": "7 Patterson Dr #2B-1BA-1163SQFT",
+      "addressCity": "Glenmont",
+      "addressState": "NY",
+      "addressZipcode": "12077",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1163,
+      "latLong": {
+        "latitude": 42.602352,
+        "longitude": -73.79379
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440807764,
+          "streetAddress": "7 Patterson Dr #2B-1BA-1163SQFT",
+          "zipcode": "12077",
+          "city": "Glenmont",
+          "state": "NY",
+          "latitude": 42.602352,
+          "longitude": -73.79379,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1163.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 58,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 5058525000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2B-1Ba-1163Sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c67a4d4312fcb94f267d2c2a39f7b69c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c7f09340ec4df9f9808716b4e84febfa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0989a8daf43f46e218cf3cca9eb2c23-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f6e361ed52e355fe7b5e4c895bdfa218-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d58ed4b306014baea1a0058026bfaca9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc3ea23b861a5b7437ebf59041679fdf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dd0172ff0a16e9366205e0856719c2a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4b29fa61357055ce88f6a24681af078a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/24b13f1207e4cdbfe12b193fdc116a40-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0697f37fe0efc6d5643e26a323e9b3e2-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "42.584644--73.80294",
+      "id": "42.584644--73.80294",
+      "providerListingId": "jch5099x1r4u",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f8cbe467bc5c13da04205e6194736072-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/glenmont-ny/the-residence-at-wemple-road/CHQ2sx/",
+      "statusType": "FOR_RENT",
+      "statusText": "The Residence at Wemple Road",
+      "address": "2 Mystic Ln, Glenmont, NY",
+      "addressStreet": "2 Mystic Ln # 7T-102",
+      "addressCity": "Glenmont",
+      "addressState": "NY",
+      "addressZipcode": "12077",
+      "units": [
+        {
+          "price": "$2,195+",
+          "beds": "2",
+          "roomForRent": false
+        },
+        {
+          "price": "$2,975+",
+          "beds": "3",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2619574738,
+      "latLong": {
+        "latitude": 42.584644,
+        "longitude": -73.80294
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "The Residence at Wemple Road",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8cbe467bc5c13da04205e6194736072-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/443281ce62b342c35280f173e1e11536-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1e32c3da567247f566b53dcce94badb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d77b9ed7b4bd23d8f1ea6b50c444125-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3ca42cfd80cd92f90d47ffe4b2152e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c941b9c084082a6e83dc4b3e71d17fee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2a489542765e36142d0cda412bc68b08-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d5dad5f35f27fa9ec50a37bfa361ab3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/55a3a52129a0219930037794d8db3eee-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7e5a748a8452274c5bbd56422760f973-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b156c63bbd2af28e47354248f151a00-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e82a1308285477b51fcbfda56dbd2cd6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa4f934d2e46c1161fe11c229ebfc0ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a3f8cf0877ee892c6583da2c8f95861-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b4b31ff2a9d64ad9f679b1fb66ded08f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7c7b9a3ab4f73f94e738921d3220c060-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ddf1dd75049359e30928bb6fe3bdac24-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9da010f837ff6d4971c4f8acb085f6f2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d39422bd236c3bb5cdc12d0ae701f2b4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5a25cb6a5d86068762e3c2a8fac8ebb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/690dceeee051d965d24a5f800162886e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/86182afb46700b675b57fcb263a54968-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d397ca37a8da8646a8b1237f96a839c2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f2b962721c890bbda06a157f8285f403-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b99c0f86d60105c88efe1b56529f9d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/43260dcde552107b884569863b67765d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/263559ee1a2b7cb3dcfcd690102845e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/752180dacf2843e5b5176f56e85b979b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7053b18f00cfdf5a50b005f7570fb484-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3f95bf5dc57c6bb047bddf0e8e6d33b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfb3d6877b62c94999fe5692a56cbc90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e658aa6d4d37e5b9f4646708dcea5850-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98738be8c2ac87bb077c36b9dffd151c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5a47e806773c600c38521f06987c8e27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/36c1f49cfe74f26d1f2677fa5f5922d6-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 9,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "42.60443--73.791084",
+      "id": "42.60443--73.791084",
+      "providerListingId": "45bnd4z0dn8br",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7b6ef1128c8a382181a345f9b0f25f58-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/glenmont-ny/glenmont-manor/9xJgKp/",
+      "statusType": "FOR_RENT",
+      "statusText": "Glenmont Manor",
+      "address": "371 Route 9w, Glenmont, NY",
+      "addressStreet": "371 Route 9W # 1B-1Ba-1000Sqft",
+      "addressCity": "Glenmont",
+      "addressState": "NY",
+      "addressZipcode": "12077",
+      "units": [
+        {
+          "price": "$1,444+",
+          "beds": "1",
+          "roomForRent": false
+        },
+        {
+          "price": "$1,549+",
+          "beds": "2",
+          "roomForRent": false
+        }
+      ],
+      "lotId": 2244234682,
+      "latLong": {
+        "latitude": 42.60443,
+        "longitude": -73.791084
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "isSaved": false,
+      "buildingName": "Glenmont Manor",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7b6ef1128c8a382181a345f9b0f25f58-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/819a2756e3fd548b8304d20db70ed8ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9fc288d1eba42b76ef0b65bef334cab8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f789853200aa69ac670a6a9fb332671f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37b0fd34e8629f2e6a6a4e68ac2e7240-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bf8e3f3b5482ee52b16989e2ad9f2c83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fa6534f78bf18ae2e2205d4deabdda3d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d8d5628b551c5b1ffe9eb65722aaadce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aeeede9b93a459981ae5fe8345053f46-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e9d697f033c06f26a74d5d68a76bddcf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a76f9c3b614b0b50d31035ff84d87860-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/503e6678a22c194906b51265d909df6d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a79b082ed35295becaf302c98e793849-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/23b46cf5421a7f6bc5d0d3cf6b8eeab9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b07dd27a156e76963e6868b2bbf098dd-p_e.jpg"
+        }
+      ],
+      "availabilityCount": 5,
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ],
+      "isInstantTourEnabled": false,
+      "isContactable": true
+    },
+    {
+      "zpid": "2062408762",
+      "id": "2062408762",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3ymv6whwd63ry",
+      "imgSrc": "https://photos.zillowstatic.com/fp/916e8e49f443f45542ba26feaa2eef86-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1608-Route-9w-Selkirk-NY-12158/2062408762_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,575/mo",
+      "unformattedPrice": 1575,
+      "address": "1608 Route 9w, Selkirk, NY 12158",
+      "addressStreet": "1608 Route 9w",
+      "addressCity": "Selkirk",
+      "addressState": "NY",
+      "addressZipcode": "12158",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.55944,
+        "longitude": -73.80796
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062408762,
+          "streetAddress": "1608 Route 9w",
+          "zipcode": "12158",
+          "city": "Selkirk",
+          "state": "NY",
+          "latitude": 42.55944,
+          "longitude": -73.80796,
+          "price": 1575.0,
+          "datePriceChanged": 1731484800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 16,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1558,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 13)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1575.0,
+          "priceChange": -50,
+          "timeOnZillow": 1392019000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/916e8e49f443f45542ba26feaa2eef86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fbbc361126dcdf88f1e29bc396c3a7b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a9ae4ab413b2b3727c89e64011f9c4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd6d33984381b102d4b951b243c65fd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a506fd40d47531083ec9106080c0c335-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9051e5f19566dd2376cfd2de86ba4f87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2fed62541fc6f283d3e96fcc66779824-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77f7ef9de52ebfa61524c028ed380c17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fbb29421c6de1f687731715bd0087185-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f9819612f2d19709ed6fecbf1af2575-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cf4b7598fa4f00629e1b91a26c2a9534-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b02d16b26be944db29232cdc4453a02c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/665a1d1194a443329dadcb3779d016c4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d658d2cb7f61a3a4cdeb5f8071d75585-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1fe888b4c453a854877118132f4970cc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c578d40d33acbc7520181e65db97c041-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1cf02a6cfbc8ab5e8b0f886a77599381-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/214acf1f6066af30db61b05e9395d497-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e80c67c81a187957080b92c86069dd1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f5be78ca6bf85fce6500f336e7bd717b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51f41ad1e058e043aea047d77fee510a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4c700058bc28ac87c1b66a6f008de875-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2082188860",
+      "id": "2082188860",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "4gpu9gfqgd3u7",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1384dfdffcd1c4419fc95721392d4dff-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/28-Hoyt-Ave-B-Glenmont-NY-12077/2082188860_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,900/mo",
+      "unformattedPrice": 1900,
+      "address": "28 Hoyt Ave #B, Glenmont, NY 12077",
+      "addressStreet": "28 Hoyt Ave #B",
+      "addressCity": "Glenmont",
+      "addressState": "NY",
+      "addressZipcode": "12077",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 42.62045,
+        "longitude": -73.795555
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082188860,
+          "streetAddress": "28 Hoyt Ave #B",
+          "zipcode": "12077",
+          "city": "Glenmont",
+          "state": "NY",
+          "latitude": 42.62045,
+          "longitude": -73.795555,
+          "price": 1900.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1763,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "timeOnZillow": 136839000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-02-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1384dfdffcd1c4419fc95721392d4dff-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1a114c1a02597ad89f6ce3740a74004b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e93dc07219fd979e33426af69d414ddd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/026d7267df2f0acca9adf98dea29d899-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/183dc27312e301fcc4ec851a49081127-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/def5b45a3af0bfc4c2827036c09e35ea-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c42519df03c62b120c2663a5f96f20d5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e64f9ea6859bef4e9d96b95c53795e55-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/af220df229ff6bbab1aaa028bc3e26df-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8223ea267cf0fc42c4cb2d4a7dabfc99-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ba192528785b1c6ae55d17d18dcbfd9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ebb98b83c181f87399fee5ee053854e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/629274dade083383766461bdb0024dd5-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2054282275",
+      "id": "2054282275",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2q3fe9rvf7774",
+      "imgSrc": "https://photos.zillowstatic.com/fp/10ee7a40e7d20718c15d59f3cc566257-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/300-Route-9w-B-Glenmont-NY-12077/2054282275_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "300 Route 9w #B, Glenmont, NY 12077",
+      "addressStreet": "300 Route 9w #B",
+      "addressCity": "Glenmont",
+      "addressState": "NY",
+      "addressZipcode": "12077",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2000,
+      "latLong": {
+        "latitude": 42.60897,
+        "longitude": -73.78897
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "125 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054282275,
+          "streetAddress": "300 Route 9w #B",
+          "zipcode": "12077",
+          "city": "Glenmont",
+          "state": "NY",
+          "latitude": 42.60897,
+          "longitude": -73.78897,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 125,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2573,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 10803135000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/10ee7a40e7d20718c15d59f3cc566257-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46878bc7d8cf4b6f969fada4d0d442a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0121e1a64e34b1e9d02991c750409277-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4913fe289c6943cf9d36bd7f0135e549-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37625e816678ad8e75eca03de6a90235-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a39a1f9fc836326c64b533dea1071ebf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e8ade9b559fbeaf759719503e578ad87-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4533359e41c29ec3d3bb2c29782bfb4d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f1bc3270632533a4b8310623529d5efb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/10161b6e7e5770b190d61d7b213bfe43-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/466ed074363a63a1eec562113bf8a4b6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e9417459fcd25197e488c2622ff24b8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3774998fe0ac1ec5aeae495b26e07417-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/45c3421c210a5ec8c8d045cf8b2522a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/865b53b8505e30a20ca7d0a0b9a0907b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5d9dac856712df59067d6ab5434042b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/720c03f2696712cb27b2b38cd8e2d56a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b399da6317b95aa2770e638cf880235a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cfa4382046cf246f2911f43ef922df9b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7ac1c59815cf158dfc6bdf7686ce660a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2b56d137b91ef27a1f123f359e253cc8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71566709e8c44693606cce4fbb9fe165-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b20557a7f1b3a81df54bf65377cbfc96-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/04632dee989dfed61819c3266a2d09bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7693d12e37dbde6653c168b8517e769d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fabd0599c67c95a1656ee109ef3b6373-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b087705eb75cf757ed896d1bdd4cc16-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "440807764",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/c67a4d4312fcb94f267d2c2a39f7b69c-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/glenmont-ny/woodhill-apartments/97t779/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,800+/mo",
+      "priceLabel": "$1.8K",
+      "address": "7 Patterson Dr, Glenmont, NY 12077",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1163,
+      "latLong": {
+        "latitude": 42.602352,
+        "longitude": -73.79379
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 440807764,
+          "streetAddress": "7 Patterson Dr #2B-1BA-1163SQFT",
+          "zipcode": "12077",
+          "city": "Glenmont",
+          "state": "NY",
+          "latitude": 42.602352,
+          "longitude": -73.79379,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1163.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 5058525000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 2B-1Ba-1163Sqft",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 5058525000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "plid": "jch5099x1r4u",
+      "imgSrc": "https://photos.zillowstatic.com/fp/f8cbe467bc5c13da04205e6194736072-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/glenmont-ny/the-residence-at-wemple-road/CHQ2sx/",
+      "statusType": "FOR_RENT",
+      "statusText": "The Residence at Wemple Road",
+      "price": "$2,195+/mo",
+      "address": "2 Mystic Ln, Glenmont, NY",
+      "minBeds": 2,
+      "minBaths": 2.0,
+      "minArea": 1132,
+      "lotId": 2619574738,
+      "latLong": {
+        "latitude": 42.584644,
+        "longitude": -73.80294
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "The Residence at Wemple Road",
+      "buildingId": "42.584644--73.80294",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 8088917000,
+      "unitCount": 9,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "plid": "45bnd4z0dn8br",
+      "imgSrc": "https://photos.zillowstatic.com/fp/7b6ef1128c8a382181a345f9b0f25f58-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/glenmont-ny/glenmont-manor/9xJgKp/",
+      "statusType": "FOR_RENT",
+      "statusText": "Glenmont Manor",
+      "price": "$1,444+/mo",
+      "address": "371 Route 9w, Glenmont, NY",
+      "minBeds": 1,
+      "minBaths": 1.0,
+      "minArea": 850,
+      "lotId": 2244234682,
+      "latLong": {
+        "latitude": 42.60443,
+        "longitude": -73.791084
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO"
+      },
+      "badgeInfo": {
+        "type": "UNIT_AVAILABILITY",
+        "text": "Unit availability"
+      },
+      "buildingName": "Glenmont Manor",
+      "buildingId": "42.60443--73.791084",
+      "isBuilding": true,
+      "canSaveBuilding": true,
+      "has3DModel": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "timeOnZillow": 287812000,
+      "unitCount": 5,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "zillowRentalManager",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "paidMultifamily",
+        "multifamilyBasePackage"
+      ]
+    },
+    {
+      "zpid": "2062408762",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/916e8e49f443f45542ba26feaa2eef86-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1608-Route-9w-Selkirk-NY-12158/2062408762_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,575/mo",
+      "priceLabel": "$1.6K",
+      "address": "1608 Route 9w, Selkirk, NY 12158",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1200,
+      "latLong": {
+        "latitude": 42.55944,
+        "longitude": -73.80796
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "16 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2062408762,
+          "streetAddress": "1608 Route 9w",
+          "zipcode": "12158",
+          "city": "Selkirk",
+          "state": "NY",
+          "latitude": 42.55944,
+          "longitude": -73.80796,
+          "price": 1575.0,
+          "datePriceChanged": 1731484800000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1200.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1558,
+          "listing_sub_type": {},
+          "priceReduction": "$50 (Nov 13)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1575.0,
+          "priceChange": -50,
+          "timeOnZillow": 1392019000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 1392019000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2082188860",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1384dfdffcd1c4419fc95721392d4dff-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/28-Hoyt-Ave-B-Glenmont-NY-12077/2082188860_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$1,900/mo",
+      "priceLabel": "$1.9K",
+      "address": "28 Hoyt Ave #B, Glenmont, NY 12077",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1400,
+      "latLong": {
+        "latitude": 42.62045,
+        "longitude": -73.795555
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "1 day ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2082188860,
+          "streetAddress": "28 Hoyt Ave #B",
+          "zipcode": "12077",
+          "city": "Glenmont",
+          "state": "NY",
+          "latitude": 42.62045,
+          "longitude": -73.795555,
+          "price": 1900.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1400.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1763,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1900.0,
+          "timeOnZillow": 136839000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2025-02-01 00:00:00",
+      "visited": false,
+      "timeOnZillow": 136839000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2054282275",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/10ee7a40e7d20718c15d59f3cc566257-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/300-Route-9w-B-Glenmont-NY-12077/2054282275_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$2,500/mo",
+      "priceLabel": "$2.5K",
+      "address": "300 Route 9w #B, Glenmont, NY 12077",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 2000,
+      "latLong": {
+        "latitude": 42.60897,
+        "longitude": -73.78897
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "125 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2054282275,
+          "streetAddress": "300 Route 9w #B",
+          "zipcode": "12077",
+          "city": "Glenmont",
+          "state": "NY",
+          "latitude": 42.60897,
+          "longitude": -73.78897,
+          "price": 2500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 2000.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 2573,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 10803135000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# B",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 10803135000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "5c21dc1a",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}

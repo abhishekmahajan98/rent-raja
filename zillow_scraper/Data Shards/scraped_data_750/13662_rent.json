@@ -1,0 +1,775 @@
+{
+  "listResults": [
+    {
+      "zpid": "32548847",
+      "id": "32548847",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "34ganm1e5r008",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a21a667ee5ebe3e5bbb78624168d3884-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/42-Grant-St-Massena-NY-13662/32548847_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$990/mo",
+      "unformattedPrice": 990,
+      "address": "42 Grant St, Massena, NY 13662",
+      "addressStreet": "42 Grant St",
+      "addressCity": "Massena",
+      "addressState": "NY",
+      "addressZipcode": "13662",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 7000,
+      "latLong": {
+        "latitude": 44.928555,
+        "longitude": -74.87813
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32548847,
+          "streetAddress": "42 Grant St",
+          "zipcode": "13662",
+          "city": "Massena",
+          "state": "NY",
+          "latitude": 44.928555,
+          "longitude": -74.87813,
+          "price": 990.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 7000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 7,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 947,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 990.0,
+          "timeOnZillow": 688006000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 23171.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a21a667ee5ebe3e5bbb78624168d3884-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdfa246d8ffe0c8d2bce1ec8d725790b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46bd26b49fc451818963de28013df795-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/70d6e24c62aad8ce292decc5c31917bd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc7f5a9d1b43d22b52735b35f93d66a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8dba3c592ddd20942fba2258cc470eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c587460615025dac085c11ec974ea072-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4ab021be4986aa0176c2d9719c3a2324-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8456374ea7ea899dfacb6bc7501ff8c1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b71d633371236551b239fa617f7bd29b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e160752f692a06b8b3560b9c9fb4a5c6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bb8242dc18abb11763513293ca06b115-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32548551",
+      "id": "32548551",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "364171023uda5",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1f19b6abc5cb1896dbef3694fd1592fd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/3-Grove-St-Massena-NY-13662/32548551_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,200/mo",
+      "unformattedPrice": 1200,
+      "address": "3 Grove St, Massena, NY 13662",
+      "addressStreet": "3 Grove St",
+      "addressCity": "Massena",
+      "addressState": "NY",
+      "addressZipcode": "13662",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 846,
+      "latLong": {
+        "latitude": 44.92882,
+        "longitude": -74.88876
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "34 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32548551,
+          "streetAddress": "3 Grove St",
+          "zipcode": "13662",
+          "city": "Massena",
+          "state": "NY",
+          "latitude": 44.92882,
+          "longitude": -74.88876,
+          "price": 1200.0,
+          "datePriceChanged": 1732176000000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 846.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 34,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 61700,
+          "rentZestimate": 1229,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "priceChange": -100,
+          "timeOnZillow": 2996051000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 56098.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 61700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1f19b6abc5cb1896dbef3694fd1592fd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77448ea1e2e5cf45562bc5592fca881a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9030dde6f566cdb4d53251953d2e696-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7580f1a1d08d838387006b80c7c55c4a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/478492fe0e04b697a676e88a89e65702-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/46822dbe639f4026acd8b3a97040185d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c3b158d77c2c97546a4fc2e634504168-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0a8aae949bbb7878dbc0f22eb23e4ad9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/52a3f8f40e74f5af4bd5f626cb52869f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7017098ec9e1606c82d7897492070b50-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f85c547539a8246ad634234d650c23a5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/508d785931ccab796630bc3cca8de5fe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f413787af6e73db9117fddbbc9eb6f7d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e60e7523b37f51a43a794daf3bb180e9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bdd6ce8b5337ea22c1af86778c183760-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8e030fa211f83a321aa9182cd5a9a9e1-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "442793795",
+      "id": "442793795",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2bqc5r31wvvru",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0856aa5db049ad297de8ce782881e8ba-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1115-2nd-St-W-13-Cornwall-ON-K6J-1J2/442793795_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "C$",
+      "price": "C$1,650/mo",
+      "unformattedPrice": 1650,
+      "address": "1115 2nd St W #13, Cornwall, ON K6J 1J2",
+      "addressStreet": "1115 2nd St W #13",
+      "addressCity": "Cornwall",
+      "addressState": "ON",
+      "addressZipcode": "K6J1J2",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 45.012745,
+        "longitude": -74.75717
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "42 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442793795,
+          "streetAddress": "1115 2nd St W #13",
+          "zipcode": "K6J1J2",
+          "city": "Cornwall",
+          "state": "ON",
+          "latitude": 45.012745,
+          "longitude": -74.75717,
+          "price": 1650.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 42,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "timeOnZillow": 3692985000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "CAD",
+          "country": "CAN",
+          "unit": "# 13",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0856aa5db049ad297de8ce782881e8ba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/df4991f2ae6193c7596f6a7b39c94256-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3a556cfe170e2f51b28dff3b070cb507-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/58b4298e9d38705b302fa9e4155828b1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b91430bd0787ee729520b0ce5bc975ef-p_e.jpg"
+        }
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32548847",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/a21a667ee5ebe3e5bbb78624168d3884-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/42-Grant-St-Massena-NY-13662/32548847_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$990/mo",
+      "priceLabel": "$990",
+      "address": "42 Grant St, Massena, NY 13662",
+      "isNewYorkState": true,
+      "beds": 3,
+      "baths": 1.0,
+      "area": 7000,
+      "latLong": {
+        "latitude": 44.928555,
+        "longitude": -74.87813
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "7 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32548847,
+          "streetAddress": "42 Grant St",
+          "zipcode": "13662",
+          "city": "Massena",
+          "state": "NY",
+          "latitude": 44.928555,
+          "longitude": -74.87813,
+          "price": 990.0,
+          "bathrooms": 1.0,
+          "bedrooms": 3.0,
+          "livingArea": 7000.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 947,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 990.0,
+          "timeOnZillow": 688006000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 23171.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-11-15 00:00:00",
+      "visited": false,
+      "timeOnZillow": 688006000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "32548551",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1f19b6abc5cb1896dbef3694fd1592fd-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/3-Grove-St-Massena-NY-13662/32548551_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,200/mo",
+      "priceLabel": "$1.2K",
+      "address": "3 Grove St, Massena, NY 13662",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 846,
+      "latLong": {
+        "latitude": 44.92882,
+        "longitude": -74.88876
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "34 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32548551,
+          "streetAddress": "3 Grove St",
+          "zipcode": "13662",
+          "city": "Massena",
+          "state": "NY",
+          "latitude": 44.92882,
+          "longitude": -74.88876,
+          "price": 1200.0,
+          "datePriceChanged": 1732176000000,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 846.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 61700,
+          "rentZestimate": 1229,
+          "listing_sub_type": {},
+          "priceReduction": "$100 (Nov 21)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1200.0,
+          "priceChange": -100,
+          "timeOnZillow": 2996051000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 56098.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 2996051000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "442793795",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0856aa5db049ad297de8ce782881e8ba-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/1115-2nd-St-W-13-Cornwall-ON-K6J-1J2/442793795_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "C$1,650/mo",
+      "priceLabel": "C$1.7K",
+      "address": "1115 2nd St W #13, Cornwall, ON K6J 1J2",
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 45.012745,
+        "longitude": -74.75717
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "42 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442793795,
+          "streetAddress": "1115 2nd St W #13",
+          "zipcode": "K6J1J2",
+          "city": "Cornwall",
+          "state": "ON",
+          "latitude": 45.012745,
+          "longitude": -74.75717,
+          "price": 1650.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1650.0,
+          "timeOnZillow": 3692985000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 13",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 3692985000,
+      "rentalMarketingSubType": "unknown"
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "442655679",
+      "id": "442655679",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "5544ec0m9yjkn",
+      "imgSrc": "https://photos.zillowstatic.com/fp/0964dda432286eac1aa9de05fb642ab1-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/40-2nd-St-W-C-Cornwall-ON-K6J-1G2/442655679_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "C$",
+      "price": "C$1,500/mo",
+      "unformattedPrice": 1500,
+      "address": "40 2nd St W #C, Cornwall, ON K6J 1G2",
+      "addressStreet": "40 2nd St W #C",
+      "addressCity": "Cornwall",
+      "addressState": "ON",
+      "addressZipcode": "K6J1G2",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 45.01767,
+        "longitude": -74.73026
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 442655679,
+          "streetAddress": "40 2nd St W #C",
+          "zipcode": "K6J1G2",
+          "city": "Cornwall",
+          "state": "ON",
+          "latitude": 45.01767,
+          "longitude": -74.73026,
+          "price": 1500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1500.0,
+          "timeOnZillow": 728116000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "CAD",
+          "country": "CAN",
+          "unit": "# C",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/0964dda432286eac1aa9de05fb642ab1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a0ddcbd1059ef49fad52d635d3481ca-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ab10a96a354219bfa0f91ad73f9251b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/98e9149d085b6efe927140227bd9afc2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/907fc4f1f15951340f437c8c7b740c35-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/84297ae7722ac2755340255e340b67e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a901160d962ac368e5d263c9da115a05-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/35cf61630c0fa89bc8366f62c22d01af-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d70aec92ad3d2f569b90d901224874d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0c926ff84767429aa731f8e7a2ec5082-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e87a8c0eab10b5b6a283a04a85e407fb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8d30666d3ce3a8fdca71668b337edb89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7dfe6ca5f8098c2c491bf0ce36417f4e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/73c5cb19b4889eb8c374c45e58f12306-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e22f1dcfd7a63c6a1669a8b63e51aa7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d32932e272ca374c91d494ff90f216ec-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "54012cbd",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "143b4b2d"
+}

@@ -1,0 +1,1325 @@
+{
+  "listResults": [
+    {
+      "zpid": "32842503",
+      "id": "32842503",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "cv6je749qpcz",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b5b715e35c9c85fbe80c19087f8e624d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/629-Route-208-Gardiner-NY-12525/32842503_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$3,900/mo",
+      "unformattedPrice": 3900,
+      "address": "629 Route 208, Gardiner, NY 12525",
+      "addressStreet": "629 Route 208",
+      "addressCity": "Gardiner",
+      "addressState": "NY",
+      "addressZipcode": "12525",
+      "isUndisclosedAddress": false,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2600,
+      "latLong": {
+        "latitude": 41.672104,
+        "longitude": -74.133415
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32842503,
+          "streetAddress": "629 Route 208",
+          "zipcode": "12525",
+          "city": "Gardiner",
+          "state": "NY",
+          "latitude": 41.672104,
+          "longitude": -74.133415,
+          "price": 3900.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2600.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 8,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 505600,
+          "rentZestimate": 4365,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3900.0,
+          "timeOnZillow": 766021000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 391791.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 505600,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: Windsor Realty Services",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b5b715e35c9c85fbe80c19087f8e624d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7ca51e39d15eb58400219c898644de7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/711bf909bd12db8e1b87e7b45a7e1d7a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/51f476637dbb316cb42835501c8c05e0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ec02dbe134f004b5442434b8561a888a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/40db8ce6a15979b4d159000a3d287b83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ce460745d847dee3bc952d2a5c1579c8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6787b19dd84f8f9eb4f4f8ba2ae76289-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7baffb0e03a046a3f69e75d83c89d6b5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b185d4bc8abe2eb0be72f5834c7ea698-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1bcaaef14f13eab5f9e7eb000c355252-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/18c59475ecdff4115afecdc08c0980b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ba83967d11e924b9af99d471ef0e75c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88b7f47b8db5f7c1c9c8e7bd3fd8b0f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d12be448cded78772fca99ab4000c1d0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fe3044738f0e2f5e396b657aed6916bb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/019573d518526db33ceff73d3b4a8b0e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2ec97a1f08175e2a2a83912c7c5c76b7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a2282749ebbdf1620fc4d0fe4ae11d5c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0af61e3a229640364d9c57c80ad775b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b9844d5ec4ef91e3fc7e93d69752c8d3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83cdf454cb016d79587f8bbe9d6cae91-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/27487f36327b5daeeef02711d9f39b41-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db3326989b733cb858ce7ffcfed71564-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab987b348081ded7bb7351e3c3353f56-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0cc7d15e1ae839ce9cb28b4b97424418-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8964185ae189d34cc89475d577e3d40c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc1db246b7438f3895efc8ea44b1b21a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c0e0a6c98c1c2b86205923b59dd80f02-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c7b43758e965492234e086bde866fd4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f8b0eb0bc9240a81c8a0c816ea026d6a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dfbed6a59e747b835b7d163770a63c60-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7d6af12abe3f72467db81ea0a4cf8ff5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/da696c225aa045b53e32d03c9db51c17-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/113df808183a19c6e5aa820b15c00378-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c568affcfa2590ea33d05af4585c3a8e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e1fedc8da9e013d3482a8b80b2eab3d2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0afa460c335aa2addf04babc0f18713c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/06d19ef52ba7b7cccd0f78bc85e1814e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5bc642f750e644e8e1d68762aaedf37f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/202ac2effcc8090e79fb34902c0232e5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6267ee05417c09a312ac7b8fa6f7b5ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e733b8946d1f688ce6dd583f78de1750-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8a0513c7f200cb4edea8a7c999c2f9e3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/360d5ef076fce787a1a522356d4b2da3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ea02fb7f3aa16be91f225de2447ec43c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1c2ee433b481ddbd0daaad0aba7c6927-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aeeb837772172575a983194d4ecc88a1-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ce4482eb9e61611c0a8b2786be43bf7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f3761fdfd889b8f5fecd82f12c6e403c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3723b7737d6b9e8f0bb07aa5b21af11e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6bf892d6d199a6e25bd3c47dda8a0048-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6a25597fa19de64213bc0ae59a632a1d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2f7749aea43632f959a72bc10429f515-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8faa3153342a161eb8e4388dc2bc9539-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/71a7bd3adea8ed2f3ff874795a888a1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4e2b8a95c63a16c8c83bad9a1eaa65f6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/983956efa511bf18f23c04eda1852e96-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "2068734615",
+      "id": "2068734615",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "1btn17bd2taua",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4fc3212f2ffcdbe60b98ccd48f03a33b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/137-Freetown-Rd-Wallkill-NY-12589/2068734615_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$1,800/mo",
+      "unformattedPrice": 1800,
+      "address": "137 Freetown Rd, Wallkill, NY 12589",
+      "addressStreet": "137 Freetown Rd",
+      "addressCity": "Wallkill",
+      "addressState": "NY",
+      "addressZipcode": "12589",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.63803,
+        "longitude": -74.094696
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "61 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2068734615,
+          "streetAddress": "137 Freetown Rd",
+          "zipcode": "12589",
+          "city": "Wallkill",
+          "state": "NY",
+          "latitude": 41.63803,
+          "longitude": -74.094696,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 61,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 234400,
+          "rentZestimate": 1970,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 5274269000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 234400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4fc3212f2ffcdbe60b98ccd48f03a33b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e6ba2b47f570a93d3f7bcd503fa5c520-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42ee615a115b417a7f82e84c369e4bd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4cec2c60ef84a5212e6f9042f416fb3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/60e1e2d3083c4560503829f450445b5c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a42972f7255e3f787d323523f9cd3121-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "32842503",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/b5b715e35c9c85fbe80c19087f8e624d-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/629-Route-208-Gardiner-NY-12525/32842503_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$3,900/mo",
+      "priceLabel": "$3.9K",
+      "address": "629 Route 208, Gardiner, NY 12525",
+      "isNewYorkState": true,
+      "beds": 4,
+      "baths": 3.0,
+      "area": 2600,
+      "latLong": {
+        "latitude": 41.672104,
+        "longitude": -74.133415
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "8 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32842503,
+          "streetAddress": "629 Route 208",
+          "zipcode": "12525",
+          "city": "Gardiner",
+          "state": "NY",
+          "latitude": 41.672104,
+          "longitude": -74.133415,
+          "price": 3900.0,
+          "bathrooms": 3.0,
+          "bedrooms": 4.0,
+          "livingArea": 2600.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 505600,
+          "rentZestimate": 4365,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3900.0,
+          "timeOnZillow": 766021000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 391791.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "availabilityDate": "2024-12-01 00:00:00",
+      "visited": false,
+      "brokerName": "Listing by: Windsor Realty Services",
+      "timeOnZillow": 766021000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    },
+    {
+      "zpid": "2068734615",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/4fc3212f2ffcdbe60b98ccd48f03a33b-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/homedetails/137-Freetown-Rd-Wallkill-NY-12589/2068734615_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "price": "$1,800/mo",
+      "priceLabel": "$1.8K",
+      "address": "137 Freetown Rd, Wallkill, NY 12589",
+      "isNewYorkState": true,
+      "beds": 2,
+      "baths": 1.0,
+      "latLong": {
+        "latitude": 41.63803,
+        "longitude": -74.094696
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "61 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 2068734615,
+          "streetAddress": "137 Freetown Rd",
+          "zipcode": "12589",
+          "city": "Wallkill",
+          "state": "NY",
+          "latitude": 41.63803,
+          "longitude": -74.094696,
+          "price": 1800.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 234400,
+          "rentZestimate": 1970,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1800.0,
+          "timeOnZillow": 5274269000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "timeOnZillow": 5274269000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ]
+    }
+  ],
+  "relaxedResults": [
+    {
+      "zpid": "66888103",
+      "id": "66888103",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "57qf5tnpt0utv",
+      "imgSrc": "https://photos.zillowstatic.com/fp/1d3bbf9343d902ed30e7f9186bc04caf-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/447-S-Ohioville-Rd-New-Paltz-NY-12561/66888103_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$3,200/mo",
+      "unformattedPrice": 3200,
+      "address": "447 S Ohioville Rd, New Paltz, NY 12561",
+      "addressStreet": "447 S Ohioville Rd",
+      "addressCity": "New Paltz",
+      "addressState": "NY",
+      "addressZipcode": "12561",
+      "isUndisclosedAddress": false,
+      "beds": 3,
+      "baths": 2.0,
+      "area": 1700,
+      "latLong": {
+        "latitude": 41.694355,
+        "longitude": -74.08277
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "6 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 66888103,
+          "streetAddress": "447 S Ohioville Rd",
+          "zipcode": "12561",
+          "city": "New Paltz",
+          "state": "NY",
+          "latitude": 41.694355,
+          "longitude": -74.08277,
+          "price": 3200.0,
+          "bathrooms": 2.0,
+          "bedrooms": 3.0,
+          "livingArea": 1700.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 6,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 514700,
+          "rentZestimate": 4144,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 3200.0,
+          "timeOnZillow": 591324000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 406061.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 514700,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": false,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "availabilityDate": "2025-01-01 00:00:00",
+      "relaxed": true,
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1d3bbf9343d902ed30e7f9186bc04caf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/684729a24ca4b2978d4648c559e2647d-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/77ed885574bde468ec339a17e15276e7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/544470fae36c320a09314a14e0768406-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/dbe09027de05b5aa9887d959a3dcab27-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca2bd174b6a565c843e0088d46d9bece-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b671b833ee43fe9824c79a88be5d213f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad348fd6f2666f5e2436a3f746169fbf-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/11b08cbe5aee9823ab7f7610313f5c30-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1565d7ae85f99b2565835dbcbef44d9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a21cffb605f5c9d780049036abd218b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/2df53320c2c4d30500040a12dcb7b029-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/db4ac90d5b1d903a19c388207010fcd2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8ec59026ef56776398b8cf5cd0490194-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e845b6f3c679ea9eb227eabde0c9ffa0-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "paid",
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "32842665",
+      "id": "32842665",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "2kb23mnnqqw1g",
+      "imgSrc": "https://photos.zillowstatic.com/fp/884258bdb2b211960197cfd37beb27ed-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/11-Military-Ln-Gardiner-NY-12525/32842665_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "House for rent",
+      "countryCurrency": "$",
+      "price": "$5,500/mo",
+      "unformattedPrice": 5500,
+      "address": "11 Military Ln, Gardiner, NY 12525",
+      "addressStreet": "11 Military Ln",
+      "addressCity": "Gardiner",
+      "addressState": "NY",
+      "addressZipcode": "12525",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 2.0,
+      "area": 1787,
+      "latLong": {
+        "latitude": 41.664288,
+        "longitude": -74.15194
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "4 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "badgeInfo": {
+        "type": "ACCEPTS_APPLICATIONS",
+        "text": "Apply instantly"
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 32842665,
+          "streetAddress": "11 Military Ln",
+          "zipcode": "12525",
+          "city": "Gardiner",
+          "state": "NY",
+          "latitude": 41.664288,
+          "longitude": -74.15194,
+          "price": 5500.0,
+          "bathrooms": 2.0,
+          "bedrooms": 2.0,
+          "livingArea": 1787.0,
+          "homeType": "SINGLE_FAMILY",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 4,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 939200,
+          "rentZestimate": 3312,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 5500.0,
+          "timeOnZillow": 367076000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 391791.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 939200,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Church Street Realty Services",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/884258bdb2b211960197cfd37beb27ed-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/065fd46c232c50e704a79373962d82cd-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5406df6b15cc7e01c9a0c4c52b93159f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/583024ed9062204a6fa9aec898c299db-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1913ddaf7b2825eedf15890f11315f5a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/827f5fb4de5e00630dd159ce2b14d974-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0e6a16b65fb53e3d3917d78759e785f4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/37aa25185a1f38f121e24d10f8071a4c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3d7d8a7153d2821adada0ac7b010e6ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8f91238aaa9df4f9f8bd936f06f8b076-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a3d019f9aa3c0ddc92eec5a82defaa8c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/653b4a5c5d8e5fe9adc2da0927608ed3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c4d374931d7183394d5d9a5c7f77e869-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8fe46542e17b3c8fa807c9b78aa8ae88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3717e5f69e243bc4bce7b203374517a0-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/243bb8502ac98891805145da86e1e25f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/76d5c2fd5028d4bf0138798e372a6e0a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0aba2dfac4648bbd1e394af072552d15-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/385906280ace1ddcc11daa6d0d0caf53-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad78a3debf594bd32da52299f096e814-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/7556d59bb8c78ef2e6c2ae11c4809465-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c8e70ffb99fe1ac96e0e9e3f9fb9c26b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/29f1dc72c5c3799b445fe03ba5543259-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8818c6b2dcc397a92a67782ea433f724-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1b017444d0707437a02fd013ccac6660-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/476ac7ab2d5da91bde8f4dc967012405-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a1b5ff015844c3bcdd1b8ca7dda59d1c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e50ca10b0480537866af508acbe87c88-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/fc2618c22b9f36f2cf62679bdd70e7ac-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/aa4ffac05353ca1e5662665ea087aaba-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ca040d707310f12ea37583613dbb115b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3cc3ce119967365a3b625486d80391d8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b17d1f59b7870f2a8dcc5b632c971147-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/80ec8ab7610fdbddd662cc2b0be37eb9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8b0de9843e5ed0432f39461f1251480a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/3c097836e32d95ecf5906c1c231355e8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/42b683678daedc26dfb9833241122a38-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "marketingTreatments": [
+        "zillowRentalManager"
+      ],
+      "rooms": []
+    },
+    {
+      "zpid": "66883497",
+      "id": "66883497",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "21jzg8mkc6z83",
+      "imgSrc": "https://photos.zillowstatic.com/fp/bd32af77dd4feb3c9fbb0cd9391d69ad-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/10-Barclay-Rd-Plattekill-NY-12515/66883497_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Townhouse for rent",
+      "countryCurrency": "$",
+      "price": "$2,500/mo",
+      "unformattedPrice": 2500,
+      "address": "10 Barclay Rd, Plattekill, NY 12515",
+      "addressStreet": "10 Barclay Rd",
+      "addressCity": "Plattekill",
+      "addressState": "NY",
+      "addressZipcode": "12515",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 1088,
+      "latLong": {
+        "latitude": 41.664738,
+        "longitude": -74.07616
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "71 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 66883497,
+          "streetAddress": "10 Barclay Rd",
+          "zipcode": "12515",
+          "city": "Plattekill",
+          "state": "NY",
+          "latitude": 41.664738,
+          "longitude": -74.07616,
+          "price": 2500.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 1088.0,
+          "homeType": "TOWNHOUSE",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 71,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "zestimate": 530400,
+          "rentZestimate": 2324,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 2500.0,
+          "timeOnZillow": 6166225000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "taxAssessedValue": 475410.0,
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "zestimate": 530400,
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Curasi Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd32af77dd4feb3c9fbb0cd9391d69ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ead2102b042569fcff9d48003b16e375-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/63fdd552ef9d978f221891efed676ed6-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/83cdc9521c964d61cc744dafd53f9528-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f73f382129c5476e760e8857f2de122c-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/6ecda1c013a4c4f59a788fac3858cafe-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0d4607154280aa19638cb13df4555952-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/de25bf69c13f04875048fd6a6e67ba22-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "352345417",
+      "id": "352345417",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "p15epxfq48ee",
+      "imgSrc": "https://photos.zillowstatic.com/fp/ae6c0767398ffb0ba72cd52c4b13891a-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/1399-44-Route-55-11-Clintondale-NY-12515/352345417_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,750/mo",
+      "unformattedPrice": 1750,
+      "address": "1399-44 Route 55 #11, Clintondale, NY 12515",
+      "addressStreet": "1399-44 Route 55 #11",
+      "addressCity": "Clintondale",
+      "addressState": "NY",
+      "addressZipcode": "12515",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 980,
+      "latLong": {
+        "latitude": 41.68104,
+        "longitude": -74.064255
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "67 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 352345417,
+          "streetAddress": "1399-44 Route 55 #11",
+          "zipcode": "12515",
+          "city": "Clintondale",
+          "state": "NY",
+          "latitude": 41.68104,
+          "longitude": -74.064255,
+          "price": 1750.0,
+          "datePriceChanged": 1731398400000,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 980.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 67,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 1678,
+          "listing_sub_type": {},
+          "priceReduction": "$45 (Nov 12)",
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1750.0,
+          "priceChange": -45,
+          "timeOnZillow": 5820538000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 11",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: Curasi Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ae6c0767398ffb0ba72cd52c4b13891a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4415772b8bc1f1e31a513e654e032bfa-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ad52a864e183a349d20585ed55f607f3-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f919ec03547a6fe8c6c9e99a2acb01f8-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bd50084e33224fdc8c410849ca37f806-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/bafec181c432256813e824c91b87b42a-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cdded2918983240e6d870743f484b99e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/145d7e9fd89b0fc00a36820e5edd4d05-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    },
+    {
+      "zpid": "441803979",
+      "id": "441803979",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3qud48exzemcy",
+      "imgSrc": "https://photos.zillowstatic.com/fp/9af89aab1d148ba713d86d2b8a87eb01-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/homedetails/69-Old-Unionville-Rd-APT-3-Wallkill-NY-12589/441803979_zpid/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$1,700/mo",
+      "unformattedPrice": 1700,
+      "address": "69 Old Unionville Rd APT 3, Wallkill, NY 12589",
+      "addressStreet": "69 Old Unionville Rd APT 3",
+      "addressCity": "Wallkill",
+      "addressState": "NY",
+      "addressZipcode": "12589",
+      "isUndisclosedAddress": false,
+      "beds": 2,
+      "baths": 1.0,
+      "area": 900,
+      "latLong": {
+        "latitude": 41.62443,
+        "longitude": -74.065544
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "text": "40 days ago",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 441803979,
+          "streetAddress": "69 Old Unionville Rd APT 3",
+          "zipcode": "12589",
+          "city": "Wallkill",
+          "state": "NY",
+          "latitude": 41.62443,
+          "longitude": -74.065544,
+          "price": 1700.0,
+          "bathrooms": 1.0,
+          "bedrooms": 2.0,
+          "livingArea": 900.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 40,
+          "isFeatured": false,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 1700.0,
+          "timeOnZillow": 3464561000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "Apt 3",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": false,
+      "isShowcaseListing": false,
+      "relaxed": true,
+      "brokerName": "Listing by: eXp Realty",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/9af89aab1d148ba713d86d2b8a87eb01-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/5458332fabbfb933d2ecaa4dc14385b9-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/c00fca28fe660fa9899f2749ed1b10eb-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ab896f302108643b625a33b044d4a723-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f32dbd945519b3d62f1ec12f85cffd86-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/1542d4e155da5b0e21e1963ce6b0b261-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/99e46e249e3425ce1f8ec08d09fe000e-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e405c67196d2f97b534195f7453c08ad-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/0f352f638e1db7fd1413045ce4ad8ba5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e7b6ed153cf08c065238d2c39c8f2bd7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/edee27f14de402fee3952864f4e16c33-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/986a34cf57b8d996d0826d2def1b6c75-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/b0a2564afdfce77966f592f416f42bdc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/f56d8aa3e46eedd84f3e48e56912f1c7-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/88c5b2f5287eaf18f7f3fbb942c30b90-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/341aaadb2a88d200b856f4951c986d89-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/9c9479777f92aab26c0cb911571ece83-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a901e5d329085f08c9d8db5624e1f776-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/33202d72f1bccb197d3fcc328e6adee5-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/333c211a4e281601ae8148e0ab4dfba4-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/a4ba7da2fd456a9c55c34e72437578ce-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d589dcdb623ff1f8bb760722c25a6187-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/e0ffe10c4b7d52ff47a7e21a5b17a3a2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/95991600ccaa0fc9aa6354ac65d5ee1f-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/31ba5fc825b7c328846d3e1714d2ff4b-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d7664eb843a5913c95857a50fadd3fdc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/536d5bf41b970a077cb5c16eb1eea0bc-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/ffe219cb820a03c350553d96d50f13e2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/cda39ebe9069d48401147ced31a2807c-p_e.jpg"
+        }
+      ],
+      "ma": false,
+      "rooms": []
+    }
+  ],
+  "resultsHash": "215a46c2",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "6d3a36f7"
+}

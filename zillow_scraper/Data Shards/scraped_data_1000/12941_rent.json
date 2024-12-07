@@ -1,0 +1,202 @@
+{
+  "listResults": [
+    {
+      "zpid": "346924884",
+      "id": "346924884",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "providerListingId": "3xaq0spcsz4nf",
+      "imgSrc": "https://photos.zillowstatic.com/fp/87f782aac2623334029a8722aff76ee2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "https://www.zillow.com/apartments/au-sable-forks-ny/black-brook-senior-housing/5YyCWz/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "countryCurrency": "$",
+      "price": "$641+/mo",
+      "unformattedPrice": 641,
+      "address": "Black Brook Senior Housing, 55 Hopkinton Ln, Au Sable Forks, NY 12912",
+      "addressStreet": "55 Hopkinton Ln #880",
+      "addressCity": "Au Sable Forks",
+      "addressState": "NY",
+      "addressZipcode": "12912",
+      "isUndisclosedAddress": false,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 44.44461,
+        "longitude": -73.68393
+      },
+      "isZillowOwned": false,
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 346924884,
+          "streetAddress": "55 Hopkinton Ln #880",
+          "zipcode": "12912",
+          "city": "Au Sable Forks",
+          "state": "NY",
+          "latitude": 44.44461,
+          "longitude": -73.68393,
+          "price": 641.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": 236,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 795,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 641.0,
+          "timeOnZillow": 20464074000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 880",
+          "isShowcaseListing": false
+        }
+      },
+      "isSaved": false,
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "list": true,
+      "relaxed": false,
+      "brokerName": "Listing by: RentalHousingDeals.com",
+      "carouselPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/87f782aac2623334029a8722aff76ee2-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/d033207d0a48943e1376850dab2a9054-p_e.jpg"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/666f22e95b949fbb751480a550982697-p_e.jpg"
+        }
+      ],
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectFlatFeeFeedConnect"
+      ],
+      "rooms": []
+    }
+  ],
+  "mapResults": [
+    {
+      "zpid": "346924884",
+      "rawHomeStatusCd": "ForRent",
+      "marketingStatusSimplifiedCd": "For Rent",
+      "imgSrc": "https://photos.zillowstatic.com/fp/87f782aac2623334029a8722aff76ee2-p_e.jpg",
+      "hasImage": true,
+      "detailUrl": "/apartments/au-sable-forks-ny/black-brook-senior-housing/5YyCWz/",
+      "statusType": "FOR_RENT",
+      "statusText": "Apartment for rent",
+      "price": "$641+/mo",
+      "priceLabel": "$641",
+      "address": "55 Hopkinton Ln, Au Sable Forks, NY 12912",
+      "isNewYorkState": true,
+      "beds": 1,
+      "baths": 1.0,
+      "area": 600,
+      "latLong": {
+        "latitude": 44.44461,
+        "longitude": -73.68393
+      },
+      "variableData": {
+        "type": "TIME_ON_INFO",
+        "data": {
+          "isRead": null,
+          "isFresh": false
+        }
+      },
+      "hdpData": {
+        "homeInfo": {
+          "zpid": 346924884,
+          "streetAddress": "55 Hopkinton Ln #880",
+          "zipcode": "12912",
+          "city": "Au Sable Forks",
+          "state": "NY",
+          "latitude": 44.44461,
+          "longitude": -73.68393,
+          "price": 641.0,
+          "bathrooms": 1.0,
+          "bedrooms": 1.0,
+          "livingArea": 600.0,
+          "homeType": "APARTMENT",
+          "homeStatus": "FOR_RENT",
+          "daysOnZillow": -1,
+          "isFeatured": true,
+          "shouldHighlight": false,
+          "isRentalWithBasePrice": false,
+          "rentZestimate": 795,
+          "listing_sub_type": {},
+          "isUnmappable": false,
+          "isPreforeclosureAuction": false,
+          "homeStatusForHDP": "FOR_RENT",
+          "priceForHDP": 641.0,
+          "timeOnZillow": 20464074000,
+          "isNonOwnerOccupied": true,
+          "isPremierBuilder": false,
+          "isZillowOwned": false,
+          "currency": "USD",
+          "country": "USA",
+          "unit": "# 880",
+          "isShowcaseListing": false
+        }
+      },
+      "isUserClaimingOwner": false,
+      "isUserConfirmedClaim": false,
+      "pgapt": "ForRent",
+      "sgapt": "For Rent",
+      "shouldShowZestimateAsPrice": false,
+      "has3DModel": false,
+      "hasVideo": false,
+      "isHomeRec": false,
+      "hasAdditionalAttributions": true,
+      "isFeaturedListing": true,
+      "isShowcaseListing": false,
+      "listingType": "",
+      "isFavorite": false,
+      "visited": false,
+      "brokerName": "Listing by: RentalHousingDeals.com",
+      "timeOnZillow": 20464074000,
+      "rentalMarketingSubType": "unknown",
+      "marketingTreatments": [
+        "trustedListing",
+        "paid",
+        "multiFamilySalesListing",
+        "paidOrUnpaidMultifamily",
+        "feedConnectFlatFeeFeedConnect"
+      ]
+    }
+  ],
+  "relaxedResults": [],
+  "resultsHash": "300d096d",
+  "showForYouCount": 0,
+  "relaxedResultsHash": "1"
+}
