@@ -196,7 +196,13 @@ app.layout = html.Div([
                                 'marginBottom': '20px'
                             }
                         ),
-                        html.Div(id='report-output', style={'whiteSpace': 'pre-wrap', 'padding': '15px'})
+                        dcc.Loading(
+                            id="loading-report",
+                            type="circle",
+                            children=[
+                                html.Div(id='report-output', style={'whiteSpace': 'pre-wrap', 'padding': '15px'})
+                            ]
+                        )
                     ], style=DETAILS_SECTION_STYLE)
                 ], id='property-details', style={'display': 'none'})
 
