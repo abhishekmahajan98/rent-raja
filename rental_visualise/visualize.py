@@ -2,8 +2,11 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 from dash import Dash, dcc, html, Input, Output
+from dash.dependencies import State
 import plotly.graph_objects as go
 from math import radians, sin, cos, sqrt, atan2
+from property_report import PropertyReportGenerator
+import os
 
 CONTENT_STYLE = {
     'margin-left': '2rem',
@@ -49,6 +52,9 @@ DETAILS_SECTION_STYLE = {
     'border-radius': '10px',
     'box-shadow': '0 2px 4px rgba(0,0,0,0.1)'
 }
+
+# Initialize the report generator
+report_generator = PropertyReportGenerator(os.getenv('PERPLEXITY_API_KEY'))
 
 precinct_controls = html.Div([
     html.Label('Color Precincts by:', style=LABEL_STYLE),
@@ -170,7 +176,28 @@ app.layout = html.Div([
                                 dcc.Graph(id='economics-chart', style={'width': '33%', 'display': 'inline-block'})
                             ])
                         ])
-                    ], style={'marginTop': '20px', 'backgroundColor': '#f8f9fa', 'padding': '15px'})
+                    ], style={'marginTop': '20px', 'backgroundColor': '#f8f9fa', 'padding': '15px'}),
+
+                    # Add Generate Report section
+                    html.Div([
+                        html.H3('Property Report', style={'color': '#2c3e50', 'border-bottom': '2px solid #eee'}),
+                        html.Button(
+                            'Generate Report', 
+                            id='generate-report-button',
+                            n_clicks=0,
+                            style={
+                                'backgroundColor': '#2c3e50',
+                                'color': 'white',
+                                'padding': '10px 20px',
+                                'border': 'none',
+                                'borderRadius': '5px',
+                                'cursor': 'pointer',
+                                'marginTop': '20px',
+                                'marginBottom': '20px'
+                            }
+                        ),
+                        html.Div(id='report-output', style={'whiteSpace': 'pre-wrap', 'padding': '15px'})
+                    ], style=DETAILS_SECTION_STYLE)
                 ], id='property-details', style={'display': 'none'})
 
             ])
@@ -637,6 +664,24 @@ def display_property_details(clickData, price_range, boroughs, property_types, m
         race_fig,
         economics_fig
     )
+
+@app.callback(
+    Output('report-output', 'children'),
+    [Input('generate-report-button', 'n_clicks')],
+    [State('nyc-map', 'clickData')]
+)
+def generate_property_report(n_clicks, clickData):
+    if not n_clicks or not clickData:
+        return ''
+    
+    point_index = clickData['points'][0]['pointIndex']
+    selected_property = df.iloc[point_index]
+    
+    report = report_generator.generate_report(selected_property)
+    
+    if report:
+        return dcc.Markdown(report)
+    return 'Failed to generate report'
 
 if __name__ == '__main__':
     app.run_server(debug=True)
