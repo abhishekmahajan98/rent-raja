@@ -48,7 +48,7 @@ class PropertyReportGenerator:
             "content": f"""
             Generate a detailed markdown property report based on this data:
             {context}
-            
+            The context provided is absolute truth. Do not provide data that is contradictory to it.
             The report should:
             1. Analyze the property's value proposition
             2. Evaluate the neighborhood
@@ -64,9 +64,13 @@ class PropertyReportGenerator:
         try:
             response = self.client.chat.completions.create(
                 model="llama-3.1-sonar-small-128k-online",
+                temperature=0.3,
                 messages=messages
             )
-            return response.choices[0].message.content
+            citation_str =""
+            for i,citation in enumerate(response.citations):
+                citation_str = citation_str + f"{i+1}. {citation}\n"
+            return response.choices[0].message.content + "\n\nCitations:\n" + citation_str
         except Exception as e:
             print(f"API Error: {str(e)}")
             return None
