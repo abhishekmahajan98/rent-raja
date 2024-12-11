@@ -70,7 +70,7 @@ precinct_controls = html.Div([
 ], style=FILTER_CONTAINER_STYLE)
 
 # Load the data
-df = pd.read_csv('./final_data_cleaning/final_cleaned_data.csv')
+df = pd.read_csv('./final_data_cleaning/final_cleaned_data.csv',index_col=0)
 
 # Initialize the Dash app
 app = Dash(__name__)
@@ -368,6 +368,8 @@ def update_precinct_map(selected_metric):
 )
 def update_map(price_range, boroughs, property_types, min_beds, min_baths, clickData):
     filtered_df = df.copy()
+    filtered_df.reset_index(inplace=True)
+    filtered_df.rename(columns={"index": "uniqueId"}, inplace=True)
     
     # Apply filters
 
@@ -394,7 +396,7 @@ def update_map(price_range, boroughs, property_types, min_beds, min_baths, click
         filtered_df,
         lat='latitude',
         lon='longitude',
-        hover_data=['price', 'propertyType', 'beds', 'baths', 'street'],
+        hover_data=['price', 'propertyType', 'beds', 'baths', 'street','uniqueId'],
         color='price',
         size_max=15,
         zoom=10,
@@ -536,10 +538,10 @@ def display_property_details(clickData, price_range, boroughs, property_types, m
     # Get the clicked property's data using lat/lon for matching
     point = clickData['points'][0]
     prop_lat, prop_lon = point['lat'], point['lon']
-    selected_property = filtered_df[
-        (filtered_df['latitude'] == prop_lat) & 
-        (filtered_df['longitude'] == prop_lon)
-    ].iloc[0]
+    prop_index = point['customdata'][-1]
+    filtered_df = df.copy()
+    filtered_df.reset_index(inplace=True)
+    selected_property = filtered_df[(filtered_df['index'] == prop_index)].iloc[0]
 
     # Find nearby subway stations
     nearby_stations = {}
@@ -680,8 +682,11 @@ def generate_property_report(n_clicks, clickData):
     if not n_clicks or not clickData:
         return ''
     
-    point_index = clickData['points'][0]['pointIndex']
-    selected_property = df.iloc[point_index]
+    point = clickData['points'][0]
+    prop_index = point['customdata'][-1]
+    filtered_df = df.copy()
+    filtered_df.reset_index(inplace=True)
+    selected_property = filtered_df[(filtered_df['index'] == prop_index)].iloc[0]
     
     report = report_generator.generate_report(selected_property)
     
