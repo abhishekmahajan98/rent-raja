@@ -2,6 +2,8 @@
 
 This project analyzes the NYC rental market by combining data from multiple sources including Zillow, StreetEasy, census data, and various external datasets to create a comprehensive analysis and visualization platform.
 
+Click the [link](https://youtu.be/3oJAN6OTuDc) for demo
+
 ## Setup Instructions
 
 **1. Create and Activate Virtual Environment**
@@ -75,6 +77,28 @@ python rental_visualise/visualize.py
 - Property report generation using LLM
 - Market analysis tools
 - Comparative property insights
+
+## Screenshots
+
+- **Property Filters**  
+  ![Property Filters](./media/property_filters.png)  
+  The dashboard interface with options to filter properties based on various criteria.
+
+- **Details for Selected Property on Map**  
+  ![Details for the property on map on selection](./media/select_property.png)  
+  Displays detailed information when a property is selected on the interactive map.
+
+- **Property Description**  
+  ![Property Details](./media/property_description.png)  
+  Detailed view showing individual property attributes and rental insights.
+
+- **Census Details for Selected Zip Code**  
+  ![Census Details](./media/property_census.png)  
+  Provides demographic and economic census data for the chosen zip code.
+
+- **Property Report Sample**  
+  [Property Report](./media/ds_report.pdf)  
+  Example of an automated property report generated using LLM.
 
 ## Note
 
